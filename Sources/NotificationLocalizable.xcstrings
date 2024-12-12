@@ -1,0 +1,144 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "{name}, Your position was update. Permissions updated." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "{name}, Ваша должность обновлена. Разрешения обновлены."
+          }
+        }
+      }
+    },
+    "{name}, Your position was update. Salary updated." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "{name}, Ваша должность обновлена. Зарплата обновлена."
+          }
+        }
+      }
+    },
+    "{start_time} price: {price}" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "{start_time} цена: {price}"
+          }
+        }
+      }
+    },
+    "%@ %lld procedures in %lld appointment %@" : {
+      "comment" : "Тело уведомления о создания новой записи",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %#@procedures@ in %#@appointment@ %4$@"
+          },
+          "substitutions" : {
+            "appointment" : {
+              "argNum" : 3,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg appointment"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg appointments"
+                    }
+                  },
+                  "zero" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : ""
+                    }
+                  }
+                }
+              }
+            },
+            "procedures" : {
+              "argNum" : 2,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg procedure"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg procedures"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Accepted invitation" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приглашение принято"
+          }
+        }
+      }
+    },
+    "New appointment" : {
+      "comment" : "Заголовок уведомления о создания новой записи",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Новая запись"
+          }
+        }
+      }
+    },
+    "New employee {name}" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Новый сотрудник {name}"
+          }
+        }
+      }
+    },
+    "Update Position" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Должность обновлена"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

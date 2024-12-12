@@ -1,0 +1,1106 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "address_edit.screen.current_address" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Current address"
+          }
+        }
+      }
+    },
+    "address_edit.screen.invalid_address" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invalid address"
+          }
+        }
+      }
+    },
+    "address_edit.screen.invalid_address_message" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "To continue you need to select a more precise address"
+          }
+        }
+      }
+    },
+    "address_edit.screen.ok" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ok"
+          }
+        }
+      }
+    },
+    "clients.screen.add_client" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add clients"
+          }
+        }
+      }
+    },
+    "clients.screen.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All clients"
+          }
+        }
+      }
+    },
+    "contact.screen.cancel" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "contact.screen.select_number" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select number"
+          }
+        }
+      }
+    },
+    "contact.screen.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Contacts"
+          }
+        }
+      }
+    },
+    "creation.screen.close" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Close"
+          }
+        }
+      }
+    },
+    "date_selector.screen.edit" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit"
+          }
+        }
+      }
+    },
+    "full_schedule.screen.cancel" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Сancel"
+          }
+        }
+      }
+    },
+    "full_schedule.screen.edit" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit %lld"
+          }
+        }
+      }
+    },
+    "full_schedule.screen.salonSchedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Salon schedule"
+          }
+        }
+      }
+    },
+    "full_schedule.screen.select_masters" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select masters"
+          }
+        }
+      }
+    },
+    "list_appointments.screen.switch_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Diary"
+          }
+        }
+      }
+    },
+    "main_customer.screen.map_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Map"
+          }
+        }
+      }
+    },
+    "mainCustomer.screen.favorites" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Favorites"
+          }
+        }
+      }
+    },
+    "mainCustomer.screen.footer_subtitle" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "View"
+          }
+        }
+      }
+    },
+    "mainCustomer.screen.footer_title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "History"
+          }
+        }
+      }
+    },
+    "mainCustomer.screen.my_notes" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "My notes"
+          }
+        }
+      }
+    },
+    "mainCustomer.screen.no_appointments" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have no appointments"
+          }
+        }
+      }
+    },
+    "mainCustomer.screen.no_favorites" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have no favorites"
+          }
+        }
+      }
+    },
+    "mainCustomer.screen.no_salons" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There are no salons nearby"
+          }
+        }
+      }
+    },
+    "mainCustomer.screen.salons" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Salons"
+          }
+        }
+      }
+    },
+    "map.screen.search_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in this region"
+          }
+        }
+      }
+    },
+    "map.screen.search_button_warning" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Need to zoom in to search"
+          }
+        }
+      }
+    },
+    "master.screen.all_action" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invite master"
+          }
+        }
+      }
+    },
+    "master.screen.all_title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All Masters"
+          }
+        }
+      }
+    },
+    "master.screen.invite_link" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invitate link"
+          }
+        }
+      }
+    },
+    "master.screen.new_master" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "New master"
+          }
+        }
+      }
+    },
+    "masters.screen.positions" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Positions"
+          }
+        }
+      }
+    },
+    "not_chosen.screen.create_customer_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Customer"
+          }
+        }
+      }
+    },
+    "not_chosen.screen.create_professional_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Professional"
+          }
+        }
+      }
+    },
+    "not_chosen.screen.main_place_holder" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose the role to finish registration"
+          }
+        }
+      }
+    },
+    "position.screen.add_position" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add position"
+          }
+        }
+      }
+    },
+    "position.screen.not_found" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Not found"
+          }
+        }
+      }
+    },
+    "position.screen.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Positions"
+          }
+        }
+      }
+    },
+    "proc.screen.all_action" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add procedure"
+          }
+        }
+      }
+    },
+    "proc.screen.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All Procedures"
+          }
+        }
+      }
+    },
+    "procedure.screen.alert_title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete"
+          }
+        }
+      }
+    },
+    "procedure.screen.cancel" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "procedure.screen.delete" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete"
+          }
+        }
+      }
+    },
+    "procedure.screen.select" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select"
+          }
+        }
+      }
+    },
+    "professional.screen.add_new_salon_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add new salon"
+          }
+        }
+      }
+    },
+    "profile.screen.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Profile"
+          }
+        }
+      }
+    },
+    "public.screen.login" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Login"
+          }
+        }
+      }
+    },
+    "public.screen.map_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Map"
+          }
+        }
+      }
+    },
+    "public.screen.not_found" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Not found"
+          }
+        }
+      }
+    },
+    "salon_qr.screen.send_qr_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Send QR-Code"
+          }
+        }
+      }
+    },
+    "salon_qr.screen.share_with_link_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Share with link"
+          }
+        }
+      }
+    },
+    "salon.screen.action" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Make appointment"
+          }
+        }
+      }
+    },
+    "salon.screen.chain" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "chain"
+          }
+        }
+      }
+    },
+    "salon.screen.help_message" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set up your salon first"
+          }
+        }
+      }
+    },
+    "salon.screen.help_submessage" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "To create an appointment, you must first create a service"
+          }
+        }
+      }
+    },
+    "salon.screen.individual" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "individual"
+          }
+        }
+      }
+    },
+    "salon.screen.master" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "master"
+          }
+        }
+      }
+    },
+    "schedule.screen.action" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Register a client"
+          }
+        }
+      }
+    },
+    "schedule.screen.empty_description" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No entries for this day"
+          }
+        }
+      }
+    },
+    "schedule.screen.empty_title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your entries will be here"
+          }
+        }
+      }
+    },
+    "schedule.screen.expired" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expired"
+          }
+        }
+      }
+    },
+    "schedule.screen.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Appointments"
+          }
+        }
+      }
+    },
+    "screen.address_edit.unable_address" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unable to determine address"
+          }
+        }
+      }
+    },
+    "screen.notice.book" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Make appointment"
+          }
+        }
+      }
+    },
+    "screen.notice.error_placeholder" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You haven't received any notifications yet"
+          }
+        }
+      }
+    },
+    "screen.notice.read_all" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Read all"
+          }
+        }
+      }
+    },
+    "screen.notice.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Notifications"
+          }
+        }
+      }
+    },
+    "search.screen.not_found" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Not found"
+          }
+        }
+      }
+    },
+    "search.screen.placeholder" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search for"
+          }
+        }
+      }
+    },
+    "select_of_service.screen.add_new_service" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add new service"
+          }
+        }
+      }
+    },
+    "select_of_service.screen.apply" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apply"
+          }
+        }
+      }
+    },
+    "select_of_service.screen.procedures_header" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Services"
+          }
+        }
+      }
+    },
+    "service.screen.from" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "from"
+          }
+        }
+      }
+    },
+    "service.screen.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All services"
+          }
+        }
+      }
+    },
+    "sideMenu.screen.createSalon" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create your first salon"
+          }
+        }
+      }
+    },
+    "sideMenu.screen.dashboard" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Dashboard"
+          }
+        }
+      }
+    },
+    "sideMenu.screen.quickActions" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Quick Actions"
+          }
+        }
+      }
+    },
+    "sideMenu.screen.readAll" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Read all"
+          }
+        }
+      }
+    },
+    "sideMenu.screen.schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Schedule"
+          }
+        }
+      }
+    },
+    "sideMenu.screen.selectSalon" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select from the menu"
+          }
+        }
+      }
+    },
+    "sideMenu.screen.share" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Share"
+          }
+        }
+      }
+    },
+    "sideMenu.screen.to_client_mode" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "to client mode"
+          }
+        }
+      }
+    },
+    "sideMenu.screen.toggle" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Toggle"
+          }
+        }
+      }
+    },
+    "sideMenu.screen.workspace" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Workspace"
+          }
+        }
+      }
+    },
+    "timeline_appointments.screen.masters" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%lld masters"
+          }
+        }
+      }
+    },
+    "timeline_appointments.screen.masters_quantity" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Masters quantity"
+          }
+        }
+      }
+    },
+    "timeline_appointments.screen.minutes" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%lld minutes"
+          }
+        }
+      }
+    },
+    "timeline_appointments.screen.schedule_multiplicity" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Schedule multiplicity"
+          }
+        }
+      }
+    },
+    "timeline_appointments.screen.switch_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "List"
+          }
+        }
+      }
+    },
+    "weekSchedule.screen.action" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apply"
+          }
+        }
+      }
+    },
+    "weekSchedule.screen.add_break" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add a break"
+          }
+        }
+      }
+    },
+    "weekSchedule.screen.breakButton" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Break"
+          }
+        }
+      }
+    },
+    "weekSchedule.screen.dayOff" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Day off"
+          }
+        }
+      }
+    },
+    "weekSchedule.screen.delete" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete"
+          }
+        }
+      }
+    },
+    "weekSchedule.screen.edit" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit"
+          }
+        }
+      }
+    },
+    "weekSchedule.screen.from" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "STARTING TIME"
+          }
+        }
+      }
+    },
+    "weekSchedule.screen.save_break" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Save the break"
+          }
+        }
+      }
+    },
+    "weekSchedule.screen.to" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CLOSED HOUR"
+          }
+        }
+      }
+    },
+    "welcome.screen.description" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simple tool for business management"
+          }
+        }
+      }
+    },
+    "welcome.screen.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Welcome to"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
