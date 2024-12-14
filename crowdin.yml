@@ -1,4 +1,9 @@
+project_identifier: Maestri
+api_key_env: CROWDIN_API_KEY
+base_path: .
 files:
   - source: /Sources/*.xcstrings
     translation: /Sources/%original_file_name%
     multilingual: 1
+bundles:
+  - 1
