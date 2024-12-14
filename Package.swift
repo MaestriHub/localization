@@ -43,7 +43,7 @@ let package = Package(
             ],
             path: "Backend",
             resources: [
-                .process("Backend/Localization")
+                .copy("Localization")
             ]
         )
     ]
