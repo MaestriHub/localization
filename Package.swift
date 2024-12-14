@@ -13,6 +13,10 @@ let package = Package(
         .library(
             name: "LocalizationKit",
             targets: ["LocalizationKit"]
+        ),
+        .library(
+            name: "LocalizationService",
+            targets: ["LocalizationService"]
         )
     ],
 //    dependencies: [
