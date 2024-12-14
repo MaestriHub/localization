@@ -9,6 +9,12 @@
             "state" : "new",
             "value" : "Current address"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Current address"
+          }
         }
       }
     },
@@ -16,6 +22,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invalid address"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Invalid address"
@@ -31,6 +43,12 @@
             "state" : "new",
             "value" : "To continue you need to select a more precise address"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "To continue you need to select a more precise address"
+          }
         }
       }
     },
@@ -38,6 +56,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ok"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Ok"
@@ -53,6 +77,12 @@
             "state" : "new",
             "value" : "Add clients"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add clients"
+          }
         }
       }
     },
@@ -60,6 +90,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All clients"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "All clients"
@@ -75,6 +111,12 @@
             "state" : "new",
             "value" : "Cancel"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel"
+          }
         }
       }
     },
@@ -82,6 +124,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select number"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Select number"
@@ -97,6 +145,12 @@
             "state" : "new",
             "value" : "Contacts"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Contacts"
+          }
         }
       }
     },
@@ -104,6 +158,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Close"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Close"
@@ -119,6 +179,12 @@
             "state" : "new",
             "value" : "Edit"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit"
+          }
         }
       }
     },
@@ -126,6 +192,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Сancel"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Сancel"
@@ -141,6 +213,12 @@
             "state" : "new",
             "value" : "Edit %lld"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit %lld"
+          }
         }
       }
     },
@@ -148,6 +226,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Salon schedule"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Salon schedule"
@@ -163,6 +247,12 @@
             "state" : "new",
             "value" : "Select masters"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select masters"
+          }
         }
       }
     },
@@ -170,6 +260,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Diary"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Diary"
@@ -185,6 +281,12 @@
             "state" : "new",
             "value" : "Map"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Map"
+          }
         }
       }
     },
@@ -192,6 +294,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Favorites"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Favorites"
@@ -207,6 +315,12 @@
             "state" : "new",
             "value" : "View"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "View"
+          }
         }
       }
     },
@@ -214,6 +328,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "History"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "History"
@@ -229,6 +349,12 @@
             "state" : "new",
             "value" : "My notes"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "My notes"
+          }
         }
       }
     },
@@ -236,6 +362,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have no appointments"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "You have no appointments"
@@ -251,6 +383,12 @@
             "state" : "new",
             "value" : "You have no favorites"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have no favorites"
+          }
         }
       }
     },
@@ -258,6 +396,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There are no salons nearby"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "There are no salons nearby"
@@ -273,6 +417,12 @@
             "state" : "new",
             "value" : "Salons"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Salons"
+          }
         }
       }
     },
@@ -280,6 +430,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in this region"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Search in this region"
@@ -295,6 +451,12 @@
             "state" : "new",
             "value" : "Need to zoom in to search"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Need to zoom in to search"
+          }
         }
       }
     },
@@ -302,6 +464,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invite master"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Invite master"
@@ -317,6 +485,12 @@
             "state" : "new",
             "value" : "All Masters"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All Masters"
+          }
         }
       }
     },
@@ -324,6 +498,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invitate link"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Invitate link"
@@ -339,6 +519,12 @@
             "state" : "new",
             "value" : "New master"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "New master"
+          }
         }
       }
     },
@@ -346,6 +532,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Positions"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Positions"
@@ -361,6 +553,12 @@
             "state" : "new",
             "value" : "Customer"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Customer"
+          }
         }
       }
     },
@@ -368,6 +566,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Professional"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Professional"
@@ -383,6 +587,12 @@
             "state" : "new",
             "value" : "Choose the role to finish registration"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose the role to finish registration"
+          }
         }
       }
     },
@@ -390,6 +600,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add position"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Add position"
@@ -405,6 +621,12 @@
             "state" : "new",
             "value" : "Not found"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Not found"
+          }
         }
       }
     },
@@ -412,6 +634,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Positions"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Positions"
@@ -427,6 +655,12 @@
             "state" : "new",
             "value" : "Add procedure"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add procedure"
+          }
         }
       }
     },
@@ -434,6 +668,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All Procedures"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "All Procedures"
@@ -449,6 +689,12 @@
             "state" : "new",
             "value" : "Are you sure you want to delete"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete"
+          }
         }
       }
     },
@@ -456,6 +702,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Cancel"
@@ -471,6 +723,12 @@
             "state" : "new",
             "value" : "Delete"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete"
+          }
         }
       }
     },
@@ -478,6 +736,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Select"
@@ -493,6 +757,12 @@
             "state" : "new",
             "value" : "Add new salon"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add new salon"
+          }
         }
       }
     },
@@ -500,6 +770,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Profile"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Profile"
@@ -515,6 +791,12 @@
             "state" : "new",
             "value" : "Login"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Login"
+          }
         }
       }
     },
@@ -522,6 +804,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Map"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Map"
@@ -537,6 +825,12 @@
             "state" : "new",
             "value" : "Not found"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Not found"
+          }
         }
       }
     },
@@ -544,6 +838,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Send QR-Code"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Send QR-Code"
@@ -559,6 +859,12 @@
             "state" : "new",
             "value" : "Share with link"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Share with link"
+          }
         }
       }
     },
@@ -566,6 +872,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Make appointment"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Make appointment"
@@ -581,6 +893,12 @@
             "state" : "new",
             "value" : "chain"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "chain"
+          }
         }
       }
     },
@@ -588,6 +906,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set up your salon first"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Set up your salon first"
@@ -603,6 +927,12 @@
             "state" : "new",
             "value" : "To create an appointment, you must first create a service"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "To create an appointment, you must first create a service"
+          }
         }
       }
     },
@@ -610,6 +940,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "individual"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "individual"
@@ -625,6 +961,12 @@
             "state" : "new",
             "value" : "master"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "master"
+          }
         }
       }
     },
@@ -632,6 +974,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Register a client"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Register a client"
@@ -647,6 +995,12 @@
             "state" : "new",
             "value" : "No entries for this day"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No entries for this day"
+          }
         }
       }
     },
@@ -654,6 +1008,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your entries will be here"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Your entries will be here"
@@ -669,6 +1029,12 @@
             "state" : "new",
             "value" : "Expired"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expired"
+          }
         }
       }
     },
@@ -676,6 +1042,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Appointments"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Appointments"
@@ -691,6 +1063,12 @@
             "state" : "new",
             "value" : "Unable to determine address"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unable to determine address"
+          }
         }
       }
     },
@@ -698,6 +1076,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Make appointment"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Make appointment"
@@ -713,6 +1097,12 @@
             "state" : "new",
             "value" : "You haven't received any notifications yet"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You haven't received any notifications yet"
+          }
         }
       }
     },
@@ -720,6 +1110,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Read all"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Read all"
@@ -735,6 +1131,12 @@
             "state" : "new",
             "value" : "Notifications"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Notifications"
+          }
         }
       }
     },
@@ -742,6 +1144,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Not found"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Not found"
@@ -757,6 +1165,12 @@
             "state" : "new",
             "value" : "Search for"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search for"
+          }
         }
       }
     },
@@ -764,6 +1178,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add new service"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Add new service"
@@ -779,6 +1199,12 @@
             "state" : "new",
             "value" : "Apply"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apply"
+          }
         }
       }
     },
@@ -786,6 +1212,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Services"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Services"
@@ -801,6 +1233,12 @@
             "state" : "new",
             "value" : "from"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "from"
+          }
         }
       }
     },
@@ -808,6 +1246,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All services"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "All services"
@@ -823,6 +1267,12 @@
             "state" : "new",
             "value" : "Create your first salon"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create your first salon"
+          }
         }
       }
     },
@@ -830,6 +1280,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Dashboard"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Dashboard"
@@ -845,6 +1301,12 @@
             "state" : "new",
             "value" : "Quick Actions"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Quick Actions"
+          }
         }
       }
     },
@@ -852,6 +1314,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Read all"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Read all"
@@ -867,6 +1335,12 @@
             "state" : "new",
             "value" : "Schedule"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Schedule"
+          }
         }
       }
     },
@@ -874,6 +1348,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select from the menu"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Select from the menu"
@@ -889,6 +1369,12 @@
             "state" : "new",
             "value" : "Share"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Share"
+          }
         }
       }
     },
@@ -896,6 +1382,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "to client mode"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "to client mode"
@@ -911,6 +1403,12 @@
             "state" : "new",
             "value" : "Toggle"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Toggle"
+          }
         }
       }
     },
@@ -918,6 +1416,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Workspace"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Workspace"
@@ -933,6 +1437,12 @@
             "state" : "new",
             "value" : "%lld masters"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%lld masters"
+          }
         }
       }
     },
@@ -940,6 +1450,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Masters quantity"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Masters quantity"
@@ -955,6 +1471,12 @@
             "state" : "new",
             "value" : "%lld minutes"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%lld minutes"
+          }
         }
       }
     },
@@ -962,6 +1484,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Schedule multiplicity"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Schedule multiplicity"
@@ -977,6 +1505,12 @@
             "state" : "new",
             "value" : "List"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "List"
+          }
         }
       }
     },
@@ -984,6 +1518,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apply"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Apply"
@@ -999,6 +1539,12 @@
             "state" : "new",
             "value" : "Add a break"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add a break"
+          }
         }
       }
     },
@@ -1006,6 +1552,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Break"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Break"
@@ -1021,6 +1573,12 @@
             "state" : "new",
             "value" : "Day off"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Day off"
+          }
         }
       }
     },
@@ -1028,6 +1586,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Delete"
@@ -1043,6 +1607,12 @@
             "state" : "new",
             "value" : "Edit"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit"
+          }
         }
       }
     },
@@ -1050,6 +1620,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "STARTING TIME"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "STARTING TIME"
@@ -1065,6 +1641,12 @@
             "state" : "new",
             "value" : "Save the break"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Save the break"
+          }
         }
       }
     },
@@ -1072,6 +1654,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CLOSED HOUR"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "CLOSED HOUR"
@@ -1087,6 +1675,12 @@
             "state" : "new",
             "value" : "Simple tool for business management"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simple tool for business management"
+          }
         }
       }
     },
@@ -1094,6 +1688,12 @@
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Welcome to"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Welcome to"
