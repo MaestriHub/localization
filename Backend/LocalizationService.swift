@@ -8,7 +8,7 @@ public typealias LangMap = [Lang : String]
 public typealias LocalizeKnowledge = [LocalizeKey : LangMap]
 
 public protocol ILocalizationService { func by(_ key: LocalizableKeys, _ lang: Lang?) async throws -> String }
-public protocol ILocalizationFactory { func getKnowledge(path: String) async -> LocalizeKnowledge }
+public protocol ILocalizationFactory { func getKnowledge() async -> LocalizeKnowledge }
 
 public extension Request {
 
@@ -30,7 +30,6 @@ public extension Request {
 }
 
 public actor LocalizationService: ILocalizationService {
-    public static var localizeDirectory = #file
     //"./../Packages/MaestriCore/Sources/Services/LocalizationService/Localization"
     private let logger: Logger
     private let knowledge: LocalizeKnowledge
@@ -39,7 +38,7 @@ public actor LocalizationService: ILocalizationService {
         logger: Logger,
         factory: ILocalizationFactory
     ) async {
-        self.knowledge = await factory.getKnowledge(path: Self.localizeDirectory)
+        self.knowledge = await factory.getKnowledge()
         self.logger = logger
     }
 }
