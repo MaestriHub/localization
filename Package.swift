@@ -41,7 +41,10 @@ let package = Package(
             dependencies: [
                 .product(name: "Vapor", package: "vapor")
             ],
-            path: "Backend"
+            path: "Backend",
+            resources: [
+                .process("Backend/Localization")
+            ]
         )
     ]
 )
