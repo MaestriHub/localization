@@ -30,7 +30,7 @@ public extension Request {
 
 public actor LocalizationService: ILocalizationService {
     static var localizeDirectory =
-    "./Resources/Backend/Localization"
+    "./Resources/Localization"
     //"./../Packages/MaestriCore/Sources/Services/LocalizationService/Localization"
     private let logger: Logger
     private let knowledge: LocalizeKnowledge
