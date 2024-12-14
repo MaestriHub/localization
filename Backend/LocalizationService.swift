@@ -1,4 +1,5 @@
 import Vapor
+import Foundation
 
 // MARK: LocalizationService
 
@@ -29,8 +30,7 @@ public extension Request {
 }
 
 public actor LocalizationService: ILocalizationService {
-    static var localizeDirectory =
-    "./Localization"
+    static var localizeDirectory = #file
     //"./../Packages/MaestriCore/Sources/Services/LocalizationService/Localization"
     private let logger: Logger
     private let knowledge: LocalizeKnowledge
