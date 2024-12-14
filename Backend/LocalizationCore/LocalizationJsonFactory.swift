@@ -11,8 +11,6 @@ public struct JsonLocalizationFactory: ILocalizationFactory {
             .appendingPathComponent("Localization")
             .path()
         
-        print(resourcePath)
-        
         var jsonKnowledge = LocalizeKnowledge()
         for directory in LocalizationFiles.allCases {
             for lang in Lang.allCases {
