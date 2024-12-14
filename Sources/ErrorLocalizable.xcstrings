@@ -6,14 +6,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Access token is invalid"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Access token is invalid"
+            "state" : "translated",
+            "value" : "Неверный токен доступа"
           }
         }
       }
@@ -23,14 +23,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Apple token is empty"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Apple token is empty"
+            "state" : "translated",
+            "value" : "Apple токен пуст"
           }
         }
       }
@@ -40,14 +40,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "FCM token is empty"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "FCM token is empty"
+            "state" : "translated",
+            "value" : "FCM токен пуст"
           }
         }
       }
@@ -57,14 +57,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Official Apple FCM token is unsupported"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Official Apple FCM token is unsupported"
+            "state" : "translated",
+            "value" : "Официальный Apple токен для FCM не поддерживается"
           }
         }
       }
@@ -74,14 +74,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "URL cannot be parsed"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "URL cannot be parsed"
+            "state" : "translated",
+            "value" : "URL не удается распознать"
           }
         }
       }
@@ -91,14 +91,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Query ID is invalid"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Query ID is invalid"
+            "state" : "translated",
+            "value" : "Идентификатор в запросе некорректен"
           }
         }
       }
@@ -108,14 +108,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "The appointment is already cancelled"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The appointment is already cancelled"
+            "state" : "translated",
+            "value" : "Запись уже отменена"
           }
         }
       }
@@ -125,14 +125,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Database conflict: two active users are associated with the same contact"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Database conflict: two active users are associated with the same contact"
+            "state" : "translated",
+            "value" : "В базе данных конфликт: два разных активных пользователя используют один контакт"
           }
         }
       }
@@ -142,14 +142,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Invalid JSON, please fix"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Invalid JSON, please fix"
+            "state" : "translated",
+            "value" : "Плохой JSON, исправь"
           }
         }
       }
@@ -159,14 +159,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Query is invalid, please fix"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Query is invalid, please fix"
+            "state" : "translated",
+            "value" : "Плохой запрос, исправь"
           }
         }
       }
@@ -176,14 +176,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Time parsing failed"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Time parsing failed"
+            "state" : "translated",
+            "value" : "Не удалось распарсить время"
           }
         }
       }
@@ -193,14 +193,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Issuing payroll to an employee without a creation date"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Issuing payroll to an employee without a creation date"
+            "state" : "translated",
+            "value" : "Выдаём зарплату сотруднику без даты создания"
           }
         }
       }
@@ -210,14 +210,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "There are professionals with this position"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "There are professionals with this position"
+            "state" : "translated",
+            "value" : "Есть мастера с данной должностью"
           }
         }
       }
@@ -227,14 +227,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "The initiator does not work at this salon"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The initiator does not work at this salon"
+            "state" : "translated",
+            "value" : "Инициатор не работает в этом салоне"
           }
         }
       }
@@ -244,14 +244,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Customer is not part of this appointment"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Customer is not part of this appointment"
+            "state" : "translated",
+            "value" : "Клиент не участвует в этой записи"
           }
         }
       }
@@ -261,14 +261,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "The requested contacts do not belong to the customer"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The requested contacts do not belong to the customer"
+            "state" : "translated",
+            "value" : "Запрашиваемые контакты не принадлежат клиенту"
           }
         }
       }
@@ -278,14 +278,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Contact already exists with this customer"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Contact already exists with this customer"
+            "state" : "translated",
+            "value" : "Контакт уже существует у этого клиента"
           }
         }
       }
@@ -295,14 +295,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Contact already exists with this user"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Contact already exists with this user"
+            "state" : "translated",
+            "value" : "Контакт уже существует у этого пользователя"
           }
         }
       }
@@ -312,14 +312,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Contact already exists with another user"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Contact already exists with another user"
+            "state" : "translated",
+            "value" : "Контакт уже существует у другого пользователя"
           }
         }
       }
@@ -329,14 +329,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Contact already exists with another user"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Contact already exists with another user"
+            "state" : "translated",
+            "value" : "Контакт уже существует у другого пользователя"
           }
         }
       }
@@ -346,14 +346,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Customer's contact already exists in this salon"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Customer's contact already exists in this salon"
+            "state" : "translated",
+            "value" : "Контакт уже существует у клиента в этом салоне"
           }
         }
       }
@@ -363,14 +363,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Contact already exists with this employer"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Contact already exists with this employer"
+            "state" : "translated",
+            "value" : "Контакт уже существует у этого работодателя"
           }
         }
       }
@@ -380,14 +380,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "The professional is not qualified to perform this procedure"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The professional is not qualified to perform this procedure"
+            "state" : "translated",
+            "value" : "Мастер не обладает квалификацией для выполнения этой процедуры"
           }
         }
       }
@@ -397,14 +397,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Inactive customer who hasn't visited any salons"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Inactive customer who hasn't visited any salons"
+            "state" : "translated",
+            "value" : "Неактивный клиент, который не посещал салоны"
           }
         }
       }
@@ -414,14 +414,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Owner not found"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Owner not found"
+            "state" : "translated",
+            "value" : "Владелец не найден"
           }
         }
       }
@@ -431,14 +431,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Appointment not found"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Appointment not found"
+            "state" : "translated",
+            "value" : "Запись на прием не найдена"
           }
         }
       }
@@ -448,14 +448,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Device not found"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device not found"
+            "state" : "translated",
+            "value" : "Устройство не найдено"
           }
         }
       }
@@ -465,14 +465,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Record not found"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Record not found"
+            "state" : "translated",
+            "value" : "Запись не найдена"
           }
         }
       }
@@ -482,14 +482,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Customer not found"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Customer not found"
+            "state" : "translated",
+            "value" : "Клиент не найден"
           }
         }
       }
@@ -499,14 +499,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Offtime not found"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Offtime not found"
+            "state" : "translated",
+            "value" : "Отсутствие времени не найдено"
           }
         }
       }
@@ -516,14 +516,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Position not found"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Position not found"
+            "state" : "translated",
+            "value" : "Позиция не найдена"
           }
         }
       }
@@ -533,14 +533,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Procedure not found"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Procedure not found"
+            "state" : "translated",
+            "value" : "Процедура не найдена"
           }
         }
       }
@@ -550,14 +550,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Salon not found"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Salon not found"
+            "state" : "translated",
+            "value" : "Салон не найден"
           }
         }
       }
@@ -567,14 +567,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Service not found"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Service not found"
+            "state" : "translated",
+            "value" : "Сервис не найден"
           }
         }
       }
@@ -584,14 +584,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Customer not found"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Customer not found"
+            "state" : "translated",
+            "value" : "Клиент не найден"
           }
         }
       }
@@ -601,14 +601,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Employer not found"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Employer not found"
+            "state" : "translated",
+            "value" : "Работодатель не найден"
           }
         }
       }
@@ -618,14 +618,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Not the owner trying to assign another owner"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Not the owner trying to assign another owner"
+            "state" : "translated",
+            "value" : "Не владелец пытается назначить другого владельца"
           }
         }
       }
@@ -635,14 +635,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Failed to log in as customer"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to log in as customer"
+            "state" : "translated",
+            "value" : "Не удалось войти под клиентом"
           }
         }
       }
@@ -652,14 +652,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Failed to log in as professional"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to log in as professional"
+            "state" : "translated",
+            "value" : "Не удалось войти под профессионалом"
           }
         }
       }
@@ -669,14 +669,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Time interval parsing failed"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Time interval parsing failed"
+            "state" : "translated",
+            "value" : "Не удалось распарсить временной интервал"
           }
         }
       }
@@ -686,14 +686,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Not a participant in the appointment"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Not a participant in the appointment"
+            "state" : "translated",
+            "value" : "Не является участником записи"
           }
         }
       }
@@ -703,14 +703,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Unable to delete"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unable to delete"
+            "state" : "translated",
+            "value" : "Нет возможности удалить"
           }
         }
       }
@@ -720,14 +720,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "No data"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No data"
+            "state" : "translated",
+            "value" : "Нет данных"
           }
         }
       }
@@ -737,14 +737,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "No access to activate"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to activate"
+            "state" : "translated",
+            "value" : "Нет доступа для активации"
           }
         }
       }
@@ -754,14 +754,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "No access to deactivate"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to deactivate"
+            "state" : "translated",
+            "value" : "Нет доступа для деактивации"
           }
         }
       }
@@ -771,14 +771,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "No access to modify"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to modify"
+            "state" : "translated",
+            "value" : "Нет доступа для изменения"
           }
         }
       }
@@ -788,14 +788,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "No access to update"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to update"
+            "state" : "translated",
+            "value" : "Нет доступа для обновления"
           }
         }
       }
@@ -805,14 +805,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "No access to view"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to view"
+            "state" : "translated",
+            "value" : "Нет доступа для просмотра"
           }
         }
       }
@@ -822,14 +822,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "No access to create"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to create"
+            "state" : "translated",
+            "value" : "Нет доступа для создания"
           }
         }
       }
@@ -839,14 +839,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "No access to create"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to create"
+            "state" : "translated",
+            "value" : "Нет доступа для создания"
           }
         }
       }
@@ -856,14 +856,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "No access to delete"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to delete"
+            "state" : "translated",
+            "value" : "Нет доступа для удаления"
           }
         }
       }
@@ -873,14 +873,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "No access to timetable"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to timetable"
+            "state" : "translated",
+            "value" : "Нет доступа к расписанию"
           }
         }
       }
@@ -890,14 +890,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "No master access to create"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No master access to create"
+            "state" : "translated",
+            "value" : "Нет прав мастера для создания"
           }
         }
       }
@@ -907,14 +907,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "No employers or salons found"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No employers or salons found"
+            "state" : "translated",
+            "value" : "Не найдено ни работодателей, ни салонов"
           }
         }
       }
@@ -924,14 +924,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "No permission to retrieve information"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No permission to retrieve information"
+            "state" : "translated",
+            "value" : "Нет прав для получения информации"
           }
         }
       }
@@ -941,14 +941,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "No rights to issue a salary"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No rights to issue a salary"
+            "state" : "translated",
+            "value" : "Нет прав на выплату зарплаты"
           }
         }
       }
@@ -958,14 +958,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "No token provided"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No token provided"
+            "state" : "translated",
+            "value" : "Токен отсутствует"
           }
         }
       }
@@ -975,14 +975,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Nothing received. At least provide one payroll item!"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Nothing received. At least provide one payroll item!"
+            "state" : "translated",
+            "value" : "Ничего не прислали. Хоть один пункт по зарплате отправьте!"
           }
         }
       }
@@ -992,14 +992,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "translated schedule overlaps with the old one"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "translated schedule overlaps with the old one"
+            "state" : "translated",
+            "value" : "Новое расписание пересекается со старым"
           }
         }
       }
@@ -1009,14 +1009,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Invalid payroll dates"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Invalid payroll dates"
+            "state" : "translated",
+            "value" : "Некорректные даты выдачи зарплаты"
           }
         }
       }
@@ -1026,14 +1026,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Invalid timezone identifier"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Invalid timezone identifier"
+            "state" : "translated",
+            "value" : "Некорректный идентификатор часового пояса"
           }
         }
       }
@@ -1043,14 +1043,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "The link has already been used once"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The link has already been used once"
+            "state" : "translated",
+            "value" : "По ссылке уже переходили"
           }
         }
       }
@@ -1060,14 +1060,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "The professional is not involved in the appointment and has no rights"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The professional is not involved in the appointment and has no rights"
+            "state" : "translated",
+            "value" : "Профессионал не участвует в записи и не имеет прав"
           }
         }
       }
@@ -1077,14 +1077,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "The professional is already working at this salon"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The professional is already working at this salon"
+            "state" : "translated",
+            "value" : "Профессионал уже работает в этом салоне"
           }
         }
       }
@@ -1094,14 +1094,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Procedure already exists"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Procedure already exists"
+            "state" : "translated",
+            "value" : "Процедура уже существует"
           }
         }
       }
@@ -1111,14 +1111,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Attempting to book an appointment for oneself"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Attempting to book an appointment for oneself"
+            "state" : "translated",
+            "value" : "Попытка записаться к самому себе"
           }
         }
       }
@@ -1128,14 +1128,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Attempting to delete owner's position"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Attempting to delete owner's position"
+            "state" : "translated",
+            "value" : "Пытаются удалить позицию владельца"
           }
         }
       }
@@ -1145,14 +1145,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Employee is not working anywhere"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Employee is not working anywhere"
+            "state" : "translated",
+            "value" : "Сотрудник нигде не работает"
           }
         }
       }
@@ -1162,14 +1162,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Refresh token has expired"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Refresh token has expired"
+            "state" : "translated",
+            "value" : "Рефреш токен уже истек"
           }
         }
       }
@@ -1179,14 +1179,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Permission set is too large"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Permission set is too large"
+            "state" : "translated",
+            "value" : "Набор прав слишком большой"
           }
         }
       }
@@ -1196,14 +1196,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "The offtime interval being created overlaps with existing ones"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The offtime interval being created overlaps with existing ones"
+            "state" : "translated",
+            "value" : "Создаваемый интервал времени пересекается с уже существующими"
           }
         }
       }
@@ -1213,14 +1213,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "The offtime interval being created overlaps with existing ones"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The offtime interval being created overlaps with existing ones"
+            "state" : "translated",
+            "value" : "Создаваемый интервал пересекается с уже существующими"
           }
         }
       }
@@ -1230,14 +1230,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "The type is not an image"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The type is not an image"
+            "state" : "translated",
+            "value" : "Тип не является изображением"
           }
         }
       }
@@ -1247,14 +1247,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Invalid token"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Invalid token"
+            "state" : "translated",
+            "value" : "Токен недействителен"
           }
         }
       }
@@ -1264,14 +1264,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Offtime has no owner"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Offtime has no owner"
+            "state" : "translated",
+            "value" : "У offtime нет владельца"
           }
         }
       }
@@ -1281,14 +1281,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Offtime has no salon"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Offtime has no salon"
+            "state" : "translated",
+            "value" : "Для данного интервала времени не найден салон"
           }
         }
       }
@@ -1298,14 +1298,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Offtime has no employer"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Offtime has no employer"
+            "state" : "translated",
+            "value" : "Для данного интервала времени не найден работодатель"
           }
         }
       }
@@ -1315,14 +1315,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Cashbox has no creation date"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cashbox has no creation date"
+            "state" : "translated",
+            "value" : "У кассового аппарата нет даты создания"
           }
         }
       }
@@ -1332,14 +1332,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Payroll ambiguity due to different currencies in operations"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Payroll ambiguity due to different currencies in operations"
+            "state" : "translated",
+            "value" : "В зарплате возникла неопределённость из-за разных валют в операциях"
           }
         }
       }
@@ -1349,14 +1349,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Operation has no creation date"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Operation has no creation date"
+            "state" : "translated",
+            "value" : "У операции нет даты создания"
           }
         }
       }
@@ -1366,14 +1366,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "The professional has no rights"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The professional has no rights"
+            "state" : "translated",
+            "value" : "У профессионала нет прав"
           }
         }
       }
@@ -1383,14 +1383,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "The professional does not have rights to make changes"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The professional does not have rights to make changes"
+            "state" : "translated",
+            "value" : "У профессионала нет прав на внесение изменений"
           }
         }
       }
@@ -1400,14 +1400,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "The professional does not have permission to view"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The professional does not have permission to view"
+            "state" : "translated",
+            "value" : "У профессионала нет прав на просмотр"
           }
         }
       }
@@ -1417,14 +1417,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "The user has no customer"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The user has no customer"
+            "state" : "translated",
+            "value" : "У пользователя нет клиента"
           }
         }
       }
@@ -1434,14 +1434,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "The professional is resigning themselves"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The professional is resigning themselves"
+            "state" : "translated",
+            "value" : "Профессионал увольняет себя"
           }
         }
       }
@@ -1451,14 +1451,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Employer with this contact already exists in the salon"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Employer with this contact already exists in the salon"
+            "state" : "translated",
+            "value" : "Работодатель с этим контактом уже существует в салоне"
           }
         }
       }
@@ -1468,14 +1468,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "The requested contacts do not belong to the employer"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The requested contacts do not belong to the employer"
+            "state" : "translated",
+            "value" : "Запрашиваемые контакты не принадлежат работодателю"
           }
         }
       }
@@ -1485,14 +1485,14 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Unable to parse language"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unable to parse language"
+            "state" : "translated",
+            "value" : "Не удалось распознать язык"
           }
         }
       }
