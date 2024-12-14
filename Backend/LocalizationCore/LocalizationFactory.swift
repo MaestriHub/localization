@@ -9,7 +9,7 @@ public struct JsonLocalizationFactory: ILocalizationFactory {
         let resourcePath = servicePath
             .deletingLastPathComponent()
             .appendingPathComponent("Localization")
-            .absoluteString
+            .path()
         
         print(resourcePath)
         
