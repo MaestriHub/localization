@@ -2239,7 +2239,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Email"
           }
         }
@@ -2256,7 +2256,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Instagram"
           }
         }
@@ -2375,7 +2375,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Whatsapp"
           }
         }
@@ -2630,7 +2630,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "input@mail.com"
           }
         }
@@ -2664,7 +2664,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "https://maestri.me/"
           }
         }
@@ -3429,7 +3429,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Рабочие дни: %1$@, Выходные дни: %2$@"
           }
         }
@@ -9819,6 +9819,18 @@
         "ru" : {
           "variations" : {
             "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "минут"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "минут"
+                }
+              },
               "one" : {
                 "stringUnit" : {
                   "state" : "translated",
