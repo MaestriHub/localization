@@ -1,15 +1,15 @@
 import Vapor
 import Foundation
 
-public struct JsonLocalizationFactory: ILocalizationFactory {
+public struct JsonParser: ILocalizationParser {
     public init() {}
     
     public func getKnowledge(path: String) async -> LocalizeKnowledge {
         let servicePath = URL(fileURLWithPath: path)
         let resourcePath = servicePath
             .deletingLastPathComponent()
-            .appendingPathComponent("Localization")
-            .path()
+            .appendingPathComponent("Glossary")
+            .path // TODO: для mac depreced для linux нужно
         
         var jsonKnowledge = LocalizeKnowledge()
         for directory in LocalizationFiles.allCases {

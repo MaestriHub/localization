@@ -8,7 +8,7 @@ public typealias LangMap = [Lang : String]
 public typealias LocalizeKnowledge = [LocalizeKey : LangMap]
 
 public protocol ILocalizationService { func by(_ key: LocalizableKeys, _ lang: Lang?) async throws -> String }
-public protocol ILocalizationFactory { func getKnowledge(path: String) async -> LocalizeKnowledge }
+public protocol ILocalizationParser { func getKnowledge(path: String) async -> LocalizeKnowledge }
 
 public extension Request {
 
@@ -21,7 +21,7 @@ public extension Request {
             if let existing = application.storage[LocalizationServiceStorageKey.self] {
                 return existing
             } else {
-                let new = await LocalizationService(logger: logger, factory: JsonLocalizationFactory())
+                let new = await LocalizationService(logger: logger)
                 application.storage[LocalizationServiceStorageKey.self] = new
                 return new
             }
@@ -31,15 +31,15 @@ public extension Request {
 
 public actor LocalizationService: ILocalizationService {
     public static var localizeDirectory = #file
-    //"./../Packages/MaestriCore/Sources/Services/LocalizationService/Localization"
+
     private let logger: Logger
     private let knowledge: LocalizeKnowledge
     
     public init(
         logger: Logger,
-        factory: ILocalizationFactory
+        parser: ILocalizationParser = JsonParser()
     ) async {
-        self.knowledge = await factory.getKnowledge(path: Self.localizeDirectory)
+        self.knowledge = await parser.getKnowledge(path: Self.localizeDirectory)
         self.logger = logger
     }
 }
@@ -64,7 +64,7 @@ public extension LocalizationService {
             if let lang, let successLocalization = valueLocalization[lang] {
                 return successLocalization
             } else if let anyValue = valueLocalization[Lang.base] {
-                logger.error("No Lang \(lang) for LocalizeKey \(localizeKey.key)")
+                logger.error("No Lang \(String(describing: lang)) for LocalizeKey \(localizeKey.key)")
                 return anyValue
             }
         }
