@@ -8,7 +8,7 @@ public struct JsonParser: ILocalizationParser {
         let servicePath = URL(fileURLWithPath: path)
         let resourcePath = servicePath
             .deletingLastPathComponent()
-            .appendingPathComponent("Localization")
+            .appendingPathComponent("Glossary")
             .path()
         
         var jsonKnowledge = LocalizeKnowledge()
