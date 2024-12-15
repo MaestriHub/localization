@@ -1,3 +1,3 @@
-public protocol LocalizableKey {
+public protocol LocalizationKey {
     var rawValue: String { get }
 }

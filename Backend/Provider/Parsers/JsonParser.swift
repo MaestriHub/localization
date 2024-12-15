@@ -1,7 +1,7 @@
 import Vapor
 import Foundation
 
-public struct JsonLocalizationFactory: ILocalizationFactory {
+public struct JsonParser: ILocalizationParser {
     public init() {}
     
     public func getKnowledge(path: String) async -> LocalizeKnowledge {
