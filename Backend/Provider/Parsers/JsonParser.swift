@@ -9,7 +9,7 @@ public struct JsonParser: ILocalizationParser {
         let resourcePath = servicePath
             .deletingLastPathComponent()
             .appendingPathComponent("Glossary")
-            .path()
+            .path // TODO: для mac depreced для linux нужно
         
         var jsonKnowledge = LocalizeKnowledge()
         for directory in LocalizationFiles.allCases {
