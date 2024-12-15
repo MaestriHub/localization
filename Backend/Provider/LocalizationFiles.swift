@@ -1,6 +1,6 @@
 import Vapor
 
-public enum LocalizationFiles: String, CaseIterable {
+enum LocalizationFiles: String, CaseIterable {
     case services = "services"
     case errors = "errors"
     case salon = "salon"
