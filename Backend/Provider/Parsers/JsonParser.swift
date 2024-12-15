@@ -11,8 +11,6 @@ public struct JsonParser: ILocalizationParser {
             .appendingPathComponent("Glossary")
             .path // TODO: для mac depreced для linux нужно
         
-        print(resourcePath)
-        
         var jsonKnowledge = LocalizeKnowledge()
         for directory in LocalizationFiles.allCases {
             for lang in Lang.allCases {
