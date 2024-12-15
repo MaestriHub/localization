@@ -44,19 +44,6 @@ public actor LocalizationService: ILocalizationService {
     }
 }
 
-public enum LocalizableKeys {
-    case salon(SalonKeys)
-    
-    var key: String {
-        get {
-            switch self {
-            case .salon(let key):
-                return key.rawValue
-            }
-        }
-    }
-}
-
 public extension LocalizationService {
     
     func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async throws -> String {
@@ -71,5 +58,18 @@ public extension LocalizationService {
         
         logger.error("Empty LocalizeKey \(localizeKey.key)")
         return ""
+    }
+}
+
+public enum LocalizableKeys {
+    case salon(SalonKeys)
+    
+    var key: String {
+        get {
+            switch self {
+            case .salon(let key):
+                return key.rawValue
+            }
+        }
     }
 }
