@@ -2,10 +2,11 @@ import Vapor
 import Foundation
 
 public struct JsonParser: ILocalizationParser {
+    let logger = Logger(label: "json.parser")
+    
     public init() {}
     
     public func getKnowledge(path: String) async -> LocalizeKnowledge {
-        let logger = Logger(label: "json.parser")
         
         let servicePath = URL(fileURLWithPath: path)
         let resourcePath = servicePath
@@ -39,8 +40,8 @@ public struct JsonParser: ILocalizationParser {
     
     private typealias ParsedStructure = [String: [String: String]]
                                             
-    private func dirLocalize(path resourcePath: String, file directory: LocalizationFiles) -> ParsedStructure? {
-        let path = resourcePath + "/" + directory.rawValue + ".json"
+    private func dirLocalize(path: String, file: LocalizationFiles) -> ParsedStructure? {
+        let path = path + "/" + file.rawValue + ".json"
         let decoder = JSONDecoder()
         
         guard let data = try? Data(contentsOf: URL(fileURLWithPath: path)),
