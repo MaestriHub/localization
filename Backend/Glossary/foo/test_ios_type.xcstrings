@@ -7,13 +7,13 @@
                 "en" : {
                     "stringUnit" : {
                         "state" : "translated",
-                        "value" : "Zaebalo pizdeс"
+                        "value" : "uh kak zaebalo test"
                     }
                 },
                 "ru" : {
                     "stringUnit" : {
                         "state" : "translated",
-                        "value" : "Заебало Пиздец"
+                        "value" : "тещу что реально заебало (!!!)"
                     }
                 }
             }
@@ -24,13 +24,13 @@
                 "en" : {
                     "stringUnit" : {
                         "state" : "translated",
-                        "value" : "apple files"
+                        "value" : "apple files test (!!!)"
                     }
                 },
                 "ru" : {
                     "stringUnit" : {
                         "state" : "translated",
-                        "value" : "тещу яблочную локализацию"
+                        "value" : "аппл файлс тещу (!!!)"
                     }
                 }
             }
