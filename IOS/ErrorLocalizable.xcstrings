@@ -92,7 +92,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Query Ids is invalid"
+            "value" : "Query Id is invalid"
           }
         },
         "ru" : {
