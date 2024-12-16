@@ -1,9 +1,10 @@
 {
     "en": {
         "Internal Server Error": "Maestri sleeping",
-        "Bad Request": ""
+        "Bad Request": "Bad request"
     },
     "ru": {
-        "Internal Server Error": "Maestri приснул"
+        "Internal Server Error": "Maestri приснул",
+        "Bad Request": "Плохой запрос"
     }
 }
