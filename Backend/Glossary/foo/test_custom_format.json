@@ -1,8 +1,11 @@
 {
     "en": {
-        "testt": "Тестовый ключ"
+        "testt": "Test Key"
     },
     "ru": {
         "testt": "TEST key"
+    },
+    "undefined": {
+        "testt": "Тестовый ключ"
     }
 }
