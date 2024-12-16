@@ -40,7 +40,7 @@ public struct JsonParser: ILocalizationParser {
     private typealias ParsedStructure = [String: [String: String]]
                                             
     private func dirLocalize(path resourcePath: String, file directory: LocalizationFiles) -> ParsedStructure? {
-        let path = resourcePath + directory.rawValue + ".json"
+        let path = resourcePath + "/" + directory.rawValue + ".json"
         let decoder = JSONDecoder()
         
         guard let data = try? Data(contentsOf: URL(fileURLWithPath: path)),
