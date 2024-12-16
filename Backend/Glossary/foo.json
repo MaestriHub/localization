@@ -1,0 +1,17 @@
+{
+    "source": {
+        "foo": "test foo",
+        "zoo": "test zoo",
+        "koo": "test koo"
+    },
+    "en": {
+        "foo": "foo ?",
+        "zoo": "zoo ?",
+        "koo": "koo ?"
+    },
+    "ru": {
+        "foo": "фуу ?",
+        "zoo": "зоо ?",
+        "koo": "коо ?"
+    }
+}
