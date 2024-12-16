@@ -1,11 +1,11 @@
 {
     "en": {
-        "Internal Server Error": "Maestri sleeping",
-        "Bad Request": "Bad request",
-        "I Am Teapot": ""
+        "internal.server.error": "Maestri sleeping",
+        "bad.request": "Bad request",
+        "i.am.teapot": "I am teapoon"
     },
     "ru": {
-        "Internal Server Error": "Maestri приснул",
-        "Bad Request": "Плохой запрос"
+        "internal.server.error": "Maestri приснул",
+        "bad.request": "Плохой запрос"
     }
 }
