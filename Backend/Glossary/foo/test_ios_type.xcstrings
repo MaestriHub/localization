@@ -1,0 +1,40 @@
+{
+    "sourceLanguage" : "en",
+    "strings" : {
+        "zaebalo" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "en" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Zaebalo pizdeс"
+                    }
+                },
+                "ru" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Заебало Пиздец"
+                    }
+                }
+            }
+        },
+        "teschu apple files" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "en" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "apple files"
+                    }
+                },
+                "ru" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "тещу яблочную локализацию"
+                    }
+                }
+            }
+        }
+    },
+    "version" : "1.0"
+}
