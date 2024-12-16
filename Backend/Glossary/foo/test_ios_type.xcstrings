@@ -25,6 +25,8 @@
                     "stringUnit" : {
                         "state" : "translated",
                         "value" : "apple files test (!!!)"
+                        "state" : "new",
+                        "value" : "apple files"
                     }
                 },
                 "ru" : {

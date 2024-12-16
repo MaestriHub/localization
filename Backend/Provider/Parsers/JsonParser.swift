@@ -29,6 +29,4 @@ public struct JsonParser: ILocalizationParser {
         }
         return jsonKnowledge
     }
-    
-    
 }
