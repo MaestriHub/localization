@@ -1,6 +1,7 @@
 {
     "en": {
         "Internal Server Error": "Maestri sleeping",
+        "Bad Request": "",
     },
     "ru": {
         "Internal Server Error": "Maestri приснул"
