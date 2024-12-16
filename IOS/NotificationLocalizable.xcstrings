@@ -40,7 +40,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ %#@procedures@ in %#@appointment@ %4$@"
           },
           "substitutions" : {
@@ -51,13 +51,13 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "new",
                       "value" : "%arg appointment"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "new",
                       "value" : "%arg appointments"
                     }
                   },
@@ -77,13 +77,13 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "new",
                       "value" : "%arg procedure"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "new",
                       "value" : "%arg procedures"
                     }
                   }

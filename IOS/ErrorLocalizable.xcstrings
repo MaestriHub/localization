@@ -142,7 +142,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Invalid JSON, please fix"
           }
         },
@@ -159,7 +159,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Query is invalid, please fix"
           }
         },
@@ -176,7 +176,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Time parsing failed"
           }
         },
@@ -193,7 +193,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Issuing payroll to an employee without a creation date"
           }
         },
@@ -210,7 +210,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "There are professionals with this position"
           }
         },
@@ -227,7 +227,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The initiator does not work at this salon"
           }
         },
@@ -244,7 +244,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Customer is not part of this appointment"
           }
         },
@@ -261,7 +261,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The requested contacts do not belong to the customer"
           }
         },
@@ -278,7 +278,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Contact already exists with this customer"
           }
         },
@@ -295,7 +295,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Contact already exists with this user"
           }
         },
@@ -312,7 +312,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Contact already exists with another user"
           }
         },
@@ -329,7 +329,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Contact already exists with another user"
           }
         },
@@ -346,7 +346,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Customer's contact already exists in this salon"
           }
         },
@@ -363,7 +363,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Contact already exists with this employer"
           }
         },
@@ -380,7 +380,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The professional is not qualified to perform this procedure"
           }
         },
@@ -397,7 +397,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Inactive customer who hasn't visited any salons"
           }
         },
@@ -414,7 +414,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Owner not found"
           }
         },
@@ -431,7 +431,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Appointment not found"
           }
         },
@@ -448,7 +448,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device not found"
           }
         },
@@ -465,7 +465,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Record not found"
           }
         },
@@ -482,7 +482,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Customer not found"
           }
         },
@@ -499,7 +499,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Offtime not found"
           }
         },
@@ -516,7 +516,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Position not found"
           }
         },
@@ -533,7 +533,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Procedure not found"
           }
         },
@@ -550,7 +550,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Salon not found"
           }
         },
@@ -567,7 +567,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Service not found"
           }
         },
@@ -584,7 +584,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Customer not found"
           }
         },
@@ -601,7 +601,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Employer not found"
           }
         },
@@ -618,7 +618,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Not the owner trying to assign another owner"
           }
         },
@@ -635,7 +635,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Failed to log in as customer"
           }
         },
@@ -652,7 +652,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Failed to log in as professional"
           }
         },
@@ -669,7 +669,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Time interval parsing failed"
           }
         },
@@ -686,7 +686,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Not a participant in the appointment"
           }
         },
@@ -703,7 +703,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unable to delete"
           }
         },
@@ -720,7 +720,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No data"
           }
         },
@@ -737,7 +737,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No access to activate"
           }
         },
@@ -754,7 +754,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No access to deactivate"
           }
         },
@@ -771,7 +771,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No access to modify"
           }
         },
@@ -788,7 +788,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No access to update"
           }
         },
@@ -805,7 +805,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No access to view"
           }
         },
@@ -822,7 +822,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No access to create"
           }
         },
@@ -839,7 +839,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No access to create"
           }
         },
@@ -856,7 +856,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No access to delete"
           }
         },
@@ -873,7 +873,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No access to timetable"
           }
         },
@@ -890,7 +890,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No master access to create"
           }
         },
@@ -907,7 +907,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No employers or salons found"
           }
         },
@@ -924,7 +924,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No permission to retrieve information"
           }
         },
@@ -941,7 +941,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No rights to issue a salary"
           }
         },
@@ -958,7 +958,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No token provided"
           }
         },
@@ -975,7 +975,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Nothing received. At least provide one payroll item!"
           }
         },
@@ -992,7 +992,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "translated schedule overlaps with the old one"
           }
         },
@@ -1009,7 +1009,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Invalid payroll dates"
           }
         },
@@ -1026,7 +1026,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Invalid timezone identifier"
           }
         },
@@ -1043,7 +1043,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The link has already been used once"
           }
         },
@@ -1060,7 +1060,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The professional is not involved in the appointment and has no rights"
           }
         },
@@ -1077,7 +1077,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The professional is already working at this salon"
           }
         },
@@ -1094,7 +1094,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Procedure already exists"
           }
         },
@@ -1111,7 +1111,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Attempting to book an appointment for oneself"
           }
         },
@@ -1128,7 +1128,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Attempting to delete owner's position"
           }
         },
@@ -1145,7 +1145,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Employee is not working anywhere"
           }
         },
@@ -1162,7 +1162,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Refresh token has expired"
           }
         },
@@ -1179,7 +1179,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Permission set is too large"
           }
         },
@@ -1196,7 +1196,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The offtime interval being created overlaps with existing ones"
           }
         },
@@ -1213,7 +1213,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The offtime interval being created overlaps with existing ones"
           }
         },
@@ -1230,7 +1230,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The type is not an image"
           }
         },
@@ -1247,7 +1247,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Invalid token"
           }
         },
@@ -1264,7 +1264,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Offtime has no owner"
           }
         },
@@ -1281,7 +1281,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Offtime has no salon"
           }
         },
@@ -1298,7 +1298,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Offtime has no employer"
           }
         },
@@ -1315,7 +1315,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cashbox has no creation date"
           }
         },
@@ -1332,7 +1332,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Payroll ambiguity due to different currencies in operations"
           }
         },
@@ -1349,7 +1349,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Operation has no creation date"
           }
         },
@@ -1366,7 +1366,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The professional has no rights"
           }
         },
@@ -1383,7 +1383,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The professional does not have rights to make changes"
           }
         },
@@ -1400,7 +1400,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The professional does not have permission to view"
           }
         },
@@ -1417,7 +1417,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The user has no customer"
           }
         },
@@ -1434,7 +1434,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The professional is resigning themselves"
           }
         },
@@ -1451,7 +1451,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Employer with this contact already exists in the salon"
           }
         },
@@ -1468,7 +1468,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The requested contacts do not belong to the employer"
           }
         },
@@ -1485,7 +1485,7 @@
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unable to parse language"
           }
         },
