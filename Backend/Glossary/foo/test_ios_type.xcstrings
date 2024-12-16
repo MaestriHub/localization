@@ -6,14 +6,14 @@
             "localizations" : {
                 "en" : {
                     "stringUnit" : {
-                        "state" : "new",
-                        "value" : "Zaebalo pizdec"
+                        "state" : "translated",
+                        "value" : "zaebalo test (!!!)"
                     }
                 },
                 "ru" : {
                     "stringUnit" : {
-                        "state" : "new",
-                        "value" : "Заебало Пиздец"
+                        "state" : "translated",
+                        "value" : "тещу что реально заебало (!!!)"
                     }
                 }
             }
@@ -23,17 +23,20 @@
             "localizations" : {
                 "en" : {
                     "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "apple files test (!!!)"
                         "state" : "new",
                         "value" : "apple files"
                     }
                 },
                 "ru" : {
                     "stringUnit" : {
-                        "state" : "new",
-                        "value" : "тещу яблочную локализацию"
+                        "state" : "translated",
+                        "value" : "аппл файлс тещу (!!!)"
                     }
                 }
             }
         }
-    }
+    },
+    "version" : "1.0"
 }
