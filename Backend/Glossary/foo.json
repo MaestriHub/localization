@@ -5,13 +5,13 @@
         "koo": "test koo"
     },
     "en": {
-        "foo": "foo ?",
-        "zoo": "zoo ?",
-        "koo": "koo ?"
+        "foo": "foo !",
+        "zoo": "zoo !",
+        "koo": "koo !"
     },
     "ru": {
-        "foo": "фуу ?",
-        "zoo": "зоо ?",
-        "koo": "коо ?"
+        "foo": "фуу !",
+        "zoo": "зоо !",
+        "koo": "коо !"
     }
 }
