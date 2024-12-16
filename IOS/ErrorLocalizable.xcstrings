@@ -30,7 +30,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Apple токен пуст"
+            "value" : "Apple токен отсутствует"
           }
         }
       }
@@ -92,12 +92,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Query IDa is invalid"
+            "value" : "Query Id is invalid"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Идентификатор в запросе некорректен"
           }
         }
