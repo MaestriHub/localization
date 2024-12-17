@@ -15,12 +15,6 @@
             "state" : "translated",
             "value" : "Неверный токен доступа"
           }
-        },
-        "sr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Access token is invalid"
-          }
         }
       }
     },
@@ -35,14 +29,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Apple token is empty"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Apple token is empty"
+            "value" : "Apple токен отсутствует"
           }
         }
       }
@@ -58,14 +46,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "FCM token is empty"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "FCM token is empty"
+            "value" : "FCM токен пуст"
           }
         }
       }
@@ -81,14 +63,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Official Apple FCM token is unsupported"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Official Apple FCM token is unsupported"
+            "value" : "Официальный Apple токен для FCM не поддерживается"
           }
         }
       }
@@ -104,14 +80,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "URL cannot be parsed"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "URL cannot be parsed"
+            "value" : "URL не удается распознать"
           }
         }
       }
@@ -127,14 +97,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Query Ids is invalid"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Query Ids is invalid"
+            "value" : "Идентификатор в запросе некорректен"
           }
         }
       }
@@ -150,14 +114,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The appointment is already cancelled"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "The appointment is already cancelled"
+            "value" : "Запись уже отменена"
           }
         }
       }
@@ -173,14 +131,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Database conflict: two active users are associated with the same contact"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Database conflict: two active users are associated with the same contact"
+            "value" : "В базе данных конфликт: два разных активных пользователя используют один контакт"
           }
         }
       }
@@ -196,14 +148,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Invalid JSON, please fix"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Invalid JSON, please fix"
+            "value" : "Плохой JSON, исправь"
           }
         }
       }
@@ -219,14 +165,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Query is invalid, please fix"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Query is invalid, please fix"
+            "value" : "Плохой запрос, исправь"
           }
         }
       }
@@ -242,14 +182,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Time parsing failed"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Time parsing failed"
+            "value" : "Не удалось распарсить время"
           }
         }
       }
@@ -265,14 +199,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Issuing payroll to an employee without a creation date"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Issuing payroll to an employee without a creation date"
+            "value" : "Выдаём зарплату сотруднику без даты создания"
           }
         }
       }
@@ -288,14 +216,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "There are professionals with this position"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "There are professionals with this position"
+            "value" : "Есть мастера с данной должностью"
           }
         }
       }
@@ -311,14 +233,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The initiator does not work at this salon"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "The initiator does not work at this salon"
+            "value" : "Инициатор не работает в этом салоне"
           }
         }
       }
@@ -334,14 +250,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Customer is not part of this appointment"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Customer is not part of this appointment"
+            "value" : "Клиент не участвует в этой записи"
           }
         }
       }
@@ -357,14 +267,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The requested contacts do not belong to the customer"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "The requested contacts do not belong to the customer"
+            "value" : "Запрашиваемые контакты не принадлежат клиенту"
           }
         }
       }
@@ -380,14 +284,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Contact already exists with this customer"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Contact already exists with this customer"
+            "value" : "Контакт уже существует у этого клиента"
           }
         }
       }
@@ -403,14 +301,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Contact already exists with this user"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Contact already exists with this user"
+            "value" : "Контакт уже существует у этого пользователя"
           }
         }
       }
@@ -426,14 +318,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Contact already exists with another user"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Contact already exists with another user"
+            "value" : "Контакт уже существует у другого пользователя"
           }
         }
       }
@@ -449,14 +335,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Contact already exists with another user"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Contact already exists with another user"
+            "value" : "Контакт уже существует у другого пользователя"
           }
         }
       }
@@ -472,14 +352,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Customer's contact already exists in this salon"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Customer's contact already exists in this salon"
+            "value" : "Контакт уже существует у клиента в этом салоне"
           }
         }
       }
@@ -495,14 +369,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Contact already exists with this employer"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Contact already exists with this employer"
+            "value" : "Контакт уже существует у этого работодателя"
           }
         }
       }
@@ -518,14 +386,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The professional is not qualified to perform this procedure"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "The professional is not qualified to perform this procedure"
+            "value" : "Мастер не обладает квалификацией для выполнения этой процедуры"
           }
         }
       }
@@ -541,14 +403,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Inactive customer who hasn't visited any salons"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Inactive customer who hasn't visited any salons"
+            "value" : "Неактивный клиент, который не посещал салоны"
           }
         }
       }
@@ -564,14 +420,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Owner not found"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Owner not found"
+            "value" : "Владелец не найден"
           }
         }
       }
@@ -587,14 +437,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Appointment not found"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Appointment not found"
+            "value" : "Запись на прием не найдена"
           }
         }
       }
@@ -610,14 +454,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device not found"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Device not found"
+            "value" : "Устройство не найдено"
           }
         }
       }
@@ -633,14 +471,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Record not found"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Record not found"
+            "value" : "Запись не найдена"
           }
         }
       }
@@ -656,14 +488,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Customer not found"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Customer not found"
+            "value" : "Клиент не найден"
           }
         }
       }
@@ -679,14 +505,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Offtime not found"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Offtime not found"
+            "value" : "Отсутствие времени не найдено"
           }
         }
       }
@@ -702,14 +522,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Position not found"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Position not found"
+            "value" : "Позиция не найдена"
           }
         }
       }
@@ -725,14 +539,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Procedure not found"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Procedure not found"
+            "value" : "Процедура не найдена"
           }
         }
       }
@@ -748,14 +556,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Salon not found"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Salon not found"
+            "value" : "Салон не найден"
           }
         }
       }
@@ -771,14 +573,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Service not found"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Service not found"
+            "value" : "Сервис не найден"
           }
         }
       }
@@ -794,14 +590,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Customer not found"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Customer not found"
+            "value" : "Клиент не найден"
           }
         }
       }
@@ -817,14 +607,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Employer not found"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Employer not found"
+            "value" : "Работодатель не найден"
           }
         }
       }
@@ -840,14 +624,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Not the owner trying to assign another owner"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Not the owner trying to assign another owner"
+            "value" : "Не владелец пытается назначить другого владельца"
           }
         }
       }
@@ -863,14 +641,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to log in as customer"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Failed to log in as customer"
+            "value" : "Не удалось войти под клиентом"
           }
         }
       }
@@ -886,14 +658,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to log in as professional"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Failed to log in as professional"
+            "value" : "Не удалось войти под профессионалом"
           }
         }
       }
@@ -909,14 +675,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Time interval parsing failed"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Time interval parsing failed"
+            "value" : "Не удалось распарсить временной интервал"
           }
         }
       }
@@ -932,14 +692,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Not a participant in the appointment"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Not a participant in the appointment"
+            "value" : "Не является участником записи"
           }
         }
       }
@@ -955,14 +709,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unable to delete"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Unable to delete"
+            "value" : "Нет возможности удалить"
           }
         }
       }
@@ -978,14 +726,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No data"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "No data"
+            "value" : "Нет данных"
           }
         }
       }
@@ -1001,14 +743,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to activate"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "No access to activate"
+            "value" : "Нет доступа для активации"
           }
         }
       }
@@ -1024,14 +760,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to deactivate"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "No access to deactivate"
+            "value" : "Нет доступа для деактивации"
           }
         }
       }
@@ -1047,14 +777,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to modify"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "No access to modify"
+            "value" : "Нет доступа для изменения"
           }
         }
       }
@@ -1070,14 +794,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to update"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "No access to update"
+            "value" : "Нет доступа для обновления"
           }
         }
       }
@@ -1093,14 +811,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to view"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "No access to view"
+            "value" : "Нет доступа для просмотра"
           }
         }
       }
@@ -1116,14 +828,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to create"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "No access to create"
+            "value" : "Нет доступа для создания"
           }
         }
       }
@@ -1139,14 +845,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to create"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "No access to create"
+            "value" : "Нет доступа для создания"
           }
         }
       }
@@ -1162,14 +862,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to delete"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "No access to delete"
+            "value" : "Нет доступа для удаления"
           }
         }
       }
@@ -1185,14 +879,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No access to timetable"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "No access to timetable"
+            "value" : "Нет доступа к расписанию"
           }
         }
       }
@@ -1208,14 +896,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No master access to create"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "No master access to create"
+            "value" : "Нет прав мастера для создания"
           }
         }
       }
@@ -1231,14 +913,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No employers or salons found"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "No employers or salons found"
+            "value" : "Не найдено ни работодателей, ни салонов"
           }
         }
       }
@@ -1254,14 +930,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No permission to retrieve information"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "No permission to retrieve information"
+            "value" : "Нет прав для получения информации"
           }
         }
       }
@@ -1277,14 +947,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No rights to issue a salary"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "No rights to issue a salary"
+            "value" : "Нет прав на выплату зарплаты"
           }
         }
       }
@@ -1300,14 +964,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No token provided"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "No token provided"
+            "value" : "Токен отсутствует"
           }
         }
       }
@@ -1323,14 +981,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Nothing received. At least provide one payroll item!"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Nothing received. At least provide one payroll item!"
+            "value" : "Ничего не прислали. Хоть один пункт по зарплате отправьте!"
           }
         }
       }
@@ -1346,14 +998,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "translated schedule overlaps with the old one"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "translated schedule overlaps with the old one"
+            "value" : "Новое расписание пересекается со старым"
           }
         }
       }
@@ -1369,14 +1015,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Invalid payroll dates"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Invalid payroll dates"
+            "value" : "Некорректные даты выдачи зарплаты"
           }
         }
       }
@@ -1392,14 +1032,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Invalid timezone identifier"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Invalid timezone identifier"
+            "value" : "Некорректный идентификатор часового пояса"
           }
         }
       }
@@ -1415,14 +1049,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The link has already been used once"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "The link has already been used once"
+            "value" : "По ссылке уже переходили"
           }
         }
       }
@@ -1438,14 +1066,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The professional is not involved in the appointment and has no rights"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "The professional is not involved in the appointment and has no rights"
+            "value" : "Профессионал не участвует в записи и не имеет прав"
           }
         }
       }
@@ -1461,14 +1083,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The professional is already working at this salon"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "The professional is already working at this salon"
+            "value" : "Профессионал уже работает в этом салоне"
           }
         }
       }
@@ -1484,14 +1100,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Procedure already exists"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Procedure already exists"
+            "value" : "Процедура уже существует"
           }
         }
       }
@@ -1507,14 +1117,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Attempting to book an appointment for oneself"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Attempting to book an appointment for oneself"
+            "value" : "Попытка записаться к самому себе"
           }
         }
       }
@@ -1530,14 +1134,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Attempting to delete owner's position"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Attempting to delete owner's position"
+            "value" : "Пытаются удалить позицию владельца"
           }
         }
       }
@@ -1553,14 +1151,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Employee is not working anywhere"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Employee is not working anywhere"
+            "value" : "Сотрудник нигде не работает"
           }
         }
       }
@@ -1576,14 +1168,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Refresh token has expired"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Refresh token has expired"
+            "value" : "Рефреш токен уже истек"
           }
         }
       }
@@ -1599,14 +1185,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Permission set is too large"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Permission set is too large"
+            "value" : "Набор прав слишком большой"
           }
         }
       }
@@ -1622,14 +1202,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The offtime interval being created overlaps with existing ones"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "The offtime interval being created overlaps with existing ones"
+            "value" : "Создаваемый интервал времени пересекается с уже существующими"
           }
         }
       }
@@ -1645,14 +1219,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The offtime interval being created overlaps with existing ones"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "The offtime interval being created overlaps with existing ones"
+            "value" : "Создаваемый интервал пересекается с уже существующими"
           }
         }
       }
@@ -1668,14 +1236,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The type is not an image"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "The type is not an image"
+            "value" : "Тип не является изображением"
           }
         }
       }
@@ -1691,14 +1253,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Invalid token"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Invalid token"
+            "value" : "Токен недействителен"
           }
         }
       }
@@ -1714,14 +1270,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Offtime has no owner"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Offtime has no owner"
+            "value" : "У offtime нет владельца"
           }
         }
       }
@@ -1737,14 +1287,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Offtime has no salon"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Offtime has no salon"
+            "value" : "Для данного интервала времени не найден салон"
           }
         }
       }
@@ -1760,14 +1304,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Offtime has no employer"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Offtime has no employer"
+            "value" : "Для данного интервала времени не найден работодатель"
           }
         }
       }
@@ -1783,14 +1321,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cashbox has no creation date"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Cashbox has no creation date"
+            "value" : "У кассового аппарата нет даты создания"
           }
         }
       }
@@ -1806,14 +1338,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Payroll ambiguity due to different currencies in operations"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Payroll ambiguity due to different currencies in operations"
+            "value" : "В зарплате возникла неопределённость из-за разных валют в операциях"
           }
         }
       }
@@ -1829,14 +1355,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Operation has no creation date"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Operation has no creation date"
+            "value" : "У операции нет даты создания"
           }
         }
       }
@@ -1852,14 +1372,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The professional has no rights"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "The professional has no rights"
+            "value" : "У профессионала нет прав"
           }
         }
       }
@@ -1875,14 +1389,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The professional does not have rights to make changes"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "The professional does not have rights to make changes"
+            "value" : "У профессионала нет прав на внесение изменений"
           }
         }
       }
@@ -1898,14 +1406,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The professional does not have permission to view"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "The professional does not have permission to view"
+            "value" : "У профессионала нет прав на просмотр"
           }
         }
       }
@@ -1921,14 +1423,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The user has no customer"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "The user has no customer"
+            "value" : "У пользователя нет клиента"
           }
         }
       }
@@ -1944,14 +1440,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The professional is resigning themselves"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "The professional is resigning themselves"
+            "value" : "Профессионал увольняет себя"
           }
         }
       }
@@ -1967,14 +1457,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Employer with this contact already exists in the salon"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Employer with this contact already exists in the salon"
+            "value" : "Работодатель с этим контактом уже существует в салоне"
           }
         }
       }
@@ -1990,14 +1474,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The requested contacts do not belong to the employer"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "The requested contacts do not belong to the employer"
+            "value" : "Запрашиваемые контакты не принадлежат работодателю"
           }
         }
       }
@@ -2013,14 +1491,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unable to parse language"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Unable to parse language"
+            "value" : "Не удалось распознать язык"
           }
         }
       }
