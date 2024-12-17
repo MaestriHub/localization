@@ -29,8 +29,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apple токен отсутствует"
+            "state" : "new",
+            "value" : "Apple token is empty"
           }
         }
       }
