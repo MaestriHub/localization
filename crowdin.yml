@@ -3,12 +3,12 @@ base_url: 'https://api.crowdin.com'
 base_path: .
 preserve_hierarchy: 1
 files:
-  - source: /IOS/*.xcstrings
+  - source: /IOS/*  #.xcstrings
     ignore:
       - /**/*.swift
     translation: /IOS/%original_file_name%
 #    multilingual: 1
-    type: string_catalog
+#    type: string_catalog
     update_option: update_as_unapproved
   - source: /Backend/Glossary/en/*.json
     ignore:
