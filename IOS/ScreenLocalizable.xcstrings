@@ -63,8 +63,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Хорошо"
+            "state" : "new",
+            "value" : "Ok"
           }
         }
       }
