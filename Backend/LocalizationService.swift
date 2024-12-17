@@ -16,7 +16,7 @@ public extension Request {
         public typealias Value = ILocalizationService
     }
     
-    var localization: ILocalizationService {
+    var localize: ILocalizationService {
         get async {
             if let existing = application.storage[LocalizationServiceStorageKey.self] {
                 return existing

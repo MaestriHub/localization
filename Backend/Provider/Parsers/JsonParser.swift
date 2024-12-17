@@ -15,37 +15,29 @@ public struct JsonParser: ILocalizationParser {
             .path // TODO: для mac depreced для linux нужно
         
         var jsonKnowledge = LocalizeKnowledge()
-        
-        for file in LocalizationFiles.allCases {
-            guard let dirLocalize = dirLocalize(path: resourcePath, file: file) else {
-                logger.error("not parsed path: \(resourcePath), file: \(file)")
-                continue
-            }
-            
-            dirLocalize.forEach({ langRaw, keyValuePairs in
-                guard let lang = Lang(rawValue: langRaw) else {
-                    logger.error("bad lang: \(langRaw)")
+        Lang.allCases.forEach({ lang in
+            LocalizationFiles.allCases.forEach({ locFile in
+                guard let dirLocalize = dirLocalize(path: resourcePath, lang: lang, file: locFile) else {
+                    logger.error("not parsed path: \(resourcePath), file: \(locFile)")
                     return
                 }
-                keyValuePairs.forEach({ key, value in
+                dirLocalize.forEach({ key, value in
                     if jsonKnowledge[key] == nil {
                         jsonKnowledge[key] = [:]
                     }
                     jsonKnowledge[key]?[lang] = value
                 })
             })
-        }
+        })
         return jsonKnowledge
     }
-    
-    private typealias ParsedStructure = [String: [String: String]]
                                             
-    private func dirLocalize(path: String, file: LocalizationFiles) -> ParsedStructure? {
-        let path = path + "/" + file.rawValue + ".json"
+    private func dirLocalize(path: String, lang: Lang, file: LocalizationFiles) -> [String: String]? {
+        let path = path + "/" + lang.rawValue + "/" + file.rawValue + ".json"
         let decoder = JSONDecoder()
         
         guard let data = try? Data(contentsOf: URL(fileURLWithPath: path)),
-              let directoryLangMap = try? decoder.decode(ParsedStructure.self, from: data) else {
+              let directoryLangMap = try? decoder.decode([String: String].self, from: data) else {
             return nil
         }
         
