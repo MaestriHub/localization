@@ -15,6 +15,12 @@
             "state" : "new",
             "value" : "Current address"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Current address"
+          }
         }
       }
     },
@@ -28,6 +34,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invalid address"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Invalid address"
@@ -49,6 +61,12 @@
             "state" : "new",
             "value" : "To continue you need to select a more precise address"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "To continue you need to select a more precise address"
+          }
         }
       }
     },
@@ -62,6 +80,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ok"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Ok"
@@ -83,6 +107,12 @@
             "state" : "new",
             "value" : "Add clients"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add clients"
+          }
         }
       }
     },
@@ -96,6 +126,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All clients"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "All clients"
@@ -117,6 +153,12 @@
             "state" : "new",
             "value" : "Cancel"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel"
+          }
         }
       }
     },
@@ -130,6 +172,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select number"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Select number"
@@ -151,6 +199,12 @@
             "state" : "new",
             "value" : "Contacts"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Contacts"
+          }
         }
       }
     },
@@ -164,6 +218,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Close"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Close"
@@ -185,6 +245,12 @@
             "state" : "new",
             "value" : "Edit"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit"
+          }
         }
       }
     },
@@ -198,6 +264,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Сancel"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Сancel"
@@ -219,6 +291,12 @@
             "state" : "new",
             "value" : "Edit %lld"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit %lld"
+          }
         }
       }
     },
@@ -232,6 +310,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Salon schedule"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Salon schedule"
@@ -253,6 +337,12 @@
             "state" : "new",
             "value" : "Select masters"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select masters"
+          }
         }
       }
     },
@@ -266,6 +356,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Diary"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Diary"
@@ -287,6 +383,12 @@
             "state" : "new",
             "value" : "Map"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Map"
+          }
         }
       }
     },
@@ -300,6 +402,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Favorites"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Favorites"
@@ -321,6 +429,12 @@
             "state" : "new",
             "value" : "View"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "View"
+          }
         }
       }
     },
@@ -334,6 +448,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "History"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "History"
@@ -355,6 +475,12 @@
             "state" : "new",
             "value" : "My notes"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "My notes"
+          }
         }
       }
     },
@@ -368,6 +494,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have no appointments"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "You have no appointments"
@@ -389,6 +521,12 @@
             "state" : "new",
             "value" : "You have no favorites"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have no favorites"
+          }
         }
       }
     },
@@ -402,6 +540,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There are no salons nearby"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "There are no salons nearby"
@@ -423,6 +567,12 @@
             "state" : "new",
             "value" : "Salons"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Salons"
+          }
         }
       }
     },
@@ -436,6 +586,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in this region"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Search in this region"
@@ -457,6 +613,12 @@
             "state" : "new",
             "value" : "Need to zoom in to search"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Need to zoom in to search"
+          }
         }
       }
     },
@@ -470,6 +632,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invite master"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Invite master"
@@ -491,6 +659,12 @@
             "state" : "new",
             "value" : "All Masters"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All Masters"
+          }
         }
       }
     },
@@ -504,6 +678,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invitate link"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Invitate link"
@@ -525,6 +705,12 @@
             "state" : "new",
             "value" : "New master"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "New master"
+          }
         }
       }
     },
@@ -538,6 +724,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Positions"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Positions"
@@ -559,6 +751,12 @@
             "state" : "new",
             "value" : "Customer"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Customer"
+          }
         }
       }
     },
@@ -572,6 +770,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Professional"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Professional"
@@ -593,6 +797,12 @@
             "state" : "new",
             "value" : "Choose the role to finish registration"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose the role to finish registration"
+          }
         }
       }
     },
@@ -606,6 +816,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add position"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Add position"
@@ -627,6 +843,12 @@
             "state" : "new",
             "value" : "Not found"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Not found"
+          }
         }
       }
     },
@@ -640,6 +862,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Positions"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Positions"
@@ -661,6 +889,12 @@
             "state" : "new",
             "value" : "Add procedure"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add procedure"
+          }
         }
       }
     },
@@ -674,6 +908,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All Procedures"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "All Procedures"
@@ -695,6 +935,12 @@
             "state" : "new",
             "value" : "Are you sure you want to delete"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete"
+          }
         }
       }
     },
@@ -708,6 +954,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Cancel"
@@ -729,6 +981,12 @@
             "state" : "new",
             "value" : "Delete"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete"
+          }
         }
       }
     },
@@ -742,6 +1000,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Select"
@@ -763,6 +1027,12 @@
             "state" : "new",
             "value" : "Add new salon"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add new salon"
+          }
         }
       }
     },
@@ -776,6 +1046,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Profile"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Profile"
@@ -797,6 +1073,12 @@
             "state" : "new",
             "value" : "Login"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Login"
+          }
         }
       }
     },
@@ -810,6 +1092,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Map"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Map"
@@ -831,6 +1119,12 @@
             "state" : "new",
             "value" : "Not found"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Not found"
+          }
         }
       }
     },
@@ -844,6 +1138,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Send QR-Code"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Send QR-Code"
@@ -865,6 +1165,12 @@
             "state" : "new",
             "value" : "Share with link"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Share with link"
+          }
         }
       }
     },
@@ -878,6 +1184,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Make appointment"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Make appointment"
@@ -899,6 +1211,12 @@
             "state" : "new",
             "value" : "chain"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "chain"
+          }
         }
       }
     },
@@ -912,6 +1230,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set up your salon first"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Set up your salon first"
@@ -933,6 +1257,12 @@
             "state" : "new",
             "value" : "To create an appointment, you must first create a service"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "To create an appointment, you must first create a service"
+          }
         }
       }
     },
@@ -946,6 +1276,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "individual"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "individual"
@@ -967,6 +1303,12 @@
             "state" : "new",
             "value" : "master"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "master"
+          }
         }
       }
     },
@@ -980,6 +1322,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Register a client"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Register a client"
@@ -1001,6 +1349,12 @@
             "state" : "new",
             "value" : "No entries for this day"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No entries for this day"
+          }
         }
       }
     },
@@ -1014,6 +1368,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your entries will be here"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Your entries will be here"
@@ -1035,6 +1395,12 @@
             "state" : "new",
             "value" : "Expired"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expired"
+          }
         }
       }
     },
@@ -1048,6 +1414,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Appointments"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Appointments"
@@ -1069,6 +1441,12 @@
             "state" : "new",
             "value" : "Unable to determine address"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unable to determine address"
+          }
         }
       }
     },
@@ -1082,6 +1460,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Make appointment"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Make appointment"
@@ -1103,6 +1487,12 @@
             "state" : "new",
             "value" : "You haven't received any notifications yet"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You haven't received any notifications yet"
+          }
         }
       }
     },
@@ -1116,6 +1506,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Read all"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Read all"
@@ -1137,6 +1533,12 @@
             "state" : "new",
             "value" : "Notifications"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Notifications"
+          }
         }
       }
     },
@@ -1150,6 +1552,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Not found"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Not found"
@@ -1171,6 +1579,12 @@
             "state" : "new",
             "value" : "Search for"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search for"
+          }
         }
       }
     },
@@ -1184,6 +1598,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add new service"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Add new service"
@@ -1205,6 +1625,12 @@
             "state" : "new",
             "value" : "Apply"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apply"
+          }
         }
       }
     },
@@ -1218,6 +1644,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Services"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Services"
@@ -1239,6 +1671,12 @@
             "state" : "new",
             "value" : "from"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "from"
+          }
         }
       }
     },
@@ -1252,6 +1690,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All services"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "All services"
@@ -1273,6 +1717,12 @@
             "state" : "new",
             "value" : "Create your first salon"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create your first salon"
+          }
         }
       }
     },
@@ -1286,6 +1736,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Dashboard"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Dashboard"
@@ -1307,6 +1763,12 @@
             "state" : "new",
             "value" : "Quick Actions"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Quick Actions"
+          }
         }
       }
     },
@@ -1320,6 +1782,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Read all"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Read all"
@@ -1341,6 +1809,12 @@
             "state" : "new",
             "value" : "Schedule"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Schedule"
+          }
         }
       }
     },
@@ -1354,6 +1828,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select from the menu"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Select from the menu"
@@ -1375,6 +1855,12 @@
             "state" : "new",
             "value" : "Share"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Share"
+          }
         }
       }
     },
@@ -1388,6 +1874,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "to client mode"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "to client mode"
@@ -1409,6 +1901,12 @@
             "state" : "new",
             "value" : "Toggle"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Toggle"
+          }
         }
       }
     },
@@ -1422,6 +1920,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Workspace"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Workspace"
@@ -1443,6 +1947,12 @@
             "state" : "new",
             "value" : "%lld masters"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%lld masters"
+          }
         }
       }
     },
@@ -1456,6 +1966,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Masters quantity"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Masters quantity"
@@ -1477,6 +1993,12 @@
             "state" : "new",
             "value" : "%lld minutes"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%lld minutes"
+          }
         }
       }
     },
@@ -1490,6 +2012,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Schedule multiplicity"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Schedule multiplicity"
@@ -1511,6 +2039,12 @@
             "state" : "new",
             "value" : "List"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "List"
+          }
         }
       }
     },
@@ -1524,6 +2058,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apply"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Apply"
@@ -1545,6 +2085,12 @@
             "state" : "new",
             "value" : "Add a break"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add a break"
+          }
         }
       }
     },
@@ -1558,6 +2104,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Break"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Break"
@@ -1579,6 +2131,12 @@
             "state" : "new",
             "value" : "Day off"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Day off"
+          }
         }
       }
     },
@@ -1592,6 +2150,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Delete"
@@ -1613,6 +2177,12 @@
             "state" : "new",
             "value" : "Edit"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit"
+          }
         }
       }
     },
@@ -1626,6 +2196,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "STARTING TIME"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "STARTING TIME"
@@ -1647,6 +2223,12 @@
             "state" : "new",
             "value" : "Save the break"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Save the break"
+          }
         }
       }
     },
@@ -1660,6 +2242,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CLOSED HOUR"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "CLOSED HOUR"
@@ -1681,6 +2269,12 @@
             "state" : "new",
             "value" : "Simple tool for business management"
           }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simple tool for business management"
+          }
         }
       }
     },
@@ -1694,6 +2288,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Welcome to"
+          }
+        },
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Welcome to"
