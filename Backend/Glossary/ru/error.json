@@ -1,5 +1,10 @@
 {
     "internal.server.error": "Maestri приснул",
     "bad.request": "Плохой запрос!",
-    "i.am.tea": "Дерьмо случается"
+    "i.am.tea": "Дерьмо случается",
+    "i": {
+        "am": {
+            "pod": "I am pod"
+        }
+    }
 }
