@@ -2,9 +2,5 @@
     "internal.server.error": "Maestri sleeping",
     "bad.request": "Bad request!",
     "i.am.tea": "Shitt happened",
-    "i": {
-        "am": {
-            "pod": "I am pod"
-        }
-    }
+    "I am pod": "I am pod"
 }
