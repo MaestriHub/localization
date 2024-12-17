@@ -33,7 +33,7 @@ public struct JsonParser: ILocalizationParser {
     }
                                             
     private func dirLocalize(path: String, lang: Lang, file: LocalizationFiles) -> [String: String]? {
-        let path = path + "/" + lang.rawValue + "/" + file.rawValue + "/" + ".json"
+        let path = path + "/" + lang.rawValue + "/" + file.rawValue + ".json"
         let decoder = JSONDecoder()
         
         guard let data = try? Data(contentsOf: URL(fileURLWithPath: path)),
