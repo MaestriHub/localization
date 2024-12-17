@@ -12,8 +12,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Current address"
+            "state" : "translated",
+            "value" : "Текущий адрес"
           }
         }
       }
