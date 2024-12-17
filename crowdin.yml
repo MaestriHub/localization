@@ -8,7 +8,7 @@ files:
     translation: "/IOS/%original_file_name%"
     ignore:
       - "/**/*.swift"
-    type: "string_catalog"
+    type: "xcstrings"
     update_option: "update_as_unapproved"
     labels:
       - "ios"
