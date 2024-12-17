@@ -13,7 +13,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Верный токен доступа"
+            "value" : "Неверный такен доступа"
           }
         }
       }
@@ -77,6 +77,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dickuch"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хуюч"
           }
         }
       }
