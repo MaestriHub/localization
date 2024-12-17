@@ -1505,6 +1505,12 @@
             "state" : "new",
             "value" : "zzzzzzz"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "сплю"
+          }
         }
       }
     }
