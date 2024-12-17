@@ -2,9 +2,12 @@
 #"api_token": "personal-access-token"
 #"base_path": "."
 #"base_url": "https://api.crowdin.com"
-
 "preserve_hierarchy": true
-
+"push_sources": {
+  "enabled": true
+  "branch": main
+  "commit_message": "Update translations"
+}
 "files": [
   {
     "source": "/IOS/*.xcstrings",
