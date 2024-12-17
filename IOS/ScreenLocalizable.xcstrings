@@ -29,7 +29,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Invalid address"
           }
         }
@@ -46,7 +46,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "To continue you need to select a more precise address"
           }
         }
@@ -64,7 +64,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Хорошо"
+            "value" : "Ok"
           }
         }
       }
@@ -80,7 +80,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Add clients"
           }
         }
@@ -97,7 +97,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "All clients"
           }
         }
@@ -114,7 +114,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Cancel"
           }
         }
@@ -131,7 +131,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Select number"
           }
         }
@@ -148,7 +148,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Contacts"
           }
         }
@@ -165,7 +165,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Close"
           }
         }
@@ -182,7 +182,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Edit"
           }
         }
@@ -199,7 +199,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Сancel"
           }
         }
@@ -216,7 +216,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Edit %lld"
           }
         }
@@ -233,7 +233,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Salon schedule"
           }
         }
@@ -250,7 +250,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Select masters"
           }
         }
@@ -267,7 +267,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Diary"
           }
         }
@@ -284,7 +284,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Map"
           }
         }
@@ -301,7 +301,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Favorites"
           }
         }
@@ -318,7 +318,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "View"
           }
         }
@@ -335,7 +335,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "History"
           }
         }
@@ -352,7 +352,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "My notes"
           }
         }
@@ -369,7 +369,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "You have no appointments"
           }
         }
@@ -386,7 +386,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "You have no favorites"
           }
         }
@@ -403,7 +403,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "There are no salons nearby"
           }
         }
@@ -420,7 +420,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Salons"
           }
         }
@@ -437,7 +437,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Search in this region"
           }
         }
@@ -454,7 +454,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Need to zoom in to search"
           }
         }
@@ -471,7 +471,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Invite master"
           }
         }
@@ -488,7 +488,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "All Masters"
           }
         }
@@ -505,7 +505,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Invitate link"
           }
         }
@@ -522,7 +522,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "New master"
           }
         }
@@ -539,7 +539,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Positions"
           }
         }
@@ -556,7 +556,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Customer"
           }
         }
@@ -573,7 +573,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Professional"
           }
         }
@@ -590,7 +590,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Choose the role to finish registration"
           }
         }
@@ -607,7 +607,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Add position"
           }
         }
@@ -624,7 +624,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Not found"
           }
         }
@@ -641,7 +641,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Positions"
           }
         }
@@ -658,7 +658,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Add procedure"
           }
         }
@@ -675,7 +675,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "All Procedures"
           }
         }
@@ -692,7 +692,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Are you sure you want to delete"
           }
         }
@@ -709,7 +709,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Cancel"
           }
         }
@@ -726,7 +726,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Delete"
           }
         }
@@ -743,7 +743,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Select"
           }
         }
@@ -760,7 +760,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Add new salon"
           }
         }
@@ -777,7 +777,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Profile"
           }
         }
@@ -794,7 +794,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Login"
           }
         }
@@ -811,7 +811,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Map"
           }
         }
@@ -828,7 +828,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Not found"
           }
         }
@@ -845,7 +845,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Send QR-Code"
           }
         }
@@ -862,7 +862,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Share with link"
           }
         }
@@ -879,7 +879,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Make appointment"
           }
         }
@@ -896,7 +896,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "chain"
           }
         }
@@ -913,7 +913,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Set up your salon first"
           }
         }
@@ -930,7 +930,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "To create an appointment, you must first create a service"
           }
         }
@@ -947,7 +947,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "individual"
           }
         }
@@ -964,7 +964,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "master"
           }
         }
@@ -981,7 +981,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Register a client"
           }
         }
@@ -998,7 +998,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "No entries for this day"
           }
         }
@@ -1015,7 +1015,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Your entries will be here"
           }
         }
@@ -1032,7 +1032,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Expired"
           }
         }
@@ -1049,7 +1049,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Appointments"
           }
         }
@@ -1066,7 +1066,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Unable to determine address"
           }
         }
@@ -1083,7 +1083,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Make appointment"
           }
         }
@@ -1100,7 +1100,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "You haven't received any notifications yet"
           }
         }
@@ -1117,7 +1117,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Read all"
           }
         }
@@ -1134,7 +1134,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Notifications"
           }
         }
@@ -1151,7 +1151,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Not found"
           }
         }
@@ -1168,7 +1168,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Search for"
           }
         }
@@ -1185,7 +1185,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Add new service"
           }
         }
@@ -1202,7 +1202,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Apply"
           }
         }
@@ -1219,7 +1219,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Services"
           }
         }
@@ -1236,7 +1236,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "from"
           }
         }
@@ -1253,7 +1253,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "All services"
           }
         }
@@ -1270,7 +1270,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Create your first salon"
           }
         }
@@ -1287,7 +1287,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Dashboard"
           }
         }
@@ -1304,7 +1304,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Quick Actions"
           }
         }
@@ -1321,7 +1321,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Read all"
           }
         }
@@ -1338,7 +1338,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Schedule"
           }
         }
@@ -1355,7 +1355,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Select from the menu"
           }
         }
@@ -1372,7 +1372,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Share"
           }
         }
@@ -1389,7 +1389,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "to client mode"
           }
         }
@@ -1406,7 +1406,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Toggle"
           }
         }
@@ -1423,7 +1423,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Workspace"
           }
         }
@@ -1440,7 +1440,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%lld masters"
           }
         }
@@ -1457,7 +1457,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Masters quantity"
           }
         }
@@ -1474,7 +1474,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%lld minutes"
           }
         }
@@ -1491,7 +1491,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Schedule multiplicity"
           }
         }
@@ -1508,7 +1508,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "List"
           }
         }
@@ -1525,7 +1525,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Apply"
           }
         }
@@ -1542,7 +1542,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Add a break"
           }
         }
@@ -1559,7 +1559,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Break"
           }
         }
@@ -1576,7 +1576,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Day off"
           }
         }
@@ -1593,7 +1593,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Delete"
           }
         }
@@ -1610,7 +1610,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Edit"
           }
         }
@@ -1627,7 +1627,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "STARTING TIME"
           }
         }
@@ -1644,7 +1644,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Save the break"
           }
         }
@@ -1661,7 +1661,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "CLOSED HOUR"
           }
         }
@@ -1678,7 +1678,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Simple tool for business management"
           }
         }
@@ -1695,7 +1695,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Welcome to"
           }
         }
