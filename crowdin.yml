@@ -8,7 +8,6 @@ files:
       - /**/*.swift
     translation: /IOS/%original_file_name%
     multilingual: 1
-    type: xcstrings
     update_option: update_as_unapproved
   - source: /Backend/Glossary/en/*.json
     ignore:
