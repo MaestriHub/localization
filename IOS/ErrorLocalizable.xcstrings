@@ -52,18 +52,6 @@
         }
       }
     },
-    "Huyuch" : {
-      "comment" : "Эта пенис",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dickuch"
-          }
-        }
-      }
-    },
     "Official apple token FCM unsupported" : {
       "extractionState" : "manual",
       "localizations" : {
