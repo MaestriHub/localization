@@ -1,13 +1,34 @@
+#project_identifier: Maestri
+#api_key_env: CROWDIN_API_KEY
+#base_path: .
+#files:
+#  - source: /**/*
+#    ignore:
+#      - /**/*.swift
+#      - /*.md
+#      - /*.gitignore
+#    translation: /%original_path%/%original_file_name%
+#    multilingual: 1
+#bundles:
+#  - 1
 project_identifier: Maestri
 api_key_env: CROWDIN_API_KEY
-base_path: .
+
+preserve_hierarchy: true
+
+# Конфигурация для iOS (.strings)
 files:
-  - source: /**/*
+  - source: "IOS/Localization/*.strings"
     ignore:
       - /**/*.swift
       - /*.md
       - /*.gitignore
-    translation: /%original_path%/%original_file_name%
-    multilingual: 1
-bundles:
-  - 1
+    translation: "IOS/Localization/%two_letters_code%.lproj/%original_file_name%"
+
+# Конфигурация для Backend (JSON)
+  - source: "Backend/Glossary/**/*.json"
+    ignore:
+      - /**/*.swift
+      - /*.md
+      - /*.gitignore
+    translation: "Backend/Glossary/%two_letters_code%/**/%original_file_name%"
