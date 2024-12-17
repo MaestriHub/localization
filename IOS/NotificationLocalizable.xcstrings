@@ -6,8 +6,14 @@
       "localizations" : {
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "{name}, Your position was update. Permissions updated."
+          }
+        },
+        "sr" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "{name}, Ваша должность обновлена. Разрешения обновлены."
+            "value" : "{name}, Your position was update. Permissions updated."
           }
         }
       }
@@ -17,8 +23,14 @@
       "localizations" : {
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "{name}, Your position was update. Salary updated."
+          }
+        },
+        "sr" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "{name}, Ваша должность обновлена. Зарплата обновлена."
+            "value" : "{name}, Your position was update. Salary updated."
           }
         }
       }
@@ -28,8 +40,14 @@
       "localizations" : {
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "{start_time} price: {price}"
+          }
+        },
+        "sr" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "{start_time} цена: {price}"
+            "value" : "{start_time} price: {price}"
           }
         }
       }
@@ -94,7 +112,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ %#@procedures@ in %#@appointment@ %4$@"
           },
           "substitutions" : {
@@ -105,11 +123,83 @@
                 "plural" : {
                   "few" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "new",
                       "value" : "%arg appointments"
                     }
                   },
                   "many" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%arg appointments"
+                    }
+                  },
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%arg appointment"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%arg appointments"
+                    }
+                  },
+                  "zero" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : ""
+                    }
+                  }
+                }
+              }
+            },
+            "procedures" : {
+              "argNum" : 2,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "few" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%arg procedures"
+                    }
+                  },
+                  "many" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%arg procedures"
+                    }
+                  },
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%arg procedure"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%arg procedures"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %#@procedures@ in %#@appointment@ %4$@"
+          },
+          "substitutions" : {
+            "appointment" : {
+              "argNum" : 3,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "few" : {
                     "stringUnit" : {
                       "state" : "translated",
                       "value" : "%arg appointments"
@@ -147,12 +237,6 @@
                       "value" : "%arg procedures"
                     }
                   },
-                  "many" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "%arg procedures"
-                    }
-                  },
                   "one" : {
                     "stringUnit" : {
                       "state" : "translated",
@@ -177,8 +261,14 @@
       "localizations" : {
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Accepted invitation"
+          }
+        },
+        "sr" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Приглашение принято"
+            "value" : "Accepted invitation"
           }
         }
       }
@@ -189,8 +279,14 @@
       "localizations" : {
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "New appointment"
+          }
+        },
+        "sr" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Новая запись"
+            "value" : "New appointment"
           }
         }
       }
@@ -200,8 +296,14 @@
       "localizations" : {
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "New employee {name}"
+          }
+        },
+        "sr" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Новый сотрудник {name}"
+            "value" : "New employee {name}"
           }
         }
       }
@@ -211,8 +313,14 @@
       "localizations" : {
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Update Position"
+          }
+        },
+        "sr" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Должность обновлена"
+            "value" : "Update Position"
           }
         }
       }
