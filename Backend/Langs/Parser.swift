@@ -1,7 +1,7 @@
 import Vapor
 
 public extension Lang {
-    static func parse(string: String?) throws -> [Self] {
+    static func parse(string: String?) -> [Self] {
 
         guard let regex = try? Regex("[a-z]{2}") else {
             let logger = Logger(label: "lang.logger")
