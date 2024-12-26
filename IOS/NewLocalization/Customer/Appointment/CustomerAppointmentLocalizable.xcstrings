@@ -1,0 +1,116 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "customer.appointment.appointment.missing_master" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with selecting a master. Please try again. If the problem persists, contact support and mention error code: missingMaster"
+          }
+        }
+      }
+    },
+    "customer.appointment.creatable.click_complete" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "To save, click Complete"
+          }
+        }
+      }
+    },
+    "customer.appointment.creatable.complete" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Complete the booking"
+          }
+        }
+      }
+    },
+    "customer.appointment.creatable.congratulations" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Congratulations, you have successfully created a salon!"
+          }
+        }
+      }
+    },
+    "customer.appointment.creatable.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Appointment"
+          }
+        }
+      }
+    },
+    "customer.appointment.history_screen.empty_description" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No entries for this day"
+          }
+        }
+      }
+    },
+    "customer.appointment.history_screen.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Appointments"
+          }
+        }
+      }
+    },
+    "customer.appointment.missing_date_interval" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with selecting a date and time. Please try again. If the problem persists, contact support and mention error code: missingDateInterval"
+          }
+        }
+      }
+    },
+    "customer.appointment.missing_procedures" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with selecting procedures. Please try again. If the problem persists, contact support and mention error code: missingProcedures"
+          }
+        }
+      }
+    },
+    "customer.appointment.widget.today" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Today"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

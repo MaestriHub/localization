@@ -1,0 +1,292 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "common.procedure.creatable.alias" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "If you want this service to appear in your profile under a custom name, you can suggest your own personalized title for it"
+          }
+        }
+      }
+    },
+    "common.procedure.creatable.click_create" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "To save, click Create"
+          }
+        }
+      }
+    },
+    "common.procedure.creatable.create_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create"
+          }
+        }
+      }
+    },
+    "common.procedure.creatable.enter_procedure_description" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please describe the details of the procedure. Example: “Bring a towel, arrive 10-15 minutes earlier, remove jewelry, inform about contraindications”"
+          }
+        }
+      }
+    },
+    "common.procedure.creatable.missingDuration" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with the procedure duration. Please try again. If the problem persists, contact support and mention error code: missingDuration"
+          }
+        }
+      }
+    },
+    "common.procedure.creatable.missingMaster" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with assigning a master to the procedure. Please try again. If the problem persists, contact support and mention error code: missingMaster"
+          }
+        }
+      }
+    },
+    "common.procedure.creatable.missingPrice" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with the procedure price. Please try again. If the problem persists, contact support and mention error code: missingPrice"
+          }
+        }
+      }
+    },
+    "common.procedure.creatable.missingServiceId" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with the service ID for the procedure. Please try again. If the problem persists, contact support and mention error code: missingServiceId"
+          }
+        }
+      }
+    },
+    "common.procedure.creatable.placeholder" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter procedure name"
+          }
+        }
+      }
+    },
+    "common.procedure.creatable.procedure_cost" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please indicate the cost of the procedure"
+          }
+        }
+      }
+    },
+    "common.procedure.creatable.procedure_duration" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Specify the duration of the procedure"
+          }
+        }
+      }
+    },
+    "common.procedure.creatable.select_category" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select a category"
+          }
+        }
+      }
+    },
+    "common.procedure.creatable.select_procedure" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter the name of the procedure or select from the list provided"
+          }
+        }
+      }
+    },
+    "common.procedure.creatable.select_procedure_info" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choosing an existing option will make it easier for others to find you in search"
+          }
+        }
+      }
+    },
+    "common.procedure.creatable.summaryPlaceholder" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Summary"
+          }
+        }
+      }
+    },
+    "common.procedure.creatable.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Procedure"
+          }
+        }
+      }
+    },
+    "common.procedure.screen.alert_title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete"
+          }
+        }
+      }
+    },
+    "common.procedure.screen.all_action" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add procedure"
+          }
+        }
+      }
+    },
+    "common.procedure.screen.not_found" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Not found"
+          }
+        }
+      }
+    },
+    "common.procedure.screen.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All Procedures"
+          }
+        }
+      }
+    },
+    "common.procedure.update_creatable.alias_step_placeholder" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "New procedure alias"
+          }
+        }
+      }
+    },
+    "common.procedure.update_creatable.enter_new_alias" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter a new procedure alias"
+          }
+        }
+      }
+    },
+    "common.procedure.update_creatable.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Update procedure"
+          }
+        }
+      }
+    },
+    "common.procedure.widget.action" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add procedure"
+          }
+        }
+      }
+    },
+    "common.procedure.widget.link" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All"
+          }
+        }
+      }
+    },
+    "common.procedure.widget.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Procedures"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

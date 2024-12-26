@@ -1,0 +1,182 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "professional.workspace.list_appointments_screen.declined_by_customer" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Declined by customer"
+          }
+        }
+      }
+    },
+    "professional.workspace.list_appointments_screen.empty_description" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No entries for this day"
+          }
+        }
+      }
+    },
+    "professional.workspace.list_appointments_screen.expired" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expired"
+          }
+        }
+      }
+    },
+    "professional.workspace.list_appointments_screen.need_your_action" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Need your action"
+          }
+        }
+      }
+    },
+    "professional.workspace.schedule_stats_widget.action" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Register a client"
+          }
+        }
+      }
+    },
+    "professional.workspace.schedule_stats_widget.period" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Today:"
+          }
+        }
+      }
+    },
+    "professional.workspace.schedule_stats_widget.status_message_alert" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Before creating an appointment, you must activate the salon"
+          }
+        }
+      }
+    },
+    "professional.workspace.schedule_stats_widget.status_title_alert" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to create appointment"
+          }
+        }
+      }
+    },
+    "professional.workspace.schedule_stats_widget.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Appointments"
+          }
+        }
+      }
+    },
+    "professional.workspace.workspace_container_screen.appointment_transfer" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Transfer the appointment?"
+          }
+        }
+      }
+    },
+    "professional.workspace.workspace_container_screen.masters" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%lld masters"
+          }
+        }
+      }
+    },
+    "professional.workspace.workspace_container_screen.masters_quantity" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Masters quantity"
+          }
+        }
+      }
+    },
+    "professional.workspace.workspace_container_screen.minutes" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%lld minutes"
+          }
+        }
+      }
+    },
+    "professional.workspace.workspace_container_screen.switch_to_diary_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Diary"
+          }
+        }
+      }
+    },
+    "professional.workspace.workspace_container_screen.switch_to_list_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "List"
+          }
+        }
+      }
+    },
+    "professional.workspace.workspace_container_screen.timeline_multiplicity" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Schedule multiplicity"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

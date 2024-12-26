@@ -1,0 +1,281 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "professional.position.creatable.add_permissions" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set permissions for this position"
+          }
+        }
+      }
+    },
+    "professional.position.creatable.click_create" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "To save, click Create"
+          }
+        }
+      }
+    },
+    "professional.position.creatable.create_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create"
+          }
+        }
+      }
+    },
+    "professional.position.creatable.enter_position_name" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter position name"
+          }
+        }
+      }
+    },
+    "professional.position.creatable.missing_permissions" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with setting access permissions. Please try again. If the problem persists, contact support and mention error code: missingPermissions"
+          }
+        }
+      }
+    },
+    "professional.position.creatable.missing_salary" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with setting the salary. Please try again. If the problem persists, contact support and mention error code: missingSalary"
+          }
+        }
+      }
+    },
+    "professional.position.creatable.missing_title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with the position title. Please try again. If the problem persists, contact support and mention error code: missingTitle"
+          }
+        }
+      }
+    },
+    "professional.position.creatable.placeholder" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter position"
+          }
+        }
+      }
+    },
+    "professional.position.creatable.setting_salary" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set the salary amount for this position"
+          }
+        }
+      }
+    },
+    "professional.position.creatable.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Position"
+          }
+        }
+      }
+    },
+    "professional.position.danger_zone_widget.delete_hint" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Action cannot be undone"
+          }
+        }
+      }
+    },
+    "professional.position.danger_zone_widget.delete_title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Position"
+          }
+        }
+      }
+    },
+    "professional.position.danger_zone_widget.delete_title_alert" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The action cannot be undone. Are you sure you want to delete?"
+          }
+        }
+      }
+    },
+    "professional.position.danger_zone_widget.delete_title_message" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Confirm deletion"
+          }
+        }
+      }
+    },
+    "professional.position.danger_zone_widget.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Danger Zone"
+          }
+        }
+      }
+    },
+    "professional.position.screen.add_position" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add position"
+          }
+        }
+      }
+    },
+    "professional.position.screen.not_found" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Not found"
+          }
+        }
+      }
+    },
+    "professional.position.screen.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Positions"
+          }
+        }
+      }
+    },
+    "professional.position.sheet.create_position" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create new position"
+          }
+        }
+      }
+    },
+    "professional.position.sheet.not_found" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Not found"
+          }
+        }
+      }
+    },
+    "professional.position.step.choose_position" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select a position"
+          }
+        }
+      }
+    },
+    "professional.position.widget.action" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add new position"
+          }
+        }
+      }
+    },
+    "professional.position.widget.link" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show all"
+          }
+        }
+      }
+    },
+    "professional.position.widget.positions_is_empty" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No positions available"
+          }
+        }
+      }
+    },
+    "professional.position.widget.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Positions"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

@@ -1,0 +1,39 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "customer.timetable.widget.break" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Break: %@"
+          }
+        }
+      }
+    },
+    "customer.timetable.widget.dayoff" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Day off"
+          }
+        }
+      }
+    },
+    "customer.timetable.widget.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Working hours"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

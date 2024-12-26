@@ -1,0 +1,237 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "shared.procedure_step.cell.edit" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.sheet.apply" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apply"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.sheet.brows" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Brows"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.sheet.cosmetology" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cosmetology"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.sheet.depilation" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Depilation"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.sheet.epilation" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Epilation"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.sheet.hairdressing" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hairdressing"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.sheet.lashes" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lashes"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.sheet.makeup" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Makeup"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.sheet.massage" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Massage"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.sheet.nails" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Nails"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.sheet.not_found" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Not found"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.sheet.other" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Other"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.sheet.piercing" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Piercing"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.sheet.spa" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Spa"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.sheet.tattoo" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tattoo"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.step.appointment_warning" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "**Before undergoing the procedure, you need to know the following:**"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.step.check_procedure" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "We are looking for information about the procedure, we need a little time"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.step.procedure_not_found" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Procedure not found"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.step.select" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select"
+          }
+        }
+      }
+    },
+    "shared.procedure_step.step.select_procedure" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select a procedure"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

@@ -1,0 +1,28 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "customer.map.screen.search_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in this region"
+          }
+        }
+      }
+    },
+    "customer.map.screen.search_button_warning" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Need to zoom in to search"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

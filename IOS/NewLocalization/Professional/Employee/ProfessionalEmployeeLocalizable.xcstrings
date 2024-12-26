@@ -1,0 +1,325 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "professional.employee.creatable.add_conact" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add contact"
+          }
+        }
+      }
+    },
+    "professional.employee.creatable.create_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create"
+          }
+        }
+      }
+    },
+    "professional.employee.creatable.description_placeholder" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Description"
+          }
+        }
+      }
+    },
+    "professional.employee.creatable.enter_master_description" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please give a description of the master"
+          }
+        }
+      }
+    },
+    "professional.employee.creatable.invitation_link" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Send invitation link"
+          }
+        }
+      }
+    },
+    "professional.employee.creatable.more_contact" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Want to add another method of communication?"
+          }
+        }
+      }
+    },
+    "professional.employee.creatable.setup_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You can customize the work schedule of the invited master"
+          }
+        }
+      }
+    },
+    "professional.employee.creatable.successfully_created" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Congratulations, you have successfully created an invitation for a new master"
+          }
+        }
+      }
+    },
+    "professional.employee.creatable.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Master"
+          }
+        }
+      }
+    },
+    "professional.employee.danger_zone_widget.cancel_hint" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The master will not be able to join via the link"
+          }
+        }
+      }
+    },
+    "professional.employee.danger_zone_widget.cancel_message_alert" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The master will not be able to join via the link"
+          }
+        }
+      }
+    },
+    "professional.employee.danger_zone_widget.cancel_title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel invitation"
+          }
+        }
+      }
+    },
+    "professional.employee.danger_zone_widget.cancel_title_alert" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Confirm cancellation"
+          }
+        }
+      }
+    },
+    "professional.employee.danger_zone_widget.delete_hint" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This action cannot be undone"
+          }
+        }
+      }
+    },
+    "professional.employee.danger_zone_widget.fire" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Fire"
+          }
+        }
+      }
+    },
+    "professional.employee.danger_zone_widget.fire_an_employee" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Fire an employee"
+          }
+        }
+      }
+    },
+    "professional.employee.danger_zone_widget.master_delete_message_alert" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "To confirm, enter the name of the master in the field below"
+          }
+        }
+      }
+    },
+    "professional.employee.danger_zone_widget.master_delete_title_alert" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The action cannot be undone. Are you sure you want to delete?"
+          }
+        }
+      }
+    },
+    "professional.employee.danger_zone_widget.nickname" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Nickname"
+          }
+        }
+      }
+    },
+    "professional.employee.danger_zone_widget.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Danger Zone"
+          }
+        }
+      }
+    },
+    "professional.employee.screen.all_action" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invite master"
+          }
+        }
+      }
+    },
+    "professional.employee.screen.all_title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All Masters"
+          }
+        }
+      }
+    },
+    "professional.employee.screen.invite_link" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invitate link"
+          }
+        }
+      }
+    },
+    "professional.employee.screen.not_found" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Not found"
+          }
+        }
+      }
+    },
+    "professional.employee.screen.positions" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Positions"
+          }
+        }
+      }
+    },
+    "professional.employee.select_sheet.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Accesses"
+          }
+        }
+      }
+    },
+    "professional.employee.widget.action" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invite master"
+          }
+        }
+      }
+    },
+    "professional.employee.widget.link" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All"
+          }
+        }
+      }
+    },
+    "professional.employee.widget.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Masters"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

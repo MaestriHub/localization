@@ -1,0 +1,578 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "professional.dashboard.creatable.add_address" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Great! Now add your salon address so clients can easily find you"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.add_conact" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add contact"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.allow_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Allow"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.chain_type" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Chain of beauty salons"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.click_create" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "To save, click Create"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.congratulations" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Congratulations, you have successfully created a salon!"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.create_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.description_placeholder" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Description"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.enter_name" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter the name of your salon"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.enter_salon_description" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please give a description of the salon"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.individual_type" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Beauty saloon"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.later_logo" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Later you can add a logo in your salon settings"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.master_type" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Individual master"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.missing_address" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with the salon address. Please try again. If the problem persists, contact support and mention error code: missingAddress"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.missing_locale" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with the salon locale. Please try again. If the problem persists, contact support and mention error code: missingLocale"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.missing_name" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with the salon name. Please try again. If the problem persists, contact support and mention error code: missingName"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.missing_time_zone" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with the salon time zone. Please try again. If the problem persists, contact support and mention error code: missingTimeZone"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.missing_timetable" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with the salon timetable. Please try again. If the problem persists, contact support and mention error code: missingTimetable"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.missing_type" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.more_contact" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Want to add another method of communication?"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.notice_request" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "To receive messages from clients, you must enable notifications"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.placeholder" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Salon name"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.salon_type" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the type of salon to be created"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Creation of a salon"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.turn_on_notifications" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have disabled push notifications in [settings](%@), please enable them there"
+          }
+        }
+      }
+    },
+    "professional.dashboard.creatable.upload_logo" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Great! Now upload your salon logo so we can make it recognizable."
+          }
+        }
+      }
+    },
+    "professional.dashboard.danger_zone_widget.activate" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Activate"
+          }
+        }
+      }
+    },
+    "professional.dashboard.danger_zone_widget.activate_hint" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Restore salon operations"
+          }
+        }
+      }
+    },
+    "professional.dashboard.danger_zone_widget.activate_title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Activate Salon"
+          }
+        }
+      }
+    },
+    "professional.dashboard.danger_zone_widget.deactivate" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Deactivate"
+          }
+        }
+      }
+    },
+    "professional.dashboard.danger_zone_widget.deactivate_hint" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop the salon, remove from search"
+          }
+        }
+      }
+    },
+    "professional.dashboard.danger_zone_widget.deactivate_message_alert" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Confirm shutdown"
+          }
+        }
+      }
+    },
+    "professional.dashboard.danger_zone_widget.deactivate_title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Deactivate Salon"
+          }
+        }
+      }
+    },
+    "professional.dashboard.danger_zone_widget.delete" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete"
+          }
+        }
+      }
+    },
+    "professional.dashboard.danger_zone_widget.delete_hint" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Action cannot be undone"
+          }
+        }
+      }
+    },
+    "professional.dashboard.danger_zone_widget.delete_message_alert" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "To confirm, type salon name in the box below"
+          }
+        }
+      }
+    },
+    "professional.dashboard.danger_zone_widget.delete_title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Salon"
+          }
+        }
+      }
+    },
+    "professional.dashboard.danger_zone_widget.delete_title_alert" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The action cannot be undone. Are you sure you want to delete?"
+          }
+        }
+      }
+    },
+    "professional.dashboard.danger_zone_widget.error_alert_message" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Try again!"
+          }
+        }
+      }
+    },
+    "professional.dashboard.danger_zone_widget.error_alert_title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The salon name does not match"
+          }
+        }
+      }
+    },
+    "professional.dashboard.danger_zone_widget.nickname" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Nickname"
+          }
+        }
+      }
+    },
+    "professional.dashboard.danger_zone_widget.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Danger Zone"
+          }
+        }
+      }
+    },
+    "professional.dashboard.danger_zone_widget.warning" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Warning"
+          }
+        }
+      }
+    },
+    "professional.dashboard.screen.help_message" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set up your salon first"
+          }
+        }
+      }
+    },
+    "professional.dashboard.screen.help_submessage" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "To create an appointment, you must first create a service"
+          }
+        }
+      }
+    },
+    "professional.dashboard.update_creatable.description_placeholder" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Description"
+          }
+        }
+      }
+    },
+    "professional.dashboard.update_creatable.enter_name" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter a new name for your salon"
+          }
+        }
+      }
+    },
+    "professional.dashboard.update_creatable.enter_salon_description" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please give a description of the salon"
+          }
+        }
+      }
+    },
+    "professional.dashboard.update_creatable.placeholder" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Salon name"
+          }
+        }
+      }
+    },
+    "professional.dashboard.update_creatable.salon_type" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select salon type"
+          }
+        }
+      }
+    },
+    "professional.dashboard.update_creatable.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing the salon"
+          }
+        }
+      }
+    },
+    "professional.dashboard.update_creatable.upload_logo" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Upload a new logo"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

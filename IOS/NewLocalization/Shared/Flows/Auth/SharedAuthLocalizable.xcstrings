@@ -1,0 +1,325 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "shared.auth.contact_creatable.contact_type" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose your preferred contact method"
+          }
+        }
+      }
+    },
+    "shared.auth.contact_creatable.email" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please enter email address"
+          }
+        }
+      }
+    },
+    "shared.auth.contact_creatable.email_input_view" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Email"
+          }
+        }
+      }
+    },
+    "shared.auth.contact_creatable.email_later" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You can add email address later in settings"
+          }
+        }
+      }
+    },
+    "shared.auth.contact_creatable.instagram" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please provide Instagram handle"
+          }
+        }
+      }
+    },
+    "shared.auth.contact_creatable.instagram_input_view" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Instagram"
+          }
+        }
+      }
+    },
+    "shared.auth.contact_creatable.instagram_later" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You can add Instagram handle later in settings"
+          }
+        }
+      }
+    },
+    "shared.auth.contact_creatable.message_input_view" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Message"
+          }
+        }
+      }
+    },
+    "shared.auth.contact_creatable.phone_input_view" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Phone"
+          }
+        }
+      }
+    },
+    "shared.auth.contact_creatable.phone_number" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please provide phone number"
+          }
+        }
+      }
+    },
+    "shared.auth.contact_creatable.phone_number_later" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You can add phone number later in settings"
+          }
+        }
+      }
+    },
+    "shared.auth.contact_creatable.telegram_input_view" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Telegram"
+          }
+        }
+      }
+    },
+    "shared.auth.contact_creatable.telegram_number" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please provide Telegram username"
+          }
+        }
+      }
+    },
+    "shared.auth.contact_creatable.telegram_number_later" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You can add Telegram username later in settings"
+          }
+        }
+      }
+    },
+    "shared.auth.contact_creatable.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Contact"
+          }
+        }
+      }
+    },
+    "shared.auth.contact_creatable.whatsapp_input_view" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Whatsapp"
+          }
+        }
+      }
+    },
+    "shared.auth.contact_creatable.whatsapp_number" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please provide WhatsApp number"
+          }
+        }
+      }
+    },
+    "shared.auth.contact_creatable.whatsapp_number_later" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You can add WhatsApp number later in settings"
+          }
+        }
+      }
+    },
+    "shared.auth.creatable.add_conact" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add contact"
+          }
+        }
+      }
+    },
+    "shared.auth.creatable.continue_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Continue"
+          }
+        }
+      }
+    },
+    "shared.auth.creatable.enter_name" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter your name"
+          }
+        }
+      }
+    },
+    "shared.auth.creatable.later_logo" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You can add a photo later in your profile settings"
+          }
+        }
+      }
+    },
+    "shared.auth.creatable.more_contact" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Want to add another method of communication?"
+          }
+        }
+      }
+    },
+    "shared.auth.creatable.placeholder" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Name"
+          }
+        }
+      }
+    },
+    "shared.auth.creatable.privacy" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "By clicking “Continue”, you agree to the [Privacy Policy](%1$@) and [User Agreement](%2$@)"
+          }
+        }
+      }
+    },
+    "shared.auth.creatable.registration_completed" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "If you have an invitation link, you can follow it after you complete registration"
+          }
+        }
+      }
+    },
+    "shared.auth.creatable.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Authorization"
+          }
+        }
+      }
+    },
+    "shared.auth.creatable.upload_logo" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Upload your avatar"
+          }
+        }
+      }
+    },
+    "shared.auth.creatable.welcome_message" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "**Login or register** to use the service on any device"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
