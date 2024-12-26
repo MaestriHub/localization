@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Add contact"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Add contact"
-          }
         }
       }
     },
@@ -24,12 +18,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "To save, click Create"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "To save, click Create"
           }
         }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Create"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Create"
-          }
         }
       }
     },
@@ -58,12 +40,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Enter client name"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Enter client name"
           }
         }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "There was an issue with the client contacts. Please try again. If the problem persists, contact support and mention error code: missingClientContacts"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with the client contacts. Please try again. If the problem persists, contact support and mention error code: missingClientContacts"
-          }
         }
       }
     },
@@ -92,12 +62,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "There was an issue with the client name. Please try again. If the problem persists, contact support and mention error code: missingClientName"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "There was an issue with the client name. Please try again. If the problem persists, contact support and mention error code: missingClientName"
           }
         }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "Want to add another method of communication?"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Want to add another method of communication?"
-          }
         }
       }
     },
@@ -126,12 +84,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Name"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Name"
           }
         }
@@ -145,12 +97,6 @@
             "state" : "new",
             "value" : "Creation of the Client"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Creation of the Client"
-          }
         }
       }
     },
@@ -160,12 +106,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Add a new client"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Add a new client"
           }
         }
@@ -179,12 +119,6 @@
             "state" : "new",
             "value" : "Not found"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Not found"
-          }
         }
       }
     },
@@ -194,12 +128,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Add clients"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Add clients"
           }
         }
@@ -213,12 +141,6 @@
             "state" : "new",
             "value" : "Invite client"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Invite client"
-          }
         }
       }
     },
@@ -228,12 +150,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Not found"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Not found"
           }
         }
@@ -247,12 +163,6 @@
             "state" : "new",
             "value" : "All clients"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "All clients"
-          }
         }
       }
     },
@@ -262,12 +172,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Choose a customer"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Choose a customer"
           }
         }
@@ -281,12 +185,6 @@
             "state" : "new",
             "value" : "Invite client"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Invite client"
-          }
         }
       }
     },
@@ -298,12 +196,6 @@
             "state" : "new",
             "value" : "All"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "All"
-          }
         }
       }
     },
@@ -313,12 +205,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "My clients"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "My clients"
           }
         }
