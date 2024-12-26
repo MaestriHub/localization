@@ -1,0 +1,839 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "professional.schedule.creatable.custom_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Shift schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shift schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.creatable.day_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Day schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Day schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.creatable.missing_type" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
+          }
+        }
+      }
+    },
+    "professional.schedule.creatable.schedule_type" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose a schedule type"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose a schedule type"
+          }
+        }
+      }
+    },
+    "professional.schedule.creatable.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create a schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create a schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.creatable.week_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Week schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Week schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.cycled_schedule_creatable.complete" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Complete the booking"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Complete the booking"
+          }
+        }
+      }
+    },
+    "professional.schedule.cycled_schedule_creatable.make_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Make a schedule for working days"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make a schedule for working days"
+          }
+        }
+      }
+    },
+    "professional.schedule.cycled_schedule_creatable.missing_type" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
+          }
+        }
+      }
+    },
+    "professional.schedule.cycled_schedule_creatable.select_first_day" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select first working day"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select first working day"
+          }
+        }
+      }
+    },
+    "professional.schedule.cycled_schedule_creatable.shift_schedule_select" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Specify the number of working and non-working days"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Specify the number of working and non-working days"
+          }
+        }
+      }
+    },
+    "professional.schedule.cycled_schedule_creatable.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create a schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create a schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.day_schedule_creatable.click_complete" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Click complete to create a schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Click complete to create a schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.day_schedule_creatable.configure_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set the time to configure the schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set the time to configure the schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.day_schedule_creatable.missing_type" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
+          }
+        }
+      }
+    },
+    "professional.schedule.day_schedule_creatable.select_first_day" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select first working day"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select first working day"
+          }
+        }
+      }
+    },
+    "professional.schedule.day_schedule_creatable.set_daily_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Setting up a daily schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setting up a daily schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.day_schedule_creatable.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create a schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create a schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.employee_schedule_card.breaks" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "BREAKS"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BREAKS"
+          }
+        }
+      }
+    },
+    "professional.schedule.employee_schedule_card.day_off" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "DAY OFF"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DAY OFF"
+          }
+        }
+      }
+    },
+    "professional.schedule.employee_schedule_card.work_time" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "WORK TIME"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WORK TIME"
+          }
+        }
+      }
+    },
+    "professional.schedule.employee_schedule_cell.add_break" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add break"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add break"
+          }
+        }
+      }
+    },
+    "professional.schedule.employee_schedule_cell.edit_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.employee_schedule_cell.weekend_toggle" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set as weekend"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set as weekend"
+          }
+        }
+      }
+    },
+    "professional.schedule.employee_schedule_side_cell.cycled_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Shift schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shift schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.employee_schedule_side_cell.day_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Daily schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daily schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.employee_schedule_side_cell.edit_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.employee_schedule_side_cell.edit_weekend" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit vacation"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit vacation"
+          }
+        }
+      }
+    },
+    "professional.schedule.employee_schedule_side_cell.hide_employee" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hide employee"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide employee"
+          }
+        }
+      }
+    },
+    "professional.schedule.employee_schedule_side_cell.unknown" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unknown"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown"
+          }
+        }
+      }
+    },
+    "professional.schedule.employee_schedule_side_cell.week_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Weekly template"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weekly template"
+          }
+        }
+      }
+    },
+    "professional.schedule.full_schedule_screen.edit" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit %lld"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit %lld"
+          }
+        }
+      }
+    },
+    "professional.schedule.full_schedule_screen.select_masters" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select masters"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select masters"
+          }
+        }
+      }
+    },
+    "professional.schedule.salon_schedule_side_cell.cycled_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Shift schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shift schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.salon_schedule_side_cell.day_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Daily schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daily schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.salon_schedule_side_cell.edit_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.salon_schedule_side_cell.salon_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Salon schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salon schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.salon_schedule_side_cell.weekSchedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Weekly template"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weekly template"
+          }
+        }
+      }
+    },
+    "professional.schedule.salon.missing_name" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with the salon name. Please try again. If the problem persists, contact support and mention error code: missingName"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There was an issue with the salon name. Please try again. If the problem persists, contact support and mention error code: missingName"
+          }
+        }
+      }
+    },
+    "professional.schedule.schedule_widget.break" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Break: %@"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Break: %@"
+          }
+        }
+      }
+    },
+    "professional.schedule.schedule_widget.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Working hours"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Working hours"
+          }
+        }
+      }
+    },
+    "professional.schedule.weekly_schedule_creatable.click_save" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Click save to create a schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Click save to create a schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.weekly_schedule_creatable.missing_type" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
+          }
+        }
+      }
+    },
+    "professional.schedule.weekly_schedule_creatable.select_day" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please select a day to set up your work schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please select a day to set up your work schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.weekly_schedule_creatable.select_day_sub_message" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You can choose multiple days if their schedules align"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can choose multiple days if their schedules align"
+          }
+        }
+      }
+    },
+    "professional.schedule.weekly_schedule_creatable.select_first_day" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select first working day"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select first working day"
+          }
+        }
+      }
+    },
+    "professional.schedule.weekly_schedule_creatable.setup_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You can customize the work schedule of the invited master"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can customize the work schedule of the invited master"
+          }
+        }
+      }
+    },
+    "professional.schedule.weekly_schedule_creatable.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create a schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create a schedule"
+          }
+        }
+      }
+    },
+    "professional.schedule.weekly_schedule_creatable.week_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create a template for the week, each day can be customized individually"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create a template for the week, each day can be customized individually"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
