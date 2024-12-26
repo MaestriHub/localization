@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "View"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "View"
-          }
         }
       }
     },
@@ -24,12 +18,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "History"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "History"
           }
         }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Map"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Map"
-          }
         }
       }
     },
@@ -58,12 +40,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "There are no salons nearby"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "There are no salons nearby"
           }
         }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "Login"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Login"
-          }
         }
       }
     },
@@ -94,12 +64,6 @@
             "state" : "new",
             "value" : "Map"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Map"
-          }
         }
       }
     },
@@ -109,12 +73,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Not found"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Not found"
           }
         }
