@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "To undergo verification, you must confirm one of the proposed communication methods:"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Чтобы пройти верификацию, вы должны подтвердить один из предлагаемых методов связи:"
-          }
         }
       }
     },
@@ -25,12 +19,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Continue"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Продолжить"
           }
         }
       }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Enter your contact method"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Введите ваш метод связи"
-          }
         }
       }
     },
@@ -60,12 +42,6 @@
             "state" : "new",
             "value" : "This method of communication does not coincide with the previously entered ones"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Этот метод связи не совпадает с ранее введенными"
-          }
         }
       }
     },
@@ -75,12 +51,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "\"Congratulations! You have successfully completed the verification process. \nThe salon you were invited to has been added to your favorites.\nYour order history at this salon will now be synchronized with your profile\""
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "\"Congratulations! You have successfully completed the verification process. \nThe salon you were invited to has been added to your favorites.\nYour order history at this salon will now be synchronized with your profile\""
           }
         }
@@ -94,12 +64,6 @@
             "state" : "new",
             "value" : "Client Verification"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Верификация клиента"
-          }
         }
       }
     },
@@ -110,12 +74,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Press 'Continue' to become a Master"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Нажмите 'Продолжить', чтобы стать мастером"
           }
         }
       }
@@ -128,12 +86,6 @@
             "state" : "new",
             "value" : "Continue"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Продолжить"
-          }
         }
       }
     },
@@ -144,12 +96,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "You can also create another salon"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вы также можете создать другой салон"
           }
         }
       }
@@ -162,12 +108,6 @@
             "state" : "new",
             "value" : "You can create your first salon"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вы можете создать свой первый салон"
-          }
         }
       }
     },
@@ -179,12 +119,6 @@
             "state" : "new",
             "value" : "Create salon"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Создать салон"
-          }
         }
       }
     },
@@ -195,12 +129,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Professional setup"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Профессиональные настройки"
           }
         }
       }
