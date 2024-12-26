@@ -1,3 +1,3 @@
-public enum SalonKeys: String, LocalizationKey {
+public enum SalonKeys: String, LocalizationKey, CaseIterable {
     case OwnerPositionTitle
 }
