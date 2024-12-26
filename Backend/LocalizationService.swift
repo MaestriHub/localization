@@ -9,13 +9,13 @@ public typealias LangMap = [Lang : String]
 public typealias LocalizeKnowledge = [Key : LangMap]
 public typealias LocalizedString = String
 
-protocol ILocalizationService { func by(_ key: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?) }
+public protocol ILocalizationService { func _by(_ key: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?) }
 public protocol ILocalizationParser { func getKnowledge(path: String) async -> LocalizeKnowledge }
 
-extension Request {
+public extension Request {
 
     struct LocalizationServiceStorageKey: StorageKey {
-        typealias Value = ILocalizationService
+        public typealias Value = ILocalizationService
     }
     
     var localize: ILocalizationService {
@@ -48,8 +48,8 @@ public enum Nuance: Error {
     case badLang
 }
 
-extension LocalizationService {
-    func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?) {
+public extension LocalizationService {
+    func _by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?) {
         if let valueLocalization = knowledge[localizeKey.key] {
             if let lang, let successLocalization = valueLocalization[lang] {
                 return (successLocalization, nil)
