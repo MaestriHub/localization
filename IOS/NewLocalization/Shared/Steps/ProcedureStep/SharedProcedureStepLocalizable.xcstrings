@@ -9,6 +9,12 @@
             "state" : "new",
             "value" : "Edit"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Редактирование"
+          }
         }
       }
     },
@@ -19,6 +25,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Apply"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Применить"
           }
         }
       }
@@ -31,6 +43,12 @@
             "state" : "new",
             "value" : "Brows"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Браузеры"
+          }
         }
       }
     },
@@ -41,6 +59,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Cosmetology"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Косметология"
           }
         }
       }
@@ -53,6 +77,12 @@
             "state" : "new",
             "value" : "Depilation"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Декомпиляция"
+          }
         }
       }
     },
@@ -63,6 +93,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Epilation"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Эпиляция"
           }
         }
       }
@@ -75,6 +111,12 @@
             "state" : "new",
             "value" : "Hairdressing"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Парикмахерская"
+          }
         }
       }
     },
@@ -85,6 +127,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Lashes"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Смешивает"
           }
         }
       }
@@ -97,6 +145,12 @@
             "state" : "new",
             "value" : "Makeup"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Макияж"
+          }
         }
       }
     },
@@ -107,6 +161,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Massage"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Массаж"
           }
         }
       }
@@ -119,6 +179,12 @@
             "state" : "new",
             "value" : "Nails"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гвозди"
+          }
         }
       }
     },
@@ -129,6 +195,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Not found"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не найдено"
           }
         }
       }
@@ -141,6 +213,12 @@
             "state" : "new",
             "value" : "Other"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прочие вопросы"
+          }
         }
       }
     },
@@ -151,6 +229,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Piercing"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пронзительный"
           }
         }
       }
@@ -163,6 +247,12 @@
             "state" : "new",
             "value" : "Spa"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Спа"
+          }
         }
       }
     },
@@ -173,6 +263,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Tattoo"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тату"
           }
         }
       }
@@ -185,6 +281,12 @@
             "state" : "new",
             "value" : "**Before undergoing the procedure, you need to know the following:**"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Перед прохождением процедуры необходимо знать следующее: **"
+          }
         }
       }
     },
@@ -195,6 +297,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "We are looking for information about the procedure, we need a little time"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мы ищем информацию о процедуре, нам нужно немного времени"
           }
         }
       }
@@ -207,6 +315,12 @@
             "state" : "new",
             "value" : "Procedure not found"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Процедура не найдена"
+          }
         }
       }
     },
@@ -218,6 +332,12 @@
             "state" : "new",
             "value" : "Select"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбрать"
+          }
         }
       }
     },
@@ -228,6 +348,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Select a procedure"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите процедуру"
           }
         }
       }
