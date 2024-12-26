@@ -1,5 +1,6 @@
 import Vapor
 import Foundation
+import MaestriLogger
 
 // MARK: LocalizationService
 
@@ -7,7 +8,7 @@ public typealias Key = String
 public typealias LangMap = [Lang : String]
 public typealias LocalizeKnowledge = [Key : LangMap]
 
-public protocol ILocalizationService { func by(_ key: LocalizableKeys, _ lang: Lang?) async -> String }
+public protocol ILocalizationService { func by(_ key: LocalizableKeys, _ lang: Lang?) async throws -> String }
 public protocol ILocalizationParser { func getKnowledge(path: String) async -> LocalizeKnowledge }
 
 public extension Request {
@@ -32,7 +33,6 @@ public extension Request {
 public actor LocalizationService: ILocalizationService {
     public static var localizeDirectory = #file
     
-    let logger = Logger(label: "LocalizationService.logger")
     private let knowledge: LocalizeKnowledge
     
     public init(
@@ -44,17 +44,17 @@ public actor LocalizationService: ILocalizationService {
 
 public extension LocalizationService {
     
-    func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async -> String {
+    func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async throws -> String {
         if let valueLocalization = knowledge[localizeKey.key] {
             if let lang, let successLocalization = valueLocalization[lang] {
                 return successLocalization
             } else if let anyValue = valueLocalization[Lang.base] {
-                logger.error("No Lang \(String(describing: lang)) for LocalizeKey \(localizeKey.key)")
+                Log.error("No Lang \(String(describing: lang)) for LocalizeKey \(localizeKey.key)")
                 return anyValue
             }
         }
         
-        logger.error("Empty LocalizeKey \(localizeKey.key)")
+        Log.error("Empty LocalizeKey \(localizeKey.key)")
         return ""
     }
 }

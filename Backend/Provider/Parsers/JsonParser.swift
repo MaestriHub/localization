@@ -1,9 +1,8 @@
 import Vapor
 import Foundation
+import MaestriLogger
 
 public struct JsonParser: ILocalizationParser {
-    let logger = Logger(label: "json.parser")
-    
     public init() {}
     
     public func getKnowledge(path: String) async -> LocalizeKnowledge {
@@ -18,7 +17,7 @@ public struct JsonParser: ILocalizationParser {
         Lang.allCases.forEach({ lang in
             LocalizationFiles.allCases.forEach({ locFile in
                 guard let dirLocalize = dirLocalize(path: resourcePath, lang: lang, file: locFile) else {
-                    logger.error("not parsed path: \(resourcePath), file: \(locFile)")
+                    Log.error("not parsed path: \(resourcePath), file: \(locFile)")
                     return
                 }
                 dirLocalize.forEach({ key, value in
