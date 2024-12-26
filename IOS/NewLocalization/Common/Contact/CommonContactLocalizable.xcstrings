@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Add new contact"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Add new contact"
-          }
         }
       }
     },
@@ -24,12 +18,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Confirm deleting the contact"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Confirm deleting the contact"
           }
         }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Contact methods not specified"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Contact methods not specified"
-          }
         }
       }
     },
@@ -58,12 +40,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Edit"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Edit"
           }
         }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "Save"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Save"
-          }
         }
       }
     },
@@ -92,12 +62,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Contacts"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Contacts"
           }
         }
