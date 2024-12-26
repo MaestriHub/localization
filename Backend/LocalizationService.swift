@@ -8,7 +8,7 @@ public typealias Key = String
 public typealias LangMap = [Lang : String]
 public typealias LocalizeKnowledge = [Key : LangMap]
 
-public protocol ILocalizationService { func by(_ key: LocalizableKeys, _ lang: Lang?) async throws -> String }
+public protocol ILocalizationService { func by(_ key: LocalizableKeys, _ lang: Lang?) async -> String }
 public protocol ILocalizationParser { func getKnowledge(path: String) async -> LocalizeKnowledge }
 
 public extension Request {
@@ -44,7 +44,7 @@ public actor LocalizationService: ILocalizationService {
 
 public extension LocalizationService {
     
-    func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async throws -> String {
+    func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async -> String {
         if let valueLocalization = knowledge[localizeKey.key] {
             if let lang, let successLocalization = valueLocalization[lang] {
                 return successLocalization
