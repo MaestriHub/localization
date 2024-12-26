@@ -94,7 +94,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ %#@procedures@ in %#@appointment@ %4$@"
           },
           "substitutions" : {
@@ -105,25 +105,25 @@
                 "plural" : {
                   "few" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "new",
                       "value" : "%arg appointments"
                     }
                   },
                   "many" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "new",
                       "value" : "%arg appointments"
                     }
                   },
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "new",
                       "value" : "%arg appointment"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "new",
                       "value" : "%arg appointments"
                     }
                   },
@@ -143,25 +143,25 @@
                 "plural" : {
                   "few" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "new",
                       "value" : "%arg procedures"
                     }
                   },
                   "many" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "new",
                       "value" : "%arg procedures"
                     }
                   },
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "new",
                       "value" : "%arg procedure"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "new",
                       "value" : "%arg procedures"
                     }
                   }
