@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Break: %@"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Break: %@"
-          }
         }
       }
     },
@@ -26,12 +20,6 @@
             "state" : "new",
             "value" : "Day off"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Day off"
-          }
         }
       }
     },
@@ -41,12 +29,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Working hours"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Working hours"
           }
         }
