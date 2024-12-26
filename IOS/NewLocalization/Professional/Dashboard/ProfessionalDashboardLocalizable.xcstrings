@@ -9,6 +9,12 @@
             "state" : "new",
             "value" : "Great! Now add your salon address so clients can easily find you"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отлично! Теперь добавьте адрес вашего салона, чтобы клиенты могли легко найти вас"
+          }
         }
       }
     },
@@ -19,6 +25,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Add contact"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Добавить контакт"
           }
         }
       }
@@ -31,6 +43,12 @@
             "state" : "new",
             "value" : "Allow"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разрешить"
+          }
         }
       }
     },
@@ -41,6 +59,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Chain of beauty salons"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цепь салонов красоты"
           }
         }
       }
@@ -53,6 +77,12 @@
             "state" : "new",
             "value" : "To save, click Create"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Для сохранения нажмите Создать"
+          }
         }
       }
     },
@@ -63,6 +93,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Congratulations, you have successfully created a salon!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поздравляем, вы успешно создали салон!"
           }
         }
       }
@@ -75,6 +111,12 @@
             "state" : "new",
             "value" : "Create"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Создать"
+          }
         }
       }
     },
@@ -85,6 +127,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Description"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Описание"
           }
         }
       }
@@ -97,6 +145,12 @@
             "state" : "new",
             "value" : "Enter the name of your salon"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Введите название вашего салона"
+          }
         }
       }
     },
@@ -107,6 +161,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Please give a description of the salon"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пожалуйста, дайте описание салона"
           }
         }
       }
@@ -119,6 +179,12 @@
             "state" : "new",
             "value" : "Beauty saloon"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Салон красоты"
+          }
         }
       }
     },
@@ -129,6 +195,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Later you can add a logo in your salon settings"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Позже вы можете добавить логотип в настройках салона"
           }
         }
       }
@@ -141,6 +213,12 @@
             "state" : "new",
             "value" : "Individual master"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Индивидуальный мастер"
+          }
         }
       }
     },
@@ -151,6 +229,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "There was an issue with the salon address. Please try again. If the problem persists, contact support and mention error code: missingAddress"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "С адресом салона возникла проблема. Пожалуйста, попробуйте еще раз. Если проблема не устранена, обратитесь в службу поддержки и укажите код ошибки: отсутствует адрес"
           }
         }
       }
@@ -163,6 +247,12 @@
             "state" : "new",
             "value" : "There was an issue with the salon locale. Please try again. If the problem persists, contact support and mention error code: missingLocale"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Возникла проблема с локалью салона. Пожалуйста, попробуйте еще раз. Если проблема повторится, обратитесь в службу поддержки и укажите код ошибки: missingLocale"
+          }
         }
       }
     },
@@ -173,6 +263,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "There was an issue with the salon name. Please try again. If the problem persists, contact support and mention error code: missingName"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Возникла проблема с названием салона. Пожалуйста, попробуйте еще раз. Если проблема повторится, обратитесь в службу поддержки и укажите код ошибки: missingName"
           }
         }
       }
@@ -185,6 +281,12 @@
             "state" : "new",
             "value" : "There was an issue with the salon time zone. Please try again. If the problem persists, contact support and mention error code: missingTimeZone"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Возникла проблема с часовым поясом салона. Пожалуйста, попробуйте еще раз. Если проблема не устранена, обратитесь в службу поддержки и укажите код ошибки: missingTimeZone"
+          }
         }
       }
     },
@@ -195,6 +297,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "There was an issue with the salon timetable. Please try again. If the problem persists, contact support and mention error code: missingTimetable"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Возникла проблема с расписанием салона. Пожалуйста, попробуйте еще раз. Если проблема не устранена, обратитесь в службу поддержки и укажите код ошибки: missingTimetable"
           }
         }
       }
@@ -207,6 +315,12 @@
             "state" : "new",
             "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "С типом салона возникла проблема. Пожалуйста, попробуйте еще раз. Если проблема повторится, обратитесь в службу поддержки и укажите код ошибки: missingType"
+          }
         }
       }
     },
@@ -217,6 +331,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Want to add another method of communication?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хотите добавить другой метод коммуникации?"
           }
         }
       }
@@ -229,6 +349,12 @@
             "state" : "new",
             "value" : "To receive messages from clients, you must enable notifications"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чтобы получать сообщения от клиентов, необходимо включить уведомления"
+          }
         }
       }
     },
@@ -239,6 +365,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Salon name"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Название Салона"
           }
         }
       }
@@ -251,6 +383,12 @@
             "state" : "new",
             "value" : "Select the type of salon to be created"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите тип создаваемого салона"
+          }
         }
       }
     },
@@ -262,6 +400,12 @@
             "state" : "new",
             "value" : "Creation of a salon"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Создание салона"
+          }
         }
       }
     },
@@ -271,6 +415,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "You have disabled push notifications in [settings](%@), please enable them there"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "You have disabled push notifications in [settings](%@), please enable them there"
           }
         }
@@ -284,6 +434,12 @@
             "state" : "new",
             "value" : "Great! Now upload your salon logo so we can make it recognizable."
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отлично! Загрузите логотип вашего салона, чтобы мы могли сделать его узнаваемым."
+          }
         }
       }
     },
@@ -294,6 +450,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Activate"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Активировать"
           }
         }
       }
@@ -306,6 +468,12 @@
             "state" : "new",
             "value" : "Restore salon operations"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Восстановить операции салона"
+          }
         }
       }
     },
@@ -316,6 +484,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Activate Salon"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Активировать салон"
           }
         }
       }
@@ -328,6 +502,12 @@
             "state" : "new",
             "value" : "Deactivate"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Деактивировать"
+          }
         }
       }
     },
@@ -338,6 +518,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Stop the salon, remove from search"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Остановить салон, удалить из поиска"
           }
         }
       }
@@ -350,6 +536,12 @@
             "state" : "new",
             "value" : "Confirm shutdown"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подтвердите выключение"
+          }
         }
       }
     },
@@ -360,6 +552,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Deactivate Salon"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отключить салон"
           }
         }
       }
@@ -372,6 +570,12 @@
             "state" : "new",
             "value" : "Delete"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удалить"
+          }
         }
       }
     },
@@ -382,6 +586,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Action cannot be undone"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Действие не может быть отменено"
           }
         }
       }
@@ -394,6 +604,12 @@
             "state" : "new",
             "value" : "To confirm, type salon name in the box below"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чтобы подтвердить, введите название салона в поле ниже"
+          }
         }
       }
     },
@@ -404,6 +620,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Delete Salon"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удалить салон"
           }
         }
       }
@@ -416,6 +638,12 @@
             "state" : "new",
             "value" : "The action cannot be undone. Are you sure you want to delete?"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Это действие нельзя отменить. Вы уверены, что хотите удалить?"
+          }
         }
       }
     },
@@ -426,6 +654,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Try again!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Попробуйте снова!"
           }
         }
       }
@@ -438,6 +672,12 @@
             "state" : "new",
             "value" : "The salon name does not match"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Название салона не совпадает"
+          }
         }
       }
     },
@@ -448,6 +688,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Nickname"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ник"
           }
         }
       }
@@ -460,6 +706,12 @@
             "state" : "new",
             "value" : "Danger Zone"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Опасная зона"
+          }
         }
       }
     },
@@ -470,6 +722,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Warning"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Предупреждение"
           }
         }
       }
@@ -482,6 +740,12 @@
             "state" : "new",
             "value" : "Set up your salon first"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сначала настройте ваш салон"
+          }
         }
       }
     },
@@ -492,6 +756,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "To create an appointment, you must first create a service"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чтобы создать встречу, необходимо сначала создать службу"
           }
         }
       }
@@ -504,6 +774,12 @@
             "state" : "new",
             "value" : "Description"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Описание"
+          }
         }
       }
     },
@@ -514,6 +790,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Enter a new name for your salon"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Введите новое название для вашего салона"
           }
         }
       }
@@ -526,6 +808,12 @@
             "state" : "new",
             "value" : "Please give a description of the salon"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пожалуйста, дайте описание салона"
+          }
         }
       }
     },
@@ -536,6 +824,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Salon name"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Название Салона"
           }
         }
       }
@@ -548,6 +842,12 @@
             "state" : "new",
             "value" : "Select salon type"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите тип салона"
+          }
         }
       }
     },
@@ -559,6 +859,12 @@
             "state" : "new",
             "value" : "Editing the salon"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Редактирование салона"
+          }
         }
       }
     },
@@ -569,6 +875,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Upload a new logo"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Загрузить новый логотип"
           }
         }
       }
