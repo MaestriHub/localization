@@ -7,14 +7,15 @@ import MaestriLogger
 public typealias Key = String
 public typealias LangMap = [Lang : String]
 public typealias LocalizeKnowledge = [Key : LangMap]
+public typealias LocalizedString = String
 
-public protocol ILocalizationService { func by(_ key: LocalizableKeys, _ lang: Lang?) async throws -> String }
+protocol ILocalizationService { func by(_ key: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?) }
 public protocol ILocalizationParser { func getKnowledge(path: String) async -> LocalizeKnowledge }
 
-public extension Request {
+extension Request {
 
     struct LocalizationServiceStorageKey: StorageKey {
-        public typealias Value = ILocalizationService
+        typealias Value = ILocalizationService
     }
     
     var localize: ILocalizationService {
@@ -42,26 +43,24 @@ public actor LocalizationService: ILocalizationService {
     }
 }
 
-public extension LocalizationService {
-    
-    enum Errors: Error { // проверить что работает на linux
-        case badKey
-        case badLang
-    }
-    
-    //TODO: Интересная идея, а может имплементацию вынести на основной сервер и там обмазать логгером?
-    func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async throws -> String {
+public enum Nuance: Error {
+    case badKey
+    case badLang
+}
+
+extension LocalizationService {
+    func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?) {
         if let valueLocalization = knowledge[localizeKey.key] {
             if let lang, let successLocalization = valueLocalization[lang] {
-                return successLocalization
-            } else { // наверное нужно логгер вынести в api-app
+                return (successLocalization, nil)
+            } else if let baseLocalization = valueLocalization[.base] {
                 Log.error("No Lang \(String(describing: lang)) for LocalizeKey \(localizeKey.key)")
-                throw Errors.badKey
+                return (baseLocalization, .badLang)
             }
         }
         
         Log.error("Empty LocalizeKey \(localizeKey.key)")
-        throw Errors.badLang
+        return ("unknown", .badKey)
     }
 }
 
