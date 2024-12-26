@@ -8,7 +8,7 @@ public typealias Key = String
 public typealias LangMap = [Lang : String]
 public typealias LocalizeKnowledge = [Key : LangMap]
 
-public protocol ILocalizationService { func by(_ key: LocalizableKeys, _ lang: Lang?) async -> String }
+public protocol ILocalizationService { func by(_ key: LocalizableKeys, _ lang: Lang?) async throws -> String }
 public protocol ILocalizationParser { func getKnowledge(path: String) async -> LocalizeKnowledge }
 
 public extension Request {
@@ -44,18 +44,23 @@ public actor LocalizationService: ILocalizationService {
 
 public extension LocalizationService {
     
-    func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async -> String {
+    enum Errors: Error { // проверить что работает на linux
+        case badKey
+        case badLang
+    }
+    
+    func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async throws(Errors) -> String {
         if let valueLocalization = knowledge[localizeKey.key] {
             if let lang, let successLocalization = valueLocalization[lang] {
                 return successLocalization
-            } else if let anyValue = valueLocalization[Lang.base] {
+            } else {
                 Log.error("No Lang \(String(describing: lang)) for LocalizeKey \(localizeKey.key)")
-                return anyValue
+                throw Errors.badKey
             }
         }
         
         Log.error("Empty LocalizeKey \(localizeKey.key)")
-        return ""
+        throw Errors.badLang
     }
 }
 
