@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Declined by customer"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Declined by customer"
-          }
         }
       }
     },
@@ -24,12 +18,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Need your action"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Need your action"
           }
         }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "To save, click Complete"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "To save, click Complete"
-          }
         }
       }
     },
@@ -58,12 +40,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Complete the booking"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Complete the booking"
           }
         }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "Appointment"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Appointment"
-          }
         }
       }
     },
@@ -92,12 +62,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "There was an issue with selecting a date and time. Please try again. If the problem persists, contact support and mention error code: missingDateInterval"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "There was an issue with selecting a date and time. Please try again. If the problem persists, contact support and mention error code: missingDateInterval"
           }
         }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "There was an issue with selecting a master. Please try again. If the problem persists, contact support and mention error code: missingMaster"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with selecting a master. Please try again. If the problem persists, contact support and mention error code: missingMaster"
-          }
         }
       }
     },
@@ -126,12 +84,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "There was an issue with selecting procedures. Please try again. If the problem persists, contact support and mention error code: missingProcedures"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "There was an issue with selecting procedures. Please try again. If the problem persists, contact support and mention error code: missingProcedures"
           }
         }
@@ -145,12 +97,6 @@
             "state" : "new",
             "value" : "Declined by customer"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Declined by customer"
-          }
         }
       }
     },
@@ -160,12 +106,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Expired"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Expired"
           }
         }
@@ -179,12 +119,6 @@
             "state" : "new",
             "value" : "Need your action"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Need your action"
-          }
         }
       }
     },
@@ -194,12 +128,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "To save, click Complete"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "To save, click Complete"
           }
         }
@@ -213,12 +141,6 @@
             "state" : "new",
             "value" : "Complete the booking"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Complete the booking"
-          }
         }
       }
     },
@@ -228,12 +150,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Congratulations, you have successfully created a salon!"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Congratulations, you have successfully created a salon!"
           }
         }
@@ -247,12 +163,6 @@
             "state" : "new",
             "value" : "There was an issue with selecting a date and time. Please try again. If the problem persists, contact support and mention error code: missingDateInterval"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with selecting a date and time. Please try again. If the problem persists, contact support and mention error code: missingDateInterval"
-          }
         }
       }
     },
@@ -262,12 +172,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "There was an issue with selecting a master. Please try again. If the problem persists, contact support and mention error code: missingMaster"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "There was an issue with selecting a master. Please try again. If the problem persists, contact support and mention error code: missingMaster"
           }
         }
@@ -281,12 +185,6 @@
             "state" : "new",
             "value" : "There was an issue with selecting procedures. Please try again. If the problem persists, contact support and mention error code: missingProcedures"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with selecting procedures. Please try again. If the problem persists, contact support and mention error code: missingProcedures"
-          }
         }
       }
     },
@@ -296,12 +194,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Appointment"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Appointment"
           }
         }
@@ -315,12 +207,6 @@
             "state" : "new",
             "value" : "No entries for this day"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No entries for this day"
-          }
         }
       }
     },
@@ -330,12 +216,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Appointments"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Appointments"
           }
         }
@@ -349,12 +229,6 @@
             "state" : "new",
             "value" : "Congratulations, you have successfully created a salon!"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Congratulations, you have successfully created a salon!"
-          }
         }
       }
     },
@@ -364,12 +238,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "No entries for this day"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "No entries for this day"
           }
         }
@@ -383,12 +251,6 @@
             "state" : "new",
             "value" : "Expired"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Expired"
-          }
         }
       }
     },
@@ -398,12 +260,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Appointments"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Appointments"
           }
         }
