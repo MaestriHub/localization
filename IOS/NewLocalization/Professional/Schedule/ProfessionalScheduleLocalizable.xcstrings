@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Shift schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Shift schedule"
-          }
         }
       }
     },
@@ -24,12 +18,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Day schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Day schedule"
           }
         }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
-          }
         }
       }
     },
@@ -58,12 +40,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Choose a schedule type"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Choose a schedule type"
           }
         }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "Create a schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Create a schedule"
-          }
         }
       }
     },
@@ -92,12 +62,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Week schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Week schedule"
           }
         }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "Complete the booking"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Complete the booking"
-          }
         }
       }
     },
@@ -126,12 +84,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Make a schedule for working days"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Make a schedule for working days"
           }
         }
@@ -145,12 +97,6 @@
             "state" : "new",
             "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
-          }
         }
       }
     },
@@ -160,12 +106,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Select first working day"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Select first working day"
           }
         }
@@ -179,12 +119,6 @@
             "state" : "new",
             "value" : "Specify the number of working and non-working days"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Specify the number of working and non-working days"
-          }
         }
       }
     },
@@ -194,12 +128,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Create a schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Create a schedule"
           }
         }
@@ -213,12 +141,6 @@
             "state" : "new",
             "value" : "Click complete to create a schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Click complete to create a schedule"
-          }
         }
       }
     },
@@ -228,12 +150,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Set the time to configure the schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Set the time to configure the schedule"
           }
         }
@@ -247,12 +163,6 @@
             "state" : "new",
             "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
-          }
         }
       }
     },
@@ -262,12 +172,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Select first working day"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Select first working day"
           }
         }
@@ -281,12 +185,6 @@
             "state" : "new",
             "value" : "Setting up a daily schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Setting up a daily schedule"
-          }
         }
       }
     },
@@ -296,12 +194,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Create a schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Create a schedule"
           }
         }
@@ -315,12 +207,6 @@
             "state" : "new",
             "value" : "BREAKS"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "BREAKS"
-          }
         }
       }
     },
@@ -330,12 +216,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "DAY OFF"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "DAY OFF"
           }
         }
@@ -349,12 +229,6 @@
             "state" : "new",
             "value" : "WORK TIME"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "WORK TIME"
-          }
         }
       }
     },
@@ -364,12 +238,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Add break"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Add break"
           }
         }
@@ -383,12 +251,6 @@
             "state" : "new",
             "value" : "Edit schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Edit schedule"
-          }
         }
       }
     },
@@ -398,12 +260,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Set as weekend"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Set as weekend"
           }
         }
@@ -417,12 +273,6 @@
             "state" : "new",
             "value" : "Shift schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Shift schedule"
-          }
         }
       }
     },
@@ -432,12 +282,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Daily schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Daily schedule"
           }
         }
@@ -451,12 +295,6 @@
             "state" : "new",
             "value" : "Edit schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Edit schedule"
-          }
         }
       }
     },
@@ -466,12 +304,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Edit vacation"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Edit vacation"
           }
         }
@@ -485,12 +317,6 @@
             "state" : "new",
             "value" : "Hide employee"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hide employee"
-          }
         }
       }
     },
@@ -500,12 +326,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Unknown"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Unknown"
           }
         }
@@ -519,12 +339,6 @@
             "state" : "new",
             "value" : "Weekly template"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Weekly template"
-          }
         }
       }
     },
@@ -534,12 +348,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Edit %lld"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Edit %lld"
           }
         }
@@ -553,12 +361,6 @@
             "state" : "new",
             "value" : "Select masters"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Select masters"
-          }
         }
       }
     },
@@ -568,12 +370,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Shift schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Shift schedule"
           }
         }
@@ -587,12 +383,6 @@
             "state" : "new",
             "value" : "Daily schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Daily schedule"
-          }
         }
       }
     },
@@ -602,12 +392,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Edit schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Edit schedule"
           }
         }
@@ -621,12 +405,6 @@
             "state" : "new",
             "value" : "Salon schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Salon schedule"
-          }
         }
       }
     },
@@ -636,12 +414,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Weekly template"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Weekly template"
           }
         }
@@ -655,12 +427,6 @@
             "state" : "new",
             "value" : "There was an issue with the salon name. Please try again. If the problem persists, contact support and mention error code: missingName"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with the salon name. Please try again. If the problem persists, contact support and mention error code: missingName"
-          }
         }
       }
     },
@@ -670,12 +436,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Break: %@"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Break: %@"
           }
         }
@@ -689,12 +449,6 @@
             "state" : "new",
             "value" : "Working hours"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Working hours"
-          }
         }
       }
     },
@@ -704,12 +458,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Click save to create a schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Click save to create a schedule"
           }
         }
@@ -723,12 +471,6 @@
             "state" : "new",
             "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
-          }
         }
       }
     },
@@ -738,12 +480,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Please select a day to set up your work schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Please select a day to set up your work schedule"
           }
         }
@@ -757,12 +493,6 @@
             "state" : "new",
             "value" : "You can choose multiple days if their schedules align"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "You can choose multiple days if their schedules align"
-          }
         }
       }
     },
@@ -772,12 +502,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Select first working day"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Select first working day"
           }
         }
@@ -791,12 +515,6 @@
             "state" : "new",
             "value" : "You can customize the work schedule of the invited master"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "You can customize the work schedule of the invited master"
-          }
         }
       }
     },
@@ -808,12 +526,6 @@
             "state" : "new",
             "value" : "Create a schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Create a schedule"
-          }
         }
       }
     },
@@ -823,12 +535,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Create a template for the week, each day can be customized individually"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Create a template for the week, each day can be customized individually"
           }
         }
