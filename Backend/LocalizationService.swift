@@ -53,7 +53,7 @@ public extension LocalizationService {
         if let valueLocalization = knowledge[localizeKey.key] {
             if let lang, let successLocalization = valueLocalization[lang] {
                 return successLocalization
-            } else {
+            } else { // наверное нужно логгер вынести в api-app
                 Log.error("No Lang \(String(describing: lang)) for LocalizeKey \(localizeKey.key)")
                 throw Errors.badKey
             }
