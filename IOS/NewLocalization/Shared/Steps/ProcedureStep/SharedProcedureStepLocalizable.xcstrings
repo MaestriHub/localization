@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Edit"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Edit"
-          }
         }
       }
     },
@@ -24,12 +18,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Apply"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Apply"
           }
         }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Brows"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Brows"
-          }
         }
       }
     },
@@ -58,12 +40,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Cosmetology"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Cosmetology"
           }
         }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "Depilation"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Depilation"
-          }
         }
       }
     },
@@ -92,12 +62,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Epilation"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Epilation"
           }
         }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "Hairdressing"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hairdressing"
-          }
         }
       }
     },
@@ -126,12 +84,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Lashes"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Lashes"
           }
         }
@@ -145,12 +97,6 @@
             "state" : "new",
             "value" : "Makeup"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Makeup"
-          }
         }
       }
     },
@@ -160,12 +106,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Massage"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Massage"
           }
         }
@@ -179,12 +119,6 @@
             "state" : "new",
             "value" : "Nails"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nails"
-          }
         }
       }
     },
@@ -194,12 +128,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Not found"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Not found"
           }
         }
@@ -213,12 +141,6 @@
             "state" : "new",
             "value" : "Other"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Other"
-          }
         }
       }
     },
@@ -228,12 +150,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Piercing"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Piercing"
           }
         }
@@ -247,12 +163,6 @@
             "state" : "new",
             "value" : "Spa"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Spa"
-          }
         }
       }
     },
@@ -262,12 +172,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Tattoo"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Tattoo"
           }
         }
@@ -281,12 +185,6 @@
             "state" : "new",
             "value" : "**Before undergoing the procedure, you need to know the following:**"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "**Before undergoing the procedure, you need to know the following:**"
-          }
         }
       }
     },
@@ -296,12 +194,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "We are looking for information about the procedure, we need a little time"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "We are looking for information about the procedure, we need a little time"
           }
         }
@@ -315,12 +207,6 @@
             "state" : "new",
             "value" : "Procedure not found"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Procedure not found"
-          }
         }
       }
     },
@@ -332,12 +218,6 @@
             "state" : "new",
             "value" : "Select"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Select"
-          }
         }
       }
     },
@@ -347,12 +227,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Select a procedure"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Select a procedure"
           }
         }
