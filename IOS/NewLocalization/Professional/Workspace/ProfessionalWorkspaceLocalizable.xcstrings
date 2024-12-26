@@ -9,6 +9,12 @@
             "state" : "new",
             "value" : "Declined by customer"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отказано от клиента"
+          }
         }
       }
     },
@@ -19,6 +25,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "No entries for this day"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нет записей за этот день"
           }
         }
       }
@@ -31,6 +43,12 @@
             "state" : "new",
             "value" : "Expired"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Истёк"
+          }
         }
       }
     },
@@ -41,6 +59,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Need your action"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нужно ваше действие"
           }
         }
       }
@@ -53,6 +77,12 @@
             "state" : "new",
             "value" : "Register a client"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зарегистрировать клиента"
+          }
         }
       }
     },
@@ -63,6 +93,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Today:"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сегодня:"
           }
         }
       }
@@ -75,6 +111,12 @@
             "state" : "new",
             "value" : "Before creating an appointment, you must activate the salon"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перед созданием встречи, вы должны активировать салон"
+          }
         }
       }
     },
@@ -85,6 +127,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Failed to create appointment"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не удалось создать прием"
           }
         }
       }
@@ -97,6 +145,12 @@
             "state" : "new",
             "value" : "Appointments"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Назначения"
+          }
         }
       }
     },
@@ -108,6 +162,12 @@
             "state" : "new",
             "value" : "Transfer the appointment?"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перенести встречу?"
+          }
         }
       }
     },
@@ -117,6 +177,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "%lld masters"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "%lld masters"
           }
         }
@@ -130,6 +196,12 @@
             "state" : "new",
             "value" : "Masters quantity"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Количество мастеров"
+          }
         }
       }
     },
@@ -140,6 +212,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "%lld minutes"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld минут"
           }
         }
       }
@@ -152,6 +230,12 @@
             "state" : "new",
             "value" : "Diary"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дневник"
+          }
         }
       }
     },
@@ -163,6 +247,12 @@
             "state" : "new",
             "value" : "List"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Список"
+          }
         }
       }
     },
@@ -173,6 +263,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Schedule multiplicity"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "График множественности"
           }
         }
       }
