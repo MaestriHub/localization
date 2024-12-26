@@ -41,7 +41,7 @@ public extension L10n.Professional.Dashboard.DangerZoneWidget {
         "professional.dashboard.danger_zone_widget.title",
         defaultValue: "Danger Zone",
         table: "ProfessionalDashboardLocalizable",
-        bundle: .module
+        bundle: .main
     )
     
     static let deactivateTitle = LocalizedStringResource(
