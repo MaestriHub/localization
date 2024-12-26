@@ -9,7 +9,7 @@ public typealias LangMap = [Lang : String]
 public typealias LocalizeKnowledge = [Key : LangMap]
 public typealias LocalizedString = String
 
-public protocol ILocalizationService { func _by(_ key: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?) }
+public protocol ILocalizationService { func by(_ key: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?) }
 public protocol ILocalizationParser { func getKnowledge(path: String) async -> LocalizeKnowledge }
 
 public extension Request {
