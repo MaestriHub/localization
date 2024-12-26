@@ -9,6 +9,12 @@
             "state" : "new",
             "value" : "View"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вид"
+          }
         }
       }
     },
@@ -19,6 +25,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "History"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "История"
           }
         }
       }
@@ -31,6 +43,12 @@
             "state" : "new",
             "value" : "Map"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Карта"
+          }
         }
       }
     },
@@ -41,6 +59,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "There are no salons nearby"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нет магазинов поблизости"
           }
         }
       }
@@ -53,6 +77,12 @@
             "state" : "new",
             "value" : "Login"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Логин"
+          }
         }
       }
     },
@@ -64,6 +94,12 @@
             "state" : "new",
             "value" : "Map"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Карта"
+          }
         }
       }
     },
@@ -74,6 +110,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Not found"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не найдено"
           }
         }
       }
