@@ -5,7 +5,7 @@ preserve_hierarchy: 1
 bundles:
   - 1
 files:
-  - source: /IOS/*.xcstrings
+  - source: /IOS/**/*.xcstrings
     ignore:
       - /**/*.swift
     translation: /%original_path%/%original_file_name%
