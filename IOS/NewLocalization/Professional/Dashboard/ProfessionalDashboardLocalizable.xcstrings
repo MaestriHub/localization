@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Great! Now add your salon address so clients can easily find you"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Great! Now add your salon address so clients can easily find you"
-          }
         }
       }
     },
@@ -24,12 +18,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Add contact"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Add contact"
           }
         }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Allow"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Allow"
-          }
         }
       }
     },
@@ -58,12 +40,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Chain of beauty salons"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Chain of beauty salons"
           }
         }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "To save, click Create"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "To save, click Create"
-          }
         }
       }
     },
@@ -92,12 +62,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Congratulations, you have successfully created a salon!"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Congratulations, you have successfully created a salon!"
           }
         }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "Create"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Create"
-          }
         }
       }
     },
@@ -126,12 +84,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Description"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Description"
           }
         }
@@ -145,12 +97,6 @@
             "state" : "new",
             "value" : "Enter the name of your salon"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enter the name of your salon"
-          }
         }
       }
     },
@@ -160,12 +106,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Please give a description of the salon"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Please give a description of the salon"
           }
         }
@@ -179,12 +119,6 @@
             "state" : "new",
             "value" : "Beauty saloon"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Beauty saloon"
-          }
         }
       }
     },
@@ -194,12 +128,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Later you can add a logo in your salon settings"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Later you can add a logo in your salon settings"
           }
         }
@@ -213,12 +141,6 @@
             "state" : "new",
             "value" : "Individual master"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Individual master"
-          }
         }
       }
     },
@@ -228,12 +150,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "There was an issue with the salon address. Please try again. If the problem persists, contact support and mention error code: missingAddress"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "There was an issue with the salon address. Please try again. If the problem persists, contact support and mention error code: missingAddress"
           }
         }
@@ -247,12 +163,6 @@
             "state" : "new",
             "value" : "There was an issue with the salon locale. Please try again. If the problem persists, contact support and mention error code: missingLocale"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with the salon locale. Please try again. If the problem persists, contact support and mention error code: missingLocale"
-          }
         }
       }
     },
@@ -262,12 +172,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "There was an issue with the salon name. Please try again. If the problem persists, contact support and mention error code: missingName"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "There was an issue with the salon name. Please try again. If the problem persists, contact support and mention error code: missingName"
           }
         }
@@ -281,12 +185,6 @@
             "state" : "new",
             "value" : "There was an issue with the salon time zone. Please try again. If the problem persists, contact support and mention error code: missingTimeZone"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with the salon time zone. Please try again. If the problem persists, contact support and mention error code: missingTimeZone"
-          }
         }
       }
     },
@@ -296,12 +194,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "There was an issue with the salon timetable. Please try again. If the problem persists, contact support and mention error code: missingTimetable"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "There was an issue with the salon timetable. Please try again. If the problem persists, contact support and mention error code: missingTimetable"
           }
         }
@@ -315,12 +207,6 @@
             "state" : "new",
             "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
-          }
         }
       }
     },
@@ -330,12 +216,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Want to add another method of communication?"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Want to add another method of communication?"
           }
         }
@@ -349,12 +229,6 @@
             "state" : "new",
             "value" : "To receive messages from clients, you must enable notifications"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "To receive messages from clients, you must enable notifications"
-          }
         }
       }
     },
@@ -364,12 +238,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Salon name"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Salon name"
           }
         }
@@ -383,12 +251,6 @@
             "state" : "new",
             "value" : "Select the type of salon to be created"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Select the type of salon to be created"
-          }
         }
       }
     },
@@ -398,12 +260,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Creation of a salon"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Creation of a salon"
           }
         }
@@ -417,12 +273,6 @@
             "state" : "new",
             "value" : "You have disabled push notifications in [settings](%@), please enable them there"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "You have disabled push notifications in [settings](%@), please enable them there"
-          }
         }
       }
     },
@@ -432,12 +282,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Great! Now upload your salon logo so we can make it recognizable."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Great! Now upload your salon logo so we can make it recognizable."
           }
         }
@@ -451,12 +295,6 @@
             "state" : "new",
             "value" : "Activate"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activate"
-          }
         }
       }
     },
@@ -466,12 +304,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Restore salon operations"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Restore salon operations"
           }
         }
@@ -485,12 +317,6 @@
             "state" : "new",
             "value" : "Activate Salon"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activate Salon"
-          }
         }
       }
     },
@@ -500,12 +326,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Deactivate"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Deactivate"
           }
         }
@@ -519,12 +339,6 @@
             "state" : "new",
             "value" : "Stop the salon, remove from search"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stop the salon, remove from search"
-          }
         }
       }
     },
@@ -534,12 +348,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Confirm shutdown"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Confirm shutdown"
           }
         }
@@ -553,12 +361,6 @@
             "state" : "new",
             "value" : "Deactivate Salon"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deactivate Salon"
-          }
         }
       }
     },
@@ -568,12 +370,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Delete"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Delete"
           }
         }
@@ -587,12 +383,6 @@
             "state" : "new",
             "value" : "Action cannot be undone"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Action cannot be undone"
-          }
         }
       }
     },
@@ -602,12 +392,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "To confirm, type salon name in the box below"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "To confirm, type salon name in the box below"
           }
         }
@@ -621,12 +405,6 @@
             "state" : "new",
             "value" : "Delete Salon"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Delete Salon"
-          }
         }
       }
     },
@@ -636,12 +414,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "The action cannot be undone. Are you sure you want to delete?"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "The action cannot be undone. Are you sure you want to delete?"
           }
         }
@@ -655,12 +427,6 @@
             "state" : "new",
             "value" : "Try again!"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Try again!"
-          }
         }
       }
     },
@@ -670,12 +436,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "The salon name does not match"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "The salon name does not match"
           }
         }
@@ -689,12 +449,6 @@
             "state" : "new",
             "value" : "Nickname"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nickname"
-          }
         }
       }
     },
@@ -704,12 +458,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Danger Zone"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Danger Zone"
           }
         }
@@ -723,12 +471,6 @@
             "state" : "new",
             "value" : "Warning"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Warning"
-          }
         }
       }
     },
@@ -738,12 +480,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Set up your salon first"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Set up your salon first"
           }
         }
@@ -757,12 +493,6 @@
             "state" : "new",
             "value" : "To create an appointment, you must first create a service"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "To create an appointment, you must first create a service"
-          }
         }
       }
     },
@@ -772,12 +502,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Description"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Description"
           }
         }
@@ -791,12 +515,6 @@
             "state" : "new",
             "value" : "Enter a new name for your salon"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enter a new name for your salon"
-          }
         }
       }
     },
@@ -806,12 +524,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Please give a description of the salon"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Please give a description of the salon"
           }
         }
@@ -825,12 +537,6 @@
             "state" : "new",
             "value" : "Salon name"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Salon name"
-          }
         }
       }
     },
@@ -840,12 +546,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Select salon type"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Select salon type"
           }
         }
@@ -859,12 +559,6 @@
             "state" : "new",
             "value" : "Editing the salon"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Editing the salon"
-          }
         }
       }
     },
@@ -874,12 +568,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Upload a new logo"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Upload a new logo"
           }
         }
