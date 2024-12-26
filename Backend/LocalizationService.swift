@@ -49,7 +49,7 @@ public enum Nuance: Error {
 }
 
 public extension LocalizationService {
-    func _by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?) {
+    func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?) {
         if let valueLocalization = knowledge[localizeKey.rawKey] {
             if let lang, let successLocalization = valueLocalization[lang] {
                 return (successLocalization, nil)
