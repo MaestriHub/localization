@@ -1,11 +1,11 @@
 import Vapor
+import MaestriLogger
 
 public extension Lang {
     static func parse(string: String?) -> [Self] {
 
         guard let regex = try? Regex("[a-z]{2}") else {
-            let logger = Logger(label: "lang.logger")
-            logger.error("упал regex при распарсе языков, \(String(describing: string))")
+            Log.error("упал regex при распарсе языков, \(String(describing: string))")
             return [.base]
         }
 
