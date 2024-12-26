@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Set permissions for this position"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Set permissions for this position"
-          }
         }
       }
     },
@@ -24,12 +18,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "To save, click Create"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "To save, click Create"
           }
         }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Create"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Create"
-          }
         }
       }
     },
@@ -58,12 +40,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Enter position name"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Enter position name"
           }
         }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "There was an issue with setting access permissions. Please try again. If the problem persists, contact support and mention error code: missingPermissions"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with setting access permissions. Please try again. If the problem persists, contact support and mention error code: missingPermissions"
-          }
         }
       }
     },
@@ -92,12 +62,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "There was an issue with setting the salary. Please try again. If the problem persists, contact support and mention error code: missingSalary"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "There was an issue with setting the salary. Please try again. If the problem persists, contact support and mention error code: missingSalary"
           }
         }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "There was an issue with the position title. Please try again. If the problem persists, contact support and mention error code: missingTitle"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with the position title. Please try again. If the problem persists, contact support and mention error code: missingTitle"
-          }
         }
       }
     },
@@ -126,12 +84,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Enter position"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Enter position"
           }
         }
@@ -145,12 +97,6 @@
             "state" : "new",
             "value" : "Set the salary amount for this position"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Set the salary amount for this position"
-          }
         }
       }
     },
@@ -160,12 +106,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Position"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Position"
           }
         }
@@ -179,12 +119,6 @@
             "state" : "new",
             "value" : "Action cannot be undone"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Action cannot be undone"
-          }
         }
       }
     },
@@ -194,12 +128,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Delete Position"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Delete Position"
           }
         }
@@ -213,12 +141,6 @@
             "state" : "new",
             "value" : "The action cannot be undone. Are you sure you want to delete?"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The action cannot be undone. Are you sure you want to delete?"
-          }
         }
       }
     },
@@ -228,12 +150,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Confirm deletion"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Confirm deletion"
           }
         }
@@ -247,12 +163,6 @@
             "state" : "new",
             "value" : "Danger Zone"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Danger Zone"
-          }
         }
       }
     },
@@ -262,12 +172,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Add position"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Add position"
           }
         }
@@ -281,12 +185,6 @@
             "state" : "new",
             "value" : "Not found"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Not found"
-          }
         }
       }
     },
@@ -296,12 +194,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Positions"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Positions"
           }
         }
@@ -315,12 +207,6 @@
             "state" : "new",
             "value" : "Create new position"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Create new position"
-          }
         }
       }
     },
@@ -330,12 +216,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Not found"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Not found"
           }
         }
@@ -349,12 +229,6 @@
             "state" : "new",
             "value" : "Select a position"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Select a position"
-          }
         }
       }
     },
@@ -364,12 +238,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Add new position"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Add new position"
           }
         }
@@ -383,12 +251,6 @@
             "state" : "new",
             "value" : "Show all"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show all"
-          }
         }
       }
     },
@@ -400,12 +262,6 @@
             "state" : "new",
             "value" : "No positions available"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No positions available"
-          }
         }
       }
     },
@@ -415,12 +271,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Positions"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Positions"
           }
         }
