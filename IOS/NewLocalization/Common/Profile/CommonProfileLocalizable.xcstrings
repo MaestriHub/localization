@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Select App Icon"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Select App Icon"
-          }
         }
       }
     },
@@ -24,12 +18,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "This action cannot be undone"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "This action cannot be undone"
           }
         }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Delete User"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Delete User"
-          }
         }
       }
     },
@@ -58,12 +40,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Logout"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Logout"
           }
         }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "Sign out of your account"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sign out of your account"
-          }
         }
       }
     },
@@ -92,12 +62,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Are you sure you want to log out?"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Are you sure you want to log out?"
           }
         }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "Nickname"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nickname"
-          }
         }
       }
     },
@@ -126,12 +84,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Subscription"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Subscription"
           }
         }
@@ -145,12 +97,6 @@
             "state" : "new",
             "value" : "Danger Zone"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Danger Zone"
-          }
         }
       }
     },
@@ -160,12 +106,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "To confirm, type your nickname in the box below"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "To confirm, type your nickname in the box below"
           }
         }
@@ -179,12 +119,6 @@
             "state" : "new",
             "value" : "The action cannot be undone. Are you sure you want to delete?"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The action cannot be undone. Are you sure you want to delete?"
-          }
         }
       }
     },
@@ -194,12 +128,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Warning"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Warning"
           }
         }
@@ -213,12 +141,6 @@
             "state" : "new",
             "value" : "Customer"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Customer"
-          }
         }
       }
     },
@@ -228,12 +150,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Register like customer"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Register like customer"
           }
         }
@@ -247,12 +163,6 @@
             "state" : "new",
             "value" : "Professional"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Professional"
-          }
         }
       }
     },
@@ -262,12 +172,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Register like professional"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Register like professional"
           }
         }
@@ -281,12 +185,6 @@
             "state" : "new",
             "value" : "Select mode"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Select mode"
-          }
         }
       }
     },
@@ -296,12 +194,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Profile"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Profile"
           }
         }
@@ -315,12 +207,6 @@
             "state" : "new",
             "value" : "Support Chat"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Support Chat"
-          }
         }
       }
     },
@@ -330,12 +216,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "We’re here to help! If you have any questions or issues, our support team is always ready to assist you"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "We’re here to help! If you have any questions or issues, our support team is always ready to assist you"
           }
         }
@@ -349,12 +229,6 @@
             "state" : "new",
             "value" : "Got questions? We’re here to help!"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Got questions? We’re here to help!"
-          }
         }
       }
     },
@@ -364,12 +238,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Unknown"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Unknown"
           }
         }
@@ -383,12 +251,6 @@
             "state" : "new",
             "value" : "Hello, I need help! My ID: %@"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hello, I need help! My ID: %@"
-          }
         }
       }
     },
@@ -398,12 +260,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Customer"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Customer"
           }
         }
@@ -417,12 +273,6 @@
             "state" : "new",
             "value" : "Register like customer"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Register like customer"
-          }
         }
       }
     },
@@ -432,12 +282,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Professional"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Professional"
           }
         }
@@ -451,12 +295,6 @@
             "state" : "new",
             "value" : "Register like professional"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Register like professional"
-          }
         }
       }
     },
@@ -466,12 +304,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Select mode"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Select mode"
           }
         }
@@ -485,12 +317,6 @@
             "state" : "new",
             "value" : "Support Chat"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Support Chat"
-          }
         }
       }
     },
@@ -500,12 +326,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "We’re here to help! If you have any questions or issues, our support team is always ready to assist you"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "We’re here to help! If you have any questions or issues, our support team is always ready to assist you"
           }
         }
@@ -519,12 +339,6 @@
             "state" : "new",
             "value" : "Got questions? We’re here to help!"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Got questions? We’re here to help!"
-          }
         }
       }
     },
@@ -536,12 +350,6 @@
             "state" : "new",
             "value" : "Unknown"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unknown"
-          }
         }
       }
     },
@@ -551,12 +359,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Hello, I need help! My ID: %@"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Hello, I need help! My ID: %@"
           }
         }
