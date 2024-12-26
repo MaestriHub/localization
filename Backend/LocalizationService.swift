@@ -50,16 +50,16 @@ public enum Nuance: Error {
 
 public extension LocalizationService {
     func _by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?) {
-        if let valueLocalization = knowledge[localizeKey.key] {
+        if let valueLocalization = knowledge[localizeKey.rawKey] {
             if let lang, let successLocalization = valueLocalization[lang] {
                 return (successLocalization, nil)
             } else if let baseLocalization = valueLocalization[.base] {
-                Log.error("No Lang \(String(describing: lang)) for LocalizeKey \(localizeKey.key)")
+                Log.error("No Lang \(String(describing: lang)) for LocalizeKey \(localizeKey.rawKey)")
                 return (baseLocalization, .badLang)
             }
         }
         
-        Log.error("Empty LocalizeKey \(localizeKey.key)")
+        Log.error("Empty LocalizeKey \(localizeKey.rawKey)")
         return ("unknown", .badKey)
     }
 }
@@ -68,7 +68,7 @@ public enum LocalizableKeys {
     case salon(SalonKeys)
     case error(ErrorKeys)
     
-    var key: String {
+    public var rawKey: String {
         get {
             switch self {
             case .salon(let key):
