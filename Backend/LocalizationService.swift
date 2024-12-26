@@ -49,6 +49,7 @@ public extension LocalizationService {
         case badLang
     }
     
+    //TODO: Интересная идея, а может имплементацию вынести на основной сервер и там обмазать логгером?
     func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async throws -> String {
         if let valueLocalization = knowledge[localizeKey.key] {
             if let lang, let successLocalization = valueLocalization[lang] {
