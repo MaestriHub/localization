@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Apply"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apply"
-          }
         }
       }
     },
@@ -24,12 +18,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "To save, click Create"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "To save, click Create"
           }
         }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Create"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Create"
-          }
         }
       }
     },
@@ -58,12 +40,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Description"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Description"
           }
         }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "Please provide a brief description of the service"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Please provide a brief description of the service"
-          }
         }
       }
     },
@@ -92,12 +62,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Enter service name"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Enter service name"
           }
         }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "There was an issue with the service category. Please try again. If the problem persists, contact support and mention error code: missingCategory"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with the service category. Please try again. If the problem persists, contact support and mention error code: missingCategory"
-          }
         }
       }
     },
@@ -126,12 +84,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "There was an issue with the service description. Please try again. If the problem persists, contact support and mention error code: missingDescription"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "There was an issue with the service description. Please try again. If the problem persists, contact support and mention error code: missingDescription"
           }
         }
@@ -145,12 +97,6 @@
             "state" : "new",
             "value" : "There was an issue with the service title. Please try again. If the problem persists, contact support and mention error code: missingTitle"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with the service title. Please try again. If the problem persists, contact support and mention error code: missingTitle"
-          }
         }
       }
     },
@@ -160,12 +106,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Service name"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Service name"
           }
         }
@@ -179,12 +119,6 @@
             "state" : "new",
             "value" : "Select a category"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Select a category"
-          }
         }
       }
     },
@@ -194,12 +128,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Creation of the Service"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Creation of the Service"
           }
         }
@@ -213,12 +141,6 @@
             "state" : "new",
             "value" : "Add new service"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Add new service"
-          }
         }
       }
     },
@@ -230,12 +152,6 @@
             "state" : "new",
             "value" : "Apply"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apply"
-          }
         }
       }
     },
@@ -245,12 +161,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Not found"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Not found"
           }
         }
