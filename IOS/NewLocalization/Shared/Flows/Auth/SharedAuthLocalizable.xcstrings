@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Choose your preferred contact method"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Choose your preferred contact method"
-          }
         }
       }
     },
@@ -24,12 +18,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Please enter email address"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Please enter email address"
           }
         }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Email"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Email"
-          }
         }
       }
     },
@@ -58,12 +40,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "You can add email address later in settings"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "You can add email address later in settings"
           }
         }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "Please provide Instagram handle"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Please provide Instagram handle"
-          }
         }
       }
     },
@@ -92,12 +62,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Instagram"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Instagram"
           }
         }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "You can add Instagram handle later in settings"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "You can add Instagram handle later in settings"
-          }
         }
       }
     },
@@ -126,12 +84,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Message"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Message"
           }
         }
@@ -145,12 +97,6 @@
             "state" : "new",
             "value" : "Phone"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Phone"
-          }
         }
       }
     },
@@ -160,12 +106,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Please provide phone number"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Please provide phone number"
           }
         }
@@ -179,12 +119,6 @@
             "state" : "new",
             "value" : "You can add phone number later in settings"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "You can add phone number later in settings"
-          }
         }
       }
     },
@@ -194,12 +128,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Telegram"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Telegram"
           }
         }
@@ -213,12 +141,6 @@
             "state" : "new",
             "value" : "Please provide Telegram username"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Please provide Telegram username"
-          }
         }
       }
     },
@@ -228,12 +150,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "You can add Telegram username later in settings"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "You can add Telegram username later in settings"
           }
         }
@@ -247,12 +163,6 @@
             "state" : "new",
             "value" : "Contact"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Contact"
-          }
         }
       }
     },
@@ -262,12 +172,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Whatsapp"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Whatsapp"
           }
         }
@@ -281,12 +185,6 @@
             "state" : "new",
             "value" : "Please provide WhatsApp number"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Please provide WhatsApp number"
-          }
         }
       }
     },
@@ -296,12 +194,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "You can add WhatsApp number later in settings"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "You can add WhatsApp number later in settings"
           }
         }
@@ -315,12 +207,6 @@
             "state" : "new",
             "value" : "Add contact"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Add contact"
-          }
         }
       }
     },
@@ -330,12 +216,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Continue"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Continue"
           }
         }
@@ -349,12 +229,6 @@
             "state" : "new",
             "value" : "Enter your name"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enter your name"
-          }
         }
       }
     },
@@ -364,12 +238,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "You can add a photo later in your profile settings"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "You can add a photo later in your profile settings"
           }
         }
@@ -383,12 +251,6 @@
             "state" : "new",
             "value" : "Want to add another method of communication?"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Want to add another method of communication?"
-          }
         }
       }
     },
@@ -398,12 +260,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Name"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Name"
           }
         }
@@ -417,12 +273,6 @@
             "state" : "new",
             "value" : "By clicking “Continue”, you agree to the [Privacy Policy](%1$@) and [User Agreement](%2$@)"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "By clicking “Continue”, you agree to the [Privacy Policy](%1$@) and [User Agreement](%2$@)"
-          }
         }
       }
     },
@@ -432,12 +282,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "If you have an invitation link, you can follow it after you complete registration"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "If you have an invitation link, you can follow it after you complete registration"
           }
         }
@@ -451,12 +295,6 @@
             "state" : "new",
             "value" : "Authorization"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Authorization"
-          }
         }
       }
     },
@@ -468,12 +306,6 @@
             "state" : "new",
             "value" : "Upload your avatar"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Upload your avatar"
-          }
         }
       }
     },
@@ -483,12 +315,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "**Login or register** to use the service on any device"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "**Login or register** to use the service on any device"
           }
         }
