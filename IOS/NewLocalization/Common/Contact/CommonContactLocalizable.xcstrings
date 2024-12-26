@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Add new contact"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Добавить новый контакт"
-          }
         }
       }
     },
@@ -25,12 +19,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Confirm deleting the contact"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Подтвердите удаление контакта"
           }
         }
       }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Contact methods not specified"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Не указаны способы связи"
-          }
         }
       }
     },
@@ -59,12 +41,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Edit"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Редактирование"
           }
         }
       }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "Save"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : " Сохранить"
-          }
         }
       }
     },
@@ -93,12 +63,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Contacts"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Контакты"
           }
         }
       }
