@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Break: %@"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Прервать: %@"
-          }
         }
       }
     },
@@ -26,12 +20,6 @@
             "state" : "new",
             "value" : "Day off"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "День выкл"
-          }
         }
       }
     },
@@ -42,12 +30,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Working hours"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Время работы"
           }
         }
       }
