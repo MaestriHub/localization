@@ -9,6 +9,12 @@
             "state" : "new",
             "value" : "Select App Icon"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите значок приложения"
+          }
         }
       }
     },
@@ -19,6 +25,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "This action cannot be undone"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Это действие нельзя отменить"
           }
         }
       }
@@ -31,6 +43,12 @@
             "state" : "new",
             "value" : "Delete User"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удалить пользователя"
+          }
         }
       }
     },
@@ -41,6 +59,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Logout"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выйти"
           }
         }
       }
@@ -53,6 +77,12 @@
             "state" : "new",
             "value" : "Sign out of your account"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выйти из аккаунта"
+          }
         }
       }
     },
@@ -63,6 +93,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Are you sure you want to log out?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы уверены, что хотите выйти?"
           }
         }
       }
@@ -75,6 +111,12 @@
             "state" : "new",
             "value" : "Nickname"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ник"
+          }
         }
       }
     },
@@ -85,6 +127,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Subscription"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подписка"
           }
         }
       }
@@ -97,6 +145,12 @@
             "state" : "new",
             "value" : "Danger Zone"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Опасная зона"
+          }
         }
       }
     },
@@ -107,6 +161,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "To confirm, type your nickname in the box below"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чтобы подтвердить, введите свой псевдоним в поле ниже"
           }
         }
       }
@@ -119,6 +179,12 @@
             "state" : "new",
             "value" : "The action cannot be undone. Are you sure you want to delete?"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Это действие нельзя отменить. Вы уверены, что хотите удалить?"
+          }
         }
       }
     },
@@ -129,6 +195,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Warning"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Предупреждение"
           }
         }
       }
@@ -141,6 +213,12 @@
             "state" : "new",
             "value" : "Customer"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Покупатель"
+          }
         }
       }
     },
@@ -151,6 +229,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Register like customer"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зарегистрируйтесь, как клиент"
           }
         }
       }
@@ -163,6 +247,12 @@
             "state" : "new",
             "value" : "Professional"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Профессиональный"
+          }
         }
       }
     },
@@ -173,6 +263,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Register like professional"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зарегистрируйтесь, как специалист"
           }
         }
       }
@@ -185,6 +281,12 @@
             "state" : "new",
             "value" : "Select mode"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбрать режим"
+          }
         }
       }
     },
@@ -195,6 +297,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Profile"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Профиль"
           }
         }
       }
@@ -207,6 +315,12 @@
             "state" : "new",
             "value" : "Support Chat"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чат Поддержки"
+          }
         }
       }
     },
@@ -217,6 +331,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "We’re here to help! If you have any questions or issues, our support team is always ready to assist you"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мы здесь, чтобы помочь! Если у вас есть вопросы или вопросы, наша служба поддержки всегда готова помочь вам"
           }
         }
       }
@@ -229,6 +349,12 @@
             "state" : "new",
             "value" : "Got questions? We’re here to help!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У вас есть вопросы? Мы здесь, чтобы помочь!"
+          }
         }
       }
     },
@@ -239,6 +365,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Unknown"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Неизвестен"
           }
         }
       }
@@ -251,6 +383,12 @@
             "state" : "new",
             "value" : "Hello, I need help! My ID: %@"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Здравствуйте, мне нужна помощь! Мой ID: %@"
+          }
         }
       }
     },
@@ -261,6 +399,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Customer"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Покупатель"
           }
         }
       }
@@ -273,6 +417,12 @@
             "state" : "new",
             "value" : "Register like customer"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зарегистрируйтесь, как клиент"
+          }
         }
       }
     },
@@ -283,6 +433,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Professional"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Профессиональный"
           }
         }
       }
@@ -295,6 +451,12 @@
             "state" : "new",
             "value" : "Register like professional"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зарегистрируйтесь, как специалист"
+          }
         }
       }
     },
@@ -305,6 +467,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Select mode"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбрать режим"
           }
         }
       }
@@ -317,6 +485,12 @@
             "state" : "new",
             "value" : "Support Chat"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чат Поддержки"
+          }
         }
       }
     },
@@ -327,6 +501,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "We’re here to help! If you have any questions or issues, our support team is always ready to assist you"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мы здесь, чтобы помочь! Если у вас есть вопросы или вопросы, наша служба поддержки всегда готова помочь вам"
           }
         }
       }
@@ -339,6 +519,12 @@
             "state" : "new",
             "value" : "Got questions? We’re here to help!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У вас есть вопросы? Мы здесь, чтобы помочь!"
+          }
         }
       }
     },
@@ -350,6 +536,12 @@
             "state" : "new",
             "value" : "Unknown"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Неизвестен"
+          }
         }
       }
     },
@@ -360,6 +552,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Hello, I need help! My ID: %@"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Здравствуйте, мне нужна помощь! Мой ID: %@"
           }
         }
       }
