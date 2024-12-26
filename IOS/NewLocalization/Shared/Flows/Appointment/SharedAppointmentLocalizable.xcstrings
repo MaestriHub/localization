@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Something went wrong"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Something went wrong"
-          }
         }
       }
     },
@@ -24,12 +18,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Canceled"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Canceled"
           }
         }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Confirm"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Confirm"
-          }
         }
       }
     },
@@ -58,12 +40,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Confirmed"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Confirmed"
           }
         }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "Delete"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Delete"
-          }
         }
       }
     },
@@ -92,12 +62,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Expired"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Expired"
           }
         }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "Reject"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reject"
-          }
         }
       }
     },
@@ -126,12 +84,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Waiting"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Waiting"
           }
         }
@@ -145,12 +97,6 @@
             "state" : "new",
             "value" : "There was an issue with selecting a date and time. Please try again. If the problem persists, contact support and mention error code: missingDateInterval"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with selecting a date and time. Please try again. If the problem persists, contact support and mention error code: missingDateInterval"
-          }
         }
       }
     },
@@ -162,12 +108,6 @@
             "state" : "new",
             "value" : "There was an issue with selecting a master. Please try again. If the problem persists, contact support and mention error code: missingMaster"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There was an issue with selecting a master. Please try again. If the problem persists, contact support and mention error code: missingMaster"
-          }
         }
       }
     },
@@ -177,12 +117,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "There was an issue with selecting procedures. Please try again. If the problem persists, contact support and mention error code: missingProcedures"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "There was an issue with selecting procedures. Please try again. If the problem persists, contact support and mention error code: missingProcedures"
           }
         }
