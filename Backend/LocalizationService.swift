@@ -49,7 +49,7 @@ public extension LocalizationService {
         case badLang
     }
     
-    func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async throws(Errors) -> String {
+    func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async throws -> String {
         if let valueLocalization = knowledge[localizeKey.key] {
             if let lang, let successLocalization = valueLocalization[lang] {
                 return successLocalization
