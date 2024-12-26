@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "If you want this service to appear in your profile under a custom name, you can suggest your own personalized title for it"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Если вы хотите, чтобы этот сервис появился в вашем профиле под своим именем, вы можете предложить свой собственный персонализированный заголовок для него"
-          }
         }
       }
     },
@@ -25,12 +19,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "To save, click Create"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Для сохранения нажмите Создать"
           }
         }
       }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Create"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Создать"
-          }
         }
       }
     },
@@ -59,12 +41,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Please describe the details of the procedure. Example: “Bring a towel, arrive 10-15 minutes earlier, remove jewelry, inform about contraindications”"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Пожалуйста, опишите детали процедуры. Пример: «Принести полотенце, приезжайте за 10-15 минут раньше, удаляйте ювелирные изделия, информируйте о противопоказаниях»"
           }
         }
       }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "There was an issue with the procedure duration. Please try again. If the problem persists, contact support and mention error code: missingDuration"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Возникла проблема с продолжительностью процедуры. Пожалуйста, попробуйте еще раз. Если проблема не устранена, обратитесь в службу поддержки и укажите код ошибки: отсутствует"
-          }
         }
       }
     },
@@ -93,12 +63,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "There was an issue with assigning a master to the procedure. Please try again. If the problem persists, contact support and mention error code: missingMaster"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Возникла проблема с назначением мастера процедуры. Пожалуйста, попробуйте еще раз. Если проблема повторится, обратитесь в службу поддержки и укажите код ошибки: missingMaster"
           }
         }
       }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "There was an issue with the procedure price. Please try again. If the problem persists, contact support and mention error code: missingPrice"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Возникла проблема с ценой процедуры. Пожалуйста, попробуйте еще раз. Если проблема не устранена, обратитесь в службу поддержки и укажите код ошибки: missingPrice"
-          }
         }
       }
     },
@@ -127,12 +85,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "There was an issue with the service ID for the procedure. Please try again. If the problem persists, contact support and mention error code: missingServiceId"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Возникла проблема с идентификатором сервиса. Пожалуйста, попробуйте еще раз. Если проблема не устранена, обратитесь в службу поддержки и укажите код ошибки: missingServiceId"
           }
         }
       }
@@ -145,12 +97,6 @@
             "state" : "new",
             "value" : "Enter procedure name"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Введите название процедуры"
-          }
         }
       }
     },
@@ -161,12 +107,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Please indicate the cost of the procedure"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Пожалуйста, укажите стоимость процедуры"
           }
         }
       }
@@ -179,12 +119,6 @@
             "state" : "new",
             "value" : "Specify the duration of the procedure"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Укажите продолжительность процедуры"
-          }
         }
       }
     },
@@ -195,12 +129,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Select a category"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выберите категорию"
           }
         }
       }
@@ -213,12 +141,6 @@
             "state" : "new",
             "value" : "Enter the name of the procedure or select from the list provided"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Введите название процедуры или выберите из списка"
-          }
         }
       }
     },
@@ -230,12 +152,6 @@
             "state" : "new",
             "value" : "Choosing an existing option will make it easier for others to find you in search"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выбор существующей опции облегчит вам поиск других"
-          }
         }
       }
     },
@@ -245,12 +161,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Summary"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Summary"
           }
         }
@@ -264,12 +174,6 @@
             "state" : "new",
             "value" : "Procedure"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Процедура"
-          }
         }
       }
     },
@@ -280,12 +184,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Are you sure you want to delete"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вы уверены, что хотите удалить"
           }
         }
       }
@@ -298,12 +196,6 @@
             "state" : "new",
             "value" : "Add procedure"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Добавить процедуру"
-          }
         }
       }
     },
@@ -314,12 +206,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Not found"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Не найдено"
           }
         }
       }
@@ -332,12 +218,6 @@
             "state" : "new",
             "value" : "All Procedures"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Все процедуры"
-          }
         }
       }
     },
@@ -348,12 +228,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "New procedure alias"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Псевдоним новой процедуры"
           }
         }
       }
@@ -366,12 +240,6 @@
             "state" : "new",
             "value" : "Enter a new procedure alias"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Введите новый псевдоним процедуры"
-          }
         }
       }
     },
@@ -382,12 +250,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Update procedure"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Процедура обновления"
           }
         }
       }
@@ -400,12 +262,6 @@
             "state" : "new",
             "value" : "Add procedure"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Добавить процедуру"
-          }
         }
       }
     },
@@ -417,12 +273,6 @@
             "state" : "new",
             "value" : "All"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Все"
-          }
         }
       }
     },
@@ -433,12 +283,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Procedures"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Процедуры"
           }
         }
       }

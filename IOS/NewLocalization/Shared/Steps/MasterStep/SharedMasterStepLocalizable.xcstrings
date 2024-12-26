@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Unknown"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Неизвестен"
-          }
         }
       }
     },
@@ -25,12 +19,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Not found"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Не найдено"
           }
         }
       }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "We are looking for information about the master, we need a little time"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Мы ищем информацию о мастере, нам нужно немного времени"
-          }
         }
       }
     },
@@ -59,12 +41,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Choose a master"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выберите мастера"
           }
         }
       }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "Unfortunately, we were unable to find information about the master"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "К сожалению, мы не смогли найти информацию о мастере"
-          }
         }
       }
     },
@@ -93,12 +63,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Select"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выбрать"
           }
         }
       }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "Skip"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Пропустить"
-          }
         }
       }
     },
@@ -127,12 +85,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Unknown"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Неизвестен"
           }
         }
       }

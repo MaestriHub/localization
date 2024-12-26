@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Search in this region"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Поиск в этом регионе"
-          }
         }
       }
     },
@@ -25,12 +19,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Need to zoom in to search"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Необходимо увеличить масштаб для поиска"
           }
         }
       }

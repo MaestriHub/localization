@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Shift schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Расписание смены"
-          }
         }
       }
     },
@@ -25,12 +19,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Day schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Дневной график"
           }
         }
       }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "С типом салона возникла проблема. Пожалуйста, попробуйте еще раз. Если проблема повторится, обратитесь в службу поддержки и укажите код ошибки: missingType"
-          }
         }
       }
     },
@@ -59,12 +41,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Choose a schedule type"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выберите тип расписания"
           }
         }
       }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "Create a schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Создать расписание"
-          }
         }
       }
     },
@@ -93,12 +63,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Week schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Расписание недели"
           }
         }
       }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "Complete the booking"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Завершить бронирование"
-          }
         }
       }
     },
@@ -127,12 +85,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Make a schedule for working days"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Сделать график на рабочие дни"
           }
         }
       }
@@ -145,12 +97,6 @@
             "state" : "new",
             "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "С типом салона возникла проблема. Пожалуйста, попробуйте еще раз. Если проблема повторится, обратитесь в службу поддержки и укажите код ошибки: missingType"
-          }
         }
       }
     },
@@ -161,12 +107,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Select first working day"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выберите первый рабочий день"
           }
         }
       }
@@ -179,12 +119,6 @@
             "state" : "new",
             "value" : "Specify the number of working and non-working days"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Укажите количество рабочих и нерабочих дней"
-          }
         }
       }
     },
@@ -195,12 +129,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Create a schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Создать расписание"
           }
         }
       }
@@ -213,12 +141,6 @@
             "state" : "new",
             "value" : "Click complete to create a schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Щелкните для создания расписания"
-          }
         }
       }
     },
@@ -229,12 +151,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Set the time to configure the schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Установить время для настройки расписания"
           }
         }
       }
@@ -247,12 +163,6 @@
             "state" : "new",
             "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "С типом салона возникла проблема. Пожалуйста, попробуйте еще раз. Если проблема повторится, обратитесь в службу поддержки и укажите код ошибки: missingType"
-          }
         }
       }
     },
@@ -263,12 +173,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Select first working day"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выберите первый рабочий день"
           }
         }
       }
@@ -281,12 +185,6 @@
             "state" : "new",
             "value" : "Setting up a daily schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Настройка графика дня"
-          }
         }
       }
     },
@@ -297,12 +195,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Create a schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Создать расписание"
           }
         }
       }
@@ -315,12 +207,6 @@
             "state" : "new",
             "value" : "BREAKS"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ПРОДАЖИ"
-          }
         }
       }
     },
@@ -331,12 +217,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "DAY OFF"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ОТКЛЮЧИТЬ"
           }
         }
       }
@@ -349,12 +229,6 @@
             "state" : "new",
             "value" : "WORK TIME"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ВРЕМЯ МИРА"
-          }
         }
       }
     },
@@ -365,12 +239,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Add break"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Добавить перерыв"
           }
         }
       }
@@ -383,12 +251,6 @@
             "state" : "new",
             "value" : "Edit schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Изменить расписание"
-          }
         }
       }
     },
@@ -399,12 +261,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Set as weekend"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Установить как выходные"
           }
         }
       }
@@ -417,12 +273,6 @@
             "state" : "new",
             "value" : "Shift schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Расписание смены"
-          }
         }
       }
     },
@@ -433,12 +283,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Daily schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ежедневное расписание"
           }
         }
       }
@@ -451,12 +295,6 @@
             "state" : "new",
             "value" : "Edit schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Изменить расписание"
-          }
         }
       }
     },
@@ -467,12 +305,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Edit vacation"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Изменить отпуск"
           }
         }
       }
@@ -485,12 +317,6 @@
             "state" : "new",
             "value" : "Hide employee"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Скрыть сотрудника"
-          }
         }
       }
     },
@@ -501,12 +327,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Unknown"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Неизвестен"
           }
         }
       }
@@ -519,12 +339,6 @@
             "state" : "new",
             "value" : "Weekly template"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Недельный шаблон"
-          }
         }
       }
     },
@@ -535,12 +349,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Edit %lld"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Изменить %lld"
           }
         }
       }
@@ -553,12 +361,6 @@
             "state" : "new",
             "value" : "Select masters"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выберите мастеров"
-          }
         }
       }
     },
@@ -569,12 +371,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Shift schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Расписание смены"
           }
         }
       }
@@ -587,12 +383,6 @@
             "state" : "new",
             "value" : "Daily schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ежедневное расписание"
-          }
         }
       }
     },
@@ -603,12 +393,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Edit schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Изменить расписание"
           }
         }
       }
@@ -621,12 +405,6 @@
             "state" : "new",
             "value" : "Salon schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "График работы салона"
-          }
         }
       }
     },
@@ -637,12 +415,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Weekly template"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Недельный шаблон"
           }
         }
       }
@@ -655,12 +427,6 @@
             "state" : "new",
             "value" : "There was an issue with the salon name. Please try again. If the problem persists, contact support and mention error code: missingName"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Возникла проблема с названием салона. Пожалуйста, попробуйте еще раз. Если проблема повторится, обратитесь в службу поддержки и укажите код ошибки: missingName"
-          }
         }
       }
     },
@@ -671,12 +437,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Break: %@"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Прервать: %@"
           }
         }
       }
@@ -689,12 +449,6 @@
             "state" : "new",
             "value" : "Working hours"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Время работы"
-          }
         }
       }
     },
@@ -705,12 +459,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Click save to create a schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Нажмите кнопку Сохранить, чтобы создать расписание"
           }
         }
       }
@@ -723,12 +471,6 @@
             "state" : "new",
             "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "С типом салона возникла проблема. Пожалуйста, попробуйте еще раз. Если проблема повторится, обратитесь в службу поддержки и укажите код ошибки: missingType"
-          }
         }
       }
     },
@@ -739,12 +481,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Please select a day to set up your work schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Пожалуйста, выберите день для настройки графика работы"
           }
         }
       }
@@ -757,12 +493,6 @@
             "state" : "new",
             "value" : "You can choose multiple days if their schedules align"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вы можете выбрать несколько дней, если их расписания выравниваются"
-          }
         }
       }
     },
@@ -773,12 +503,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Select first working day"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выберите первый рабочий день"
           }
         }
       }
@@ -791,12 +515,6 @@
             "state" : "new",
             "value" : "You can customize the work schedule of the invited master"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вы можете настроить график работы приглашенного мастера"
-          }
         }
       }
     },
@@ -808,12 +526,6 @@
             "state" : "new",
             "value" : "Create a schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Создать расписание"
-          }
         }
       }
     },
@@ -824,12 +536,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Create a template for the week, each day can be customized individually"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Создайте шаблон на неделю, каждый день можно настроить индивидуально"
           }
         }
       }

@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Create your first salon"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Создайте свой первый салон"
-          }
         }
       }
     },
@@ -25,12 +19,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Dashboard"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Панель"
           }
         }
       }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Quick Actions"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Быстрые действия"
-          }
         }
       }
     },
@@ -59,12 +41,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Read all"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Читать все"
           }
         }
       }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "Schedule"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "График"
-          }
         }
       }
     },
@@ -93,12 +63,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Select from the menu"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выберите из меню"
           }
         }
       }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "Share"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Поделиться"
-          }
         }
       }
     },
@@ -127,12 +85,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "to client mode"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "в режим клиента"
           }
         }
       }
@@ -145,12 +97,6 @@
             "state" : "new",
             "value" : "Toggle"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Переключить"
-          }
         }
       }
     },
@@ -161,12 +107,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Workspace"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Рабочая область"
           }
         }
       }

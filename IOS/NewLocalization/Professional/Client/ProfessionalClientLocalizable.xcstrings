@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Add contact"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Добавить контакт"
-          }
         }
       }
     },
@@ -25,12 +19,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "To save, click Create"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Для сохранения нажмите Создать"
           }
         }
       }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Create"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Создать"
-          }
         }
       }
     },
@@ -59,12 +41,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Enter client name"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Введите имя клиента"
           }
         }
       }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "There was an issue with the client contacts. Please try again. If the problem persists, contact support and mention error code: missingClientContacts"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "С контактами клиента возникла проблема. Пожалуйста, попробуйте еще раз. Если проблема не устранена, обратитесь в службу поддержки и укажите код ошибки: missingCliacts"
-          }
         }
       }
     },
@@ -93,12 +63,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "There was an issue with the client name. Please try again. If the problem persists, contact support and mention error code: missingClientName"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "С именем клиента возникла проблема. Пожалуйста, попробуйте еще раз. Если проблема повторится, обратитесь в службу поддержки и укажите код ошибки: missingClientName"
           }
         }
       }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "Want to add another method of communication?"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Хотите добавить другой метод коммуникации?"
-          }
         }
       }
     },
@@ -127,12 +85,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Name"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Наименование"
           }
         }
       }
@@ -145,12 +97,6 @@
             "state" : "new",
             "value" : "Creation of the Client"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Создание Клиента"
-          }
         }
       }
     },
@@ -161,12 +107,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Add a new client"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Добавить нового клиента"
           }
         }
       }
@@ -179,12 +119,6 @@
             "state" : "new",
             "value" : "Not found"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Не найдено"
-          }
         }
       }
     },
@@ -195,12 +129,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Add clients"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Добавить клиентов"
           }
         }
       }
@@ -213,12 +141,6 @@
             "state" : "new",
             "value" : "Invite client"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Пригласить клиента"
-          }
         }
       }
     },
@@ -229,12 +151,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Not found"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Не найдено"
           }
         }
       }
@@ -247,12 +163,6 @@
             "state" : "new",
             "value" : "All clients"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Все клиенты"
-          }
         }
       }
     },
@@ -263,12 +173,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Choose a customer"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выберите клиента"
           }
         }
       }
@@ -281,12 +185,6 @@
             "state" : "new",
             "value" : "Invite client"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Пригласить клиента"
-          }
         }
       }
     },
@@ -298,12 +196,6 @@
             "state" : "new",
             "value" : "All"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Все"
-          }
         }
       }
     },
@@ -314,12 +206,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "My clients"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Мои клиенты"
           }
         }
       }
