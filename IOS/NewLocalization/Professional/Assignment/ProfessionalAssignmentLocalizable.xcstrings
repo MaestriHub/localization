@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Declined by customer"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Отказано от клиента"
-          }
         }
       }
     },
@@ -25,12 +19,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Need your action"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Нужно ваше действие"
           }
         }
       }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "To save, click Complete"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Для сохранения нажмите \"Завершено\""
-          }
         }
       }
     },
@@ -59,12 +41,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Complete the booking"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Завершить бронирование"
           }
         }
       }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "Appointment"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Назначение"
-          }
         }
       }
     },
@@ -93,12 +63,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "There was an issue with selecting a date and time. Please try again. If the problem persists, contact support and mention error code: missingDateInterval"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Возникла проблема с выбором даты и времени. Пожалуйста, попробуйте еще раз. Если проблема не устранена, обратитесь в службу поддержки и укажите код ошибки: missingDateInterval"
           }
         }
       }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "There was an issue with selecting a master. Please try again. If the problem persists, contact support and mention error code: missingMaster"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "При выборе мастера возникла проблема. Пожалуйста, попробуйте еще раз. Если проблема повторится, обратитесь в службу поддержки и укажите код ошибки: missingMaster"
-          }
         }
       }
     },
@@ -127,12 +85,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "There was an issue with selecting procedures. Please try again. If the problem persists, contact support and mention error code: missingProcedures"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Возникла проблема при выборе процедур. Пожалуйста, попробуйте еще раз. Если проблема не устранена, обратитесь в службу поддержки и укажите код ошибки: missingProcedures"
           }
         }
       }
@@ -145,12 +97,6 @@
             "state" : "new",
             "value" : "Declined by customer"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Отказано от клиента"
-          }
         }
       }
     },
@@ -161,12 +107,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Expired"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Истёк"
           }
         }
       }
@@ -179,12 +119,6 @@
             "state" : "new",
             "value" : "Need your action"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Нужно ваше действие"
-          }
         }
       }
     },
@@ -195,12 +129,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "To save, click Complete"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Для сохранения нажмите \"Завершено\""
           }
         }
       }
@@ -213,12 +141,6 @@
             "state" : "new",
             "value" : "Complete the booking"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Завершить бронирование"
-          }
         }
       }
     },
@@ -229,12 +151,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Congratulations, you have successfully created a salon!"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Поздравляем, вы успешно создали салон!"
           }
         }
       }
@@ -247,12 +163,6 @@
             "state" : "new",
             "value" : "There was an issue with selecting a date and time. Please try again. If the problem persists, contact support and mention error code: missingDateInterval"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Возникла проблема с выбором даты и времени. Пожалуйста, попробуйте еще раз. Если проблема не устранена, обратитесь в службу поддержки и укажите код ошибки: missingDateInterval"
-          }
         }
       }
     },
@@ -263,12 +173,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "There was an issue with selecting a master. Please try again. If the problem persists, contact support and mention error code: missingMaster"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "При выборе мастера возникла проблема. Пожалуйста, попробуйте еще раз. Если проблема повторится, обратитесь в службу поддержки и укажите код ошибки: missingMaster"
           }
         }
       }
@@ -281,12 +185,6 @@
             "state" : "new",
             "value" : "There was an issue with selecting procedures. Please try again. If the problem persists, contact support and mention error code: missingProcedures"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Возникла проблема при выборе процедур. Пожалуйста, попробуйте еще раз. Если проблема не устранена, обратитесь в службу поддержки и укажите код ошибки: missingProcedures"
-          }
         }
       }
     },
@@ -297,12 +195,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Appointment"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Назначение"
           }
         }
       }
@@ -315,12 +207,6 @@
             "state" : "new",
             "value" : "No entries for this day"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Нет записей за этот день"
-          }
         }
       }
     },
@@ -331,12 +217,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Appointments"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Назначения"
           }
         }
       }
@@ -349,12 +229,6 @@
             "state" : "new",
             "value" : "Congratulations, you have successfully created a salon!"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Поздравляем, вы успешно создали салон!"
-          }
         }
       }
     },
@@ -365,12 +239,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "No entries for this day"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Нет записей за этот день"
           }
         }
       }
@@ -383,12 +251,6 @@
             "state" : "new",
             "value" : "Expired"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Истёк"
-          }
         }
       }
     },
@@ -399,12 +261,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Appointments"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Назначения"
           }
         }
       }
