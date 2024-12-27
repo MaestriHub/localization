@@ -67,7 +67,7 @@ public extension LocalizationService {
 }
 
 public struct LocalizableKeys {
-    let key: String
+    public let key: String
     
     public enum ErrorKeys   {}
     
