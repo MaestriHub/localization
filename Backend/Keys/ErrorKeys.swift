@@ -1,4 +1,4 @@
-public enum ErrorKeys: String, LocalizationKey, CaseIterable {
-    case Oops = "internal.server.error"
+public extension LocalizableKeys.ErrorKeys {
+    static var Oops = LocalizableKeys(key: "internal.server.error")
 }
 

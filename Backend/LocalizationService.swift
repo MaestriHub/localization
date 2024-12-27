@@ -4,13 +4,18 @@ import MaestriLogger
 
 // MARK: LocalizationService
 
-public typealias Key = String
-public typealias LangMap = [Lang : String]
-public typealias LocalizeKnowledge = [Key : LangMap]
 public typealias LocalizedString = String
+typealias LocalizeKnowledge = [Key : LangMap]
+typealias LangMap = [Lang : String]
+typealias Key = String
 
-public protocol ILocalizationService { func by(_ key: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?) }
-public protocol ILocalizationParser { func getKnowledge(path: String) async -> LocalizeKnowledge }
+public protocol ILocalizationService {
+    func by(_ key: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?)
+}
+
+protocol ILocalizationParser {
+    func getKnowledge(path: String) async -> LocalizeKnowledge
+}
 
 public extension Request {
 
@@ -36,7 +41,7 @@ public actor LocalizationService: ILocalizationService {
     
     private let knowledge: LocalizeKnowledge
     
-    public init(
+    init(
         parser: ILocalizationParser = JsonParser()
     ) async {
         self.knowledge = await parser.getKnowledge(path: Self.localizeDirectory)
@@ -50,33 +55,23 @@ public enum Nuance: Error {
 
 public extension LocalizationService {
     func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?) {
-        if let valueLocalization = knowledge[localizeKey.rawKey] {
+        if let valueLocalization = knowledge[localizeKey.key] {
             if let lang, let successLocalization = valueLocalization[lang] {
                 return (successLocalization, nil)
             } else if let baseLocalization = valueLocalization[.base] {
-                Log.error("No Lang \(String(describing: lang)) for LocalizeKey \(localizeKey.rawKey)")
                 return (baseLocalization, .badLang)
             }
         }
-        
-        Log.error("Empty LocalizeKey \(localizeKey.rawKey)")
         return ("unknown", .badKey)
     }
 }
 
-public enum LocalizableKeys {
-    case salon(SalonKeys)
-    case error(ErrorKeys)
+public struct LocalizableKeys {
+    let key: String
     
-    public var rawKey: String {
-        get {
-            switch self {
-            case .salon(let key):
-                return key.rawValue
-            case .error(let error):
-                return error.rawValue
-            }
-            
-        }
-    }
+    public enum ErrorKeys   {}
+    
+    public enum SalonKeys   {}
+    
+    public enum ServiceKeys {}
 }

@@ -1,3 +1,4 @@
-//public enum ServicesKeys: String, LocalizationKey {
-//    case Oops
-//}
+public extension LocalizableKeys.ServiceKeys {
+    //static var OwnerPositionTitle = LocalizableKeys(key: "OwnerPositionTitle")
+}
+
