@@ -2,7 +2,6 @@
   "sourceLanguage" : "en",
   "strings" : {
     "address_edit.screen.current_address" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -19,7 +18,6 @@
       }
     },
     "address_edit.screen.invalid_address" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -36,7 +34,6 @@
       }
     },
     "address_edit.screen.invalid_address_message" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -53,7 +50,6 @@
       }
     },
     "address_edit.screen.ok" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -70,7 +66,6 @@
       }
     },
     "clients.screen.add_client" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -87,7 +82,6 @@
       }
     },
     "clients.screen.title" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -104,7 +98,6 @@
       }
     },
     "contact.screen.cancel" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -121,7 +114,6 @@
       }
     },
     "contact.screen.select_number" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -138,7 +130,6 @@
       }
     },
     "contact.screen.title" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -155,7 +146,6 @@
       }
     },
     "creation.screen.close" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -172,7 +162,6 @@
       }
     },
     "date_selector.screen.edit" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -189,7 +178,6 @@
       }
     },
     "full_schedule.screen.cancel" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -206,7 +194,6 @@
       }
     },
     "full_schedule.screen.edit" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -223,7 +210,6 @@
       }
     },
     "full_schedule.screen.salonSchedule" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -240,7 +226,6 @@
       }
     },
     "full_schedule.screen.select_masters" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -257,7 +242,6 @@
       }
     },
     "list_appointments.screen.switch_button" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -274,7 +258,6 @@
       }
     },
     "main_customer.screen.map_button" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -291,7 +274,6 @@
       }
     },
     "mainCustomer.screen.favorites" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -308,7 +290,6 @@
       }
     },
     "mainCustomer.screen.footer_subtitle" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -325,7 +306,6 @@
       }
     },
     "mainCustomer.screen.footer_title" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -342,7 +322,6 @@
       }
     },
     "mainCustomer.screen.my_notes" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -359,7 +338,6 @@
       }
     },
     "mainCustomer.screen.no_appointments" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -376,7 +354,6 @@
       }
     },
     "mainCustomer.screen.no_favorites" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -393,7 +370,6 @@
       }
     },
     "mainCustomer.screen.no_salons" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -410,7 +386,6 @@
       }
     },
     "mainCustomer.screen.salons" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -427,7 +402,6 @@
       }
     },
     "map.screen.search_button" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -444,7 +418,6 @@
       }
     },
     "map.screen.search_button_warning" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -461,7 +434,6 @@
       }
     },
     "master.screen.all_action" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -478,7 +450,6 @@
       }
     },
     "master.screen.all_title" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -495,7 +466,6 @@
       }
     },
     "master.screen.invite_link" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -512,7 +482,6 @@
       }
     },
     "master.screen.new_master" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -529,7 +498,6 @@
       }
     },
     "masters.screen.positions" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -546,7 +514,6 @@
       }
     },
     "not_chosen.screen.create_customer_button" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -563,7 +530,6 @@
       }
     },
     "not_chosen.screen.create_professional_button" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -580,7 +546,6 @@
       }
     },
     "not_chosen.screen.main_place_holder" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -597,7 +562,6 @@
       }
     },
     "position.screen.add_position" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -614,7 +578,6 @@
       }
     },
     "position.screen.not_found" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -631,7 +594,6 @@
       }
     },
     "position.screen.title" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -648,7 +610,6 @@
       }
     },
     "proc.screen.all_action" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -665,7 +626,6 @@
       }
     },
     "proc.screen.title" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -682,7 +642,6 @@
       }
     },
     "procedure.screen.alert_title" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -699,7 +658,6 @@
       }
     },
     "procedure.screen.cancel" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -716,7 +674,6 @@
       }
     },
     "procedure.screen.delete" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -733,7 +690,6 @@
       }
     },
     "procedure.screen.select" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -750,7 +706,6 @@
       }
     },
     "professional.screen.add_new_salon_button" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -767,7 +722,6 @@
       }
     },
     "profile.screen.title" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -784,7 +738,6 @@
       }
     },
     "public.screen.login" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -801,7 +754,6 @@
       }
     },
     "public.screen.map_button" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -818,7 +770,6 @@
       }
     },
     "public.screen.not_found" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -835,7 +786,6 @@
       }
     },
     "salon_qr.screen.send_qr_button" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -852,7 +802,6 @@
       }
     },
     "salon_qr.screen.share_with_link_button" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -869,7 +818,6 @@
       }
     },
     "salon.screen.action" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -886,7 +834,6 @@
       }
     },
     "salon.screen.chain" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -903,7 +850,6 @@
       }
     },
     "salon.screen.help_message" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -920,7 +866,6 @@
       }
     },
     "salon.screen.help_submessage" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -937,7 +882,6 @@
       }
     },
     "salon.screen.individual" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -954,7 +898,6 @@
       }
     },
     "salon.screen.master" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -971,7 +914,6 @@
       }
     },
     "schedule.screen.action" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -988,7 +930,6 @@
       }
     },
     "schedule.screen.empty_description" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1005,7 +946,6 @@
       }
     },
     "schedule.screen.empty_title" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1022,7 +962,6 @@
       }
     },
     "schedule.screen.expired" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1039,7 +978,6 @@
       }
     },
     "schedule.screen.title" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1056,7 +994,6 @@
       }
     },
     "screen.address_edit.unable_address" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1073,7 +1010,6 @@
       }
     },
     "screen.notice.book" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1090,7 +1026,6 @@
       }
     },
     "screen.notice.error_placeholder" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1107,7 +1042,6 @@
       }
     },
     "screen.notice.read_all" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1124,7 +1058,6 @@
       }
     },
     "screen.notice.title" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1141,7 +1074,6 @@
       }
     },
     "search.screen.not_found" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1158,7 +1090,6 @@
       }
     },
     "search.screen.placeholder" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1175,7 +1106,6 @@
       }
     },
     "select_of_service.screen.add_new_service" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1192,7 +1122,6 @@
       }
     },
     "select_of_service.screen.apply" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1209,7 +1138,6 @@
       }
     },
     "select_of_service.screen.procedures_header" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1226,7 +1154,6 @@
       }
     },
     "service.screen.from" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1243,7 +1170,6 @@
       }
     },
     "service.screen.title" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1260,7 +1186,6 @@
       }
     },
     "sideMenu.screen.createSalon" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1277,7 +1202,6 @@
       }
     },
     "sideMenu.screen.dashboard" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1294,7 +1218,6 @@
       }
     },
     "sideMenu.screen.quickActions" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1311,7 +1234,6 @@
       }
     },
     "sideMenu.screen.readAll" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1328,7 +1250,6 @@
       }
     },
     "sideMenu.screen.schedule" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1345,7 +1266,6 @@
       }
     },
     "sideMenu.screen.selectSalon" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1362,7 +1282,6 @@
       }
     },
     "sideMenu.screen.share" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1379,7 +1298,6 @@
       }
     },
     "sideMenu.screen.to_client_mode" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1396,7 +1314,6 @@
       }
     },
     "sideMenu.screen.toggle" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1413,7 +1330,6 @@
       }
     },
     "sideMenu.screen.workspace" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1430,7 +1346,6 @@
       }
     },
     "timeline_appointments.screen.masters" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1447,7 +1362,6 @@
       }
     },
     "timeline_appointments.screen.masters_quantity" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1464,7 +1378,6 @@
       }
     },
     "timeline_appointments.screen.minutes" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1481,7 +1394,6 @@
       }
     },
     "timeline_appointments.screen.schedule_multiplicity" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1498,7 +1410,6 @@
       }
     },
     "timeline_appointments.screen.switch_button" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1515,7 +1426,6 @@
       }
     },
     "weekSchedule.screen.action" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1532,7 +1442,6 @@
       }
     },
     "weekSchedule.screen.add_break" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1549,7 +1458,6 @@
       }
     },
     "weekSchedule.screen.breakButton" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1566,7 +1474,6 @@
       }
     },
     "weekSchedule.screen.dayOff" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1583,7 +1490,6 @@
       }
     },
     "weekSchedule.screen.delete" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1600,7 +1506,6 @@
       }
     },
     "weekSchedule.screen.edit" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1617,7 +1522,6 @@
       }
     },
     "weekSchedule.screen.from" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1634,7 +1538,6 @@
       }
     },
     "weekSchedule.screen.save_break" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1651,7 +1554,6 @@
       }
     },
     "weekSchedule.screen.to" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1668,7 +1570,6 @@
       }
     },
     "welcome.screen.description" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1685,7 +1586,6 @@
       }
     },
     "welcome.screen.title" : {
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
