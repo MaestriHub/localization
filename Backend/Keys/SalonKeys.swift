@@ -1,3 +1,3 @@
-public enum SalonKeys: String, LocalizationKey, CaseIterable {
-    case OwnerPositionTitle
+public extension LocalizableKeys.SalonKeys {
+    static var OwnerPositionTitle = LocalizableKeys(key: "OwnerPositionTitle")
 }

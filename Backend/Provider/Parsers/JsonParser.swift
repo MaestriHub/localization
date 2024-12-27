@@ -2,10 +2,10 @@ import Vapor
 import Foundation
 import MaestriLogger
 
-public struct JsonParser: ILocalizationParser {
-    public init() {}
+struct JsonParser: ILocalizationParser {
+    init() {}
     
-    public func getKnowledge(path: String) async -> LocalizeKnowledge {
+    func getKnowledge(path: String) async -> LocalizeKnowledge {
         
         let servicePath = URL(fileURLWithPath: path)
         let resourcePath = servicePath
