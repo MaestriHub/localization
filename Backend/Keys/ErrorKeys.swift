@@ -1,5 +1,5 @@
 public extension LocalizableKeys.ErrorKeys {
-    private enum Keys: String {
+    enum Keys: String {
         case internalServerError = "internal.server.error"
     }
     
