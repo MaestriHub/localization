@@ -1,3 +1,3 @@
 public struct SalonKeys {
-    public let OwnerPositionTitle = LocalizableKeys(rawKey: "OwnerPositionTitle")
+    public lazy var OwnerPositionTitle = LocalizableKeys(rawKey: "OwnerPositionTitle")
 }
