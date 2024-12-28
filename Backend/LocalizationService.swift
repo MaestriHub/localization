@@ -10,7 +10,7 @@ typealias LangMap = [Lang : String]
 typealias Key = String
 
 public protocol ILocalizationService {
-    func by(_ key: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?)
+    func tryTranslate(_ key: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?)
 }
 
 protocol ILocalizationParser {
@@ -54,7 +54,7 @@ public enum Nuance: Error {
 }
 
 public extension LocalizationService {
-    func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?) {
+    func tryTranslate(_ localizeKey: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?) {
         if let valueLocalization = knowledge[localizeKey.rawKey] {
             if let lang, let successLocalization = valueLocalization[lang] {
                 return (successLocalization, nil)
