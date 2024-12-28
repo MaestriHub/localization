@@ -55,7 +55,7 @@ public enum Nuance: Error {
 
 public extension LocalizationService {
     func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?) {
-        if let valueLocalization = knowledge[localizeKey.key] {
+        if let valueLocalization = knowledge[localizeKey.rawKey] {
             if let lang, let successLocalization = valueLocalization[lang] {
                 return (successLocalization, nil)
             } else if let baseLocalization = valueLocalization[.base] {
@@ -67,8 +67,8 @@ public extension LocalizationService {
 }
 
 public struct LocalizableKeys {
-    public let key: String
-    
+    public let rawKey: String
+
     public enum ErrorKeys   {}
     
     public enum SalonKeys   {}
