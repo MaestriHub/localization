@@ -1,8 +1,6 @@
-public extension LocalizableKeys.ErrorKeys {
-    enum Keys: String {
-        case internalServerError = "internal.server.error"
+public extension LocalizableKeys {
+    struct ErrorKeys {
+        public var internalServerError = LocalizableKeys(rawKey: "internal.server.error")
     }
-    
-    static let Oops = LocalizableKeys(rawKey: Keys.internalServerError.rawValue)
 }
 
