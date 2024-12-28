@@ -36,7 +36,7 @@ let package = Package(
 //                .define("XCSTRINGS_TOOL_ACCESS_LEVEL_PUBLIC")
 //            ]
             resources: [
-                .copy("Localizables")
+                .copy("Resources")
             ]
         ),
         .target(
