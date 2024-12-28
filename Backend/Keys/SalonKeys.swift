@@ -1,3 +1,5 @@
-public extension LocalizableKeys.SalonKeys {
-    static var OwnerPositionTitle = LocalizableKeys(rawKey: "OwnerPositionTitle")
+public extension LocalizableKeys {
+    struct SalonKeys {
+        public var OwnerPositionTitle = "OwnerPositionTitle"
+    }
 }

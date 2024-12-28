@@ -68,10 +68,9 @@ public extension LocalizationService {
 
 public struct LocalizableKeys {
     public let rawKey: String
-
-    public enum ErrorKeys   {}
     
-    public enum SalonKeys   {}
-    
-    public enum ServiceKeys {}
+    public static var error: ErrorKeys { ErrorKeys() }
+    public static var salon: SalonKeys { SalonKeys() }
+//    public static var service: { ErrorKeys() }
 }
+
