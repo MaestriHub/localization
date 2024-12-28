@@ -1,5 +1,3 @@
-public extension LocalizableKeys {
-    struct SalonKeys {
-        public var OwnerPositionTitle = "OwnerPositionTitle"
-    }
+public struct SalonKeys {
+    var OwnerPositionTitle = LocalizableKeys(rawKey: "OwnerPositionTitle")
 }
