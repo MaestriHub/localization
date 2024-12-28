@@ -1,3 +1,3 @@
 public struct SalonKeys {
-    var OwnerPositionTitle = LocalizableKeys(rawKey: "OwnerPositionTitle")
+    public var OwnerPositionTitle = LocalizableKeys(rawKey: "OwnerPositionTitle")
 }

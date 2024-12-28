@@ -1,3 +1,3 @@
 public struct ErrorKeys {
-    var Oops = LocalizableKeys(rawKey: "internal.server.error")
+    public var Oops = LocalizableKeys(rawKey: "internal.server.error")
 }
