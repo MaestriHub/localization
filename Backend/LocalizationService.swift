@@ -69,6 +69,12 @@ public extension LocalizationService {
 public struct LocalizableKeys {
     public let rawKey: String
     
+    init(
+        _ key: String
+    ) {
+        self.rawKey = key
+    }
+    
     public static let error   = ErrorKeys()
     public static let salon   = SalonKeys()
     public static let service = ServiceKeys()
