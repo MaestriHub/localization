@@ -1,5 +1,5 @@
 public extension ServiceKeys {
-    static var barbershop = BarbershopKeys()
+    var barbershop: BarbershopKeys { BarbershopKeys() }
     
     struct BarbershopKeys {
         public let title       = LocalizableKeys(rawKey: "service.barbershop.title")
