@@ -1,6 +1,6 @@
-import Vapor
 import Foundation
 import MaestriLogger
+import Vapor
 
 // MARK: LocalizationService
 
@@ -71,6 +71,6 @@ public struct LocalizableKeys {
     
     public static let error   = ErrorKeys()
     public static let salon   = SalonKeys()
-    public static let service = ServicesKeys()
+    public static let service = ServiceKeys()
 }
 
