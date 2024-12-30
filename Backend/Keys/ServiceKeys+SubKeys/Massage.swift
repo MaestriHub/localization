@@ -11,8 +11,8 @@ public extension ServiceKeys.Massage {
     var classic:           ClassicKeys          { ClassicKeys() }
     
     struct ExoticTechniquesKeys {
-        public let title             = LocalizableKeys("massage.exotic_techniques.title")
-        public let description       = LocalizableKeys("massage.exotic_techniques.description")
+        public let title              = LocalizableKeys("massage.exotic_techniques.title")
+        public let description        = LocalizableKeys("massage.exotic_techniques.description")
         
         // Параметр type служит для определения типа.
         public let parameterType      = LocalizableKeys("massage.exotic_techniques.type.title")
