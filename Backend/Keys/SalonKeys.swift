@@ -1,3 +1,3 @@
-public enum SalonKeys: String, LocalizationKey {
-    case OwnerPositionTitle
+public struct SalonKeys {
+    public let ownerPositionTitle = LocalizableKeys("OwnerPositionTitle")
 }
