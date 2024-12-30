@@ -11,7 +11,7 @@ public extension ServiceKeys.BarbershopKeys {
         public let title            = LocalizableKeys("barbershop.other.title")
         public let description      = LocalizableKeys("barbershop.other.description")
         
-        // Параметр type служит для определения типа стрижки.
+        // Параметр type служит для определения типа.
         public let parameterType    = LocalizableKeys("barbershop.other.type.title")
         public let man_haircut      = LocalizableKeys("barbershop.other.type.case.Man_haircut")
         public let machine_haircut  = LocalizableKeys("barbershop.other.type.case.Machine_haircut")

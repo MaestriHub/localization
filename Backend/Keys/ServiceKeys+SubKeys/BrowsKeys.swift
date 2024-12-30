@@ -11,7 +11,7 @@ public extension ServiceKeys.BrowsKeys {
         public let title            = LocalizableKeys("brows.other.title")
         public let description      = LocalizableKeys("brows.other.description")
         
-        // Параметр type служит для определения типа стрижки.
+        // Параметр type служит для определения типа.
         public let parameterType    = LocalizableKeys("brows.other.type.title")
         public let man_haircut      = LocalizableKeys("brows.other.type.case.Eyebrow_correction")
         public let machine_haircut  = LocalizableKeys("brows.other.type.case.Eyebrow_coloring")
