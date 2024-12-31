@@ -5,7 +5,7 @@ public extension ServiceKeys {
 }
 
 public extension ServiceKeys.BarbershopKeys {
-    var other: OtherKeys { OtherKeys() }
+    var other: OtherKeys { OtherKeys() } // TODO: имя?
     
     struct OtherKeys {
         public let title            = LocalizableKeys("barbershop.other.title")
@@ -13,7 +13,7 @@ public extension ServiceKeys.BarbershopKeys {
         
         // Параметр type служит для определения типа.
         public let parameterType    = LocalizableKeys("barbershop.other.type.title")
-        public let man_haircut      = LocalizableKeys("barbershop.other.type.case.Man_haircut")
+        public let man_haircut      = LocalizableKeys("barbershop.other.type.case.Man_haircut") // TODO: можно ли использовать слово man?
         public let machine_haircut  = LocalizableKeys("barbershop.other.type.case.Machine_haircut")
         public let scissor_haircut  = LocalizableKeys("barbershop.other.type.case.Scissor_haircut")
         public let beard_haircut    = LocalizableKeys("barbershop.other.type.case.Beard_modeling")

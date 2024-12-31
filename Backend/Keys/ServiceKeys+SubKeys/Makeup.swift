@@ -18,7 +18,7 @@ public extension ServiceKeys.Makeup {
         public let wedding                = LocalizableKeys("makeup.other.type.case.wedding")
         public let consultation           = LocalizableKeys("makeup.other.type.case.consultation")
         public let cocktail               = LocalizableKeys("makeup.other.type.case.cocktail")
-        public let wedding_with_elelashes = LocalizableKeys("makeup.other.type.case.wedding_with_elelashes") // TODO:
+        public let wedding_with_elelashes = LocalizableKeys("makeup.other.type.case.wedding_with_elelashes") // TODO: lashes?
         public let weddingRehearsal       = LocalizableKeys("makeup.other.type.case.weddingRehearsal")
     }
 }
