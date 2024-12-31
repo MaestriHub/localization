@@ -112,7 +112,8 @@ public extension ServiceKeys.Spa {
         public let description                   = LocalizableKeys("spa.foot_treatment.description")
         
         // Параметр type служит для определения типа.
-        public let classic_pedicure_with_massage = LocalizableKeys("spa.foot_treatment.type.title") // massage? pedicure?
+        public let parameterType = LocalizableKeys("spa.foot_treatment.type.title")
+        public let classic_pedicure_with_massage = LocalizableKeys("spa.foot_treatment.type.case.classic_pedicure_with_massage")
         public let japanese_pedicure             = LocalizableKeys("spa.foot_treatment.type.case.french") // pedicure?
         public let brazillian_pedicure           = LocalizableKeys("spa.foot_treatment.type.case.slider")
     }
