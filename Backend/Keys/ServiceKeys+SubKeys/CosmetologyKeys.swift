@@ -6,6 +6,7 @@ public extension ServiceKeys {
 
 public extension ServiceKeys.CosmetologyKeys {
     var classic_cleaning: ClassicCleaningKeys { ClassicCleaningKeys() }
+    var tattoo_removal:   TattooRemovalKeys   { TattooRemovalKeys() }
     var facial_massage:   FacialMassageKeys   { FacialMassageKeys() }
     var facial_peeling:   FacialPeelingKeys   { FacialPeelingKeys() }
     var injectable:       InjectableKeys      { InjectableKeys() }
@@ -69,7 +70,7 @@ public extension ServiceKeys.CosmetologyKeys {
         public let consultation  = LocalizableKeys("cosmetology.injectable.type.case.Consultation")
     }
     
-    struct TattooRemoval {
+    struct TattooRemovalKeys {
         public let title         = LocalizableKeys("cosmetology.tattoo_removal.title")
         public let description   = LocalizableKeys("cosmetology.tattoo_removal.description")
         
