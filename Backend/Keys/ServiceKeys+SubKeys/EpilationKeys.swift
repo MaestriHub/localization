@@ -55,7 +55,7 @@ public extension ServiceKeys.EpilationKeys {
         
         // Параметр type служит для определения типа.
         public let parameterType   = LocalizableKeys("epilation.sugaring.type.title")
-        public let face_area       = LocalizableKeys("epilation.sugaring.type.case.face_area")
+        public let face_area       = LocalizableKeys("epilation.sugaring.type.case.face_area") // TODO: face, facial??
         public let full_face       = LocalizableKeys("epilation.sugaring.type.case.full_face")
         public let armpits         = LocalizableKeys("epilation.sugaring.type.case.armpits")
         public let bikini          = LocalizableKeys("epilation.sugaring.type.case.bikini")

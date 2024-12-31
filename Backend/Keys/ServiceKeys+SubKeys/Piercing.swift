@@ -17,7 +17,7 @@ public extension ServiceKeys.Piercing {
         public let conch           = LocalizableKeys("piercing.other.type.case.conch")
         public let dace            = LocalizableKeys("piercing.other.type.case.dace")
         public let ruuk            = LocalizableKeys("piercing.other.type.case.ruuk")
-        public let tragus          = LocalizableKeys("piercing.other.type.case.tragus") // anti_thragus?
+        public let tragus          = LocalizableKeys("piercing.other.type.case.tragus") // TODO: anti_thragus?
         public let industrial      = LocalizableKeys("piercing.other.type.case.industrial")
         public let forward_helix   = LocalizableKeys("piercing.other.type.case.forward_helix")
         public let anti_thragus    = LocalizableKeys("piercing.other.type.case.anti_thragus")

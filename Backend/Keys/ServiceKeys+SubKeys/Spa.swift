@@ -17,6 +17,7 @@ public extension ServiceKeys.Spa {
     var hand_treatment:            HandTreatmentKeys           { HandTreatmentKeys() }
     var foot_treatment:            FootTreatmentKeys           { FootTreatmentKeys() }
     
+    // TODO: почему так много сервисов без параметров? это норм?
     struct JacuzziWithHydromassageKeys {
         public let title         = LocalizableKeys("spa.jacuzzi_with_hydromassage.title")
         public let description   = LocalizableKeys("spa.jacuzzi_with_hydromassage.description")
@@ -111,8 +112,8 @@ public extension ServiceKeys.Spa {
         public let description                   = LocalizableKeys("spa.foot_treatment.description")
         
         // Параметр type служит для определения типа.
-        public let classic_pedicure_with_massage = LocalizableKeys("spa.foot_treatment.type.title") // ?
-        public let japanese_pedicure             = LocalizableKeys("spa.foot_treatment.type.case.french")
+        public let classic_pedicure_with_massage = LocalizableKeys("spa.foot_treatment.type.title") // massage? pedicure?
+        public let japanese_pedicure             = LocalizableKeys("spa.foot_treatment.type.case.french") // pedicure?
         public let brazillian_pedicure           = LocalizableKeys("spa.foot_treatment.type.case.slider")
     }
 }

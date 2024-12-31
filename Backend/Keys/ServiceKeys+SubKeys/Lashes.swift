@@ -13,7 +13,7 @@ public extension ServiceKeys.LashesKeys {
         public let description        = LocalizableKeys("lashes.extension.description")
         
         // Параметр type служит для определения типа.
-        public let parameterType      = LocalizableKeys("lashes.extension.type.title")
+        public let parameterType      = LocalizableKeys("lashes.extension.type.title") // TODO: нормальные названия сервисов?
         public let incomplete_corners = LocalizableKeys("lashes.extension.type.case.incomplete_corners")
         public let natural_1D         = LocalizableKeys("lashes.extension.type.case.natural_1D")
         public let one_half_1_5D      = LocalizableKeys("lashes.extension.type.case.one_half_1_5D")

@@ -26,7 +26,7 @@ public extension ServiceKeys.PermamentMakeup {
     
         // Параметр type служит для определения типа.
         public let parameterType                 = LocalizableKeys("permamentMakeup.eye.type.title")
-        public let interstitial_space            = LocalizableKeys("permamentMakeup.eye.type.case.interstitial_space") // TODO:
+        public let interstitial_space            = LocalizableKeys("permamentMakeup.eye.type.case.interstitial_space")
         public let Interstitial_space_correction = LocalizableKeys("permamentMakeup.eye.type.case.Interstitial_space_correction")
         public let shaded_arrow                  = LocalizableKeys("permamentMakeup.eye.type.case.shaded_arrow")
         public let shaded_arrow_correction       = LocalizableKeys("permamentMakeup.eye.type.case.shaded_arrow_correction")
@@ -40,7 +40,7 @@ public extension ServiceKeys.PermamentMakeup {
         
         // Параметр type служит для определения типа.
         public let parameterType        = LocalizableKeys("permamentMakeup.lip.type.title")
-        public let permanent_makeup     = LocalizableKeys("permamentMakeup.lip.type.case.permanent_makeup")
+        public let permanent_makeup     = LocalizableKeys("permamentMakeup.lip.type.case.permanent_makeup") // TODO: че
         public let correction           = LocalizableKeys("permamentMakeup.lip.type.case.correction")
         public let contour_accentuation = LocalizableKeys("permamentMakeup.lip.type.case.contour_accentuation")
         public let volume_increase      = LocalizableKeys("permamentMakeup.lip.type.case.volume_increase")

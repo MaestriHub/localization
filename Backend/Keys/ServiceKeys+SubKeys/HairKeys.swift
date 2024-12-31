@@ -127,7 +127,7 @@ public extension ServiceKeys.HairKeys {
         public let polishing       = LocalizableKeys("hair.care.type.case.polishing")
         public let lamination      = LocalizableKeys("hair.care.type.case.lamination")
         public let spa_treatments  = LocalizableKeys("hair.care.type.case.spa_treatments")
-        public let oilWrap         = LocalizableKeys("hair.care.type.case.oilWrap")
+        public let oil_wrap         = LocalizableKeys("hair.care.type.case.oil_wrap")
         public let biolamination   = LocalizableKeys("hair.care.type.case.biolamination")
     }
     
@@ -140,7 +140,7 @@ public extension ServiceKeys.HairKeys {
         public let alkaline      = LocalizableKeys("hair.perm.type.case.alkaline")
         public let acid          = LocalizableKeys("hair.perm.type.case.acid")
         public let neutral       = LocalizableKeys("hair.perm.type.case.neutral")
-        public let bioHair       = LocalizableKeys("hair.perm.type.case.bioHair")
+        public let bio_hair      = LocalizableKeys("hair.perm.type.case.bio_hair")
         public let afrocudry     = LocalizableKeys("hair.perm.type.case.afrocudry")
     }
     

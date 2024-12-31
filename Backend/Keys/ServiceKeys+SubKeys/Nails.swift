@@ -30,7 +30,7 @@ public extension ServiceKeys.Nails {
         public let children                  = LocalizableKeys("nails.manicure.type.case.children")
         public let hardware                  = LocalizableKeys("nails.manicure.type.case.hardware")
         public let file                      = LocalizableKeys("nails.manicure.type.case.file")
-        public let hardware_man              = LocalizableKeys("nails.manicure.type.case.hardware_man")
+        public let hardware_man              = LocalizableKeys("nails.manicure.type.case.hardware_man") //TODO: не нравится
         public let hardware_with_transparent = LocalizableKeys("nails.manicure.type.case.hardware_with_transparent")
         public let file_with_transparent     = LocalizableKeys("nails.manicure.type.case.file_with_transparent")
         public let hardware_with_color       = LocalizableKeys("nails.manicure.type.case.hardware_with_color")
@@ -41,7 +41,7 @@ public extension ServiceKeys.Nails {
         public let strengthen                = LocalizableKeys("nails.manicure.type.case.strengthen")
         public let removing_gel              = LocalizableKeys("nails.manicure.type.case.removing_gel")
         public let change_form               = LocalizableKeys("nails.manicure.type.case.change_form")
-        public let four_hand_service         = LocalizableKeys("nails.manicure.type.case.four_hand_service") // TODO:
+        public let four_hand_service         = LocalizableKeys("nails.manicure.type.case.four_hand_service") // TODO: complex?
         public let extensions                = LocalizableKeys("nails.manicure.type.case.extensions")
         public let correction_of_extended    = LocalizableKeys("nails.manicure.type.case.correction_of_extended")
         public let one_nail_extension        = LocalizableKeys("nails.manicure.type.case.one_nail_extension")
