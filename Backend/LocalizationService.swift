@@ -1,14 +1,21 @@
-import Vapor
 import Foundation
+import MaestriLogger
+import Vapor
 
 // MARK: LocalizationService
 
-public typealias LocalizeKey = String
-public typealias LangMap = [Lang : String]
-public typealias LocalizeKnowledge = [LocalizeKey : LangMap]
+public typealias LocalizedString = String
+typealias LocalizeKnowledge = [Key : LangMap]
+typealias LangMap = [Lang : String]
+typealias Key = String
 
-public protocol ILocalizationService { func by(_ key: LocalizableKeys, _ lang: Lang?) async throws -> String }
-public protocol ILocalizationParser { func getKnowledge(path: String) async -> LocalizeKnowledge }
+public protocol ILocalizationService {
+    func tryTranslate(_ key: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?)
+}
+
+protocol ILocalizationParser {
+    func getKnowledge(path: String) async -> LocalizeKnowledge
+}
 
 public extension Request {
 
@@ -21,7 +28,7 @@ public extension Request {
             if let existing = application.storage[LocalizationServiceStorageKey.self] {
                 return existing
             } else {
-                let new = await LocalizationService(logger: logger)
+                let new = await LocalizationService()
                 application.storage[LocalizationServiceStorageKey.self] = new
                 return new
             }
@@ -31,45 +38,40 @@ public extension Request {
 
 public actor LocalizationService: ILocalizationService {
     public static var localizeDirectory = #file
-
-    private let logger: Logger
+    
     private let knowledge: LocalizeKnowledge
     
-    public init(
-        logger: Logger,
+    init(
         parser: ILocalizationParser = JsonParser()
     ) async {
         self.knowledge = await parser.getKnowledge(path: Self.localizeDirectory)
-        self.logger = logger
     }
+}
+
+public enum Nuance: Error {
+    case badKey
+    case badLang
 }
 
 public extension LocalizationService {
-    
-    func by(_ localizeKey: LocalizableKeys, _ lang: Lang?) async throws -> String {
-        if let valueLocalization = knowledge[localizeKey.key] {
+    func tryTranslate(_ localizeKey: LocalizableKeys, _ lang: Lang?) async -> (LocalizedString, Nuance?) {
+        if let valueLocalization = knowledge[localizeKey.rawKey] {
             if let lang, let successLocalization = valueLocalization[lang] {
-                return successLocalization
-            } else if let anyValue = valueLocalization[Lang.base] {
-                logger.error("No Lang \(String(describing: lang)) for LocalizeKey \(localizeKey.key)")
-                return anyValue
+                return (successLocalization, nil)
+            } else if let baseLocalization = valueLocalization[.base] {
+                return (baseLocalization, .badLang)
             }
         }
-        
-        logger.error("Empty LocalizeKey \(localizeKey.key)")
-        return ""
+        return ("unknown", .badKey)
     }
 }
 
-public enum LocalizableKeys {
-    case salon(SalonKeys)
+public struct LocalizableKeys {
+    public let rawKey: String
     
-    var key: String {
-        get {
-            switch self {
-            case .salon(let key):
-                return key.rawValue
-            }
-        }
-    }
+    public init(_ key: String) { self.rawKey = key }
+    
+    public static let error   = ErrorKeys()
+    public static let salon   = SalonKeys()
 }
+
