@@ -1,14 +1,14 @@
 {
-    "service_tag.barbershop": "",
-    "service_tag.nails": "",
-    "service_tag.massage": "",
-    "service_tag.spa": "",
-    "service_tag.cosmetology": "",
-    "service_tag.hairdressing": "",
-    "service_tag.epilation": "",
-    "service_tag.permanentMakeup": "",
-    "service_tag.piercing": "",
-    "service_tag.makeup": "",
-    "service_tag.brows": "",
-    "service_tag.lashes": ""
+    "service_tag.barbershop": "Барбершоп",
+    "service_tag.nails": "Ногти",
+    "service_tag.massage": "Массаж",
+    "service_tag.spa": "Спа",
+    "service_tag.cosmetology": "Косметология",
+    "service_tag.hairdressing": "Стрижка",
+    "service_tag.epilation": "Эпиляция",
+    "service_tag.permanentMakeup": "Перманентный макияж",
+    "service_tag.piercing": "Пирсинг",
+    "service_tag.makeup": "Макияж",
+    "service_tag.brows": "Брови",
+    "service_tag.lashes": "Ресницы"
 }

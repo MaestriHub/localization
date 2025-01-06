@@ -1,14 +1,14 @@
 {
-    "service_tag.barbershop": "",
-    "service_tag.nails": "",
-    "service_tag.massage": "",
-    "service_tag.spa": "",
-    "service_tag.cosmetology": "",
-    "service_tag.hairdressing": "",
-    "service_tag.epilation": "",
-    "service_tag.permanentMakeup": "",
-    "service_tag.piercing": "",
-    "service_tag.makeup": "",
-    "service_tag.brows": "",
-    "service_tag.lashes": ""
+    "service_tag.barbershop": "Barbershop",
+    "service_tag.nails": "Nails",
+    "service_tag.massage": "Massage",
+    "service_tag.spa": "Spa",
+    "service_tag.cosmetology": "Cosmetology",
+    "service_tag.hairdressing": "Hair",
+    "service_tag.epilation": "Epilation",
+    "service_tag.permanentMakeup": "Permanent makeup",
+    "service_tag.piercing": "Piercing",
+    "service_tag.makeup": "Makeup",
+    "service_tag.brows": "Brows",
+    "service_tag.lashes": "Lashes"
 }
