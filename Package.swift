@@ -14,10 +14,10 @@ let package = Package(
             name: "LocalizationKit",
             targets: ["LocalizationKit"]
         ),
-        .library(
-            name: "LocalizationService",
-            targets: ["LocalizationService"]
-        )
+//        .library(
+//            name: "LocalizationService",
+//            targets: ["LocalizationService"]
+//        )
     ],
     dependencies: [
         .package(url: "https://github.com/vapor/vapor.git", from: "4.83.2")
@@ -30,15 +30,15 @@ let package = Package(
                 .process("Resources")
             ]
         ),
-        .target(
-            name: "LocalizationService",
-            dependencies: [
-                .product(name: "Vapor", package: "vapor")
-            ],
-            path: "Backend",
-            resources: [
-                .copy("Resources")
-            ]
-        )
+//        .target(
+//            name: "LocalizationService",
+//            dependencies: [
+//                .product(name: "Vapor", package: "vapor")
+//            ],
+//            path: "Backend",
+//            resources: [
+//                .copy("Resources")
+//            ]
+//        )
     ]
 )
