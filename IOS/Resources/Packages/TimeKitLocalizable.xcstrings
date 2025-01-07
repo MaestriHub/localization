@@ -1,0 +1,17 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "packages.time_kit.creation_kit.day_timetable_step" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Work day: %1$@%2$@"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

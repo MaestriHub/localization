@@ -14,4 +14,5 @@ extension L10n {
     public enum Professional {}
     public enum Reusable {}
     public enum Shared {}
+    public enum Packages {}
 }
