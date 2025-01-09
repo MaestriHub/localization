@@ -1,0 +1,83 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "reusable.time.week.friday" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Friday"
+          }
+        }
+      }
+    },
+    "reusable.time.week.monday" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Monday"
+          }
+        }
+      }
+    },
+    "reusable.time.week.saturday" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Saturday"
+          }
+        }
+      }
+    },
+    "reusable.time.week.sunday" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sunday"
+          }
+        }
+      }
+    },
+    "reusable.time.week.thursday" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Thursday"
+          }
+        }
+      }
+    },
+    "reusable.time.week.tuesday" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tuesday"
+          }
+        }
+      }
+    },
+    "reusable.time.week.wednesday" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Wednesday"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
