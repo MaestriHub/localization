@@ -21,6 +21,7 @@ extension L10n.Professional {
         public enum DayScheduleCreatable {}
         public enum Creatable {}
         public enum WeeklyScheduleCreatable {}
+        public enum SalonScheduleCell {}
     }
 }
 
@@ -198,6 +199,13 @@ public extension L10n.Professional.Schedule.Widget {
             bundle: .current
         )
     }
+    
+    static let openSchedule = LocalizedStringResource(
+        "professional.schedule.schedule_widget.open_schedule",
+        defaultValue: "Open schedule",
+        table: "ProfessionalScheduleLocalizable",
+        bundle: .current
+    )
 }
 
 public extension L10n.Professional.Schedule.CycledScheduleCreatable {
@@ -399,6 +407,16 @@ public extension L10n.Professional.Schedule.WeeklyScheduleCreatable {
     static let clickSave = LocalizedStringResource(
         "professional.schedule.weekly_schedule_creatable.click_save",
         defaultValue: "Click save to create a schedule",
+        table: "ProfessionalScheduleLocalizable",
+        bundle: .current
+    )
+}
+
+public extension L10n.Professional.Schedule.EmployeeScheduleCell {
+    
+    static let dayOff = LocalizedStringResource(
+        "professional.schedule.employee_schedule_cell.day_off",
+        defaultValue: "Day off",
         table: "ProfessionalScheduleLocalizable",
         bundle: .current
     )
