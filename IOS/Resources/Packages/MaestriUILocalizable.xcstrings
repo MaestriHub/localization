@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Enter address"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enter address"
-          }
         }
       }
     },
@@ -24,12 +18,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Input amount"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Input amount"
           }
         }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Search..."
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Search..."
-          }
         }
       }
     },
@@ -58,12 +40,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Enter service name"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Enter service name"
           }
         }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "input@mail.com"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "input@mail.com"
-          }
         }
       }
     },
@@ -92,12 +62,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "your_identifier"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "your_identifier"
           }
         }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "https://maestri.me/"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "https://maestri.me/"
-          }
         }
       }
     },
@@ -126,12 +84,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Hide"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Hide"
           }
         }
@@ -145,12 +97,6 @@
             "state" : "new",
             "value" : "Show More"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show More"
-          }
         }
       }
     },
@@ -160,12 +106,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Description"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Description"
           }
         }
@@ -179,12 +119,6 @@
             "state" : "new",
             "value" : "Send QR-Code"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Send QR-Code"
-          }
         }
       }
     },
@@ -194,12 +128,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Share with link"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Share with link"
           }
         }
@@ -213,12 +141,6 @@
             "state" : "new",
             "value" : "Enter address"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enter address"
-          }
         }
       }
     },
@@ -228,12 +150,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Input amount"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Input amount"
           }
         }
@@ -247,12 +163,6 @@
             "state" : "new",
             "value" : "Search..."
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Search..."
-          }
         }
       }
     },
@@ -262,12 +172,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Enter service name"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Enter service name"
           }
         }
@@ -281,12 +185,6 @@
             "state" : "new",
             "value" : "input@mail.com"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "input@mail.com"
-          }
         }
       }
     },
@@ -296,12 +194,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "your_identifier"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "your_identifier"
           }
         }
@@ -315,12 +207,6 @@
             "state" : "new",
             "value" : "https://maestri.me/"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "https://maestri.me/"
-          }
         }
       }
     },
@@ -330,12 +216,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Hide"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Hide"
           }
         }
@@ -349,12 +229,6 @@
             "state" : "new",
             "value" : "Show More"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show More"
-          }
         }
       }
     },
@@ -364,12 +238,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Description"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Description"
           }
         }
@@ -383,12 +251,6 @@
             "state" : "new",
             "value" : "Send QR-Code"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Send QR-Code"
-          }
         }
       }
     },
@@ -398,12 +260,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Share with link"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Share with link"
           }
         }
