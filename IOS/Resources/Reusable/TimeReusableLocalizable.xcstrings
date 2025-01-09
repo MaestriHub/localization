@@ -1,101 +1,79 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "calendar.sheet.today" : {
+    "reusable.time.week.friday" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Today"
+            "value" : "Friday"
           }
         }
       }
     },
-    "component.ShiftScheduleSelector.offDays" : {
+    "reusable.time.week.monday" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Days off:"
+            "value" : "Monday"
           }
         }
       }
     },
-    "component.ShiftScheduleSelector.workDays" : {
+    "reusable.time.week.saturday" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Working days:"
+            "value" : "Saturday"
           }
         }
       }
     },
-    "CycledSchedule.creatable.shiftSchedule" : {
+    "reusable.time.week.sunday" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Work day: %1$@, Off day: %2$@"
+            "value" : "Sunday"
           }
         }
       }
     },
-    "packages.time_kit.creation_kit.day_timetable_step" : {
+    "reusable.time.week.thursday" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Work day: %1$@%2$@"
+            "value" : "Thursday"
           }
         }
       }
     },
-    "permissions.sheet.action" : {
+    "reusable.time.week.tuesday" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Save"
+            "value" : "Tuesday"
           }
         }
       }
     },
-    "permissions.sheet.selectAll" : {
+    "reusable.time.week.wednesday" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Select all"
-          }
-        }
-      }
-    },
-    "permissions.sheet.title" : {
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Accesses"
-          }
-        }
-      }
-    },
-    "position.creatable.permissionsIsEmpty" : {
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Permissions not added"
+            "value" : "Wednesday"
           }
         }
       }

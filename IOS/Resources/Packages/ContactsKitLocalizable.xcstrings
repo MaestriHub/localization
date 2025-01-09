@@ -1,0 +1,28 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "packages.contacts_kit.cells.contact_cell.contact_select_number" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select number"
+          }
+        }
+      }
+    },
+    "packages.contacts_kit.contacts_screen.contact_title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Contacts"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
