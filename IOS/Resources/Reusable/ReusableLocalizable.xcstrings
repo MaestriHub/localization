@@ -80,6 +80,17 @@
         }
       }
     },
+    "reusable.edit" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit"
+          }
+        }
+      }
+    },
     "reusable.ok" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {

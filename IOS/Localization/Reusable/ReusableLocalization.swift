@@ -7,7 +7,7 @@
 
 import Foundation
 
-// TODO: возможно стоит добавить: edit
+// TODO: возможно стоит добавить: from, to
 public extension L10n.Reusable {
     
     static let ok = LocalizedStringResource(
@@ -69,6 +69,13 @@ public extension L10n.Reusable {
     static let save = LocalizedStringResource(
         "reusable.save",
         defaultValue: "Save",
+        table: "ReusableLocalizable",
+        bundle: .current
+    )
+    
+    static let edit = LocalizedStringResource(
+        "reusable.edit",
+        defaultValue: "Edit",
         table: "ReusableLocalizable",
         bundle: .current
     )
