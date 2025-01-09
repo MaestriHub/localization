@@ -1,7 +1,160 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-
+    "address.widget.link" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit"
+          }
+        }
+      }
+    },
+    "address.widget.navigate" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Navigate"
+          }
+        }
+      }
+    },
+    "address.widget.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Address"
+          }
+        }
+      }
+    },
+    "component.alert.incomplete_address" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Incomplete address"
+          }
+        }
+      }
+    },
+    "component.alert.incomplete_address_message" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You must enter your full address to continue"
+          }
+        }
+      }
+    },
+    "component.routes_picker.message" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "To get directions to an address, select the application that is convenient for you"
+          }
+        }
+      }
+    },
+    "component.routes_picker.select_app" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select App"
+          }
+        }
+      }
+    },
+    "packages.geo_kit.address_widget.link" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit"
+          }
+        }
+      }
+    },
+    "packages.geo_kit.address_widget.navigate" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Navigate"
+          }
+        }
+      }
+    },
+    "packages.geo_kit.address_widget.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Address"
+          }
+        }
+      }
+    },
+    "packages.geo_kit.creation_kit.address_step.incomplete_address" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Incomplete address"
+          }
+        }
+      }
+    },
+    "packages.geo_kit.creation_kit.address_step.incomplete_address_message" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You must enter your full address to continue"
+          }
+        }
+      }
+    },
+    "packages.geo_kit.karte.message" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "To get directions to an address, select the application that is convenient for you"
+          }
+        }
+      }
+    },
+    "packages.geo_kit.karte.select_app" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select App"
+          }
+        }
+      }
+    }
   },
   "version" : "1.0"
 }
