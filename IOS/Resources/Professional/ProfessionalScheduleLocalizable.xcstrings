@@ -383,6 +383,12 @@
             "state" : "new",
             "value" : "Day off"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выходной"
+          }
         }
       }
     },
@@ -699,6 +705,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Open schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть расписание"
           }
         }
       }
