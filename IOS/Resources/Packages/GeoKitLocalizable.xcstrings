@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Edit"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Редактирование"
-          }
         }
       }
     },
@@ -24,12 +18,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Navigate"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Navigate"
           }
         }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Address"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Адрес"
-          }
         }
       }
     },
@@ -59,12 +41,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Incomplete address"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Неполный адрес"
           }
         }
       }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "You must enter your full address to continue"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вы должны ввести полный адрес, чтобы продолжить"
-          }
         }
       }
     },
@@ -93,12 +63,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "To get directions to an address, select the application that is convenient for you"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Чтобы получить указания по адресу, выберите удобное для вас приложение"
           }
         }
       }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "Select App"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выберите приложение"
-          }
         }
       }
     },
@@ -128,12 +86,6 @@
             "state" : "new",
             "value" : "Edit"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Редактирование"
-          }
         }
       }
     },
@@ -143,12 +95,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Navigate"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Navigate"
           }
         }
@@ -162,12 +108,6 @@
             "state" : "new",
             "value" : "Address"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Адрес"
-          }
         }
       }
     },
@@ -178,12 +118,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Incomplete address"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Неполный адрес"
           }
         }
       }
@@ -196,12 +130,6 @@
             "state" : "new",
             "value" : "You must enter your full address to continue"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вы должны ввести полный адрес, чтобы продолжить"
-          }
         }
       }
     },
@@ -213,12 +141,6 @@
             "state" : "new",
             "value" : "To get directions to an address, select the application that is convenient for you"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Чтобы получить указания по адресу, выберите удобное для вас приложение"
-          }
         }
       }
     },
@@ -229,12 +151,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Select App"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выберите приложение"
           }
         }
       }
