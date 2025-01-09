@@ -7,7 +7,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "{name}, Ваша позиция была обновлена. Права доступа обновлены."
+            "value" : "{name}, Ваша должность обновлена. Разрешения обновлены."
           }
         }
       }
@@ -95,7 +95,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ %#@procedures@ в %#@appointment@ %4$@"
+            "value" : "%1$@ %#@procedures@ in %#@appointment@ %4$@"
           },
           "substitutions" : {
             "appointment" : {
@@ -106,25 +106,25 @@
                   "few" : {
                     "stringUnit" : {
                       "state" : "translated",
-                      "value" : "%arg назначения"
+                      "value" : "%arg appointments"
                     }
                   },
                   "many" : {
                     "stringUnit" : {
                       "state" : "translated",
-                      "value" : "%arg назначения"
+                      "value" : "%arg appointments"
                     }
                   },
                   "one" : {
                     "stringUnit" : {
                       "state" : "translated",
-                      "value" : "%arg назначение"
+                      "value" : "%arg appointment"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
                       "state" : "translated",
-                      "value" : "%arg назначения"
+                      "value" : "%arg appointments"
                     }
                   },
                   "zero" : {
@@ -144,25 +144,25 @@
                   "few" : {
                     "stringUnit" : {
                       "state" : "translated",
-                      "value" : "%arg процедур"
+                      "value" : "%arg procedures"
                     }
                   },
                   "many" : {
                     "stringUnit" : {
                       "state" : "translated",
-                      "value" : "%arg процедур"
+                      "value" : "%arg procedures"
                     }
                   },
                   "one" : {
                     "stringUnit" : {
                       "state" : "translated",
-                      "value" : "Процедура %aрг"
+                      "value" : "%arg procedure"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
                       "state" : "translated",
-                      "value" : "%arg процедур"
+                      "value" : "%arg procedures"
                     }
                   }
                 }
@@ -178,7 +178,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Принято приглашение"
+            "value" : "Приглашение принято"
           }
         }
       }
@@ -190,7 +190,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Новая встреча"
+            "value" : "Новая запись"
           }
         }
       }
@@ -212,7 +212,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Обновить позицию"
+            "value" : "Должность обновлена"
           }
         }
       }
