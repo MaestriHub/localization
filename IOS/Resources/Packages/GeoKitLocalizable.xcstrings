@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Edit"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Edit"
-          }
         }
       }
     },
@@ -24,12 +18,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Navigate"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Navigate"
           }
         }
@@ -43,12 +31,6 @@
             "state" : "new",
             "value" : "Address"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Address"
-          }
         }
       }
     },
@@ -58,12 +40,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Incomplete address"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Incomplete address"
           }
         }
@@ -77,12 +53,6 @@
             "state" : "new",
             "value" : "You must enter your full address to continue"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "You must enter your full address to continue"
-          }
         }
       }
     },
@@ -92,12 +62,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "To get directions to an address, select the application that is convenient for you"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "To get directions to an address, select the application that is convenient for you"
           }
         }
@@ -111,12 +75,6 @@
             "state" : "new",
             "value" : "Select App"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Select App"
-          }
         }
       }
     },
@@ -126,12 +84,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Edit"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Edit"
           }
         }
@@ -145,12 +97,6 @@
             "state" : "new",
             "value" : "Navigate"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Navigate"
-          }
         }
       }
     },
@@ -160,12 +106,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Address"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Address"
           }
         }
@@ -179,12 +119,6 @@
             "state" : "new",
             "value" : "Incomplete address"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Incomplete address"
-          }
         }
       }
     },
@@ -194,12 +128,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "You must enter your full address to continue"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "You must enter your full address to continue"
           }
         }
@@ -213,12 +141,6 @@
             "state" : "new",
             "value" : "To get directions to an address, select the application that is convenient for you"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "To get directions to an address, select the application that is convenient for you"
-          }
         }
       }
     },
@@ -228,12 +150,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Select App"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Select App"
           }
         }
