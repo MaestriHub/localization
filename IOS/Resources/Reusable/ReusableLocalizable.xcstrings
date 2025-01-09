@@ -26,6 +26,12 @@
             "state" : "new",
             "value" : "Add"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add"
+          }
         }
       }
     },
@@ -86,6 +92,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Edit"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Edit"
           }
         }
