@@ -28,7 +28,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Invalid address"
+            "value" : "Неверный адрес"
           }
         }
       }
@@ -44,7 +44,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "To continue you need to select a more precise address"
+            "value" : "Для продолжения необходимо выбрать более точный адрес"
           }
         }
       }
@@ -60,7 +60,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ok"
+            "value" : "Ок"
           }
         }
       }
@@ -76,7 +76,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add clients"
+            "value" : "Добавить клиентов"
           }
         }
       }
@@ -92,7 +92,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "All clients"
+            "value" : "Все клиенты"
           }
         }
       }
@@ -108,7 +108,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cancel"
+            "value" : "Отмена"
           }
         }
       }
@@ -124,7 +124,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Select number"
+            "value" : "Выберите номер"
           }
         }
       }
@@ -140,7 +140,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contacts"
+            "value" : "Контакты"
           }
         }
       }
@@ -156,7 +156,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Close"
+            "value" : "Закрыть"
           }
         }
       }
@@ -172,7 +172,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Edit"
+            "value" : "Редактирование"
           }
         }
       }
@@ -204,7 +204,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Edit %lld"
+            "value" : "Изменить %lld"
           }
         }
       }
@@ -220,7 +220,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salon schedule"
+            "value" : "График работы салона"
           }
         }
       }
@@ -236,7 +236,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Select masters"
+            "value" : "Выберите мастеров"
           }
         }
       }
@@ -252,7 +252,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diary"
+            "value" : "Дневник"
           }
         }
       }
@@ -268,7 +268,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Map"
+            "value" : "Карта"
           }
         }
       }
@@ -284,7 +284,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Favorites"
+            "value" : "Избранное"
           }
         }
       }
@@ -300,7 +300,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "View"
+            "value" : "Вид"
           }
         }
       }
@@ -316,7 +316,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "History"
+            "value" : "История"
           }
         }
       }
@@ -332,7 +332,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "My notes"
+            "value" : "Мои заметки"
           }
         }
       }
@@ -348,7 +348,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "You have no appointments"
+            "value" : "У вас нет встреч"
           }
         }
       }
@@ -364,7 +364,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "You have no favorites"
+            "value" : "У вас нет избранного"
           }
         }
       }
@@ -380,7 +380,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "There are no salons nearby"
+            "value" : "Нет магазинов поблизости"
           }
         }
       }
@@ -412,7 +412,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Search in this region"
+            "value" : "Поиск в этом регионе"
           }
         }
       }
@@ -428,7 +428,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Need to zoom in to search"
+            "value" : "Необходимо увеличить масштаб для поиска"
           }
         }
       }
@@ -444,7 +444,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Invite master"
+            "value" : "Пригласить мастера"
           }
         }
       }
@@ -460,7 +460,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "All Masters"
+            "value" : "Все мастера"
           }
         }
       }
@@ -476,7 +476,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Invitate link"
+            "value" : "Пригласить ссылку"
           }
         }
       }
@@ -492,7 +492,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "New master"
+            "value" : "Новый мастер"
           }
         }
       }
@@ -508,7 +508,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Positions"
+            "value" : "Позиции"
           }
         }
       }
@@ -524,7 +524,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Customer"
+            "value" : "Покупатель"
           }
         }
       }
@@ -540,7 +540,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Professional"
+            "value" : "Профессиональный"
           }
         }
       }
@@ -556,7 +556,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choose the role to finish registration"
+            "value" : "Выберите роль для завершения регистрации"
           }
         }
       }
@@ -572,7 +572,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add position"
+            "value" : "Добавить позицию"
           }
         }
       }
@@ -588,7 +588,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Not found"
+            "value" : "Не найдено"
           }
         }
       }
@@ -604,7 +604,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Positions"
+            "value" : "Позиции"
           }
         }
       }
@@ -620,7 +620,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add procedure"
+            "value" : "Добавить процедуру"
           }
         }
       }
@@ -636,7 +636,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "All Procedures"
+            "value" : "Все процедуры"
           }
         }
       }
@@ -652,7 +652,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Are you sure you want to delete"
+            "value" : "Вы уверены, что хотите удалить"
           }
         }
       }
@@ -668,7 +668,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cancel"
+            "value" : "Отмена"
           }
         }
       }
@@ -684,7 +684,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Delete"
+            "value" : "Удалить"
           }
         }
       }
@@ -700,7 +700,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Select"
+            "value" : "Выбрать"
           }
         }
       }
@@ -716,7 +716,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add new salon"
+            "value" : "Добавить салон"
           }
         }
       }
@@ -732,7 +732,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Profile"
+            "value" : "Профиль"
           }
         }
       }
@@ -748,7 +748,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Login"
+            "value" : "Логин"
           }
         }
       }
@@ -764,7 +764,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Map"
+            "value" : "Карта"
           }
         }
       }
@@ -780,7 +780,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Not found"
+            "value" : "Не найдено"
           }
         }
       }
@@ -812,7 +812,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Share with link"
+            "value" : "Поделиться по ссылке"
           }
         }
       }
@@ -828,7 +828,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Make appointment"
+            "value" : "Сделать прием"
           }
         }
       }
@@ -844,7 +844,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "chain"
+            "value" : "цепочка"
           }
         }
       }
@@ -860,7 +860,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Set up your salon first"
+            "value" : "Сначала настройте ваш салон"
           }
         }
       }
@@ -876,7 +876,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "To create an appointment, you must first create a service"
+            "value" : "Чтобы создать встречу, необходимо сначала создать службу"
           }
         }
       }
@@ -892,7 +892,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "individual"
+            "value" : "индивидуальный"
           }
         }
       }
@@ -908,7 +908,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "master"
+            "value" : "мастер"
           }
         }
       }
@@ -924,7 +924,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Register a client"
+            "value" : "Зарегистрировать клиента"
           }
         }
       }
@@ -940,7 +940,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No entries for this day"
+            "value" : "Нет записей за этот день"
           }
         }
       }
@@ -956,7 +956,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Your entries will be here"
+            "value" : "Ваши записи будут здесь"
           }
         }
       }
@@ -972,7 +972,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Expired"
+            "value" : "Истёк"
           }
         }
       }
@@ -988,7 +988,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Appointments"
+            "value" : "Назначения"
           }
         }
       }
@@ -1004,7 +1004,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unable to determine address"
+            "value" : "Не удалось определить адрес"
           }
         }
       }
@@ -1020,7 +1020,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Make appointment"
+            "value" : "Сделать прием"
           }
         }
       }
@@ -1036,7 +1036,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "You haven't received any notifications yet"
+            "value" : "Вы еще не получили никаких уведомлений"
           }
         }
       }
@@ -1052,7 +1052,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Read all"
+            "value" : "Читать все"
           }
         }
       }
@@ -1068,7 +1068,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notifications"
+            "value" : "Уведомления"
           }
         }
       }
@@ -1084,7 +1084,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Not found"
+            "value" : "Не найдено"
           }
         }
       }
@@ -1100,7 +1100,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Search for"
+            "value" : "Искать"
           }
         }
       }
@@ -1116,7 +1116,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add new service"
+            "value" : "Добавить новый сервис"
           }
         }
       }
@@ -1132,7 +1132,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Apply"
+            "value" : "Применить"
           }
         }
       }
@@ -1148,7 +1148,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Services"
+            "value" : "Услуги"
           }
         }
       }
@@ -1164,7 +1164,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "from"
+            "value" : "от"
           }
         }
       }
@@ -1180,7 +1180,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "All services"
+            "value" : "Все сервисы"
           }
         }
       }
@@ -1196,7 +1196,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Create your first salon"
+            "value" : "Создайте свой первый салон"
           }
         }
       }
@@ -1212,7 +1212,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dashboard"
+            "value" : "Панель"
           }
         }
       }
@@ -1228,7 +1228,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Quick Actions"
+            "value" : "Быстрые действия"
           }
         }
       }
@@ -1244,7 +1244,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Read all"
+            "value" : "Читать все"
           }
         }
       }
@@ -1260,7 +1260,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schedule"
+            "value" : "График"
           }
         }
       }
@@ -1276,7 +1276,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Select from the menu"
+            "value" : "Выберите из меню"
           }
         }
       }
@@ -1292,7 +1292,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Share"
+            "value" : "Поделиться"
           }
         }
       }
@@ -1308,7 +1308,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "to client mode"
+            "value" : "в режим клиента"
           }
         }
       }
@@ -1324,7 +1324,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toggle"
+            "value" : "Переключить"
           }
         }
       }
@@ -1340,7 +1340,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Workspace"
+            "value" : "Рабочая область"
           }
         }
       }
@@ -1372,7 +1372,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masters quantity"
+            "value" : "Количество мастеров"
           }
         }
       }
@@ -1388,7 +1388,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%lld minutes"
+            "value" : "%lld минут"
           }
         }
       }
@@ -1404,7 +1404,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schedule multiplicity"
+            "value" : "График множественности"
           }
         }
       }
@@ -1420,7 +1420,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "List"
+            "value" : "Список"
           }
         }
       }
@@ -1436,7 +1436,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Apply"
+            "value" : "Применить"
           }
         }
       }
@@ -1452,7 +1452,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add a break"
+            "value" : "Добавить перерыв"
           }
         }
       }
@@ -1468,7 +1468,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Break"
+            "value" : "Прерывание"
           }
         }
       }
@@ -1484,7 +1484,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Day off"
+            "value" : "День выкл"
           }
         }
       }
@@ -1500,7 +1500,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Delete"
+            "value" : "Удалить"
           }
         }
       }
@@ -1516,7 +1516,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Edit"
+            "value" : "Редактирование"
           }
         }
       }
@@ -1532,7 +1532,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "STARTING TIME"
+            "value" : "ВРЕМЯ НАЧЕНИЯ"
           }
         }
       }
@@ -1548,7 +1548,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Save the break"
+            "value" : "Сохранить перерыв"
           }
         }
       }
@@ -1564,7 +1564,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "CLOSED HOUR"
+            "value" : "ЗАКРЫТЬ ЧАС"
           }
         }
       }
@@ -1580,7 +1580,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Simple tool for business management"
+            "value" : "Простой инструмент для управления бизнесом"
           }
         }
       }
@@ -1596,7 +1596,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Welcome to"
+            "value" : "Добро пожаловать в"
           }
         }
       }
