@@ -375,6 +375,23 @@
         }
       }
     },
+    "professional.schedule.employee_schedule_cell.day_off" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Day off"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Day off"
+          }
+        }
+      }
+    },
     "professional.schedule.employee_schedule_cell.edit_schedule" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
@@ -677,6 +694,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Прервать: %@"
+          }
+        }
+      }
+    },
+    "professional.schedule.schedule_widget.open_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Open schedule"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open schedule"
           }
         }
       }
