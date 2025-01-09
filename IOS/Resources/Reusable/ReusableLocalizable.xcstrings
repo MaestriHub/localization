@@ -26,12 +26,6 @@
             "state" : "new",
             "value" : "Add"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Добавить"
-          }
         }
       }
     },
@@ -93,12 +87,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Edit"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Редактирование"
           }
         }
       }
