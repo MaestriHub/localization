@@ -1,6 +1,50 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "calendar.sheet.today" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Today"
+          }
+        }
+      }
+    },
+    "component.ShiftScheduleSelector.offDays" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Days off:"
+          }
+        }
+      }
+    },
+    "component.ShiftScheduleSelector.workDays" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Working days:"
+          }
+        }
+      }
+    },
+    "CycledSchedule.creatable.shiftSchedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Work day: %1$@, Off day: %2$@"
+          }
+        }
+      }
+    },
     "packages.time_kit.creation_kit.day_timetable_step" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
@@ -8,6 +52,50 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Work day: %1$@%2$@"
+          }
+        }
+      }
+    },
+    "permissions.sheet.action" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Save"
+          }
+        }
+      }
+    },
+    "permissions.sheet.selectAll" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select all"
+          }
+        }
+      }
+    },
+    "permissions.sheet.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Accesses"
+          }
+        }
+      }
+    },
+    "position.creatable.permissionsIsEmpty" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Permissions not added"
           }
         }
       }
