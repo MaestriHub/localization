@@ -383,12 +383,6 @@
             "state" : "new",
             "value" : "Day off"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Day off"
-          }
         }
       }
     },
@@ -704,12 +698,6 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Open schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "Open schedule"
           }
         }
