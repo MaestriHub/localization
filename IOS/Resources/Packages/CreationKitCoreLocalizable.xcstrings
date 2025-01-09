@@ -9,12 +9,6 @@
             "state" : "new",
             "value" : "Copy"
           }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Копировать"
-          }
         }
       }
     },
@@ -25,12 +19,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Edit"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Редактирование"
           }
         }
       }
