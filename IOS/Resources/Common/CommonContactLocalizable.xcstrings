@@ -47,7 +47,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Не указаны способы связи"
+            "value" : "Методы контакта не указаны"
           }
         }
       }
@@ -81,7 +81,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " Сохранить"
+            "value" : "Сохранить"
           }
         }
       }
