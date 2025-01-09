@@ -9,6 +9,12 @@
             "state" : "new",
             "value" : "Friday"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Friday"
+          }
         }
       }
     },
@@ -18,6 +24,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Monday"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Monday"
           }
         }
@@ -31,6 +43,12 @@
             "state" : "new",
             "value" : "Saturday"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saturday"
+          }
         }
       }
     },
@@ -40,6 +58,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Sunday"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Sunday"
           }
         }
@@ -53,6 +77,12 @@
             "state" : "new",
             "value" : "Thursday"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thursday"
+          }
         }
       }
     },
@@ -64,6 +94,12 @@
             "state" : "new",
             "value" : "Tuesday"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuesday"
+          }
         }
       }
     },
@@ -73,6 +109,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Wednesday"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Wednesday"
           }
         }
