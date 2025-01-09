@@ -1,7 +1,28 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-
+    "component.edit_menu.copy_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Copy"
+          }
+        }
+      }
+    },
+    "component.edit_menu.edit_button" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit"
+          }
+        }
+      }
+    }
   },
   "version" : "1.0"
 }
