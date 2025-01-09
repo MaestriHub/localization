@@ -9,6 +9,12 @@
             "state" : "new",
             "value" : "Enter address"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Введите адрес"
+          }
         }
       }
     },
@@ -19,6 +25,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Input amount"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Входная сумма"
           }
         }
       }
@@ -31,6 +43,12 @@
             "state" : "new",
             "value" : "Search..."
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поиск..."
+          }
         }
       }
     },
@@ -42,6 +60,12 @@
             "state" : "new",
             "value" : "Enter service name"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Введите имя сервиса"
+          }
         }
       }
     },
@@ -51,6 +75,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "input@mail.com"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "input@mail.com"
           }
         }
@@ -64,6 +94,12 @@
             "state" : "new",
             "value" : "your_identifier"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "идентификатор"
+          }
         }
       }
     },
@@ -73,6 +109,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "https://maestri.me/"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "https://maestri.me/"
           }
         }
@@ -86,6 +128,12 @@
             "state" : "new",
             "value" : "Hide"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скрыть"
+          }
         }
       }
     },
@@ -96,6 +144,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Show More"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показать больше"
           }
         }
       }
@@ -108,6 +162,12 @@
             "state" : "new",
             "value" : "Description"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Описание"
+          }
         }
       }
     },
@@ -117,6 +177,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Send QR-Code"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Send QR-Code"
           }
         }
@@ -130,6 +196,12 @@
             "state" : "new",
             "value" : "Share with link"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поделиться по ссылке"
+          }
         }
       }
     },
@@ -140,6 +212,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Enter address"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Введите адрес"
           }
         }
       }
@@ -152,6 +230,12 @@
             "state" : "new",
             "value" : "Input amount"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Входная сумма"
+          }
         }
       }
     },
@@ -162,6 +246,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Search..."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поиск..."
           }
         }
       }
@@ -174,6 +264,12 @@
             "state" : "new",
             "value" : "Enter service name"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Введите имя сервиса"
+          }
         }
       }
     },
@@ -183,6 +279,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "input@mail.com"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "input@mail.com"
           }
         }
@@ -196,6 +298,12 @@
             "state" : "new",
             "value" : "your_identifier"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "идентификатор"
+          }
         }
       }
     },
@@ -205,6 +313,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "https://maestri.me/"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "https://maestri.me/"
           }
         }
@@ -218,6 +332,12 @@
             "state" : "new",
             "value" : "Hide"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скрыть"
+          }
         }
       }
     },
@@ -228,6 +348,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Show More"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показать больше"
           }
         }
       }
@@ -240,6 +366,12 @@
             "state" : "new",
             "value" : "Description"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Описание"
+          }
         }
       }
     },
@@ -249,6 +381,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Send QR-Code"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Send QR-Code"
           }
         }
@@ -261,6 +399,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Share with link"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поделиться по ссылке"
           }
         }
       }
