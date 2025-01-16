@@ -30,7 +30,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add"
+            "value" : "Добавить"
           }
         }
       }
@@ -98,7 +98,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Edit"
+            "value" : "Редактировать"
           }
         }
       }

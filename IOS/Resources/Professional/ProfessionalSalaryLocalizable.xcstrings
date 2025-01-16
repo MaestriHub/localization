@@ -13,7 +13,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Установление заработной платы"
+            "value" : "Настройка заработной платы"
           }
         }
       }
@@ -132,7 +132,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Процент прибыли"
+            "value" : "Процент от прибыли"
           }
         }
       }
@@ -217,7 +217,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Термины оплаты не добавлены"
+            "value" : "Условия оплаты не добавлены"
           }
         }
       }
@@ -268,7 +268,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Редактирование"
+            "value" : "Редактировать"
           }
         }
       }

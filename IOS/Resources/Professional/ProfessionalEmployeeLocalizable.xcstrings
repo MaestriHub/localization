@@ -81,7 +81,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отправить пригласительную ссылку"
+            "value" : "Отправить ссылку - приглашение"
           }
         }
       }
@@ -98,7 +98,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Хотите добавить другой метод коммуникации?"
+            "value" : "Хотите добавить другой способ связи?"
           }
         }
       }
@@ -251,7 +251,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Огонь"
+            "value" : "Уволить"
           }
         }
       }
@@ -268,7 +268,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выстрелить сотрудника"
+            "value" : "Уволить сотрудника"
           }
         }
       }
@@ -319,7 +319,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ник"
+            "value" : "Никнейм"
           }
         }
       }

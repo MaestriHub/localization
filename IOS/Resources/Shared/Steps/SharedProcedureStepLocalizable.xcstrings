@@ -13,7 +13,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Редактирование"
+            "value" : "Редактировать"
           }
         }
       }
@@ -47,7 +47,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Браузеры"
+            "value" : "Брови"
           }
         }
       }
@@ -81,7 +81,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Декомпиляция"
+            "value" : "Депиляция"
           }
         }
       }
@@ -115,7 +115,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Парикмахерская"
+            "value" : "Парикмахерское дело"
           }
         }
       }
@@ -132,7 +132,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Смешивает"
+            "value" : "Ресницы"
           }
         }
       }
@@ -183,7 +183,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Гвозди"
+            "value" : "Ногти"
           }
         }
       }
@@ -217,7 +217,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прочие вопросы"
+            "value" : "Прочее"
           }
         }
       }
@@ -234,7 +234,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пронзительный"
+            "value" : "Пирсинг"
           }
         }
       }

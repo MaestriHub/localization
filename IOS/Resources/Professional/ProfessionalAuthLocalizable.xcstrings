@@ -81,7 +81,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\"Congratulations! You have successfully completed the verification process. \nThe salon you were invited to has been added to your favorites.\nYour order history at this salon will now be synchronized with your profile\""
+            "value" : "«Поздравляем! Вы успешно завершили процесс проверки.\nСалон, в который вас пригласили, добавлен в избранное.\nИстория ваших заказов в этом салоне теперь будет синхронизироваться с вашим профилем.»"
           }
         }
       }

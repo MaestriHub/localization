@@ -64,7 +64,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Цепь салонов красоты"
+            "value" : "Сеть салонов красоты"
           }
         }
       }
@@ -336,7 +336,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Хотите добавить другой метод коммуникации?"
+            "value" : "Хотите добавить другой способ связи?"
           }
         }
       }
@@ -421,7 +421,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "You have disabled push notifications in [settings](%@), please enable them there"
+            "value" : "Вы отключили push-уведомления в [настройках](%@). Пожалуйста, включите их там"
           }
         }
       }
@@ -523,7 +523,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Остановить салон, удалить из поиска"
+            "value" : "Остановить салон, не показывать в поиске"
           }
         }
       }
@@ -693,7 +693,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ник"
+            "value" : "Никнейм"
           }
         }
       }
@@ -761,7 +761,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Чтобы создать встречу, необходимо сначала создать службу"
+            "value" : "Чтобы создать запись, необходимо сначала добавить услугу"
           }
         }
       }
