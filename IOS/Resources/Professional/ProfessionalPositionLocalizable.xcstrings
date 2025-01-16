@@ -64,7 +64,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите название позиции"
+            "value" : "Введите название должности"
           }
         }
       }
@@ -132,7 +132,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите позицию"
+            "value" : "Введите должность"
           }
         }
       }
@@ -166,7 +166,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Позиция"
+            "value" : "Должность"
           }
         }
       }
@@ -200,7 +200,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Удалить позицию"
+            "value" : "Удалить должность"
           }
         }
       }
@@ -268,7 +268,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавить позицию"
+            "value" : "Добавить должность"
           }
         }
       }
@@ -302,7 +302,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Позиции"
+            "value" : "Должности"
           }
         }
       }
@@ -319,7 +319,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Создать новую позицию"
+            "value" : "Создать новую должность"
           }
         }
       }
@@ -353,7 +353,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выберите позицию"
+            "value" : "Выберите должность"
           }
         }
       }
@@ -370,7 +370,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавить позицию"
+            "value" : "Добавить должность"
           }
         }
       }
@@ -404,7 +404,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Нет доступных позиций"
+            "value" : "Нет доступных должностей"
           }
         }
       }
@@ -421,7 +421,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Позиции"
+            "value" : "Должности"
           }
         }
       }
