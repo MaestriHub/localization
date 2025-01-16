@@ -98,7 +98,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Разрешения не добавлены"
+            "value" : "Доступы не добавлены"
           }
         }
       }
@@ -268,7 +268,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Разрешения пусты"
+            "value" : "Нет доступов"
           }
         }
       }

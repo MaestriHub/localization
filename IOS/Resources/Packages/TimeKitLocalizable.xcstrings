@@ -149,7 +149,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Разрешения не добавлены"
+            "value" : "Доступы не добавлены"
           }
         }
       }

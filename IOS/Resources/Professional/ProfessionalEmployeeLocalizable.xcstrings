@@ -387,7 +387,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пригласить ссылку"
+            "value" : "Ссылка - приглашение"
           }
         }
       }
@@ -421,7 +421,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Позиции"
+            "value" : "Должности"
           }
         }
       }

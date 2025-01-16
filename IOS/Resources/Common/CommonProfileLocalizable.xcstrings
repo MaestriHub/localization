@@ -217,7 +217,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Покупатель"
+            "value" : "Клиент"
           }
         }
       }
@@ -251,7 +251,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Профессиональный"
+            "value" : "Профессионал"
           }
         }
       }
@@ -404,7 +404,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Покупатель"
+            "value" : "Клиент"
           }
         }
       }
@@ -438,7 +438,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Профессиональный"
+            "value" : "Профессионал"
           }
         }
       }
