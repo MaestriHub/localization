@@ -13,7 +13,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Расписание смены"
+            "value" : "Сменный график"
           }
         }
       }
@@ -30,7 +30,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дневной график"
+            "value" : "Ежедневное расписание"
           }
         }
       }
@@ -98,7 +98,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Расписание недели"
+            "value" : "Недельный шаблон"
           }
         }
       }
@@ -132,7 +132,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сделать график на рабочие дни"
+            "value" : "Добавьте расписание для рабочих дней"
           }
         }
       }
@@ -217,7 +217,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Щелкните для создания расписания"
+            "value" : "Для создания расписания, нажмите \"Сохранить\""
           }
         }
       }
@@ -285,7 +285,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Настройка графика дня"
+            "value" : "Настройка ежедневного графика"
           }
         }
       }
@@ -319,7 +319,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ПРОДАЖИ"
+            "value" : "ПЕРЕРЫВЫ"
           }
         }
       }
@@ -336,7 +336,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ОТКЛЮЧИТЬ"
+            "value" : "ВЫХОДНОЙ"
           }
         }
       }
@@ -353,7 +353,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ВРЕМЯ МИРА"
+            "value" : "РАБОЧЕЕ ВРЕМЯ"
           }
         }
       }
@@ -438,7 +438,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Расписание смены"
+            "value" : "Сменное расписание"
           }
         }
       }
@@ -591,7 +591,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Расписание смены"
+            "value" : "Сменное расписание"
           }
         }
       }
@@ -795,7 +795,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вы можете выбрать несколько дней, если их расписания выравниваются"
+            "value" : "Вы можете выбрать несколько дней, если их расписания совпадают"
           }
         }
       }
