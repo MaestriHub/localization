@@ -64,7 +64,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите название услуги"
+            "value" : "Введите имя сервиса"
           }
         }
       }
@@ -183,7 +183,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отправить QR-Code"
+            "value" : "Send QR-Code"
           }
         }
       }
@@ -234,7 +234,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите сумму"
+            "value" : "Входная сумма"
           }
         }
       }
@@ -268,7 +268,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите название услуги"
+            "value" : "Введите имя сервиса"
           }
         }
       }
@@ -387,7 +387,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отправить QR-Code"
+            "value" : "Send QR-Code"
           }
         }
       }
