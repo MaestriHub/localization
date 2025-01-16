@@ -132,7 +132,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Не удалось создать прием"
+            "value" : "Не удалось создать запись"
           }
         }
       }
@@ -166,7 +166,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Перенести встречу?"
+            "value" : "Перенести запись?"
           }
         }
       }
@@ -234,7 +234,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дневник"
+            "value" : "Часовая шкала"
           }
         }
       }
@@ -251,7 +251,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Список"
+            "value" : "Список окон"
           }
         }
       }
@@ -268,7 +268,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "График множественности"
+            "value" : "Кратность шкалы"
           }
         }
       }
