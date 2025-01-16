@@ -81,7 +81,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пожалуйста, предоставьте ручку Instagram"
+            "value" : "Пожалуйста, предоставьте ваш никнейм Instagram"
           }
         }
       }
@@ -98,7 +98,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Инстаграмма"
+            "value" : "Instagram"
           }
         }
       }
@@ -115,7 +115,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вы можете добавить обработчик Instagram позже в настройках"
+            "value" : "Вы можете добавить ваш никнейм Instagram позже в настройках"
           }
         }
       }
@@ -200,7 +200,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Телеграмма"
+            "value" : "Telegram"
           }
         }
       }
@@ -234,7 +234,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вы можете добавить Telegram имя пользователя позже в настройках"
+            "value" : "Вы можете добавить имя пользователя Telegram позже в настройках"
           }
         }
       }
@@ -285,7 +285,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пожалуйста, предоставьте WhatsApp номер"
+            "value" : "Пожалуйста, предоставьте номер WhatsApp"
           }
         }
       }
@@ -387,7 +387,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Хотите добавить другой метод коммуникации?"
+            "value" : "Хотите добавить другой способ связи?"
           }
         }
       }
@@ -404,7 +404,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Наименование"
+            "value" : "Название"
           }
         }
       }
