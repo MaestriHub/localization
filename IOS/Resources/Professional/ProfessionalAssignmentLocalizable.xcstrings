@@ -166,7 +166,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Истекло"
+            "value" : "Истёк"
           }
         }
       }
@@ -302,7 +302,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запись"
+            "value" : "Назначение"
           }
         }
       }
@@ -319,7 +319,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Нет записей в этот день"
+            "value" : "Нет записей за этот день"
           }
         }
       }
@@ -336,7 +336,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запись"
+            "value" : "Назначения"
           }
         }
       }
@@ -370,7 +370,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Нет записей в этот день"
+            "value" : "Нет записей за этот день"
           }
         }
       }
@@ -387,7 +387,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Истекло"
+            "value" : "Истёк"
           }
         }
       }
@@ -404,7 +404,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Записи"
+            "value" : "Назначения"
           }
         }
       }
