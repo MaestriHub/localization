@@ -13,7 +13,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Friday"
+            "value" : "Пятница"
           }
         }
       }
@@ -30,7 +30,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Monday"
+            "value" : "Понедельник"
           }
         }
       }
@@ -47,7 +47,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saturday"
+            "value" : "Суббота"
           }
         }
       }
@@ -64,7 +64,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sunday"
+            "value" : "Воскресенье"
           }
         }
       }
@@ -81,7 +81,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thursday"
+            "value" : "Четверг"
           }
         }
       }
@@ -98,7 +98,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tuesday"
+            "value" : "Вторник"
           }
         }
       }
@@ -115,7 +115,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wednesday"
+            "value" : "Среда"
           }
         }
       }
