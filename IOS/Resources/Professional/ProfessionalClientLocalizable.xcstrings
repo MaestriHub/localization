@@ -132,7 +132,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Имя"
+            "value" : "Наименование"
           }
         }
       }
