@@ -81,7 +81,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Зарегистрировать клиента"
+            "value" : "Записать клиента"
           }
         }
       }
@@ -149,7 +149,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Назначения"
+            "value" : "Записи"
           }
         }
       }
