@@ -876,6 +876,12 @@
             "state" : "new",
             "value" : "Off"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вых"
+          }
         }
       }
     }
