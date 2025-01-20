@@ -412,11 +412,11 @@ public extension L10n.Professional.Schedule.WeeklyScheduleCreatable {
     )
 }
 
-public extension L10n.Professional.Schedule.EmployeeScheduleCell {
+public extension L10n.Professional.Schedule.SalonScheduleCell {
     
     static let dayOff = LocalizedStringResource(
-        "professional.schedule.employee_schedule_cell.day_off",
-        defaultValue: "Day off",
+        "professional.schedule.salon_schedule_cell.day_off",
+        defaultValue: "Off",
         table: "ProfessionalScheduleLocalizable",
         bundle: .current
     )
