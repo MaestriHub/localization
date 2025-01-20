@@ -35,40 +35,6 @@
         }
       }
     },
-    "professional.schedule.creatable.missing_type" : {
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "С типом салона возникла проблема. Пожалуйста, попробуйте еще раз. Если проблема повторится, обратитесь в службу поддержки и укажите код ошибки: missingType"
-          }
-        }
-      }
-    },
-    "professional.schedule.creatable.schedule_type" : {
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Choose a schedule type"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выберите тип расписания"
-          }
-        }
-      }
-    },
     "professional.schedule.creatable.title" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
@@ -205,23 +171,6 @@
         }
       }
     },
-    "professional.schedule.day_schedule_creatable.click_complete" : {
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Click complete to create a schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Для создания расписания, нажмите \"Сохранить\""
-          }
-        }
-      }
-    },
     "professional.schedule.day_schedule_creatable.configure_schedule" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
@@ -239,19 +188,19 @@
         }
       }
     },
-    "professional.schedule.day_schedule_creatable.missing_type" : {
+    "professional.schedule.day_schedule_creatable.click_complete" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
+            "value" : "Click complete to create a schedule"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "С типом салона возникла проблема. Пожалуйста, попробуйте еще раз. Если проблема повторится, обратитесь в службу поддержки и укажите код ошибки: missingType"
+            "value" : "Для создания расписания, нажмите \"Сохранить\""
           }
         }
       }
@@ -269,6 +218,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Выберите первый рабочий день"
+          }
+        }
+      }
+    },
+    "professional.schedule.day_schedule_creatable.missing_type" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "С типом салона возникла проблема. Пожалуйста, попробуйте еще раз. Если проблема повторится, обратитесь в службу поддержки и укажите код ошибки: missingType"
           }
         }
       }
@@ -409,6 +375,57 @@
         }
       }
     },
+    "professional.schedule.weekly_schedule_creatable.week_schedule" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create a template for the week, each day can be customized individually"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Создайте шаблон на неделю, каждый день можно настроить индивидуально"
+          }
+        }
+      }
+    },
+    "professional.schedule.creatable.missing_type" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There was an issue with the salon type. Please try again. If the problem persists, contact support and mention error code: missingType"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "С типом салона возникла проблема. Пожалуйста, попробуйте еще раз. Если проблема повторится, обратитесь в службу поддержки и укажите код ошибки: missingType"
+          }
+        }
+      }
+    },
+    "professional.schedule.creatable.schedule_type" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose a schedule type"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите тип расписания"
+          }
+        }
+      }
+    },
     "professional.schedule.employee_schedule_cell.weekend_toggle" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
@@ -443,53 +460,19 @@
         }
       }
     },
-    "professional.schedule.employee_schedule_side_cell.day_schedule" : {
+    "professional.schedule.schedule_widget.break" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Daily schedule"
+            "value" : "Break: %@"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ежедневное расписание"
-          }
-        }
-      }
-    },
-    "professional.schedule.employee_schedule_side_cell.edit_schedule" : {
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Edit schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Изменить расписание"
-          }
-        }
-      }
-    },
-    "professional.schedule.employee_schedule_side_cell.edit_weekend" : {
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Edit vacation"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Изменить отпуск"
+            "value" : "Прервать: %@"
           }
         }
       }
@@ -647,19 +630,19 @@
         }
       }
     },
-    "professional.schedule.salon_schedule_side_cell.weekSchedule" : {
+    "professional.schedule.employee_schedule_side_cell.day_schedule" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Weekly template"
+            "value" : "Daily schedule"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Недельный шаблон"
+            "value" : "Ежедневное расписание"
           }
         }
       }
@@ -681,19 +664,19 @@
         }
       }
     },
-    "professional.schedule.schedule_widget.break" : {
+    "professional.schedule.salon_schedule_side_cell.weekSchedule" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Break: %@"
+            "value" : "Weekly template"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прервать: %@"
+            "value" : "Недельный шаблон"
           }
         }
       }
@@ -851,19 +834,47 @@
         }
       }
     },
-    "professional.schedule.weekly_schedule_creatable.week_schedule" : {
+    "professional.schedule.employee_schedule_side_cell.edit_schedule" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Create a template for the week, each day can be customized individually"
+            "value" : "Edit schedule"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Создайте шаблон на неделю, каждый день можно настроить индивидуально"
+            "value" : "Изменить расписание"
+          }
+        }
+      }
+    },
+    "professional.schedule.employee_schedule_side_cell.edit_weekend" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit vacation"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Изменить отпуск"
+          }
+        }
+      }
+    },
+    "professional.schedule.salon_schedule_cell.day_off" : {
+      "comment" : "Off",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Off"
           }
         }
       }
