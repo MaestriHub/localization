@@ -1,18 +1,27 @@
-enum LocalizationFiles: String, CaseIterable {
-    case procedureService = "ProcedureService"
-    case salonService     = "SalonService"
+enum LocalizationModules: CaseIterable {
+    case procedure
+    case salon
     
-    var childrens: [String] {
+    var childrenFilesNames: [String] {
         switch self {
-        case .procedureService:
+        case .procedure:
             return [
                 "service.json",
                 "service_tag.json"
             ]
-        case .salonService:
+        case .salon:
             return [
                 "other.json"
             ]
+        }
+    }
+    
+    var directoryName: String {
+        switch self {
+        case .procedure:
+            return "ProcedureService"
+        case .salon:
+            return "SalonService"
         }
     }
 }

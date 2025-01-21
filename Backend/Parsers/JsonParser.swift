@@ -14,13 +14,13 @@ struct JsonParser: ILocalizationParser {
         
         var jsonKnowledge = LocalizeKnowledge(minimumCapacity: expectedKeyCount)
         
-        for parentFileName in LocalizationFiles.allCases {
+        for module in LocalizationModules.allCases {
             for lang in Lang.allCases {
-                for children in parentFileName.childrens {
+                for children in module.childrenFilesNames {
                     
                     let childrenPath = glossaryPath
                         .appending(components:
-                            parentFileName.rawValue,
+                            module.directoryName,
                             lang.rawValue,
                             children
                         )
@@ -47,7 +47,6 @@ struct JsonParser: ILocalizationParser {
                                             
     private func dirLocalize(path: URL) throws -> [String: String] {
         let decoder = JSONDecoder()
-        let data = try? Data(contentsOf: path)
         
         guard let localizeFileData = try? Data(contentsOf: path) else {
             throw ParseError.fileNotFound(path: path)
