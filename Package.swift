@@ -19,10 +19,9 @@ let package = Package(
             targets: ["LocalizationService"]
         )
     ],
-    dependencies: [
-        .package(url: "https://github.com/vapor/vapor.git", from: "4.83.2"),
-        .package(url: "git@github.com:MaestriHub/app-log.git", branch: "main"),
-    ],
+//    dependencies: [
+//        .package(url: "https://github.com/liamnichols/xcstrings-tool-plugin", from: "0.1.1")
+//    ],
     targets: [
         .target(
             name: "LocalizationKit",
@@ -33,10 +32,7 @@ let package = Package(
         ),
         .target(
             name: "LocalizationService",
-            dependencies: [
-                .product(name: "Vapor", package: "vapor"),
-                .product(name: "MaestriLogger", package: "app-log")
-            ],
+            dependencies: [],
             path: "Backend",
             resources: [
                 .copy("Resources")

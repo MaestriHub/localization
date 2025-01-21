@@ -1,7 +1,4 @@
 import Foundation
-import Vapor
-
-// MARK: LocalizationService
 
 typealias LocalizeKnowledge = [Key : LangMap]
 typealias LangMap = [Lang : String]
