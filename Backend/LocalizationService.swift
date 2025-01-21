@@ -47,7 +47,7 @@ public extension LocalizationService {
 }
 
 public enum LocalizationServiceFactory {
-    public func make() async throws -> LocalizationService {
+    public static func make() async throws -> LocalizationService {
         let parser = JsonParser()
         let service = try await LocalizationService(parser: parser)
         
