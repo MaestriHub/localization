@@ -27,7 +27,7 @@ public actor LocalizationService: ILocalizationService {
     private let knowledge: LocalizeKnowledge
     
     init(
-        parser: ILocalizationParser = JsonParser()
+        parser: ILocalizationParser
     ) async throws {
         self.knowledge = try await parser.getKnowledge(pathToGlossary: Self.localizeDirectory)
     }
@@ -43,5 +43,14 @@ public extension LocalizationService {
             }
         }
         return ("unknown", .badKey)
+    }
+}
+
+public enum LocalizationServiceFactory {
+    public func make() async throws -> LocalizationService {
+        let parser = JsonParser()
+        let service = try await LocalizationService(parser: parser)
+        
+        return service
     }
 }
