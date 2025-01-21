@@ -1,4 +1,4 @@
-enum LocalizationModules: CaseIterable {
+public enum LocalizationModules: CaseIterable {
     case procedure
     case salon
     
