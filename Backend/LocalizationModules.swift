@@ -7,7 +7,8 @@ public enum LocalizationModules: String, CaseIterable {
         case .procedure:
             return [
                 "service.json",
-                "service_tag.json"
+                "service_tag.json",
+                "errors.json"
             ]
         case .salon:
             return [
