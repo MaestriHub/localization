@@ -1,0 +1,14 @@
+{
+    "procedure.errors.procedure_exists": "",
+    "procedure.errors.not_found_procedure": "",
+    "procedure.errors.not_found_service": "",
+    "procedure.errors.service_verified": "",
+    "procedure.errors.not_found_complex": "",
+    "procedure.errors.empty_procedure_list": "",
+    "procedure.errors.not_found_all_procedures": "",
+    "procedure.errors.complex_exists": "",
+    "procedure.errors.not_found_maestri_permissions": "",
+    "procedure.errors.procedures_in_any_salons": "",
+    "procedure.errors.not_found_employee": "",
+    "procedure.errors.not_credentials": ""
+}

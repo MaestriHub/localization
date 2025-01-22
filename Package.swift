@@ -19,8 +19,11 @@ let package = Package(
             targets: ["LocalizationService"]
         )
     ],
+//    dependencies: [
+//        .package(url: "https://github.com/liamnichols/xcstrings-tool-plugin", from: "0.1.1")
+//    ],
     dependencies: [
-        .package(url: "https://github.com/vapor/vapor.git", from: "4.83.2")
+        .package(url: "https://github.com/apple/swift-nio.git", from: "2.77.0"),
     ],
     targets: [
         .target(
@@ -33,7 +36,7 @@ let package = Package(
         .target(
             name: "LocalizationService",
             dependencies: [
-                .product(name: "Vapor", package: "vapor")
+                .product(name: "NIO", package: "swift-nio"),
             ],
             path: "Backend",
             resources: [
