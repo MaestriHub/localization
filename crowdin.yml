@@ -15,6 +15,6 @@ files:
   - source: /Backend/Glossary/*/en/*.json
     ignore:
       - /**/*.swift
-    translation: /Backend/Glossary/*/%two_letters_code%/%original_file_name%
+    translation: /Backend/Glossary/**/%two_letters_code%/%original_file_name%
     type: json
     update_option: update_as_unapproved
