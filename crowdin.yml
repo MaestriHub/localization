@@ -12,7 +12,7 @@ files:
     multilingual: 1
     type: string_catalog
     update_option: update_without_changes
-  - source: /Backend/Glossary/%original_file_name%/en/*.json
+  - source: /Backend/Glossary/*/en/*.json
     ignore:
       - /**/*.swift
     translation: /Backend/Glossary/%original_file_name%/%two_letters_code%/%original_file_name%
