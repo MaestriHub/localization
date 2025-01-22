@@ -1,14 +1,14 @@
 {
-    "procedure.errors.procedure_exists": "",
-    "procedure.errors.not_found_procedure": "",
-    "procedure.errors.not_found_service": "",
-    "procedure.errors.service_verified": "",
-    "procedure.errors.not_found_complex": "",
-    "procedure.errors.empty_procedure_list": "",
-    "procedure.errors.not_found_all_procedures": "",
-    "procedure.errors.complex_exists": "",
-    "procedure.errors.not_found_maestri_permissions": "",
-    "procedure.errors.procedures_in_any_salons": "",
-    "procedure.errors.not_found_employee": "",
-    "procedure.errors.not_credentials": ""
+    "procedure.errors.procedure_exists": "Procedure exists",
+    "procedure.errors.not_found_procedure": "Not found procedure",
+    "procedure.errors.not_found_service": "Not found service",
+    "procedure.errors.service_verified": "Service is verified",
+    "procedure.errors.not_found_complex": "Not found complex",
+    "procedure.errors.empty_procedure_list": "Empty procedures list",
+    "procedure.errors.not_found_all_procedures": "Not found any procedures",
+    "procedure.errors.complex_exists": "Compex exists",
+    "procedure.errors.not_found_maestri_permissions": "Not found maestri permission",
+    "procedure.errors.procedures_in_any_salons": "This procedures in any salons",
+    "procedure.errors.not_found_employee": "Not found employee",
+    "procedure.errors.not_credentials": "Haven't permissions"
 }
