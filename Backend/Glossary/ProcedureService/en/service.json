@@ -331,7 +331,7 @@
     "procedure.service.podology.parameter.type.case.taping": "Taping",
     "procedure.service.removal_skin_growths.title": "Removal skin growths",
     "procedure.service.removal_skin_growths.description": "It's removal skin growths",
-    "procedure.service.removal_skin_growths.parameter.type.title": "",
+    "procedure.service.removal_skin_growths.parameter.type.title": "Removal skin growths type",
     "procedure.service.removal_skin_growths.parameter.type.case.pigment_removal": "Pigment removal",
     "procedure.service.removal_skin_growths.parameter.type.case.pappil_removal": "Pappil removal",
     "procedure.service.removal_skin_growths.parameter.type.case.vascular_asterisks_removal": "Vascular asterisks removal",
