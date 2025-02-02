@@ -55,6 +55,20 @@ public extension L10n.Professional.Client.Screen {
         table: "ProfessionalClientLocalizable",
         bundle: .current
     )
+    
+    static let search = LocalizedStringResource(
+        "professional.client.screen.search",
+        defaultValue: "Search",
+        table: "ProfessionalClientLocalizable",
+        bundle: .current
+    )
+    
+    static let searchForClient = LocalizedStringResource(
+        "professional.client.screen.search_for_client",
+        defaultValue: "Search for client",
+        table: "ProfessionalClientLocalizable",
+        bundle: .current
+    )
 }
 
 public extension L10n.Professional.Client.Widget {
