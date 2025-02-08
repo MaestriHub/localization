@@ -10,5 +10,6 @@
     "procedure.errors.not_found_maestri_permissions": "Not found maestri permission",
     "procedure.errors.procedures_in_any_salons": "This procedures in any salons",
     "procedure.errors.not_found_employee": "Not found employee",
-    "procedure.errors.not_credentials": "Haven't permissions"
+    "procedure.errors.not_credentials": "Haven't permissions",
+    "procedure.errors.not_delete_complex_procedure": "Procedure in Complex. U can't delete it"
 }
