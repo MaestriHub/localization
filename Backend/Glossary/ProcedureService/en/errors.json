@@ -15,5 +15,6 @@
     "procedure.errors.bad_case_id": "Bad Case Id",
     "procedure.errors.bad_parameter_id": "Bad Parameter Id",
     "procedure.errors.should_be_one_service_in_chunk": "Should be one service in complex chunk",
-    "procedure.errors.bad_chunk_id": "Chunk Id is Bad"
+    "procedure.errors.bad_chunk_id": "Chunk Id is Bad",
+    "procedure.errors.oops": "Maestri ill :("
 }
