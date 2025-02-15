@@ -13,5 +13,6 @@
     "procedure.errors.not_credentials": "Haven't permissions",
     "procedure.errors.not_delete_complex_procedure": "Procedure in Complex. U can't delete it",
     "procedure.errors.bad_case_id": "Bad Case Id",
-    "procedure.errors.bad_parameter_id": "Bad Parameter Id"
+    "procedure.errors.bad_parameter_id": "Bad Parameter Id",
+    "procedure.errors.should_be_one_service_in_chunk": " Should be one service in complex chunk"
 }
