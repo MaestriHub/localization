@@ -14,5 +14,6 @@
     "procedure.errors.not_delete_complex_procedure": "Процедура в комплексе, вы не можете удалить ее",
     "procedure.errors.bad_case_id": "Плохой айди кейса",
     "procedure.errors.bad_parameter_id": "Плохой айди параметра",
-    "procedure.errors.should_be_one_service_in_chunk": "в чанке могут быть только процедуры из одного сервиса"
+    "procedure.errors.should_be_one_service_in_chunk": "в чанке могут быть только процедуры из одного сервиса",
+    "procedure.errors.bad_chunk_id": "Плохой идентификатор чанка"
 }
