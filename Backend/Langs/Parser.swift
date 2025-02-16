@@ -1,21 +1,26 @@
-
-import MaestriLogger
-
 public extension Lang {
-    static func parse(string: String?) -> [Self] {
+    static func parse(string: String?) -> [Lang] {
 
         guard let regex = try? Regex("[a-z]{2}") else {
-            Log.error("упал regex при распарсе языков, \(String(describing: string))")
             return [.base]
         }
 
-        return string?
+        var result: [Lang] = []
+        
+        string?
             .lowercased()
             .split(separator: ",")
-            .compactMap {
-                Lang(rawValue:
-                    String($0.firstMatch(of: regex)?.0.prefix(2) ?? "")
-                )
-            } ?? [.base]
+            .forEach { part in
+                if let match = part.firstMatch(of: regex)?.0.prefix(2),
+                   let lang = Lang(rawValue: String(match)) {
+                    result.append(lang)
+                }
+            }
+        
+        if result.isEmpty {
+            result.append(.base)
+        }
+        
+        return result
     }
 }

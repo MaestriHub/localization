@@ -11,7 +11,7 @@ public enum Nuance: Error {
 }
 
 public protocol ILocalizationService {
-    func tryTranslate(_ key: Key, _ lang: Lang?) async -> (LocalizedString, Nuance?)
+    func tryTranslate(_ key: Key, _ lang: Lang) async throws -> LocalizedString
 }
 
 protocol ILocalizationParser {
@@ -31,15 +31,16 @@ public actor LocalizationService: ILocalizationService {
 }
 
 public extension LocalizationService {
-    func tryTranslate(_ localizeKey: Key, _ lang: Lang?) async -> (LocalizedString, Nuance?) {
-        if let valueLocalization = knowledge[localizeKey] {
-            if let lang, let successLocalization = valueLocalization[lang] {
-                return (successLocalization, nil)
-            } else if let baseLocalization = valueLocalization[.base] {
-                return (baseLocalization, .badLang)
-            }
+    func tryTranslate(_ localizeKey: Key, _ lang: Lang) async throws -> LocalizedString {
+        guard let valueLocalization = knowledge[localizeKey] else {
+            throw Nuance.badKey
         }
-        return ("unknown", .badKey)
+        
+        guard let localization = valueLocalization[lang] else {
+            throw Nuance.badLang
+        }
+        
+        return localization
     }
 }
 
