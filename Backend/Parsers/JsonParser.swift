@@ -8,9 +8,7 @@ struct JsonParser: ILocalizationParser {
         
         let glossaryPath = URL(fileURLWithPath: pathToGlossary)
             .deletingLastPathComponent()
-            .appending(components:
-                "Glossary"
-            )
+            .appendingPathComponent("Glossary")
         
         var jsonKnowledge = LocalizeKnowledge(minimumCapacity: expectedKeyCount)
         
@@ -19,11 +17,9 @@ struct JsonParser: ILocalizationParser {
                 for children in module.childrenFilesNames {
                     
                     let childrenPath = glossaryPath
-                        .appending(components:
-                            module.directoryName,
-                            lang.rawValue,
-                            children
-                        )
+                        .appendingPathComponent(module.directoryName)
+                        .appendingPathComponent(lang.rawValue)
+                        .appendingPathComponent(children)
                         
                     let localizedDict = try dirLocalize(path: childrenPath)
                     
