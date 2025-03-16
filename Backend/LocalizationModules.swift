@@ -1,6 +1,7 @@
 public enum LocalizationModules: String, CaseIterable {
     case procedure
     case salon
+    case contacts
     
     var childrenFilesNames: [String] {
         switch self {
@@ -14,6 +15,10 @@ public enum LocalizationModules: String, CaseIterable {
             return [
                 "other.json"
             ]
+        case .contacts:
+            return [
+                "errors.json"
+            ]
         }
     }
     
@@ -23,6 +28,8 @@ public enum LocalizationModules: String, CaseIterable {
             return "ProcedureService"
         case .salon:
             return "SalonService"
+        case .contacts:
+            return "ContactService"
         }
     }
 }
