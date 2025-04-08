@@ -17,18 +17,50 @@
         }
       }
     },
-    "address_edit.screen.invalid_address" : {
+    "creation.screen.close" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Invalid address"
+            "value" : "Close"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Invalid address"
+            "value" : "Close"
+          }
+        }
+      }
+    },
+    "map.screen.search_button" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search in this region"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search in this region"
+          }
+        }
+      }
+    },
+    "mainCustomer.screen.no_salons" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There are no salons nearby"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There are no salons nearby"
           }
         }
       }
@@ -145,38 +177,6 @@
         }
       }
     },
-    "creation.screen.close" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Close"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Close"
-          }
-        }
-      }
-    },
-    "date_selector.screen.edit" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Edit"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Edit"
-          }
-        }
-      }
-    },
     "full_schedule.screen.cancel" : {
       "localizations" : {
         "en" : {
@@ -193,6 +193,54 @@
         }
       }
     },
+    "address_edit.screen.invalid_address" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invalid address"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invalid address"
+          }
+        }
+      }
+    },
+    "proc.screen.all_action" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add procedure"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add procedure"
+          }
+        }
+      }
+    },
+    "salon_qr.screen.send_qr_button" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send QR-Code"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send QR-Code"
+          }
+        }
+      }
+    },
     "full_schedule.screen.edit" : {
       "localizations" : {
         "en" : {
@@ -205,22 +253,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Edit %lld"
-          }
-        }
-      }
-    },
-    "full_schedule.screen.salonSchedule" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Salon schedule"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Salon schedule"
           }
         }
       }
@@ -337,50 +369,34 @@
         }
       }
     },
-    "mainCustomer.screen.no_appointments" : {
+    "full_schedule.screen.salonSchedule" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "You have no appointments"
+            "value" : "Salon schedule"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "You have no appointments"
+            "value" : "Salon schedule"
           }
         }
       }
     },
-    "mainCustomer.screen.no_favorites" : {
+    "position.screen.title" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "You have no favorites"
+            "value" : "Positions"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "You have no favorites"
-          }
-        }
-      }
-    },
-    "mainCustomer.screen.no_salons" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There are no salons nearby"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "There are no salons nearby"
+            "value" : "Positions"
           }
         }
       }
@@ -397,22 +413,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Salons"
-          }
-        }
-      }
-    },
-    "map.screen.search_button" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Search in this region"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Search in this region"
           }
         }
       }
@@ -593,34 +593,34 @@
         }
       }
     },
-    "position.screen.title" : {
+    "mainCustomer.screen.no_favorites" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Positions"
+            "value" : "You have no favorites"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Positions"
+            "value" : "You have no favorites"
           }
         }
       }
     },
-    "proc.screen.all_action" : {
+    "public.screen.not_found" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add procedure"
+            "value" : "Not found"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add procedure"
+            "value" : "Not found"
           }
         }
       }
@@ -769,98 +769,66 @@
         }
       }
     },
-    "public.screen.not_found" : {
+    "mainCustomer.screen.no_appointments" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Not found"
+            "value" : "You have no appointments"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Not found"
+            "value" : "You have no appointments"
           }
         }
       }
     },
-    "salon_qr.screen.send_qr_button" : {
+    "date_selector.screen.edit" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Send QR-Code"
+            "value" : "Edit"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Send QR-Code"
+            "value" : "Edit"
           }
         }
       }
     },
-    "salon_qr.screen.share_with_link_button" : {
+    "screen.notice.read_all" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Share with link"
+            "value" : "Read all"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Share with link"
+            "value" : "Read all"
           }
         }
       }
     },
-    "salon.screen.action" : {
+    "sideMenu.screen.quickActions" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Make appointment"
+            "value" : "Quick Actions"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Make appointment"
-          }
-        }
-      }
-    },
-    "salon.screen.chain" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "chain"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "chain"
-          }
-        }
-      }
-    },
-    "salon.screen.help_message" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Set up your salon first"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Set up your salon first"
+            "value" : "Quick Actions"
           }
         }
       }
@@ -993,18 +961,50 @@
         }
       }
     },
-    "screen.address_edit.unable_address" : {
+    "sideMenu.screen.dashboard" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unable to determine address"
+            "value" : "Dashboard"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unable to determine address"
+            "value" : "Dashboard"
+          }
+        }
+      }
+    },
+    "salon_qr.screen.share_with_link_button" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share with link"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share with link"
+          }
+        }
+      }
+    },
+    "timeline_appointments.screen.schedule_multiplicity" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schedule multiplicity"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schedule multiplicity"
           }
         }
       }
@@ -1021,38 +1021,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Make appointment"
-          }
-        }
-      }
-    },
-    "screen.notice.error_placeholder" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "You haven't received any notifications yet"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "You haven't received any notifications yet"
-          }
-        }
-      }
-    },
-    "screen.notice.read_all" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Read all"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Read all"
           }
         }
       }
@@ -1201,34 +1169,50 @@
         }
       }
     },
-    "sideMenu.screen.dashboard" : {
+    "salon.screen.action" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dashboard"
+            "value" : "Make appointment"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dashboard"
+            "value" : "Make appointment"
           }
         }
       }
     },
-    "sideMenu.screen.quickActions" : {
+    "screen.address_edit.unable_address" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Quick Actions"
+            "value" : "Unable to determine address"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Quick Actions"
+            "value" : "Unable to determine address"
+          }
+        }
+      }
+    },
+    "screen.notice.error_placeholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You haven't received any notifications yet"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You haven't received any notifications yet"
           }
         }
       }
@@ -1245,6 +1229,22 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Read all"
+          }
+        }
+      }
+    },
+    "salon.screen.help_message" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set up your salon first"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set up your salon first"
           }
         }
       }
@@ -1393,18 +1393,18 @@
         }
       }
     },
-    "timeline_appointments.screen.schedule_multiplicity" : {
+    "salon.screen.chain" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schedule multiplicity"
+            "value" : "chain"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schedule multiplicity"
+            "value" : "chain"
           }
         }
       }
