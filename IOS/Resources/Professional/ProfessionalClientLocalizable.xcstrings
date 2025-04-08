@@ -247,6 +247,12 @@
             "state" : "new",
             "value" : "Search"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search"
+          }
         }
       }
     },
@@ -256,6 +262,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "Search for client"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Search for client"
           }
         }
