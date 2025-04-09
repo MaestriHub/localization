@@ -364,6 +364,6 @@
     <item quantity="one">Редактировать %1$d день</item>
     <item quantity="few">Редактировать %1$d дня</item>
     <item quantity="many">Редактировать %1$d дней</item>
-    <item quantity="other">Редактировать %1$d день</item>
+    <item quantity="other">Редактировать %1$d дней</item>
   </plurals>
 </resources>
