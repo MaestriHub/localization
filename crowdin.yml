@@ -5,6 +5,7 @@ preserve_hierarchy: 1
 bundles:
   - 3
   - 5
+  - 8
 files:
   - source: /IOS/**/**/*.xcstrings
     ignore:
