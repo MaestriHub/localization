@@ -321,12 +321,6 @@
   <string name="widget.timetable.break">Перерыв: </string>
   <string name="widget.timetable.edit_action">Применить</string>
   <string name="widget.timetable.title">Время работы</string>
-  <plurals name="plurals.professional.selected_days_count" comment="plurals.professional.selected_days_count [one] [few] [many] [other]">
-    <item quantity="one">Редактировать %1$d день</item>
-    <item quantity="few">Редактировать %1$d дня</item>
-    <item quantity="many">Редактировать %1$d дней</item>
-    <item quantity="other">Редактировать %1$d дней</item>
-  </plurals>
   <string name="screen.position_view.appointments">Доступ к записям</string>
   <string name="screen.position_view.contact">Доступ к контактам</string>
   <string name="screen.position_view.employee">Доступ к сотрудникам</string>
@@ -366,4 +360,10 @@
   <string name="widget.master.add_master">Добавить мастера</string>
   <string name="screen.schedule.professional.day_off">Настройка отпуска</string>
   <string name="screen.appointment.customer_approved">Подтверждено</string>
+  <plurals name="plurals.professional.selected_days_count" comment="plurals.professional.selected_days_count [one] [few] [many] [other]">
+    <item quantity="one">Редактировать %1$d день</item>
+    <item quantity="few">Редактировать %1$d дня</item>
+    <item quantity="many">Редактировать %1$d дней</item>
+    <item quantity="other">Редактировать %1$d день</item>
+  </plurals>
 </resources>
