@@ -42,8 +42,8 @@ afterEvaluate {
         publications {
             register<MavenPublication>("gpr") {
                 from(components["release"])
-                groupId = "com.github.umaq12"
-                version = "1.1.0"
+                groupId = "com.l10n"
+                version = "1.0.0"
                 artifactId = "localization"
             }
         }
@@ -51,7 +51,7 @@ afterEvaluate {
         repositories {
             maven {
                 name = "GitHubPackages"
-                url = uri("https://maven.pkg.github.com/umaq12/localization_android")
+                url = uri("https://maven.pkg.github.com/MaestriHub/localization")
                 credentials {
                     username = "umaq12"
                     password = ""
