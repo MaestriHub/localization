@@ -319,8 +319,6 @@
 "widget.timetable.break" = "Break: ";
 "widget.timetable.edit_action" = "Apply";
 "widget.timetable.title" = "Working Hours";
-/* plurals.professional.selected_days_count [one] [few] [many] [other] */
-"plurals.professional.selected_days_count" = "Edit %1$d day";
 "screen.position_view.appointments" = "Access to records";
 "screen.position_view.contact" = "Access to contacts";
 "screen.position_view.employee" = "Access to employees";
