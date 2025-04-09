@@ -361,7 +361,7 @@
   <string name="screen.schedule.professional.day_off">Vacation setup</string>
   <string name="screen.appointment.customer_approved">Approved</string>
   <plurals name="plurals.professional.selected_days_count" comment="plurals.professional.selected_days_count [one] [few] [many] [other]">
-    <item quantity="one">Редактировать %1$d день</item>
+    <item quantity="one">Edit %1$d day</item>
     <item quantity="other">Edit %1$d days</item>
   </plurals>
 </resources>
