@@ -321,10 +321,6 @@
   <string name="widget.timetable.break">Break: </string>
   <string name="widget.timetable.edit_action">Apply</string>
   <string name="widget.timetable.title">Working Hours</string>
-  <plurals name="plurals.professional.selected_days_count" comment="plurals.professional.selected_days_count [one] [few] [many] [other]">
-    <item quantity="one">Edit %1$d day</item>
-    <item quantity="other">Edit %1$d days</item>
-  </plurals>
   <string name="screen.position_view.appointments">Access to records</string>
   <string name="screen.position_view.contact">Access to contacts</string>
   <string name="screen.position_view.employee">Access to employees</string>
@@ -364,4 +360,8 @@
   <string name="widget.master.add_master">Add master</string>
   <string name="screen.schedule.professional.day_off">Vacation setup</string>
   <string name="screen.appointment.customer_approved">Approved</string>
+  <plurals name="plurals.professional.selected_days_count" comment="plurals.professional.selected_days_count [one] [few] [many] [other]">
+    <item quantity="one">Редактировать %1$d день</item>
+    <item quantity="other">Edit %1$d days</item>
+  </plurals>
 </resources>
