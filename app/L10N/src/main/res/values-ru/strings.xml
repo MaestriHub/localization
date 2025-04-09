@@ -365,4 +365,5 @@
   <string name="screen.map.enbl_geo">Включи геолокацию в настройках</string>
   <string name="widget.master.add_master">Добавить мастера</string>
   <string name="screen.schedule.professional.day_off">Настройка отпуска</string>
+  <string name="screen.appointment.customer_approved">Подтверждено</string>
 </resources>
