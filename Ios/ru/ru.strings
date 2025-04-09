@@ -319,8 +319,6 @@
 "widget.timetable.break" = "Перерыв: ";
 "widget.timetable.edit_action" = "Применить";
 "widget.timetable.title" = "Время работы";
-/* plurals.professional.selected_days_count [one] [few] [many] [other] */
-"plurals.professional.selected_days_count" = "Редактировать %1$d день";
 "screen.position_view.appointments" = "Доступ к записям";
 "screen.position_view.contact" = "Доступ к контактам";
 "screen.position_view.employee" = "Доступ к сотрудникам";
