@@ -3,11 +3,12 @@
 /Packages
 xcuserdata/
 DerivedData/
-.swiftpm
 .netrc
 .idea
-.swiftpm
 node_modules
 *.js
 *.js.map
 *.resolved
+.idea/
+.swiftpm/
+Package.resolved
