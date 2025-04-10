@@ -360,6 +360,12 @@
   <string name="widget.master.add_master">Добавить мастера</string>
   <string name="screen.schedule.professional.day_off">Настройка отпуска</string>
   <string name="screen.appointment.customer_approved">Подтверждено</string>
+  <string name="screen.public.client_button" comment="screen.public.client_button Кнопка входа в приложения на публичном экране" maxLength="80">Продолжить как клиент</string>
+  <string name="screen.public.welcome" comment="screen.public.welcome Приветствие на стартовом экране" maxLength="200">Добро пожаловать
+в Maetry!</string>
+  <string name="screen.public.pro_button" comment="screen.public.pro_button Кнопка входа в приложения на публичном экране" maxLength="80">Продолжить как мастер</string>
+  <string name="widget.position_danger_zone.delete_title" comment="widget.position_danger_zone.delete_title удалить_должность" maxLength="24">Удалить должность</string>
+  <string name="widget.danger_zone.salon_diactivate_title_alert" comment="widget.danger_zone.salon_diactivate_title_alert Заголовок алерта на деактивацию салона" maxLength="42">Подтвердите отключение салона</string>
   <plurals name="plurals.professional.selected_days_count" comment="plurals.professional.selected_days_count [one] [few] [many] [other]">
     <item quantity="one">Редактировать %1$d день</item>
     <item quantity="few">Редактировать %1$d дня</item>
