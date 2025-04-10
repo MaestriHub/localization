@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.maestry.l10n"
+    namespace = "com.maestry.localization"
     compileSdk = 35
     publishing {
         singleVariant("release") {
@@ -15,18 +15,11 @@ android {
     }
     defaultConfig {
         minSdk = 24
-
-        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
-        consumerProguardFiles("consumer-rules.pro")
     }
 
     buildTypes {
         release {
             isMinifyEnabled = false
-            proguardFiles(
-                getDefaultProguardFile("proguard-android-optimize.txt"),
-                "proguard-rules.pro"
-            )
         }
     }
     compileOptions {
@@ -42,7 +35,7 @@ afterEvaluate {
         publications {
             register<MavenPublication>("gpr") {
                 from(components["release"])
-                groupId = "com.l10n"
+                groupId = "com.localization"
                 version = "1.0.0"
                 artifactId = "localization"
             }

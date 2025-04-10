@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="screen.appointment.customer_declined">Отказ</string>
+  <string name="screen.appointment.customer_declined">Declined</string>
   <string name="screen.appointment.customer_time_out">Время истекло</string>
   <string name="screen.appointment.customer_waiting">В ожидании</string>
-  <string name="reusable.tomorrow">Завтра</string>
+  <string name="reusable.tomorrow" maxLength="18">Tomorrow</string>
   <string name="creatable.alert.client_confirmation">Переход по ссылке для синхронизации твоей истории заказов. Салон, связанный с этой ссылкой, будет добавлен в твой список избранных. Подтверждаешь это действие?</string>
   <string name="creatable.alert.confirmation">Подтверждение</string>
   <string name="creatable.alert.congratulations">Поздравляем</string>
@@ -30,7 +30,7 @@
   <string name="creatable.appt.morning">Утро</string>
   <string name="creatable.appt.night">Ночь</string>
   <string name="creatable.appt.procedure_found_simple">Твоя процедура найдена</string>
-  <string name="creatable.appt.procedure_not_found">Процедура не найдена</string>
+  <string name="creatable.appt.procedure_not_found">Not found procedure</string>
   <string name="creatable.appt.select_procedure">Выбери свою процедуру</string>
   <string name="creatable.appt.select_time">Выбери время для визита</string>
   <string name="creatable.appt.sign_in_description">**Войди**, чтобы завершить запись</string>
@@ -48,18 +48,18 @@
   <string name="creatable.auth.upload_logo">Давай загрузим твою аватарку</string>
   <string name="creatable.auth.welcome_message">Войди или зарегистрируйся чтобы использовать сервис на любом устройстве.</string>
   <string name="creatable.auth.who_are_you">Желаешь зарегистрироваться как мастер или как клиент?</string>
-  <string name="creatable.category_enum.brows">Брови</string>
-  <string name="creatable.category_enum.cosmetology">Косметология</string>
+  <string name="creatable.category_enum.brows">Brows</string>
+  <string name="creatable.category_enum.cosmetology">Cosmetology</string>
   <string name="creatable.category_enum.depilation">Депиляция</string>
-  <string name="creatable.category_enum.epilation">Эпиляция</string>
-  <string name="creatable.category_enum.hairdressing">Волосы</string>
-  <string name="creatable.category_enum.lashes">Ресницы</string>
-  <string name="creatable.category_enum.makeup">Макияж</string>
-  <string name="creatable.category_enum.massage">Массаж</string>
-  <string name="creatable.category_enum.nails">Ногти</string>
+  <string name="creatable.category_enum.epilation">Epilation</string>
+  <string name="creatable.category_enum.hairdressing">Hairdressing</string>
+  <string name="creatable.category_enum.lashes">Lashes</string>
+  <string name="creatable.category_enum.makeup">Makeup</string>
+  <string name="creatable.category_enum.massage">Massage</string>
+  <string name="creatable.category_enum.nails">Nails</string>
   <string name="creatable.category_enum.other">Другое</string>
-  <string name="creatable.category_enum.piercing">Пирсинг</string>
-  <string name="creatable.category_enum.spa">Спа</string>
+  <string name="creatable.category_enum.piercing">Piercing</string>
+  <string name="creatable.category_enum.spa">Spa</string>
   <string name="creatable.category_enum.tattoo">Тату</string>
   <string name="creatable.client.add_contact">Добавить контакт</string>
   <string name="creatable.client.enter_client_name">Введи имя клиента</string>
@@ -225,7 +225,7 @@
   <string name="screen.map.search_button">Искать в этом регионе</string>
   <string name="screen.map.search_button_warning">Нужно увеличить масштаб для поиска</string>
   <string name="screen.master.all_title">Все мастера</string>
-  <string name="screen.notice.error_placeholder">Ты еще не получили ни одного уведомления</string>
+  <string name="screen.notice.error_placeholder">Ты еще не получил ни одного уведомления</string>
   <string name="screen.notice.read_all">Прочитать все</string>
   <string name="screen.notice.title">Уведомления</string>
   <string name="screen.notice.title_alt">Уведомления</string>
@@ -265,7 +265,7 @@
   <string name="screen.timeline_appointments.masters_quantity">Количество мастеров</string>
   <string name="screen.timeline_appointments.schedule_multiplicity">Кратность журнала</string>
   <string name="screen.timeline_appointments.switch_button">Список</string>
-  <string name="widget.address.direction">Построй маршрут</string>
+  <string name="widget.address.direction">Построить маршрут</string>
   <string name="widget.address.link">Изменить</string>
   <string name="widget.address.title">Адрес</string>
   <string name="widget.app_icon.title">Выбери иконку приложения</string>
@@ -352,24 +352,18 @@
   <string name="sheet.salary_content.payroll_custm">Настройка заработной платы</string>
   <string name="screen.professional.settings">Настройки</string>
   <string name="screen.professional.workspace">Записи</string>
-  <string name="screen.professional.schedule">Графики</string>
+  <string name="screen.professional.schedule">График</string>
   <string name="screen.professional.dashboard">Салон</string>
-  <string name="screen.professional.start_work">Начни работу с maestri\n Создай свой первый салон</string>
+  <string name="screen.professional.start_work">\"Начни работу с maetry Создай свой первый салон\"</string>
   <string name="widget.support.telegram_not_inst">Приложение Telegram не найдено</string>
   <string name="screen.map.enbl_geo">Включи геолокацию в настройках</string>
   <string name="widget.master.add_master">Добавить мастера</string>
   <string name="screen.schedule.professional.day_off">Настройка отпуска</string>
   <string name="screen.appointment.customer_approved">Подтверждено</string>
-  <string name="screen.public.client_button" comment="screen.public.client_button Кнопка входа в приложения на публичном экране" maxLength="80">Продолжить как клиент</string>
-  <string name="screen.public.welcome" comment="screen.public.welcome Приветствие на стартовом экране" maxLength="200">Добро пожаловать
+  <string name="screen.public.client_button">Продолжить как клиент</string>
+  <string name="screen.public.welcome">Добро пожаловать
 в Maetry!</string>
-  <string name="screen.public.pro_button" comment="screen.public.pro_button Кнопка входа в приложения на публичном экране" maxLength="80">Продолжить как мастер</string>
-  <string name="widget.position_danger_zone.delete_title" comment="widget.position_danger_zone.delete_title удалить_должность" maxLength="24">Удалить должность</string>
-  <string name="widget.danger_zone.salon_diactivate_title_alert" comment="widget.danger_zone.salon_diactivate_title_alert Заголовок алерта на деактивацию салона" maxLength="42">Подтвердите отключение салона</string>
-  <plurals name="plurals.professional.selected_days_count" comment="plurals.professional.selected_days_count [one] [few] [many] [other]">
-    <item quantity="one">Редактировать %1$d день</item>
-    <item quantity="few">Редактировать %1$d дня</item>
-    <item quantity="many">Редактировать %1$d дней</item>
-    <item quantity="other">Редактировать %1$d дней</item>
-  </plurals>
+  <string name="screen.public.pro_button">Продолжить как мастер</string>
+  <string name="widget.position_danger_zone.delete_title">Удалить должность</string>
+  <string name="widget.danger_zone.salon_diactivate_title_alert">Подтвердите отключение салона</string>
 </resources>
