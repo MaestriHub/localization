@@ -12,3 +12,4 @@ node_modules
 .idea/
 .swiftpm/
 Package.resolved
+/Android
