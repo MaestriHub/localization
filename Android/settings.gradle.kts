@@ -11,7 +11,7 @@ pluginManagement {
         gradlePluginPortal()
         maven {
             name = "localizationkit"
-            url = uri("https://maven.pkg.github.com/MaestriHub/localization")
+            url = uri("https://maven.pkg.github.com/umaq12/Localization")
             credentials {
                 username = "umaq12"
                 password = ""
@@ -26,7 +26,7 @@ dependencyResolutionManagement {
         mavenCentral()
         maven {
             name = "localizationkit"
-            url = uri("https://maven.pkg.github.com/MaestriHub/localization")
+            url = uri("https://maven.pkg.github.com/umaq12/Localization")
             credentials {
                 username = "umaq12"
                 password = ""
@@ -35,6 +35,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Localization"
-include(":app")
-include(":app:L10N")
+rootProject.name = "Android"
+include(":localization")
