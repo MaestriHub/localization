@@ -1,4 +1,4 @@
-project_id: Maestri
+project_id: maetry
 base_url: 'https://api.crowdin.com'
 base_path: .
 preserve_hierarchy: 1
@@ -6,13 +6,6 @@ bundles:
   - 3
   - 5
 files:
-  - source: /IOS/**/**/*.xcstrings
-    ignore:
-      - /**/*.swift
-    translation: /%original_path%/%original_file_name%
-    multilingual: 1
-    type: string_catalog
-    update_option: update_without_changes
   - source: /Backend/Glossary/**/en/*.json
     ignore:
       - /**/*.swift
