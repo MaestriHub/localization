@@ -9,6 +9,6 @@ node_modules
 *.js
 *.js.map
 *.resolved
-/.idea
-/.swiftpm
+.idea/
+.swiftpm/
 Package.resolved
