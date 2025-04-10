@@ -358,3 +358,19 @@
 "widget.master.add_master" = "Добавить мастера";
 "screen.schedule.professional.day_off" = "Настройка отпуска";
 "screen.appointment.customer_approved" = "Подтверждено";
+/* screen.public.client_button
+Кнопка входа в приложения на публичном экране */
+"screen.public.client_button" = "Продолжить как клиент";
+/* screen.public.welcome
+Приветствие на стартовом экране */
+"screen.public.welcome" = "Добро пожаловать
+в Maetry!";
+/* screen.public.pro_button
+Кнопка входа в приложения на публичном экране */
+"screen.public.pro_button" = "Продолжить как мастер";
+/* widget.position_danger_zone.delete_title
+удалить_должность */
+"widget.position_danger_zone.delete_title" = "Удалить должность";
+/* widget.danger_zone.salon_diactivate_title_alert
+Заголовок алерта на деактивацию салона */
+"widget.danger_zone.salon_diactivate_title_alert" = "Подтвердите отключение салона";
