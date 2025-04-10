@@ -1,2 +1,13 @@
+.DS_Store
+/.build
+/Packages
+xcuserdata/
+DerivedData/
+.netrc
+.idea
+node_modules
+*.js
+*.js.map
+*.resolved
 /.swiftpm
 Package.resolved
