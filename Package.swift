@@ -25,7 +25,7 @@ let package = Package(
     targets: [
         .target(
             name: "LocalizationKit",
-            path: "IOS/Sources",
+            path: "iOS",
             resources: [
                 .process("Resources")
             ]
@@ -35,10 +35,10 @@ let package = Package(
             dependencies: [
                 .product(name: "NIO", package: "swift-nio"),
             ],
-            path: "Backend",
-            resources: [
-                .copy("Resources")
-            ]
+            path: "Backend"
+//            resources: [
+//                .copy("Resources")
+//            ]
         )
     ]
 )
