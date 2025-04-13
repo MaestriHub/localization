@@ -1,9 +1,3 @@
-/* screen -> continuation -> title */
-"screen.continuation.title" = "Добро пожаловать в индустрию красоты!";
-/* screen -> continuation -> subtitle */
-"screen.continuation.subtitle" = "Это твой удобный помощник для заботы о себе.";
-/* screen -> continuation -> action */
-"screen.continuation.action" = "Для продолжения нажми кнопку";
 /* screen -> public -> login */
 "screen.public.login" = "Войти";
 /* screen -> public -> map_button */
@@ -14,6 +8,8 @@
 "screen.public.client_button" = "Продолжить как клиент";
 /* screen -> public -> pro_button */
 "screen.public.pro_button" = "Продолжить как мастер";
+/* screen -> public -> continuation_action */
+"screen.public.continuation_action" = "Для продолжения нажми кнопку";
 /* screen -> profile -> title */
 "screen.profile.title" = "Профиль";
 /* screen -> profile -> support -> title */
@@ -57,7 +53,7 @@
 /* screen -> profile -> danger_zone -> logout_hint */
 "screen.profile.danger_zone.logout_hint" = "Выйти из учетной записи";
 /* screen -> profile -> danger_zone -> logout_message_alert */
-"screen.profile.danger_zone.logout_message_alert" = "Подтвердите отключение салона";
+"screen.profile.danger_zone.logout_message_alert" = "Подтвердите что хотите выйти";
 /* screen -> profile -> danger_zone -> logout_title_alert */
 "screen.profile.danger_zone.logout_title_alert" = "Внимание";
 /* screen -> notice -> title */
