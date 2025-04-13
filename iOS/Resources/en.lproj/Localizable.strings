@@ -1,65 +1,61 @@
-/* screen -> continuation -> title */
-"screen.continuation.title" = "Добро пожаловать в индустрию красоты!";
-/* screen -> continuation -> subtitle */
-"screen.continuation.subtitle" = "Это твой удобный помощник для заботы о себе.";
-/* screen -> continuation -> action */
-"screen.continuation.action" = "Для продолжения нажми кнопку";
 /* screen -> public -> login */
-"screen.public.login" = "Войти";
+"screen.public.login" = "Auth";
 /* screen -> public -> map_button */
-"screen.public.map_button" = "Карта";
+"screen.public.map_button" = "Map";
 /* screen -> public -> welcome */
-"screen.public.welcome" = "Добро пожаловать в Maetry!";
+"screen.public.welcome" = "Welcome to Maetry!";
 /* screen -> public -> client_button */
-"screen.public.client_button" = "Продолжить как клиент";
+"screen.public.client_button" = "Continue as Client";
 /* screen -> public -> pro_button */
-"screen.public.pro_button" = "Продолжить как мастер";
+"screen.public.pro_button" = "Continue as Specialist";
+/* screen -> public -> continuation_action */
+"screen.public.continuation_action" = "Just press the button to keep going!";
 /* screen -> profile -> title */
-"screen.profile.title" = "Профиль";
+"screen.profile.title" = "Profile";
 /* screen -> profile -> support -> title */
-"screen.profile.support.title" = "Возникли вопросы? Мы рядом!";
+"screen.profile.support.title" = "Have Questions? We’re Here!";
 /* screen -> profile -> support -> message */
-"screen.profile.support.message" = "Мы здесь, чтобы помочь тебе! Если у тебя возникли вопросы или проблемы, наша команда технической поддержки всегда готова прийти на помощь";
+"screen.profile.support.message" = "We’re here to help! If you have any questions or issues, our support team is always ready to assist you";
 /* screen -> profile -> support -> action */
-"screen.profile.support.action" = "Чат с поддержкой";
+"screen.profile.support.action" = "Live chat support";
 /* screen -> profile -> support -> user_message */
-"screen.profile.support.user_message" = "Здравствуйте, мне нужна помощь! Мой id: ";
+"screen.profile.support.user_message" = "Hello, I need help! My ID: ";
 /* screen -> profile -> support -> unknown_id */
-"screen.profile.support.unknown_id" = "Неизвестно";
+"screen.profile.support.unknown_id" = "Unknown";
 /* screen -> profile -> support -> not_install */
-"screen.profile.support.not_install" = "Приложение Telegram не найдено";
+"screen.profile.support.not_install" = "Telegram app is not installed";
 /* screen -> profile -> iam -> title */
-"screen.profile.iam.title" = "Выберите режим";
+"screen.profile.iam.title" = "Select Mode";
 /* screen -> profile -> iam -> customer */
-"screen.profile.iam.customer" = "Клиент";
+"screen.profile.iam.customer" = "Customer";
 /* screen -> profile -> iam -> customer_register */
-"screen.profile.iam.customer_register" = "Зарегистрируйся как клиент";
+"screen.profile.iam.customer_register" = "Register like customer";
 /* screen -> profile -> iam -> pro */
-"screen.profile.iam.pro" = "Мастер";
+"screen.profile.iam.pro" = "Professional";
 /* screen -> profile -> iam -> pro_add_workplace */
-"screen.profile.iam.pro_add_workplace" = "Зарегистрируйся как мастер";
+"screen.profile.iam.pro_add_workplace" = "Register like professional";
 /* screen -> profile -> app_icon -> title */
-"screen.profile.app_icon.title" = "Иконка приложения";
+"screen.profile.app_icon.title" = "App Icon";
 /* screen -> profile -> danger_zone -> title */
-"screen.profile.danger_zone.title" = "Опасная зона";
+"screen.profile.danger_zone.title" = "Danger zone";
 /* screen -> profile -> danger_zone -> delete_title */
-"screen.profile.danger_zone.delete_title" = "Удалить пользователя";
+"screen.profile.danger_zone.delete_title" = "Delete user";
 /* screen -> profile -> danger_zone -> delete_hint */
-"screen.profile.danger_zone.delete_hint" = "Действие нельзя будет отменить";
+"screen.profile.danger_zone.delete_hint" = "This action cannot be undone";
 /* screen -> profile -> danger_zone -> delete_title_alert */
-"screen.profile.danger_zone.delete_title_alert" = "Действие невозможно отменить. Ты точно хочешь его удалить?";
+"screen.profile.danger_zone.delete_title_alert" = "The action cannot be undone. Are you sure you want to delete?";
 /* screen -> profile -> danger_zone -> delete_message_alert */
-"screen.profile.danger_zone.delete_message_alert" = "Для подтверждения введи свой никнейм в поле ниже";
+"screen.profile.danger_zone.delete_message_alert" = "To confirm, enter your nickname in the field below";
 /* screen -> profile -> danger_zone -> delete_placeholder */
-"screen.profile.danger_zone.delete_placeholder" = "Никнейм";
+"screen.profile.danger_zone.delete_placeholder" = "Nickname";
 /* screen -> profile -> danger_zone -> logout */
-"screen.profile.danger_zone.logout" = "Выйти";
+"screen.profile.danger_zone.logout" = "Logout";
 /* screen -> profile -> danger_zone -> logout_hint */
-"screen.profile.danger_zone.logout_hint" = "Выйти из учетной записи";
+"screen.profile.danger_zone.logout_hint" = "Log out of your account";
 /* screen -> profile -> danger_zone -> logout_message_alert */
-"screen.profile.danger_zone.logout_message_alert" = "Подтвердите отключение салона";
+"screen.profile.danger_zone.logout_message_alert" = "Confirm log out";
 /* screen -> profile -> danger_zone -> logout_title_alert */
-"screen.profile.danger_zone.logout_title_alert" = "Внимание";
+"screen.profile.danger_zone.logout_title_alert" = "Attention";
 /* screen -> notice -> title */
 "screen.notice.title" = "Уведомления";
 /* screen -> notice -> placeholder */
@@ -73,11 +69,11 @@
 /* screen -> assignment -> title */
 "screen.assignment.title" = "Запись";
 /* screen -> assignment -> executor */
-"screen.assignment.executor" = "Мастер";
+"screen.assignment.executor" = "Professional";
 /* screen -> assignment -> invite_executor */
 "screen.assignment.invite_executor" = "Пригласить мастера";
 /* screen -> assignment -> client */
-"screen.assignment.client" = "Клиент";
+"screen.assignment.client" = "Customer";
 /* screen -> assignment -> invite_client */
 "screen.assignment.invite_client" = "Пригласить клиента";
 /* screen -> workplace -> placeholder_create */
@@ -316,7 +312,7 @@
 /* screen -> settings -> description -> show_more */
 "screen.settings.description.show_more" = "Показать еще";
 /* screen -> settings -> danger_zone -> title */
-"screen.settings.danger_zone.title" = "Опасная зона";
+"screen.settings.danger_zone.title" = "Danger zone";
 /* screen -> settings -> danger_zone -> activate */
 "screen.settings.danger_zone.activate" = "Активировать";
 /* screen -> settings -> danger_zone -> activate_hint */
@@ -330,17 +326,17 @@
 /* screen -> settings -> danger_zone -> deactivate_title */
 "screen.settings.danger_zone.deactivate_title" = "Деактивировать салон";
 /* screen -> settings -> danger_zone -> delete_title */
-"screen.settings.danger_zone.delete_title" = "Удалить пользователя";
+"screen.settings.danger_zone.delete_title" = "Delete user";
 /* screen -> settings -> danger_zone -> delete_hint */
-"screen.settings.danger_zone.delete_hint" = "Действие нельзя будет отменить";
+"screen.settings.danger_zone.delete_hint" = "This action cannot be undone";
 /* screen -> settings -> danger_zone -> delete_title_alert */
-"screen.settings.danger_zone.delete_title_alert" = "Действие невозможно отменить. Ты точно хочешь его удалить?";
+"screen.settings.danger_zone.delete_title_alert" = "The action cannot be undone. Are you sure you want to delete?";
 /* screen -> settings -> danger_zone -> delete_message_alert */
 "screen.settings.danger_zone.delete_message_alert" = "Для подтверждения введи название салон в поле ниже";
 /* screen -> settings -> danger_zone -> delete_placeholder */
 "screen.settings.danger_zone.delete_placeholder" = "Название салон";
 /* screen -> appointment -> executor */
-"screen.appointment.executor" = "Мастер";
+"screen.appointment.executor" = "Professional";
 /* screen -> appointment -> state_customer_time_out */
 "screen.appointment.state_customer_time_out" = "Время истекло";
 /* screen -> appointment -> state_customer_waiting */
@@ -356,7 +352,7 @@
 /* screen -> main -> history_action */
 "screen.main.history_action" = "Открыть";
 /* screen -> main -> map_button */
-"screen.main.map_button" = "Карта";
+"screen.main.map_button" = "Map";
 /* screen -> main -> no_favorites */
 "screen.main.no_favorites" = "В избранных пока ничего нет";
 /* screen -> search -> not_found */
@@ -644,13 +640,13 @@
 /* creatable -> edit_menu -> copy_button */
 "creatable.edit_menu.copy_button" = "Скопировать";
 /* creatable -> input_view_for_step -> customer */
-"creatable.input_view_for_step.customer" = "Клиент";
+"creatable.input_view_for_step.customer" = "Customer";
 /* creatable -> input_view_for_step -> email */
 "creatable.input_view_for_step.email" = "Email";
 /* creatable -> input_view_for_step -> instagram */
 "creatable.input_view_for_step.instagram" = "Instagram";
 /* creatable -> input_view_for_step -> master */
-"creatable.input_view_for_step.master" = "Мастер";
+"creatable.input_view_for_step.master" = "Professional";
 /* creatable -> input_view_for_step -> message */
 "creatable.input_view_for_step.message" = "Сообщение";
 /* creatable -> input_view_for_step -> phone */
@@ -682,7 +678,7 @@
 /* creatable -> master -> successfully_created */
 "creatable.master.successfully_created" = "Отлично! Ты успешно смог сделать приглашение для нового мастера.";
 /* creatable -> master -> title */
-"creatable.master.title" = "Мастер";
+"creatable.master.title" = "Professional";
 /* creatable -> phone_field -> placeholder */
 "creatable.phone_field.placeholder" = "Введи номер";
 /* creatable -> position -> add_permissions */
