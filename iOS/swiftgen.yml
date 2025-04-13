@@ -1,5 +1,7 @@
 strings:
-  inputs: Resources/Base.lproj/Localizable.strings
+  inputs:
+    - Resources/Base.lproj/Localizable.strings
+    - Resources/Base.lproj/Localizable.stringsdict
   outputs:
     templateName: structured-swift5
     output: Generated/Localization.swift
