@@ -9,7 +9,7 @@ node_modules
 *.js
 *.js.map
 *.resolved
-.idea/
+*.idea/
+*.gradle/
 .swiftpm/
 Package.resolved
-/Android

@@ -35,6 +35,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Localization"
-include(":app")
-include(":app:L10N")
+rootProject.name = "Android"
+include(":localization")
