@@ -4,6 +4,8 @@
 "screen.public.client_button" = "Продолжить как клиент";
 /* screen -> public -> pro_button */
 "screen.public.pro_button" = "Продолжить как мастер";
+/* screen -> public -> continuation_action */
+"screen.public.continuation_action" = "Для продолжения нажми кнопку";
 /* screen -> profile -> title */
 "screen.profile.title" = "Профиль";
 /* screen -> profile -> support -> title */
