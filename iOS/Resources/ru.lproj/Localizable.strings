@@ -1,13 +1,3 @@
-/* screen -> continuation -> title */
-"screen.continuation.title" = "Добро пожаловать в индустрию красоты!";
-/* screen -> continuation -> subtitle */
-"screen.continuation.subtitle" = "Это твой удобный помощник для заботы о себе.";
-/* screen -> continuation -> action */
-"screen.continuation.action" = "Для продолжения нажми кнопку";
-/* screen -> public -> login */
-"screen.public.login" = "Войти";
-/* screen -> public -> map_button */
-"screen.public.map_button" = "Карта";
 /* screen -> public -> welcome */
 "screen.public.welcome" = "Добро пожаловать в Maetry!";
 /* screen -> public -> client_button */
@@ -57,7 +47,7 @@
 /* screen -> profile -> danger_zone -> logout_hint */
 "screen.profile.danger_zone.logout_hint" = "Выйти из учетной записи";
 /* screen -> profile -> danger_zone -> logout_message_alert */
-"screen.profile.danger_zone.logout_message_alert" = "Подтвердите отключение салона";
+"screen.profile.danger_zone.logout_message_alert" = "Подтвердите что хотите выйти";
 /* screen -> profile -> danger_zone -> logout_title_alert */
 "screen.profile.danger_zone.logout_title_alert" = "Внимание";
 /* screen -> notice -> title */
@@ -186,7 +176,7 @@
 /* screen -> services -> procedure_info */
 "screen.services.procedure_info" = "Информация";
 /* screen -> services -> procedure_add_executor */
-"screen.services.procedure_add_executor" = "Добавить испольнителя";
+"screen.services.procedure_add_executor" = "Добавить исполнителя";
 /* screen -> services -> procedure_union_complex */
 "screen.services.procedure_union_complex" = "Объединить в комплекс";
 /* screen -> services -> executor_edit */
@@ -470,7 +460,7 @@
 /* onboarding -> alert -> setup_workplace -> subtitle */
 "onboarding.alert.setup_workplace.subtitle" = "{completedSteps, plural, one{{completedSteps} из {totalSteps} шаг завершён} few{{completedSteps} из {totalSteps} шага завершено} many{{completedSteps} из {totalSteps} шагов завершено} other{{completedSteps} из {totalSteps} шагов завершено} }";
 /* onboarding -> create_workplace -> title */
-"onboarding.create_workplace.title" = "Cоздать свой первый салон";
+"onboarding.create_workplace.title" = "Создать свой первый салон";
 /* onboarding -> create_workplace -> subtitle */
 "onboarding.create_workplace.subtitle" = "На главном экране потяните вправо, чтобы открыть вспомогательную панель, затем коснитесь +.";
 /* onboarding -> setup_schedule -> title */
@@ -484,11 +474,11 @@
 /* onboarding -> select_services -> title */
 "onboarding.select_services.title" = "Выберите услуги, которые вы отказываете";
 /* onboarding -> select_services -> subtitle */
-"onboarding.select_services.subtitle" = "Перейдите на вкладку управления. В раздели услуги коснитесь +";
+"onboarding.select_services.subtitle" = "Перейдите на вкладку управления. В раздел услуги коснитесь +";
 /* onboarding -> activate -> title */
 "onboarding.activate.title" = "Активируйте салон";
 /* onboarding -> activate -> subtitle */
-"onboarding.activate.subtitle" = "В разделе настройк, пролистайте вниз до Опасной зоны и нажмите активировать";
+"onboarding.activate.subtitle" = "В раздел настройки, пролистайте вниз до Опасной зоны и нажмите активировать";
 /* creatable -> salon -> title */
 "creatable.salon.title" = "Создание салона";
 /* creatable -> salon -> salon_type */
@@ -533,8 +523,10 @@
 "creatable.procedure.duration_title" = "Сколько времени занимает процедура?";
 /* creatable -> procedure -> description_enter */
 "creatable.procedure.description_enter" = "Расскажите, что важно знать перед процедурой";
-/* creatable -> procedure -> description_example -> Например */
-"creatable.procedure.description_example.Например" = "«Принести полотенце, прибыть за 10–15 минут, снять украшения, сообщить о противопоказаниях»";
+/* creatable -> procedure -> description_example */
+"creatable.procedure.description_example" = "";
+/* creatable -> procedure -> Например */
+"creatable.procedure.Например" = "«Принести полотенце, прибыть за 10–15 минут, снять украшения, сообщить о противопоказаниях»";
 /* creatable -> procedure -> description_placeholder */
 "creatable.procedure.description_placeholder" = "Введите описание...";
 /* creatable -> procedure -> price_title */
