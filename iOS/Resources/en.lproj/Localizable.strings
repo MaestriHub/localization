@@ -425,34 +425,88 @@
 "reusable.today" = "Сегодня";
 /* reusable -> tomorrow */
 "reusable.tomorrow" = "Завтра";
-/* reusable -> sunday */
-"reusable.sunday" = "Воскресенье";
-/* reusable -> monday */
-"reusable.monday" = "Понедельник";
-/* reusable -> tuesday */
-"reusable.tuesday" = "Вторник";
-/* reusable -> wednesday */
-"reusable.wednesday" = "Среда";
-/* reusable -> thursday */
-"reusable.thursday" = "Четверг";
-/* reusable -> friday */
-"reusable.friday" = "Пятница";
-/* reusable -> saturday */
-"reusable.saturday" = "Суббота";
-/* reusable -> sunday_short */
-"reusable.sunday_short" = "Вс";
-/* reusable -> monday_short */
-"reusable.monday_short" = "Пн";
-/* reusable -> tuesday_short */
-"reusable.tuesday_short" = "Вт";
-/* reusable -> wednesday_short */
-"reusable.wednesday_short" = "Ср";
-/* reusable -> thursday_short */
-"reusable.thursday_short" = "Чт";
-/* reusable -> friday_short */
-"reusable.friday_short" = "Пт";
-/* reusable -> saturday_short */
-"reusable.saturday_short" = "Сб";
+/* reusable -> submit_button */
+"reusable.submit_button" = "Готово";
+/* reusable -> allow_button */
+"reusable.allow_button" = "Разрешить";
+/* reusable -> submit_text */
+"reusable.submit_text" = "Пожалуйста, проверьте введённую информацию. Когда всё будет готово — нажмите «Готово», чтобы сохранить";
+/* reusable -> skip */
+"reusable.skip" = "Пропустить";
+/* reusable -> copy_button */
+"reusable.copy_button" = "Скопировать";
+/* reusable -> invitation_link */
+"reusable.invitation_link" = "Отправьте ссылку-приглашение";
+/* reusable -> not_found */
+"reusable.not_found" = "Ничего не найдено";
+/* reusable -> days_of_the_week -> sunday */
+"reusable.days_of_the_week.sunday" = "Воскресенье";
+/* reusable -> days_of_the_week -> monday */
+"reusable.days_of_the_week.monday" = "Понедельник";
+/* reusable -> days_of_the_week -> tuesday */
+"reusable.days_of_the_week.tuesday" = "Вторник";
+/* reusable -> days_of_the_week -> wednesday */
+"reusable.days_of_the_week.wednesday" = "Среда";
+/* reusable -> days_of_the_week -> thursday */
+"reusable.days_of_the_week.thursday" = "Четверг";
+/* reusable -> days_of_the_week -> friday */
+"reusable.days_of_the_week.friday" = "Пятница";
+/* reusable -> days_of_the_week -> saturday */
+"reusable.days_of_the_week.saturday" = "Суббота";
+/* reusable -> days_of_the_week -> sunday_short */
+"reusable.days_of_the_week.sunday_short" = "Вс";
+/* reusable -> days_of_the_week -> monday_short */
+"reusable.days_of_the_week.monday_short" = "Пн";
+/* reusable -> days_of_the_week -> tuesday_short */
+"reusable.days_of_the_week.tuesday_short" = "Вт";
+/* reusable -> days_of_the_week -> wednesday_short */
+"reusable.days_of_the_week.wednesday_short" = "Ср";
+/* reusable -> days_of_the_week -> thursday_short */
+"reusable.days_of_the_week.thursday_short" = "Чт";
+/* reusable -> days_of_the_week -> friday_short */
+"reusable.days_of_the_week.friday_short" = "Пт";
+/* reusable -> days_of_the_week -> saturday_short */
+"reusable.days_of_the_week.saturday_short" = "Сб";
+/* reusable -> category_enum -> brows -> cosmetology */
+"reusable.category_enum.brows.cosmetology" = "Cosmetology";
+/* reusable -> category_enum -> brows -> depilation */
+"reusable.category_enum.brows.depilation" = "Депиляция";
+/* reusable -> category_enum -> brows -> epilation */
+"reusable.category_enum.brows.epilation" = "Epilation";
+/* reusable -> category_enum -> brows -> hairdressing */
+"reusable.category_enum.brows.hairdressing" = "Hairdressing";
+/* reusable -> category_enum -> brows -> lashes */
+"reusable.category_enum.brows.lashes" = "Lashes";
+/* reusable -> category_enum -> brows -> makeup */
+"reusable.category_enum.brows.makeup" = "Makeup";
+/* reusable -> category_enum -> brows -> massage */
+"reusable.category_enum.brows.massage" = "Massage";
+/* reusable -> category_enum -> brows -> nails */
+"reusable.category_enum.brows.nails" = "Nails";
+/* reusable -> category_enum -> brows -> other */
+"reusable.category_enum.brows.other" = "Другое";
+/* reusable -> category_enum -> brows -> piercing */
+"reusable.category_enum.brows.piercing" = "Piercing";
+/* reusable -> category_enum -> brows -> spa */
+"reusable.category_enum.brows.spa" = "Spa";
+/* reusable -> category_enum -> brows -> tattoo */
+"reusable.category_enum.brows.tattoo" = "Тату";
+/* reusable -> alert -> client_confirmation */
+"reusable.alert.client_confirmation" = "Переход по ссылке для синхронизации твоей истории заказов. Салон, связанный с этой ссылкой, будет добавлен в твой список избранных. Подтверждаешь это действие?";
+/* reusable -> alert -> confirmation */
+"reusable.alert.confirmation" = "Подтверждение";
+/* reusable -> alert -> congratulations */
+"reusable.alert.congratulations" = "Поздравляем";
+/* reusable -> alert -> error */
+"reusable.alert.error" = "Ошибка";
+/* reusable -> alert -> incomplete_address */
+"reusable.alert.incomplete_address" = "Неполный адрес";
+/* reusable -> alert -> incomplete_address_message */
+"reusable.alert.incomplete_address_message" = "Напиши свой полный адрес, чтобы двигаться дальше";
+/* reusable -> alert -> master_confirmation */
+"reusable.alert.master_confirmation" = "Ты перешел по ссылке, которая привязывает тебя как работника к салону, связанному с этой ссылкой. После подтверждения ты сможешь предоставлять услуги в этом салоне. Подтверждаешь это действие?";
+/* reusable -> alert -> ok */
+"reusable.alert.ok" = "Ок";
 /* onboarding -> alert -> learn_workplace -> title */
 "onboarding.alert.learn_workplace.title" = "Обучение";
 /* onboarding -> alert -> learn_workplace -> subtitle */
@@ -526,9 +580,7 @@
 /* creatable -> procedure -> description_enter */
 "creatable.procedure.description_enter" = "Расскажите, что важно знать перед процедурой";
 /* creatable -> procedure -> description_example */
-"creatable.procedure.description_example" = "";
-/* creatable -> procedure -> Например */
-"creatable.procedure.Например" = "«Принести полотенце, прибыть за 10–15 минут, снять украшения, сообщить о противопоказаниях»";
+"creatable.procedure.description_example" = "Например: «Принести полотенце, прибыть за 10–15 минут, снять украшения, сообщить о противопоказаниях»";
 /* creatable -> procedure -> description_placeholder */
 "creatable.procedure.description_placeholder" = "Введите описание...";
 /* creatable -> procedure -> price_title */
@@ -579,8 +631,8 @@
 "creatable.schedule.daily_info" = "Ежедневный график — заданное расписание применится ко всем дням недели";
 /* creatable -> schedule -> cycled_info */
 "creatable.schedule.cycled_info" = "Укажите количество рабочих и выходных дней Формат — сначала рабочие, потом выходные.";
-/* creatable -> schedule -> 0 */
-"creatable.schedule.0" = "Например, «2 через 2» или любая другая комбинация\':\'\' 5/2, 3/1 и так далее";
+/* creatable -> schedule -> cycled_example */
+"creatable.schedule.cycled_example" = "Например, «2 через 2» или любая другая комбинация: 5/2, 3/1 и так далее";
 /* creatable -> schedule -> set_time */
 "creatable.schedule.set_time" = "Выберите часы работы — чтобы клиенты знали, когда к вам можно записаться";
 /* creatable -> schedule -> first_day */
@@ -619,74 +671,6 @@
 "creatable.appointment.sign_in_description" = "Чтобы завершить оформление записи, пожалуйста, **войдите** в систему";
 /* creatable -> appointment -> choose_master */
 "creatable.appointment.choose_master" = "Укажите мастера, который будет выполнять услугу";
-/* creatable -> reusable -> add_button */
-"creatable.reusable.add_button" = "Добавить";
-/* creatable -> reusable -> choose_button */
-"creatable.reusable.choose_button" = "Выбрать";
-/* creatable -> reusable -> submit_button */
-"creatable.reusable.submit_button" = "Готово";
-/* creatable -> reusable -> allow_button */
-"creatable.reusable.allow_button" = "Разрешить";
-/* creatable -> reusable -> submit_text */
-"creatable.reusable.submit_text" = "Пожалуйста, проверьте введённую информацию. Когда всё будет готово — нажмите «Готово», чтобы сохранить";
-/* creatable -> reusable -> skip_text */
-"creatable.reusable.skip_text" = "Пропустить";
-/* creatable -> reusable -> copy_button */
-"creatable.reusable.copy_button" = "Скопировать";
-/* creatable -> reusable -> invitation_link */
-"creatable.reusable.invitation_link" = "Отправьте ссылку-приглашение";
-/* creatable -> reusable -> not_found */
-"creatable.reusable.not_found" = "Ничего не найдено";
-/* creatable -> reusable -> category_enum -> brows */
-"creatable.reusable.category_enum.brows" = "Brows";
-/* creatable -> reusable -> category_enum -> cosmetology */
-"creatable.reusable.category_enum.cosmetology" = "Cosmetology";
-/* creatable -> reusable -> category_enum -> depilation */
-"creatable.reusable.category_enum.depilation" = "Депиляция";
-/* creatable -> reusable -> category_enum -> epilation */
-"creatable.reusable.category_enum.epilation" = "Epilation";
-/* creatable -> reusable -> category_enum -> hairdressing */
-"creatable.reusable.category_enum.hairdressing" = "Hairdressing";
-/* creatable -> reusable -> category_enum -> lashes */
-"creatable.reusable.category_enum.lashes" = "Lashes";
-/* creatable -> reusable -> category_enum -> makeup */
-"creatable.reusable.category_enum.makeup" = "Makeup";
-/* creatable -> reusable -> category_enum -> massage */
-"creatable.reusable.category_enum.massage" = "Massage";
-/* creatable -> reusable -> category_enum -> nails */
-"creatable.reusable.category_enum.nails" = "Nails";
-/* creatable -> reusable -> category_enum -> other */
-"creatable.reusable.category_enum.other" = "Другое";
-/* creatable -> reusable -> category_enum -> piercing */
-"creatable.reusable.category_enum.piercing" = "Piercing";
-/* creatable -> reusable -> category_enum -> spa */
-"creatable.reusable.category_enum.spa" = "Spa";
-/* creatable -> reusable -> category_enum -> tattoo */
-"creatable.reusable.category_enum.tattoo" = "Тату";
-/* creatable -> reusable -> alert -> client_confirmation */
-"creatable.reusable.alert.client_confirmation" = "Переход по ссылке для синхронизации твоей истории заказов.";
-/* creatable -> reusable -> alert -> 0 */
-"creatable.reusable.alert.0" = "Салон, связанный с этой ссылкой, будет добавлен в твой список избранных. Подтверждаешь";
-/* creatable -> reusable -> alert -> 1 */
-"creatable.reusable.alert.1" = "это действие?";
-/* creatable -> reusable -> alert -> confirmation */
-"creatable.reusable.alert.confirmation" = "Подтверждение";
-/* creatable -> reusable -> alert -> congratulations */
-"creatable.reusable.alert.congratulations" = "Поздравляем";
-/* creatable -> reusable -> alert -> error */
-"creatable.reusable.alert.error" = "Ошибка";
-/* creatable -> reusable -> alert -> incomplete_address */
-"creatable.reusable.alert.incomplete_address" = "Неполный адрес";
-/* creatable -> reusable -> alert -> incomplete_address_message */
-"creatable.reusable.alert.incomplete_address_message" = "Напиши свой полный адрес, чтобы двигаться дальше";
-/* creatable -> reusable -> alert -> master_confirmation */
-"creatable.reusable.alert.master_confirmation" = "Ты перешел по ссылке, которая привязывает тебя как работника";
-/* creatable -> reusable -> alert -> 2 */
-"creatable.reusable.alert.2" = "к салону, связанному с этой ссылкой. После подтверждения ты сможешь предоставлять";
-/* creatable -> reusable -> alert -> 3 */
-"creatable.reusable.alert.3" = "услуги в этом салоне. Подтверждаешь это действие?";
-/* creatable -> reusable -> alert -> ok */
-"creatable.reusable.alert.ok" = "Ок";
 /* creatable -> auth -> add_salon */
 "creatable.auth.add_salon" = "Добавить салон";
 /* creatable -> auth -> enter_name */
