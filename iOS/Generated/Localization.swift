@@ -121,7 +121,7 @@ public enum Loc {
       /// creatable -> procedure -> description_enter
       public static let descriptionEnter = Loc.tr("Localizable", "creatable.procedure.description_enter", fallback: "Расскажите, что важно знать перед процедурой")
       /// creatable -> procedure -> description_example
-      public static let descriptionExample = Loc.tr("Localizable", "creatable.procedure.description_example", fallback: "")
+      public static let descriptionExample = Loc.tr("Localizable", "creatable.procedure.description_example", fallback: "Например: «Принести полотенце, прибыть за 10–15 минут, снять украшения, сообщить о противопоказаниях»")
       /// creatable -> procedure -> description_placeholder
       public static let descriptionPlaceholder = Loc.tr("Localizable", "creatable.procedure.description_placeholder", fallback: "Введите описание...")
       /// creatable -> procedure -> duration_title
@@ -140,8 +140,6 @@ public enum Loc {
       public static let priceTitle = Loc.tr("Localizable", "creatable.procedure.price_title", fallback: "Укажите стоимость — эта информация отобразится на странице процедуры")
       /// creatable -> procedure -> title
       public static let title = Loc.tr("Localizable", "creatable.procedure.title", fallback: "Создание процедуры")
-      /// creatable -> procedure -> Например
-      public static let например = Loc.tr("Localizable", "creatable.procedure.Например", fallback: "«Принести полотенце, прибыть за 10–15 минут, снять украшения, сообщить о противопоказаниях»")
     }
     public enum Professional {
       /// creatable -> professional -> create_another_salon
@@ -156,80 +154,6 @@ public enum Loc {
       public static let linkIsNotValid = Loc.tr("Localizable", "creatable.professional.link_is_not_valid", fallback: "К сожалению, введённая ссылка недействительна. Пожалуйста, проверь и введи её снова")
       /// creatable -> professional -> title
       public static let title = Loc.tr("Localizable", "creatable.professional.title", fallback: "Регистрация мастера")
-    }
-    public enum Reusable {
-      /// creatable -> reusable -> add_button
-      public static let addButton = Loc.tr("Localizable", "creatable.reusable.add_button", fallback: "Добавить")
-      /// creatable -> reusable -> allow_button
-      public static let allowButton = Loc.tr("Localizable", "creatable.reusable.allow_button", fallback: "Разрешить")
-      /// creatable -> reusable -> choose_button
-      public static let chooseButton = Loc.tr("Localizable", "creatable.reusable.choose_button", fallback: "Выбрать")
-      /// creatable -> reusable -> copy_button
-      public static let copyButton = Loc.tr("Localizable", "creatable.reusable.copy_button", fallback: "Скопировать")
-      /// creatable -> reusable -> invitation_link
-      public static let invitationLink = Loc.tr("Localizable", "creatable.reusable.invitation_link", fallback: "Отправьте ссылку-приглашение")
-      /// creatable -> reusable -> not_found
-      public static let notFound = Loc.tr("Localizable", "creatable.reusable.not_found", fallback: "Ничего не найдено")
-      /// creatable -> reusable -> skip_text
-      public static let skipText = Loc.tr("Localizable", "creatable.reusable.skip_text", fallback: "Пропустить")
-      /// creatable -> reusable -> submit_button
-      public static let submitButton = Loc.tr("Localizable", "creatable.reusable.submit_button", fallback: "Готово")
-      /// creatable -> reusable -> submit_text
-      public static let submitText = Loc.tr("Localizable", "creatable.reusable.submit_text", fallback: "Пожалуйста, проверьте введённую информацию. Когда всё будет готово — нажмите «Готово», чтобы сохранить")
-      public enum Alert {
-        /// creatable -> reusable -> alert -> 0
-        public static let _0 = Loc.tr("Localizable", "creatable.reusable.alert.0", fallback: "Салон, связанный с этой ссылкой, будет добавлен в твой список избранных. Подтверждаешь")
-        /// creatable -> reusable -> alert -> 1
-        public static let _1 = Loc.tr("Localizable", "creatable.reusable.alert.1", fallback: "это действие?")
-        /// creatable -> reusable -> alert -> 2
-        public static let _2 = Loc.tr("Localizable", "creatable.reusable.alert.2", fallback: "к салону, связанному с этой ссылкой. После подтверждения ты сможешь предоставлять")
-        /// creatable -> reusable -> alert -> 3
-        public static let _3 = Loc.tr("Localizable", "creatable.reusable.alert.3", fallback: "услуги в этом салоне. Подтверждаешь это действие?")
-        /// creatable -> reusable -> alert -> client_confirmation
-        public static let clientConfirmation = Loc.tr("Localizable", "creatable.reusable.alert.client_confirmation", fallback: "Переход по ссылке для синхронизации твоей истории заказов.")
-        /// creatable -> reusable -> alert -> confirmation
-        public static let confirmation = Loc.tr("Localizable", "creatable.reusable.alert.confirmation", fallback: "Подтверждение")
-        /// creatable -> reusable -> alert -> congratulations
-        public static let congratulations = Loc.tr("Localizable", "creatable.reusable.alert.congratulations", fallback: "Поздравляем")
-        /// creatable -> reusable -> alert -> error
-        public static let error = Loc.tr("Localizable", "creatable.reusable.alert.error", fallback: "Ошибка")
-        /// creatable -> reusable -> alert -> incomplete_address
-        public static let incompleteAddress = Loc.tr("Localizable", "creatable.reusable.alert.incomplete_address", fallback: "Неполный адрес")
-        /// creatable -> reusable -> alert -> incomplete_address_message
-        public static let incompleteAddressMessage = Loc.tr("Localizable", "creatable.reusable.alert.incomplete_address_message", fallback: "Напиши свой полный адрес, чтобы двигаться дальше")
-        /// creatable -> reusable -> alert -> master_confirmation
-        public static let masterConfirmation = Loc.tr("Localizable", "creatable.reusable.alert.master_confirmation", fallback: "Ты перешел по ссылке, которая привязывает тебя как работника")
-        /// creatable -> reusable -> alert -> ok
-        public static let ok = Loc.tr("Localizable", "creatable.reusable.alert.ok", fallback: "Ок")
-      }
-      public enum CategoryEnum {
-        /// creatable -> reusable -> category_enum -> brows
-        public static let brows = Loc.tr("Localizable", "creatable.reusable.category_enum.brows", fallback: "Brows")
-        /// creatable -> reusable -> category_enum -> cosmetology
-        public static let cosmetology = Loc.tr("Localizable", "creatable.reusable.category_enum.cosmetology", fallback: "Cosmetology")
-        /// creatable -> reusable -> category_enum -> depilation
-        public static let depilation = Loc.tr("Localizable", "creatable.reusable.category_enum.depilation", fallback: "Депиляция")
-        /// creatable -> reusable -> category_enum -> epilation
-        public static let epilation = Loc.tr("Localizable", "creatable.reusable.category_enum.epilation", fallback: "Epilation")
-        /// creatable -> reusable -> category_enum -> hairdressing
-        public static let hairdressing = Loc.tr("Localizable", "creatable.reusable.category_enum.hairdressing", fallback: "Hairdressing")
-        /// creatable -> reusable -> category_enum -> lashes
-        public static let lashes = Loc.tr("Localizable", "creatable.reusable.category_enum.lashes", fallback: "Lashes")
-        /// creatable -> reusable -> category_enum -> makeup
-        public static let makeup = Loc.tr("Localizable", "creatable.reusable.category_enum.makeup", fallback: "Makeup")
-        /// creatable -> reusable -> category_enum -> massage
-        public static let massage = Loc.tr("Localizable", "creatable.reusable.category_enum.massage", fallback: "Massage")
-        /// creatable -> reusable -> category_enum -> nails
-        public static let nails = Loc.tr("Localizable", "creatable.reusable.category_enum.nails", fallback: "Nails")
-        /// creatable -> reusable -> category_enum -> other
-        public static let other = Loc.tr("Localizable", "creatable.reusable.category_enum.other", fallback: "Другое")
-        /// creatable -> reusable -> category_enum -> piercing
-        public static let piercing = Loc.tr("Localizable", "creatable.reusable.category_enum.piercing", fallback: "Piercing")
-        /// creatable -> reusable -> category_enum -> spa
-        public static let spa = Loc.tr("Localizable", "creatable.reusable.category_enum.spa", fallback: "Spa")
-        /// creatable -> reusable -> category_enum -> tattoo
-        public static let tattoo = Loc.tr("Localizable", "creatable.reusable.category_enum.tattoo", fallback: "Тату")
-      }
     }
     public enum Salon {
       /// creatable -> salon -> add_address
@@ -266,8 +190,8 @@ public enum Loc {
       public static let uploadLogo = Loc.tr("Localizable", "creatable.salon.upload_logo", fallback: "Загрузите логотип — он будет отображаться в вашем профиле и в результатах поиска")
     }
     public enum Schedule {
-      /// creatable -> schedule -> 0
-      public static let _0 = Loc.tr("Localizable", "creatable.schedule.0", fallback: "Например, «2 через 2» или любая другая комбинация':'' 5/2, 3/1 и так далее")
+      /// creatable -> schedule -> cycled_example
+      public static let cycledExample = Loc.tr("Localizable", "creatable.schedule.cycled_example", fallback: "Например, «2 через 2» или любая другая комбинация: 5/2, 3/1 и так далее")
       /// creatable -> schedule -> cycled_info
       public static let cycledInfo = Loc.tr("Localizable", "creatable.schedule.cycled_info", fallback: "Укажите количество рабочих и выходных дней Формат — сначала рабочие, потом выходные.")
       /// creatable -> schedule -> daily_info
@@ -367,6 +291,8 @@ public enum Loc {
     public static let add = Loc.tr("Localizable", "reusable.add", fallback: "Добавить")
     /// reusable -> all
     public static let all = Loc.tr("Localizable", "reusable.all", fallback: "Все")
+    /// reusable -> allow_button
+    public static let allowButton = Loc.tr("Localizable", "reusable.allow_button", fallback: "Разрешить")
     /// reusable -> apply
     public static let apply = Loc.tr("Localizable", "reusable.apply", fallback: "Применить")
     /// reusable -> break
@@ -377,52 +303,112 @@ public enum Loc {
     public static let close = Loc.tr("Localizable", "reusable.close", fallback: "Закрыть")
     /// reusable -> continue
     public static let `continue` = Loc.tr("Localizable", "reusable.continue", fallback: "Продолжить")
+    /// reusable -> copy_button
+    public static let copyButton = Loc.tr("Localizable", "reusable.copy_button", fallback: "Скопировать")
     /// reusable -> delete
     public static let delete = Loc.tr("Localizable", "reusable.delete", fallback: "Удалить")
     /// reusable -> edit
     public static let edit = Loc.tr("Localizable", "reusable.edit", fallback: "Редактировать")
-    /// reusable -> friday
-    public static let friday = Loc.tr("Localizable", "reusable.friday", fallback: "Пятница")
-    /// reusable -> friday_short
-    public static let fridayShort = Loc.tr("Localizable", "reusable.friday_short", fallback: "Пт")
     /// reusable -> from
     public static let from = Loc.tr("Localizable", "reusable.from", fallback: "от")
     /// reusable -> hour
     public static let hour = Loc.tr("Localizable", "reusable.hour", fallback: "ч")
+    /// reusable -> invitation_link
+    public static let invitationLink = Loc.tr("Localizable", "reusable.invitation_link", fallback: "Отправьте ссылку-приглашение")
     /// reusable -> minutes
     public static let minutes = Loc.tr("Localizable", "reusable.minutes", fallback: "мин")
-    /// reusable -> monday
-    public static let monday = Loc.tr("Localizable", "reusable.monday", fallback: "Понедельник")
-    /// reusable -> monday_short
-    public static let mondayShort = Loc.tr("Localizable", "reusable.monday_short", fallback: "Пн")
+    /// reusable -> not_found
+    public static let notFound = Loc.tr("Localizable", "reusable.not_found", fallback: "Ничего не найдено")
     /// reusable -> repeat
     public static let `repeat` = Loc.tr("Localizable", "reusable.repeat", fallback: "Повторить")
-    /// reusable -> saturday
-    public static let saturday = Loc.tr("Localizable", "reusable.saturday", fallback: "Суббота")
-    /// reusable -> saturday_short
-    public static let saturdayShort = Loc.tr("Localizable", "reusable.saturday_short", fallback: "Сб")
     /// reusable -> select
     public static let select = Loc.tr("Localizable", "reusable.select", fallback: "Выбрать")
-    /// reusable -> sunday
-    public static let sunday = Loc.tr("Localizable", "reusable.sunday", fallback: "Воскресенье")
-    /// reusable -> sunday_short
-    public static let sundayShort = Loc.tr("Localizable", "reusable.sunday_short", fallback: "Вс")
-    /// reusable -> thursday
-    public static let thursday = Loc.tr("Localizable", "reusable.thursday", fallback: "Четверг")
-    /// reusable -> thursday_short
-    public static let thursdayShort = Loc.tr("Localizable", "reusable.thursday_short", fallback: "Чт")
+    /// reusable -> skip
+    public static let skip = Loc.tr("Localizable", "reusable.skip", fallback: "Пропустить")
+    /// reusable -> submit_button
+    public static let submitButton = Loc.tr("Localizable", "reusable.submit_button", fallback: "Готово")
+    /// reusable -> submit_text
+    public static let submitText = Loc.tr("Localizable", "reusable.submit_text", fallback: "Пожалуйста, проверьте введённую информацию. Когда всё будет готово — нажмите «Готово», чтобы сохранить")
     /// reusable -> today
     public static let today = Loc.tr("Localizable", "reusable.today", fallback: "Сегодня")
     /// reusable -> tomorrow
     public static let tomorrow = Loc.tr("Localizable", "reusable.tomorrow", fallback: "Завтра")
-    /// reusable -> tuesday
-    public static let tuesday = Loc.tr("Localizable", "reusable.tuesday", fallback: "Вторник")
-    /// reusable -> tuesday_short
-    public static let tuesdayShort = Loc.tr("Localizable", "reusable.tuesday_short", fallback: "Вт")
-    /// reusable -> wednesday
-    public static let wednesday = Loc.tr("Localizable", "reusable.wednesday", fallback: "Среда")
-    /// reusable -> wednesday_short
-    public static let wednesdayShort = Loc.tr("Localizable", "reusable.wednesday_short", fallback: "Ср")
+    public enum Alert {
+      /// reusable -> alert -> client_confirmation
+      public static let clientConfirmation = Loc.tr("Localizable", "reusable.alert.client_confirmation", fallback: "Переход по ссылке для синхронизации твоей истории заказов. Салон, связанный с этой ссылкой, будет добавлен в твой список избранных. Подтверждаешь это действие?")
+      /// reusable -> alert -> confirmation
+      public static let confirmation = Loc.tr("Localizable", "reusable.alert.confirmation", fallback: "Подтверждение")
+      /// reusable -> alert -> congratulations
+      public static let congratulations = Loc.tr("Localizable", "reusable.alert.congratulations", fallback: "Поздравляем")
+      /// reusable -> alert -> error
+      public static let error = Loc.tr("Localizable", "reusable.alert.error", fallback: "Ошибка")
+      /// reusable -> alert -> incomplete_address
+      public static let incompleteAddress = Loc.tr("Localizable", "reusable.alert.incomplete_address", fallback: "Неполный адрес")
+      /// reusable -> alert -> incomplete_address_message
+      public static let incompleteAddressMessage = Loc.tr("Localizable", "reusable.alert.incomplete_address_message", fallback: "Напиши свой полный адрес, чтобы двигаться дальше")
+      /// reusable -> alert -> master_confirmation
+      public static let masterConfirmation = Loc.tr("Localizable", "reusable.alert.master_confirmation", fallback: "Ты перешел по ссылке, которая привязывает тебя как работника к салону, связанному с этой ссылкой. После подтверждения ты сможешь предоставлять услуги в этом салоне. Подтверждаешь это действие?")
+      /// reusable -> alert -> ok
+      public static let ok = Loc.tr("Localizable", "reusable.alert.ok", fallback: "Ок")
+    }
+    public enum CategoryEnum {
+      public enum Brows {
+        /// reusable -> category_enum -> brows -> cosmetology
+        public static let cosmetology = Loc.tr("Localizable", "reusable.category_enum.brows.cosmetology", fallback: "Cosmetology")
+        /// reusable -> category_enum -> brows -> depilation
+        public static let depilation = Loc.tr("Localizable", "reusable.category_enum.brows.depilation", fallback: "Депиляция")
+        /// reusable -> category_enum -> brows -> epilation
+        public static let epilation = Loc.tr("Localizable", "reusable.category_enum.brows.epilation", fallback: "Epilation")
+        /// reusable -> category_enum -> brows -> hairdressing
+        public static let hairdressing = Loc.tr("Localizable", "reusable.category_enum.brows.hairdressing", fallback: "Hairdressing")
+        /// reusable -> category_enum -> brows -> lashes
+        public static let lashes = Loc.tr("Localizable", "reusable.category_enum.brows.lashes", fallback: "Lashes")
+        /// reusable -> category_enum -> brows -> makeup
+        public static let makeup = Loc.tr("Localizable", "reusable.category_enum.brows.makeup", fallback: "Makeup")
+        /// reusable -> category_enum -> brows -> massage
+        public static let massage = Loc.tr("Localizable", "reusable.category_enum.brows.massage", fallback: "Massage")
+        /// reusable -> category_enum -> brows -> nails
+        public static let nails = Loc.tr("Localizable", "reusable.category_enum.brows.nails", fallback: "Nails")
+        /// reusable -> category_enum -> brows -> other
+        public static let other = Loc.tr("Localizable", "reusable.category_enum.brows.other", fallback: "Другое")
+        /// reusable -> category_enum -> brows -> piercing
+        public static let piercing = Loc.tr("Localizable", "reusable.category_enum.brows.piercing", fallback: "Piercing")
+        /// reusable -> category_enum -> brows -> spa
+        public static let spa = Loc.tr("Localizable", "reusable.category_enum.brows.spa", fallback: "Spa")
+        /// reusable -> category_enum -> brows -> tattoo
+        public static let tattoo = Loc.tr("Localizable", "reusable.category_enum.brows.tattoo", fallback: "Тату")
+      }
+    }
+    public enum DaysOfTheWeek {
+      /// reusable -> days_of_the_week -> friday
+      public static let friday = Loc.tr("Localizable", "reusable.days_of_the_week.friday", fallback: "Пятница")
+      /// reusable -> days_of_the_week -> friday_short
+      public static let fridayShort = Loc.tr("Localizable", "reusable.days_of_the_week.friday_short", fallback: "Пт")
+      /// reusable -> days_of_the_week -> monday
+      public static let monday = Loc.tr("Localizable", "reusable.days_of_the_week.monday", fallback: "Понедельник")
+      /// reusable -> days_of_the_week -> monday_short
+      public static let mondayShort = Loc.tr("Localizable", "reusable.days_of_the_week.monday_short", fallback: "Пн")
+      /// reusable -> days_of_the_week -> saturday
+      public static let saturday = Loc.tr("Localizable", "reusable.days_of_the_week.saturday", fallback: "Суббота")
+      /// reusable -> days_of_the_week -> saturday_short
+      public static let saturdayShort = Loc.tr("Localizable", "reusable.days_of_the_week.saturday_short", fallback: "Сб")
+      /// reusable -> days_of_the_week -> sunday
+      public static let sunday = Loc.tr("Localizable", "reusable.days_of_the_week.sunday", fallback: "Воскресенье")
+      /// reusable -> days_of_the_week -> sunday_short
+      public static let sundayShort = Loc.tr("Localizable", "reusable.days_of_the_week.sunday_short", fallback: "Вс")
+      /// reusable -> days_of_the_week -> thursday
+      public static let thursday = Loc.tr("Localizable", "reusable.days_of_the_week.thursday", fallback: "Четверг")
+      /// reusable -> days_of_the_week -> thursday_short
+      public static let thursdayShort = Loc.tr("Localizable", "reusable.days_of_the_week.thursday_short", fallback: "Чт")
+      /// reusable -> days_of_the_week -> tuesday
+      public static let tuesday = Loc.tr("Localizable", "reusable.days_of_the_week.tuesday", fallback: "Вторник")
+      /// reusable -> days_of_the_week -> tuesday_short
+      public static let tuesdayShort = Loc.tr("Localizable", "reusable.days_of_the_week.tuesday_short", fallback: "Вт")
+      /// reusable -> days_of_the_week -> wednesday
+      public static let wednesday = Loc.tr("Localizable", "reusable.days_of_the_week.wednesday", fallback: "Среда")
+      /// reusable -> days_of_the_week -> wednesday_short
+      public static let wednesdayShort = Loc.tr("Localizable", "reusable.days_of_the_week.wednesday_short", fallback: "Ср")
+    }
   }
   public enum Screen {
     public enum Appointment {
