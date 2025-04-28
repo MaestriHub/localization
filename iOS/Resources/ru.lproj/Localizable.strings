@@ -159,34 +159,34 @@
 "screen.schedule.edit_days.one" = "Редактировать %{days} день";
 /* screen -> schedule -> edit_days -> other */
 "screen.schedule.edit_days.other" = "Редактировать %{days} дней";
-/* screen -> services -> title */
-"screen.services.title" = "Услуги";
-/* screen -> services -> all_title */
-"screen.services.all_title" = "Все услуги";
-/* screen -> services -> add_service */
-"screen.services.add_service" = "Добавить новую услугу";
-/* screen -> services -> complexs */
-"screen.services.complexs" = "Комплексы";
-/* screen -> services -> complex_placeholder */
-"screen.services.complex_placeholder" = "Для создания комплекса объедините несколько процедур";
-/* screen -> services -> procedures */
-"screen.services.procedures" = "Процедуры";
-/* screen -> services -> procedure_placeholder */
-"screen.services.procedure_placeholder" = "Для начала работы салона создайте процедуру";
-/* screen -> services -> procedure_delete */
-"screen.services.procedure_delete" = "Удалить";
-/* screen -> services -> procedure_info */
-"screen.services.procedure_info" = "Информация";
-/* screen -> services -> procedure_add_executor */
-"screen.services.procedure_add_executor" = "Добавить исполнителя";
-/* screen -> services -> procedure_union_complex */
-"screen.services.procedure_union_complex" = "Объединить в комплекс";
-/* screen -> services -> executor_edit */
-"screen.services.executor_edit" = "Редактировать";
-/* screen -> services -> executor_booking */
-"screen.services.executor_booking" = "Записаться";
-/* screen -> services -> search */
-"screen.services.search" = "Поиск";
+/* screen -> catalog_management -> title */
+"screen.catalog_management.title" = "Услуги";
+/* screen -> catalog_management -> all_title */
+"screen.catalog_management.all_title" = "Все услуги";
+/* screen -> catalog_management -> add_service */
+"screen.catalog_management.add_service" = "Добавить новую услугу";
+/* screen -> catalog_management -> complexs */
+"screen.catalog_management.complexs" = "Комплексы";
+/* screen -> catalog_management -> complex_placeholder */
+"screen.catalog_management.complex_placeholder" = "Для создания комплеса объедините несколько процедур";
+/* screen -> catalog_management -> procedures */
+"screen.catalog_management.procedures" = "Процедуры";
+/* screen -> catalog_management -> procedure_placeholder */
+"screen.catalog_management.procedure_placeholder" = "Для начала работы салона создайте процедуру";
+/* screen -> catalog_management -> procedure_delete */
+"screen.catalog_management.procedure_delete" = "Удалить";
+/* screen -> catalog_management -> procedure_info */
+"screen.catalog_management.procedure_info" = "Информация";
+/* screen -> catalog_management -> procedure_add_executor */
+"screen.catalog_management.procedure_add_executor" = "Добавить исполнителя";
+/* screen -> catalog_management -> procedure_union_complex */
+"screen.catalog_management.procedure_union_complex" = "Объединить в комплекс";
+/* screen -> catalog_management -> executor_edit */
+"screen.catalog_management.executor_edit" = "Редактировать";
+/* screen -> catalog_management -> executor_booking */
+"screen.catalog_management.executor_booking" = "Записаться";
+/* screen -> catalog_management -> search */
+"screen.catalog_management.search" = "Поиск";
 /* screen -> employees -> title */
 "screen.employees.title" = "Сотрудники";
 /* screen -> employees -> all_title */
@@ -343,6 +343,16 @@
 "screen.appointment.state_accept" = "Подтвердить запись";
 /* screen -> appointment -> no_appointments */
 "screen.appointment.no_appointments" = "Пока у тебя нет записей";
+/* screen -> catalog -> placeholder */
+"screen.catalog.placeholder" = "Нету ни одной услуги";
+/* screen -> catalog -> complex_header */
+"screen.catalog.complex_header" = "Комплексы";
+/* screen -> catalog -> procedure_header */
+"screen.catalog.procedure_header" = "Процедуры";
+/* screen -> history -> title */
+"screen.history.title" = "История";
+/* screen -> history -> placeholder */
+"screen.history.placeholder" = "У вас еще нет записей";
 /* screen -> main -> history_title */
 "screen.main.history_title" = "Мои записи";
 /* screen -> main -> history_action */
@@ -387,12 +397,16 @@
 "widget.address.navigation" = "Построить маршрут";
 /* widget -> contacts -> title */
 "widget.contacts.title" = "Контакты";
+/* widget -> contacts -> no_contacts */
+"widget.contacts.no_contacts" = "Нет контактов";
 /* widget -> contacts -> action */
 "widget.contacts.action" = "Добавить контакт";
 /* widget -> contacts -> placeholder */
 "widget.contacts.placeholder" = "Способы связи не указаны";
 /* widget -> timetable -> title */
 "widget.timetable.title" = "Рабочие часы";
+/* widget -> catalog -> title */
+"widget.catalog.title" = "Каталог услуг";
 /* reusable -> cancel */
 "reusable.cancel" = "Отмена";
 /* reusable -> delete */
@@ -409,12 +423,18 @@
 "reusable.break" = "Перерыв";
 /* reusable -> select */
 "reusable.select" = "Выбрать";
+/* reusable -> save */
+"reusable.save" = "Сохранить";
 /* reusable -> continue */
 "reusable.continue" = "Продолжить";
+/* reusable -> make_appointment */
+"reusable.make_appointment" = "Записаться";
 /* reusable -> close */
 "reusable.close" = "Закрыть";
 /* reusable -> repeat */
 "reusable.repeat" = "Повторить";
+/* reusable -> search */
+"reusable.search" = "Поиск";
 /* reusable -> from */
 "reusable.from" = "от";
 /* reusable -> hour */
@@ -467,30 +487,32 @@
 "reusable.days_of_the_week.friday_short" = "Пт";
 /* reusable -> days_of_the_week -> saturday_short */
 "reusable.days_of_the_week.saturday_short" = "Сб";
-/* reusable -> category_enum -> brows -> cosmetology */
-"reusable.category_enum.brows.cosmetology" = "Косметология";
-/* reusable -> category_enum -> brows -> depilation */
-"reusable.category_enum.brows.depilation" = "Депиляция";
-/* reusable -> category_enum -> brows -> epilation */
-"reusable.category_enum.brows.epilation" = "Эпиляция";
-/* reusable -> category_enum -> brows -> hairdressing */
-"reusable.category_enum.brows.hairdressing" = "Волосы";
-/* reusable -> category_enum -> brows -> lashes */
-"reusable.category_enum.brows.lashes" = "Ресницы";
-/* reusable -> category_enum -> brows -> makeup */
-"reusable.category_enum.brows.makeup" = "Макияж";
-/* reusable -> category_enum -> brows -> massage */
-"reusable.category_enum.brows.massage" = "Массаж";
-/* reusable -> category_enum -> brows -> nails */
-"reusable.category_enum.brows.nails" = "Ногти";
-/* reusable -> category_enum -> brows -> other */
-"reusable.category_enum.brows.other" = "Другое";
-/* reusable -> category_enum -> brows -> piercing */
-"reusable.category_enum.brows.piercing" = "Пирсинг";
-/* reusable -> category_enum -> brows -> spa */
-"reusable.category_enum.brows.spa" = "Спа";
-/* reusable -> category_enum -> brows -> tattoo */
-"reusable.category_enum.brows.tattoo" = "Тату";
+/* reusable -> category_enum -> brows */
+"reusable.category_enum.brows" = "Брови";
+/* reusable -> category_enum -> cosmetology */
+"reusable.category_enum.cosmetology" = "Косметология";
+/* reusable -> category_enum -> depilation */
+"reusable.category_enum.depilation" = "Депиляция";
+/* reusable -> category_enum -> epilation */
+"reusable.category_enum.epilation" = "Эпиляция";
+/* reusable -> category_enum -> hairdressing */
+"reusable.category_enum.hairdressing" = "Волосы";
+/* reusable -> category_enum -> lashes */
+"reusable.category_enum.lashes" = "Ресницы";
+/* reusable -> category_enum -> makeup */
+"reusable.category_enum.makeup" = "Макияж";
+/* reusable -> category_enum -> massage */
+"reusable.category_enum.massage" = "Массаж";
+/* reusable -> category_enum -> nails */
+"reusable.category_enum.nails" = "Ногти";
+/* reusable -> category_enum -> other */
+"reusable.category_enum.other" = "Другое";
+/* reusable -> category_enum -> piercing */
+"reusable.category_enum.piercing" = "Пирсинг";
+/* reusable -> category_enum -> spa */
+"reusable.category_enum.spa" = "Спа";
+/* reusable -> category_enum -> tattoo */
+"reusable.category_enum.tattoo" = "Тату";
 /* reusable -> alert -> client_confirmation */
 "reusable.alert.client_confirmation" = "Переход по ссылке для синхронизации твоей истории заказов. Салон, связанный с этой ссылкой, будет добавлен в твой список избранных. Подтверждаешь это действие?";
 /* reusable -> alert -> confirmation */
@@ -599,6 +621,10 @@
 "creatable.client.add_contact" = "Добавить контакт";
 /* creatable -> employee -> title */
 "creatable.employee.title" = "Новый сотрудник";
+/* creatable -> employee -> name_enter */
+"creatable.employee.name_enter" = "Введите имя сотрудника";
+/* creatable -> employee -> name_placeholder */
+"creatable.employee.name_placeholder" = "Введите имя...";
 /* creatable -> employee -> add_contact */
 "creatable.employee.add_contact" = "Добавьте способ связи";
 /* creatable -> employee -> choose_position */
