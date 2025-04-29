@@ -97,8 +97,8 @@
 "screen.workplace.action.client_mode.title" = "Переключится";
 /* screen -> workplace -> action -> client_mode -> subtitle */
 "screen.workplace.action.client_mode.subtitle" = "режим клиента";
-/* screen -> workspace -> confirmation -> collision_title */
-"screen.workspace.confirmation.collision_title" = "Внимание!";
+/* screen -> workspace -> confirmation -> Loc.Screen.Workspace.Confirmation */
+"screen.workspace.confirmation.\"Loc.Screen.Workspace.Confirmation\"" = "Внимание!";
 /* screen -> workspace -> confirmation -> collision_message */
 "screen.workspace.confirmation.collision_message" = "В это время уже есть назначенная запись";
 /* screen -> workspace -> confirmation -> reschedule_button */
@@ -115,6 +115,8 @@
 "screen.workspace.list_type" = "Список";
 /* screen -> workspace -> list_empty_placeholder */
 "screen.workspace.list_empty_placeholder" = "На этот день пока никто не записался";
+/* screen -> schedule -> workspace_schedule */
+"screen.schedule.workspace_schedule" = "График салона";
 /* screen -> schedule -> select_masters */
 "screen.schedule.select_masters" = "Выбрать мастеров";
 /* screen -> schedule -> hide_master */
@@ -143,6 +145,8 @@
 "screen.schedule.setup_vacation" = "Настроить отпуск";
 /* screen -> schedule -> delete_vacation */
 "screen.schedule.delete_vacation" = "Удалить отпуск";
+/* screen -> schedule -> add_break */
+"screen.schedule.add_break" = "Добавить перерыв";
 /* screen -> schedule -> settings_vacation */
 "screen.schedule.settings_vacation" = "Настройки отпуска";
 /* screen -> schedule -> setup_schedule */
@@ -173,8 +177,6 @@
 "screen.catalog_management.procedures" = "Процедуры";
 /* screen -> catalog_management -> procedure_placeholder */
 "screen.catalog_management.procedure_placeholder" = "Для начала работы салона создайте процедуру";
-/* screen -> catalog_management -> procedure_delete */
-"screen.catalog_management.procedure_delete" = "Удалить";
 /* screen -> catalog_management -> procedure_info */
 "screen.catalog_management.procedure_info" = "Информация";
 /* screen -> catalog_management -> procedure_add_executor */
@@ -191,8 +193,6 @@
 "screen.employees.title" = "Сотрудники";
 /* screen -> employees -> all_title */
 "screen.employees.all_title" = "Все сотрудники";
-/* screen -> employees -> filter -> all */
-"screen.employees.filter.all" = "Все";
 /* screen -> employees -> filter -> active */
 "screen.employees.filter.active" = "Активные";
 /* screen -> employees -> filter -> invite */
@@ -201,8 +201,6 @@
 "screen.employees.filter.with_service" = "Оказывают услуги";
 /* screen -> employees -> filter -> without_service */
 "screen.employees.filter.without_service" = "Не оказывают услуги";
-/* screen -> employees -> filter -> edit */
-"screen.employees.filter.edit" = "Редактировать";
 /* screen -> employees -> filter -> create_employee */
 "screen.employees.filter.create_employee" = "Добавить сотрудника";
 /* screen -> employees -> filter -> remove_position */
@@ -223,6 +221,10 @@
 "screen.employees.danger_zone.fire" = "Уволить";
 /* screen -> employees -> danger_zone -> fire_an_employee */
 "screen.employees.danger_zone.fire_an_employee" = "Уволить сотрудника";
+/* screen -> position -> title */
+"screen.position.title" = "Должности";
+/* screen -> position -> action */
+"screen.position.action" = "Создать должность";
 /* screen -> position -> appointments */
 "screen.position.appointments" = "Доступ к записям";
 /* screen -> position -> contact */
@@ -251,8 +253,6 @@
 "screen.position.timetable" = "Доступ к расписанию";
 /* screen -> position -> permission -> access_rules */
 "screen.position.permission.access_rules" = "Права доступа";
-/* screen -> position -> permission -> editing */
-"screen.position.permission.editing" = "Редактирование";
 /* screen -> position -> permission -> terms_of_remu */
 "screen.position.permission.terms_of_remu" = "Условия оплаты труда";
 /* screen -> position -> fix_price -> fixed_payment */
@@ -281,6 +281,18 @@
 "screen.position.sheet.permission.choose_all" = "Выбрать все";
 /* screen -> position -> sheet -> salary_content -> payroll_custm */
 "screen.position.sheet.salary_content.payroll_custm" = "Настройка заработной платы";
+/* screen -> salary -> title */
+"screen.salary.title" = "Зарплата";
+/* screen -> salary -> wage_title */
+"screen.salary.wage_title" = "Фиксированная оплата";
+/* screen -> salary -> percent_title */
+"screen.salary.percent_title" = "Процент";
+/* screen -> salary -> select_type */
+"screen.salary.select_type" = "Выберите тип";
+/* screen -> salary -> percentage_of_profit */
+"screen.salary.percentage_of_profit" = "Процент от прибыли";
+/* screen -> salary -> piecework_title */
+"screen.salary.piecework_title" = "Сдельная оплата";
 /* screen -> clients -> title */
 "screen.clients.title" = "Все клиенты";
 /* screen -> clients -> search */
@@ -333,12 +345,16 @@
 "screen.settings.danger_zone.delete_placeholder" = "Название салон";
 /* screen -> appointment -> executor */
 "screen.appointment.executor" = "Professional";
-/* screen -> appointment -> state_customer_time_out */
-"screen.appointment.state_customer_time_out" = "Время истекло";
+/* screen -> appointment -> state_customera_time_out */
+"screen.appointment.state_customera_time_out" = "Время истекло";
 /* screen -> appointment -> state_customer_waiting */
 "screen.appointment.state_customer_waiting" = "В ожидании";
 /* screen -> appointment -> state_customer_approved */
 "screen.appointment.state_customer_approved" = "Подтверждено";
+/* screen -> appointment -> state_customer_reject */
+"screen.appointment.state_customer_reject" = "Отклоненно";
+/* screen -> appointment -> state_customer_canсeled */
+"screen.appointment.state_customer_canсeled" = "Отмененно";
 /* screen -> appointment -> state_accept */
 "screen.appointment.state_accept" = "Подтвердить запись";
 /* screen -> appointment -> no_appointments */
@@ -407,6 +423,8 @@
 "widget.timetable.title" = "Рабочие часы";
 /* widget -> catalog -> title */
 "widget.catalog.title" = "Каталог услуг";
+/* widget -> danger_zone -> title */
+"widget.danger_zone.title" = "Danger zone";
 /* reusable -> cancel */
 "reusable.cancel" = "Отмена";
 /* reusable -> delete */
@@ -415,6 +433,8 @@
 "reusable.add" = "Добавить";
 /* reusable -> all */
 "reusable.all" = "Все";
+/* reusable -> warning */
+"reusable.warning" = "Attention";
 /* reusable -> edit */
 "reusable.edit" = "Редактировать";
 /* reusable -> apply */
@@ -663,6 +683,10 @@
 "creatable.schedule.set_time" = "Выберите часы работы — чтобы клиенты знали, когда к вам можно записаться";
 /* creatable -> schedule -> first_day */
 "creatable.schedule.first_day" = "Выберите первый рабочий день";
+/* creatable -> schedule -> work_days */
+"creatable.schedule.work_days" = "Рабочие дни:";
+/* creatable -> schedule -> weekend */
+"creatable.schedule.weekend" = "Выходные:";
 /* creatable -> contact -> title */
 "creatable.contact.title" = "Создание контакта";
 /* creatable -> contact -> contact_type */
@@ -761,6 +785,8 @@
 "error.default.register_as_master" = "Для обработки ссылки необходимо зарегистрироваться как мастер";
 /* error -> default -> unknown_error */
 "error.default.unknown_error" = "Неизвестная ошибка";
+/* error -> default -> failedToLoadImage */
+"error.default.failedToLoadImage" = "Не удалось загрузить изображение. Проверьте подключение к сети и попробуйте снова.";
 /* error -> http -> bad_gateway */
 "error.http.bad_gateway" = "502 Плохой шлюз: Сервер, действующий как шлюз или прокси, получил недопустимый ответ от вышестоящего сервера.";
 /* error -> http -> bad_request */
