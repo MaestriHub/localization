@@ -97,12 +97,12 @@
 "screen.workplace.action.client_mode.title" = "Переключится";
 /* screen -> workplace -> action -> client_mode -> subtitle */
 "screen.workplace.action.client_mode.subtitle" = "режим клиента";
-/* screen -> workspace -> confirmation -> Loc.Screen.Workspace.Confirmation */
-"screen.workspace.confirmation.\"Loc.Screen.Workspace.Confirmation\"" = "Внимание!";
-/* screen -> workspace -> confirmation -> collision_message */
-"screen.workspace.confirmation.collision_message" = "В это время уже есть назначенная запись";
-/* screen -> workspace -> confirmation -> reschedule_button */
-"screen.workspace.confirmation.reschedule_button" = "Перенести запись";
+/* screen -> workspace -> confirmation */
+"screen.workspace.confirmation" = "Внимание!";
+/* screen -> workspace -> collision_message */
+"screen.workspace.collision_message" = "В это время уже есть назначенная запись";
+/* screen -> workspace -> reschedule_button */
+"screen.workspace.reschedule_button" = "Перенести запись";
 /* screen -> workspace -> select_masters */
 "screen.workspace.select_masters" = "Выбрать мастеров";
 /* screen -> workspace -> masters_quantity */
