@@ -908,6 +908,10 @@ public enum Loc {
       }
     }
     public enum Workspace {
+      /// screen -> workspace -> collision_message
+      public static let collisionMessage = Loc.tr("Localizable", "screen.workspace.collision_message", fallback: "В это время уже есть назначенная запись")
+      /// screen -> workspace -> confirmation
+      public static let confirmation = Loc.tr("Localizable", "screen.workspace.confirmation", fallback: "Внимание!")
       /// screen -> workspace -> diary_type
       public static let diaryType = Loc.tr("Localizable", "screen.workspace.diary_type", fallback: "Ежедневник")
       /// screen -> workspace -> list_empty_placeholder
@@ -916,24 +920,12 @@ public enum Loc {
       public static let listType = Loc.tr("Localizable", "screen.workspace.list_type", fallback: "Список")
       /// screen -> workspace -> masters_quantity
       public static let mastersQuantity = Loc.tr("Localizable", "screen.workspace.masters_quantity", fallback: "Количество мастеров")
+      /// screen -> workspace -> reschedule_button
+      public static let rescheduleButton = Loc.tr("Localizable", "screen.workspace.reschedule_button", fallback: "Перенести запись")
       /// screen -> workspace -> select_masters
       public static let selectMasters = Loc.tr("Localizable", "screen.workspace.select_masters", fallback: "Выбрать мастеров")
       /// screen -> workspace -> slot_duration
       public static let slotDuration = Loc.tr("Localizable", "screen.workspace.slot_duration", fallback: "Кратность журнала")
-      public enum Confirmation {
-        /// screen -> workspace -> confirmation -> collision_message
-        public static let collisionMessage = Loc.tr("Localizable", "screen.workspace.confirmation.collision_message", fallback: "В это время уже есть назначенная запись")
-        /// screen -> workspace -> confirmation -> reschedule_button
-        public static let rescheduleButton = Loc.tr("Localizable", "screen.workspace.confirmation.reschedule_button", fallback: "Перенести запись")
-        public enum Loc {
-          public enum Screen {
-            public enum Workspace {
-              /// screen -> workspace -> confirmation -> Loc.Screen.Workspace.Confirmation
-              public static let confirmation = Loc.tr("Localizable", "screen.workspace.confirmation."Loc.Screen.Workspace.Confirmation"", fallback: "Внимание!")
-            }
-          }
-        }
-      }
     }
   }
   public enum Updatable {
