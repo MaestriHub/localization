@@ -323,6 +323,8 @@ public enum Loc {
     public static let from = Loc.tr("Localizable", "reusable.from", fallback: "от")
     /// reusable -> hour
     public static let hour = Loc.tr("Localizable", "reusable.hour", fallback: "ч")
+    /// reusable -> info
+    public static let info = Loc.tr("Localizable", "reusable.info", fallback: "Информация")
     /// reusable -> invitation_link
     public static let invitationLink = Loc.tr("Localizable", "reusable.invitation_link", fallback: "Отправьте ссылку-приглашение")
     /// reusable -> make_appointment
@@ -331,6 +333,8 @@ public enum Loc {
     public static let minutes = Loc.tr("Localizable", "reusable.minutes", fallback: "мин")
     /// reusable -> not_found
     public static let notFound = Loc.tr("Localizable", "reusable.not_found", fallback: "Ничего не найдено")
+    /// reusable -> ok
+    public static let ok = Loc.tr("Localizable", "reusable.ok", fallback: "Ок")
     /// reusable -> repeat
     public static let `repeat` = Loc.tr("Localizable", "reusable.repeat", fallback: "Повторить")
     /// reusable -> save
@@ -525,10 +529,28 @@ public enum Loc {
       /// screen -> employees -> title
       public static let title = Loc.tr("Localizable", "screen.employees.title", fallback: "Сотрудники")
       public enum DangerZone {
+        /// screen -> employees -> danger_zone -> cancel_alert_message
+        public static let cancelAlertMessage = Loc.tr("Localizable", "screen.employees.danger_zone.cancel_alert_message", fallback: "Сотрудник не сможет присоединиться по отправленной ссылке")
+        /// screen -> employees -> danger_zone -> cancel_alert_title
+        public static let cancelAlertTitle = Loc.tr("Localizable", "screen.employees.danger_zone.cancel_alert_title", fallback: "Отмена приглашения")
+        /// screen -> employees -> danger_zone -> cancel_hint
+        public static let cancelHint = Loc.tr("Localizable", "screen.employees.danger_zone.cancel_hint", fallback: "Мастер не сможет подключиться по ссылке")
+        /// screen -> employees -> danger_zone -> cancel_title
+        public static let cancelTitle = Loc.tr("Localizable", "screen.employees.danger_zone.cancel_title", fallback: "Отменить приглашение")
         /// screen -> employees -> danger_zone -> fire
         public static let fire = Loc.tr("Localizable", "screen.employees.danger_zone.fire", fallback: "Уволить")
+        /// screen -> employees -> danger_zone -> fire_alert_message
+        public static let fireAlertMessage = Loc.tr("Localizable", "screen.employees.danger_zone.fire_alert_message", fallback: "Пожалуйста, укажите имя сотрудника для подтверждения")
+        /// screen -> employees -> danger_zone -> fire_alert_placeholder
+        public static let fireAlertPlaceholder = Loc.tr("Localizable", "screen.employees.danger_zone.fire_alert_placeholder", fallback: "Имя сотрудника")
+        /// screen -> employees -> danger_zone -> fire_alert_title
+        public static let fireAlertTitle = Loc.tr("Localizable", "screen.employees.danger_zone.fire_alert_title", fallback: "Увольнение сотрудника")
         /// screen -> employees -> danger_zone -> fire_an_employee
         public static let fireAnEmployee = Loc.tr("Localizable", "screen.employees.danger_zone.fire_an_employee", fallback: "Уволить сотрудника")
+        /// screen -> employees -> danger_zone -> fire_hint
+        public static let fireHint = Loc.tr("Localizable", "screen.employees.danger_zone.fire_hint", fallback: "Сотрудник не должен иметь активных записей")
+        /// screen -> employees -> danger_zone -> title
+        public static let title = Loc.tr("Localizable", "screen.employees.danger_zone.title", fallback: "Администрирование")
       }
       public enum Filter {
         /// screen -> employees -> filter -> active
@@ -726,6 +748,8 @@ public enum Loc {
       public static let welcome = Loc.tr("Localizable", "screen.public.welcome", fallback: "Welcome to Maetry!")
     }
     public enum Salary {
+      /// screen -> salary -> alert_title
+      public static let alertTitle = Loc.tr("Localizable", "screen.salary.alert_title", fallback: "Введите значение")
       /// screen -> salary -> percent_title
       public static let percentTitle = Loc.tr("Localizable", "screen.salary.percent_title", fallback: "Процент")
       /// screen -> salary -> percentage_of_profit
@@ -834,7 +858,7 @@ public enum Loc {
         /// screen -> settings -> danger_zone -> activate_title
         public static let activateTitle = Loc.tr("Localizable", "screen.settings.danger_zone.activate_title", fallback: "Активировать салон")
         /// screen -> settings -> danger_zone -> deactivate
-        public static let deactivate = Loc.tr("Localizable", "screen.settings.danger_zone.deactivate", fallback: "Отключить")
+        public static let deactivate = Loc.tr("Localizable", "screen.settings.danger_zone.deactivate", fallback: "Деактивировать")
         /// screen -> settings -> danger_zone -> deactivate_hint
         public static let deactivateHint = Loc.tr("Localizable", "screen.settings.danger_zone.deactivate_hint", fallback: "Остановить салон, убрать из поиска")
         /// screen -> settings -> danger_zone -> deactivate_title
@@ -842,9 +866,9 @@ public enum Loc {
         /// screen -> settings -> danger_zone -> delete_hint
         public static let deleteHint = Loc.tr("Localizable", "screen.settings.danger_zone.delete_hint", fallback: "This action cannot be undone")
         /// screen -> settings -> danger_zone -> delete_message_alert
-        public static let deleteMessageAlert = Loc.tr("Localizable", "screen.settings.danger_zone.delete_message_alert", fallback: "Для подтверждения введи название салон в поле ниже")
+        public static let deleteMessageAlert = Loc.tr("Localizable", "screen.settings.danger_zone.delete_message_alert", fallback: "Для подтверждения введите название салон в поле ниже")
         /// screen -> settings -> danger_zone -> delete_placeholder
-        public static let deletePlaceholder = Loc.tr("Localizable", "screen.settings.danger_zone.delete_placeholder", fallback: "Название салон")
+        public static let deletePlaceholder = Loc.tr("Localizable", "screen.settings.danger_zone.delete_placeholder", fallback: "Название салона")
         /// screen -> settings -> danger_zone -> delete_title
         public static let deleteTitle = Loc.tr("Localizable", "screen.settings.danger_zone.delete_title", fallback: "Delete user")
         /// screen -> settings -> danger_zone -> delete_title_alert
@@ -970,6 +994,8 @@ public enum Loc {
     public enum Contacts {
       /// widget -> contacts -> action
       public static let action = Loc.tr("Localizable", "widget.contacts.action", fallback: "Добавить контакт")
+      /// widget -> contacts -> delete_confirmation
+      public static let deleteConfirmation = Loc.tr("Localizable", "widget.contacts.delete_confirmation", fallback: "Подтвердите удаление")
       /// widget -> contacts -> no_contacts
       public static let noContacts = Loc.tr("Localizable", "widget.contacts.no_contacts", fallback: "Нет контактов")
       /// widget -> contacts -> placeholder
@@ -982,6 +1008,8 @@ public enum Loc {
       public static let title = Loc.tr("Localizable", "widget.danger_zone.title", fallback: "Danger zone")
     }
     public enum Timetable {
+      /// widget -> timetable -> break
+      public static let `break` = Loc.tr("Localizable", "widget.timetable.break", fallback: "Перерыв")
       /// widget -> timetable -> title
       public static let title = Loc.tr("Localizable", "widget.timetable.title", fallback: "Рабочие часы")
     }
