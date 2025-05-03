@@ -217,10 +217,28 @@
 "screen.employees.add_assignment" = "Записать клиента";
 /* screen -> employees -> service */
 "screen.employees.service" = "Услуги";
+/* screen -> employees -> danger_zone -> title */
+"screen.employees.danger_zone.title" = "Администрирование";
 /* screen -> employees -> danger_zone -> fire */
 "screen.employees.danger_zone.fire" = "Уволить";
 /* screen -> employees -> danger_zone -> fire_an_employee */
 "screen.employees.danger_zone.fire_an_employee" = "Уволить сотрудника";
+/* screen -> employees -> danger_zone -> fire_hint */
+"screen.employees.danger_zone.fire_hint" = "Сотрудник не должен иметь активных записей";
+/* screen -> employees -> danger_zone -> fire_alert_title */
+"screen.employees.danger_zone.fire_alert_title" = "Увольнение сотрудника";
+/* screen -> employees -> danger_zone -> fire_alert_message */
+"screen.employees.danger_zone.fire_alert_message" = "Пожалуйста, укажите имя сотрудника для подтверждения";
+/* screen -> employees -> danger_zone -> fire_alert_placeholder */
+"screen.employees.danger_zone.fire_alert_placeholder" = "Имя сотрудника";
+/* screen -> employees -> danger_zone -> cancel_title */
+"screen.employees.danger_zone.cancel_title" = "Отменить приглашение";
+/* screen -> employees -> danger_zone -> cancel_hint */
+"screen.employees.danger_zone.cancel_hint" = "Мастер не сможет подключиться по ссылке";
+/* screen -> employees -> danger_zone -> cancel_alert_title */
+"screen.employees.danger_zone.cancel_alert_title" = "Отмена приглашения";
+/* screen -> employees -> danger_zone -> cancel_alert_message */
+"screen.employees.danger_zone.cancel_alert_message" = "Сотрудник не сможет присоединиться по отправленной ссылке";
 /* screen -> position -> title */
 "screen.position.title" = "Должности";
 /* screen -> position -> action */
@@ -293,6 +311,8 @@
 "screen.salary.percentage_of_profit" = "Процент от прибыли";
 /* screen -> salary -> piecework_title */
 "screen.salary.piecework_title" = "Сдельная оплата";
+/* screen -> salary -> alert_title */
+"screen.salary.alert_title" = "Введите значение";
 /* screen -> clients -> title */
 "screen.clients.title" = "Все клиенты";
 /* screen -> clients -> search */
@@ -419,12 +439,20 @@
 "widget.contacts.action" = "Добавить контакт";
 /* widget -> contacts -> placeholder */
 "widget.contacts.placeholder" = "Способы связи не указаны";
+/* widget -> contacts -> delete_confirmation */
+"widget.contacts.delete_confirmation" = "Подтвердите удаление";
 /* widget -> timetable -> title */
 "widget.timetable.title" = "Рабочие часы";
+/* widget -> timetable -> break */
+"widget.timetable.break" = "Перерыв";
 /* widget -> catalog -> title */
 "widget.catalog.title" = "Каталог услуг";
 /* widget -> danger_zone -> title */
 "widget.danger_zone.title" = "Опасная зона";
+/* reusable -> ok */
+"reusable.ok" = "Ок";
+/* reusable -> info */
+"reusable.info" = "Информация";
 /* reusable -> cancel */
 "reusable.cancel" = "Отмена";
 /* reusable -> delete */
@@ -590,7 +618,7 @@
 /* creatable -> salon -> name_enter */
 "creatable.salon.name_enter" = "Отлично! Теперь введите название вашего салона — так, как его будут видеть клиенты";
 /* creatable -> salon -> name_placeholder */
-"creatable.salon.name_placeholder" = "Введи должность";
+"creatable.salon.name_placeholder" = "Введите название...";
 /* creatable -> salon -> add_contact */
 "creatable.salon.add_contact" = "Добавьте способ связи — так клиенты смогут легко с вами связаться";
 /* creatable -> salon -> upload_logo */
@@ -662,7 +690,7 @@
 /* creatable -> position -> name_enter */
 "creatable.position.name_enter" = "Укажите название новой должности";
 /* creatable -> position -> placeholder */
-"creatable.position.placeholder" = "Введи должность";
+"creatable.position.placeholder" = "Введите название...";
 /* creatable -> position -> setting_salary */
 "creatable.position.setting_salary" = "Установи размер заработной платы для этой должности";
 /* creatable -> position -> salary_empty */
