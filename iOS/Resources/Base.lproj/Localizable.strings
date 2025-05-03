@@ -217,10 +217,28 @@
 "screen.employees.add_assignment" = "Записать клиента";
 /* screen -> employees -> service */
 "screen.employees.service" = "Услуги";
+/* screen -> employees -> danger_zone -> title */
+"screen.employees.danger_zone.title" = "Администрирование";
 /* screen -> employees -> danger_zone -> fire */
 "screen.employees.danger_zone.fire" = "Уволить";
 /* screen -> employees -> danger_zone -> fire_an_employee */
 "screen.employees.danger_zone.fire_an_employee" = "Уволить сотрудника";
+/* screen -> employees -> danger_zone -> fire_hint */
+"screen.employees.danger_zone.fire_hint" = "Сотрудник не должен иметь активных записей";
+/* screen -> employees -> danger_zone -> fire_alert_title */
+"screen.employees.danger_zone.fire_alert_title" = "Увольнение сотрудника";
+/* screen -> employees -> danger_zone -> fire_alert_message */
+"screen.employees.danger_zone.fire_alert_message" = "Пожалуйста, укажите имя сотрудника для подтверждения";
+/* screen -> employees -> danger_zone -> fire_alert_placeholder */
+"screen.employees.danger_zone.fire_alert_placeholder" = "Имя сотрудника";
+/* screen -> employees -> danger_zone -> cancel_title */
+"screen.employees.danger_zone.cancel_title" = "Отменить приглашение";
+/* screen -> employees -> danger_zone -> cancel_hint */
+"screen.employees.danger_zone.cancel_hint" = "Мастер не сможет подключиться по ссылке";
+/* screen -> employees -> danger_zone -> cancel_alert_title */
+"screen.employees.danger_zone.cancel_alert_title" = "Отмена приглашения";
+/* screen -> employees -> danger_zone -> cancel_alert_message */
+"screen.employees.danger_zone.cancel_alert_message" = "Сотрудник не сможет присоединиться по отправленной ссылке";
 /* screen -> position -> title */
 "screen.position.title" = "Должности";
 /* screen -> position -> action */
@@ -293,6 +311,8 @@
 "screen.salary.percentage_of_profit" = "Процент от прибыли";
 /* screen -> salary -> piecework_title */
 "screen.salary.piecework_title" = "Сдельная оплата";
+/* screen -> salary -> alert_title */
+"screen.salary.alert_title" = "Введите значение";
 /* screen -> clients -> title */
 "screen.clients.title" = "Все клиенты";
 /* screen -> clients -> search */
@@ -328,7 +348,7 @@
 /* screen -> settings -> danger_zone -> activate_title */
 "screen.settings.danger_zone.activate_title" = "Активировать салон";
 /* screen -> settings -> danger_zone -> deactivate */
-"screen.settings.danger_zone.deactivate" = "Отключить";
+"screen.settings.danger_zone.deactivate" = "Деактивировать";
 /* screen -> settings -> danger_zone -> deactivate_hint */
 "screen.settings.danger_zone.deactivate_hint" = "Остановить салон, убрать из поиска";
 /* screen -> settings -> danger_zone -> deactivate_title */
@@ -340,9 +360,9 @@
 /* screen -> settings -> danger_zone -> delete_title_alert */
 "screen.settings.danger_zone.delete_title_alert" = "The action cannot be undone. Are you sure you want to delete?";
 /* screen -> settings -> danger_zone -> delete_message_alert */
-"screen.settings.danger_zone.delete_message_alert" = "Для подтверждения введи название салон в поле ниже";
+"screen.settings.danger_zone.delete_message_alert" = "Для подтверждения введите название салон в поле ниже";
 /* screen -> settings -> danger_zone -> delete_placeholder */
-"screen.settings.danger_zone.delete_placeholder" = "Название салон";
+"screen.settings.danger_zone.delete_placeholder" = "Название салона";
 /* screen -> appointment -> executor */
 "screen.appointment.executor" = "Professional";
 /* screen -> appointment -> state_customera_time_out */
@@ -419,12 +439,20 @@
 "widget.contacts.action" = "Добавить контакт";
 /* widget -> contacts -> placeholder */
 "widget.contacts.placeholder" = "Способы связи не указаны";
+/* widget -> contacts -> delete_confirmation */
+"widget.contacts.delete_confirmation" = "Подтвердите удаление";
 /* widget -> timetable -> title */
 "widget.timetable.title" = "Рабочие часы";
+/* widget -> timetable -> break */
+"widget.timetable.break" = "Перерыв";
 /* widget -> catalog -> title */
 "widget.catalog.title" = "Каталог услуг";
 /* widget -> danger_zone -> title */
 "widget.danger_zone.title" = "Danger zone";
+/* reusable -> ok */
+"reusable.ok" = "Ок";
+/* reusable -> info */
+"reusable.info" = "Информация";
 /* reusable -> cancel */
 "reusable.cancel" = "Отмена";
 /* reusable -> delete */
