@@ -441,6 +441,8 @@
 "widget.contacts.placeholder" = "Способы связи не указаны";
 /* widget -> contacts -> delete_confirmation */
 "widget.contacts.delete_confirmation" = "Подтвердите удаление";
+/* widget -> contacts -> connect */
+"widget.contacts.connect" = "Связаться";
 /* widget -> timetable -> title */
 "widget.timetable.title" = "Рабочие часы";
 /* widget -> timetable -> break */
@@ -715,6 +717,10 @@
 "creatable.schedule.work_days" = "Рабочие дни:";
 /* creatable -> schedule -> weekend */
 "creatable.schedule.weekend" = "Выходные:";
+/* creatable -> schedule -> work_time */
+"creatable.schedule.work_time" = "Рабочее время:";
+/* creatable -> schedule -> off_time */
+"creatable.schedule.off_time" = "Перерывы:";
 /* creatable -> contact -> title */
 "creatable.contact.title" = "Создание контакта";
 /* creatable -> contact -> contact_type */
@@ -749,6 +755,16 @@
 "creatable.appointment.sign_in_description" = "Чтобы завершить оформление записи, пожалуйста, **войдите** в систему";
 /* creatable -> appointment -> choose_master */
 "creatable.appointment.choose_master" = "Укажите мастера, который будет выполнять услугу";
+/* creatable -> appointment -> time */
+"creatable.appointment.time" = "Время";
+/* creatable -> appointment -> night */
+"creatable.appointment.night" = "Ночь";
+/* creatable -> appointment -> morning */
+"creatable.appointment.morning" = "Утро";
+/* creatable -> appointment -> afternoon */
+"creatable.appointment.afternoon" = "После обеда";
+/* creatable -> appointment -> evening */
+"creatable.appointment.evening" = "Вечер";
 /* creatable -> auth -> add_salon */
 "creatable.auth.add_salon" = "Добавить салон";
 /* creatable -> auth -> enter_name */

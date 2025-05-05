@@ -12,18 +12,28 @@ import Foundation
 public enum Loc {
   public enum Creatable {
     public enum Appointment {
+      /// creatable -> appointment -> afternoon
+      public static let afternoon = Loc.tr("Localizable", "creatable.appointment.afternoon", fallback: "После обеда")
       /// creatable -> appointment -> choose_customer
       public static let chooseCustomer = Loc.tr("Localizable", "creatable.appointment.choose_customer", fallback: "Пожалуйста, выберите клиента, для которого создаётся запись")
       /// creatable -> appointment -> choose_master
       public static let chooseMaster = Loc.tr("Localizable", "creatable.appointment.choose_master", fallback: "Укажите мастера, который будет выполнять услугу")
       /// creatable -> appointment -> day_unavailable
       public static let dayUnavailable = Loc.tr("Localizable", "creatable.appointment.day_unavailable", fallback: "В этот день, к сожалению, запись недоступна — выберите другую дату")
+      /// creatable -> appointment -> evening
+      public static let evening = Loc.tr("Localizable", "creatable.appointment.evening", fallback: "Вечер")
+      /// creatable -> appointment -> morning
+      public static let morning = Loc.tr("Localizable", "creatable.appointment.morning", fallback: "Утро")
+      /// creatable -> appointment -> night
+      public static let night = Loc.tr("Localizable", "creatable.appointment.night", fallback: "Ночь")
       /// creatable -> appointment -> select_procedure
       public static let selectProcedure = Loc.tr("Localizable", "creatable.appointment.select_procedure", fallback: "Выберите услугу")
       /// creatable -> appointment -> select_time
       public static let selectTime = Loc.tr("Localizable", "creatable.appointment.select_time", fallback: "Укажите удобное время для визита")
       /// creatable -> appointment -> sign_in_description
       public static let signInDescription = Loc.tr("Localizable", "creatable.appointment.sign_in_description", fallback: "Чтобы завершить оформление записи, пожалуйста, **войдите** в систему")
+      /// creatable -> appointment -> time
+      public static let time = Loc.tr("Localizable", "creatable.appointment.time", fallback: "Время")
       /// creatable -> appointment -> title
       public static let title = Loc.tr("Localizable", "creatable.appointment.title", fallback: "Новая запись")
     }
@@ -202,6 +212,8 @@ public enum Loc {
       public static let dailyInfo = Loc.tr("Localizable", "creatable.schedule.daily_info", fallback: "Ежедневный график — заданное расписание применится ко всем дням недели")
       /// creatable -> schedule -> first_day
       public static let firstDay = Loc.tr("Localizable", "creatable.schedule.first_day", fallback: "Выберите первый рабочий день")
+      /// creatable -> schedule -> off_time
+      public static let offTime = Loc.tr("Localizable", "creatable.schedule.off_time", fallback: "Перерывы:")
       /// creatable -> schedule -> set_time
       public static let setTime = Loc.tr("Localizable", "creatable.schedule.set_time", fallback: "Выберите часы работы — чтобы клиенты знали, когда к вам можно записаться")
       /// creatable -> schedule -> title
@@ -212,6 +224,8 @@ public enum Loc {
       public static let weeklyInfo = Loc.tr("Localizable", "creatable.schedule.weekly_info", fallback: "Создайте шаблон на неделю — каждый день можно настроить индивидуально")
       /// creatable -> schedule -> work_days
       public static let workDays = Loc.tr("Localizable", "creatable.schedule.work_days", fallback: "Рабочие дни:")
+      /// creatable -> schedule -> work_time
+      public static let workTime = Loc.tr("Localizable", "creatable.schedule.work_time", fallback: "Рабочее время:")
     }
   }
   public enum Error {
@@ -994,6 +1008,8 @@ public enum Loc {
     public enum Contacts {
       /// widget -> contacts -> action
       public static let action = Loc.tr("Localizable", "widget.contacts.action", fallback: "Добавить контакт")
+      /// widget -> contacts -> connect
+      public static let connect = Loc.tr("Localizable", "widget.contacts.connect", fallback: "Связаться")
       /// widget -> contacts -> delete_confirmation
       public static let deleteConfirmation = Loc.tr("Localizable", "widget.contacts.delete_confirmation", fallback: "Подтвердите удаление")
       /// widget -> contacts -> no_contacts
