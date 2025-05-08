@@ -615,6 +615,50 @@ public enum Loc {
       /// screen -> notice -> title
       public static let title = Loc.tr("Localizable", "screen.notice.title", fallback: "Уведомления")
     }
+    public enum Permissions {
+      /// screen -> permissions -> appointment_cred_title
+      public static let appointmentCredTitle = Loc.tr("Localizable", "screen.permissions.appointment_cred_title", fallback: "Доступ к записям")
+      /// screen -> permissions -> client_cred_edit
+      public static let clientCredEdit = Loc.tr("Localizable", "screen.permissions.client_cred_edit", fallback: "Может редактировать")
+      /// screen -> permissions -> client_cred_title
+      public static let clientCredTitle = Loc.tr("Localizable", "screen.permissions.client_cred_title", fallback: "Доступ к клиентской базе")
+      /// screen -> permissions -> client_cred_visible_base_info
+      public static let clientCredVisibleBaseInfo = Loc.tr("Localizable", "screen.permissions.client_cred_visible_base_info", fallback: "Видна базовая информация")
+      /// screen -> permissions -> client_cred_visible_contacts
+      public static let clientCredVisibleContacts = Loc.tr("Localizable", "screen.permissions.client_cred_visible_contacts", fallback: "Видны контакты")
+      /// screen -> permissions -> cred_other_edit
+      public static let credOtherEdit = Loc.tr("Localizable", "screen.permissions.cred_other_edit", fallback: "Может редактировать все")
+      /// screen -> permissions -> cred_own_edit
+      public static let credOwnEdit = Loc.tr("Localizable", "screen.permissions.cred_own_edit", fallback: "Может редактировать свое")
+      /// screen -> permissions -> employee_cred_edit
+      public static let employeeCredEdit = Loc.tr("Localizable", "screen.permissions.employee_cred_edit", fallback: "Может редактировать")
+      /// screen -> permissions -> employee_cred_title
+      public static let employeeCredTitle = Loc.tr("Localizable", "screen.permissions.employee_cred_title", fallback: "Доступ к сотрудникам")
+      /// screen -> permissions -> employee_cred_visible
+      public static let employeeCredVisible = Loc.tr("Localizable", "screen.permissions.employee_cred_visible", fallback: "Видны сотрудники")
+      /// screen -> permissions -> finance_cred_title
+      public static let financeCredTitle = Loc.tr("Localizable", "screen.permissions.finance_cred_title", fallback: "Доступ к финансам")
+      /// screen -> permissions -> notify_cred_title
+      public static let notifyCredTitle = Loc.tr("Localizable", "screen.permissions.notify_cred_title", fallback: "Доступ к уведомлениям")
+      /// screen -> permissions -> owner_toggle_description
+      public static let ownerToggleDescription = Loc.tr("Localizable", "screen.permissions.owner_toggle_description", fallback: "Предоставление этого доступа даёт человеку полный контроль над рабочим пространством")
+      /// screen -> permissions -> owner_toggle_title
+      public static let ownerToggleTitle = Loc.tr("Localizable", "screen.permissions.owner_toggle_title", fallback: "Совладелец")
+      /// screen -> permissions -> position_cred_title
+      public static let positionCredTitle = Loc.tr("Localizable", "screen.permissions.position_cred_title", fallback: "Доступ к должностям")
+      /// screen -> permissions -> procedure_cred_title
+      public static let procedureCredTitle = Loc.tr("Localizable", "screen.permissions.procedure_cred_title", fallback: "Доступ к услугам")
+      /// screen -> permissions -> salary_cred_title
+      public static let salaryCredTitle = Loc.tr("Localizable", "screen.permissions.salary_cred_title", fallback: "Доступ к зарплате")
+      /// screen -> permissions -> salon_cred_title
+      public static let salonCredTitle = Loc.tr("Localizable", "screen.permissions.salon_cred_title", fallback: "Доступ к свединиям салона")
+      /// screen -> permissions -> statistic_cred_title
+      public static let statisticCredTitle = Loc.tr("Localizable", "screen.permissions.statistic_cred_title", fallback: "Доступ к статистике")
+      /// screen -> permissions -> title
+      public static let title = Loc.tr("Localizable", "screen.permissions.title", fallback: "Доступы")
+      /// screen -> permissions -> worktime_cred_title
+      public static let worktimeCredTitle = Loc.tr("Localizable", "screen.permissions.worktime_cred_title", fallback: "Доступ к расписанию")
+    }
     public enum Position {
       /// screen -> position -> action
       public static let action = Loc.tr("Localizable", "screen.position.action", fallback: "Создать должность")

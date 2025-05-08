@@ -299,6 +299,48 @@
 "screen.position.sheet.permission.choose_all" = "Выбрать все";
 /* screen -> position -> sheet -> salary_content -> payroll_custm */
 "screen.position.sheet.salary_content.payroll_custm" = "Настройка заработной платы";
+/* screen -> permissions -> title */
+"screen.permissions.title" = "Доступы";
+/* screen -> permissions -> client_cred_title */
+"screen.permissions.client_cred_title" = "Доступ к клиентской базе";
+/* screen -> permissions -> client_cred_edit */
+"screen.permissions.client_cred_edit" = "Может редактировать";
+/* screen -> permissions -> client_cred_visible_base_info */
+"screen.permissions.client_cred_visible_base_info" = "Видна базовая информация";
+/* screen -> permissions -> client_cred_visible_contacts */
+"screen.permissions.client_cred_visible_contacts" = "Видны контакты";
+/* screen -> permissions -> employee_cred_title */
+"screen.permissions.employee_cred_title" = "Доступ к сотрудникам";
+/* screen -> permissions -> employee_cred_edit */
+"screen.permissions.employee_cred_edit" = "Может редактировать";
+/* screen -> permissions -> employee_cred_visible */
+"screen.permissions.employee_cred_visible" = "Видны сотрудники";
+/* screen -> permissions -> procedure_cred_title */
+"screen.permissions.procedure_cred_title" = "Доступ к услугам";
+/* screen -> permissions -> cred_own_edit */
+"screen.permissions.cred_own_edit" = "Может редактировать свое";
+/* screen -> permissions -> cred_other_edit */
+"screen.permissions.cred_other_edit" = "Может редактировать все";
+/* screen -> permissions -> worktime_cred_title */
+"screen.permissions.worktime_cred_title" = "Доступ к расписанию";
+/* screen -> permissions -> position_cred_title */
+"screen.permissions.position_cred_title" = "Доступ к должностям";
+/* screen -> permissions -> salon_cred_title */
+"screen.permissions.salon_cred_title" = "Доступ к свединиям салона";
+/* screen -> permissions -> appointment_cred_title */
+"screen.permissions.appointment_cred_title" = "Доступ к записям";
+/* screen -> permissions -> statistic_cred_title */
+"screen.permissions.statistic_cred_title" = "Доступ к статистике";
+/* screen -> permissions -> notify_cred_title */
+"screen.permissions.notify_cred_title" = "Доступ к уведомлениям";
+/* screen -> permissions -> finance_cred_title */
+"screen.permissions.finance_cred_title" = "Доступ к финансам";
+/* screen -> permissions -> salary_cred_title */
+"screen.permissions.salary_cred_title" = "Доступ к зарплате";
+/* screen -> permissions -> owner_toggle_title */
+"screen.permissions.owner_toggle_title" = "Совладелец";
+/* screen -> permissions -> owner_toggle_description */
+"screen.permissions.owner_toggle_description" = "Предоставление этого доступа даёт человеку полный контроль над рабочим пространством";
 /* screen -> salary -> title */
 "screen.salary.title" = "Зарплата";
 /* screen -> salary -> wage_title */
