@@ -178,12 +178,18 @@ public enum Loc {
       public static let addressPlaceholder = Loc.tr("Localizable", "creatable.salon.address_placeholder", fallback: "Введите адрес...")
       /// creatable -> salon -> chain_type
       public static let chainType = Loc.tr("Localizable", "creatable.salon.chain_type", fallback: "Сеть салонов красоты")
+      /// creatable -> salon -> current_address
+      public static let currentAddress = Loc.tr("Localizable", "creatable.salon.current_address", fallback: "Текущий адрес")
       /// creatable -> salon -> description_enter
       public static let descriptionEnter = Loc.tr("Localizable", "creatable.salon.description_enter", fallback: "Расскажите немного о себе и ваших услугах — эта информация будет отображаться на вашей странице")
       /// creatable -> salon -> description_placeholder
       public static let descriptionPlaceholder = Loc.tr("Localizable", "creatable.salon.description_placeholder", fallback: "Введите описание...")
       /// creatable -> salon -> individual_type
       public static let individualType = Loc.tr("Localizable", "creatable.salon.individual_type", fallback: "Салон красоты")
+      /// creatable -> salon -> invalid_address
+      public static let invalidAddress = Loc.tr("Localizable", "creatable.salon.invalid_address", fallback: "Неправильный адрес")
+      /// creatable -> salon -> invalid_address_message
+      public static let invalidAddressMessage = Loc.tr("Localizable", "creatable.salon.invalid_address_message", fallback: "Пожалуйста, выберите другой адрес")
       /// creatable -> salon -> master_type
       public static let masterType = Loc.tr("Localizable", "creatable.salon.master_type", fallback: "Индивидуальный мастер")
       /// creatable -> salon -> name_enter
@@ -200,6 +206,8 @@ public enum Loc {
       public static func turnOnNotifications(_ p1: Any) -> String {
         return Loc.tr("Localizable", "creatable.salon.turn_on_notifications", String(describing: p1), fallback: "Вы отключили push уведомления в [настройках](%@), включите их там же")
       }
+      /// creatable -> salon -> unable_address
+      public static let unableAddress = Loc.tr("Localizable", "creatable.salon.unable_address", fallback: "Недоступный адрес")
       /// creatable -> salon -> upload_logo
       public static let uploadLogo = Loc.tr("Localizable", "creatable.salon.upload_logo", fallback: "Загрузите логотип — он будет отображаться в вашем профиле и в результатах поиска")
     }
@@ -941,6 +949,12 @@ public enum Loc {
         public static let showMore = Loc.tr("Localizable", "screen.settings.description.show_more", fallback: "Показать еще")
         /// screen -> settings -> description -> title
         public static let title = Loc.tr("Localizable", "screen.settings.description.title", fallback: "Описание")
+      }
+      public enum Geo {
+        /// screen -> settings -> geo -> message
+        public static let message = Loc.tr("Localizable", "screen.settings.geo.message", fallback: "Хотите вызвать такси или построить маршрут? Выберите сервис, который хотите использовать")
+        /// screen -> settings -> geo -> select_app
+        public static let selectApp = Loc.tr("Localizable", "screen.settings.geo.select_app", fallback: "Выберите приложение")
       }
       public enum SalonType {
         /// screen -> settings -> salon_type -> chain
