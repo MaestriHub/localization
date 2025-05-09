@@ -381,6 +381,10 @@
 "screen.settings.description.hide" = "Скрыть";
 /* screen -> settings -> description -> show_more */
 "screen.settings.description.show_more" = "Показать еще";
+/* screen -> settings -> geo -> select_app */
+"screen.settings.geo.select_app" = "Выберите приложение";
+/* screen -> settings -> geo -> message */
+"screen.settings.geo.message" = "Хотите вызвать такси или построить маршрут? Выберите сервис, который хотите использовать";
 /* screen -> settings -> danger_zone -> title */
 "screen.settings.danger_zone.title" = "Опасная зона";
 /* screen -> settings -> danger_zone -> activate */
@@ -675,6 +679,14 @@
 "creatable.salon.add_address" = "Отлично! Теперь добавьте адрес вашего пространства, чтобы клиентам было проще вас найти";
 /* creatable -> salon -> address_placeholder */
 "creatable.salon.address_placeholder" = "Введите адрес...";
+/* creatable -> salon -> current_address */
+"creatable.salon.current_address" = "Текущий адрес";
+/* creatable -> salon -> invalid_address */
+"creatable.salon.invalid_address" = "Неправильный адрес";
+/* creatable -> salon -> invalid_address_message */
+"creatable.salon.invalid_address_message" = "Пожалуйста, выберите другой адрес";
+/* creatable -> salon -> unable_address */
+"creatable.salon.unable_address" = "Недоступный адрес";
 /* creatable -> salon -> notice_request */
 "creatable.salon.notice_request" = "Чтобы не пропустить сообщения от клиентов, разрешите уведомления";
 /* creatable -> salon -> turn_on_notifications */
