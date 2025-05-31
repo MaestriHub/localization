@@ -1,369 +1,457 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="screen.appointment.customer_declined">Declined</string>
-  <string name="screen.appointment.customer_time_out">Время истекло</string>
-  <string name="screen.appointment.customer_waiting">В ожидании</string>
-  <string name="reusable.tomorrow" maxLength="18">Tomorrow</string>
-  <string name="creatable.alert.client_confirmation">Переход по ссылке для синхронизации твоей истории заказов. Салон, связанный с этой ссылкой, будет добавлен в твой список избранных. Подтверждаешь это действие?</string>
-  <string name="creatable.alert.confirmation">Подтверждение</string>
-  <string name="creatable.alert.congratulations">Поздравляем</string>
-  <string name="creatable.alert.error">Ошибка</string>
-  <string name="creatable.alert.incomplete_address">Неполный адрес</string>
-  <string name="creatable.alert.incomplete_address_message">Напиши свой полный адрес, чтобы двигаться дальше</string>
-  <string name="creatable.alert.master_confirmation">Ты перешел по ссылке, которая привязывает тебя как работника к салону, связанному с этой ссылкой. После подтверждения ты сможешь предоставлять услуги в этом салоне. Подтверждаешь это действие?</string>
-  <string name="creatable.alert.ok">Ок</string>
-  <string name="creatable.appt.afternoon">День</string>
-  <string name="creatable.appt.check_master">Ищем информацию о мастере, подожди чуток!</string>
-  <string name="creatable.appt.check_procedure">Ищем информацию о процедуре, нам нужно немного времени</string>
-  <string name="creatable.appt.choose_customer">Выбрать клиента</string>
-  <string name="creatable.appt.choose_master">Выбери мастера</string>
-  <string name="creatable.appt.click_complete">Для сохранения, нажми завершить</string>
-  <string name="creatable.appt.complete">Завершить запись</string>
-  <string name="creatable.appt.congratulations">Ура! Твоя запись создана</string>
-  <string name="creatable.appt.create_appointment">Создать запись</string>
-  <string name="creatable.appt.day">День</string>
-  <string name="creatable.appt.day_unavailable">К сожалению в этот день нельзя записаться</string>
-  <string name="creatable.appt.evening">Вечер</string>
-  <string name="creatable.appt.master_found">Твой мастер %s</string>
-  <string name="creatable.appt.master_found_simple">Твой мастер найден</string>
-  <string name="creatable.appt.master_not_found">К сожалению, нам не удалось найти информацию о мастере</string>
-  <string name="creatable.appt.morning">Утро</string>
-  <string name="creatable.appt.night">Ночь</string>
-  <string name="creatable.appt.procedure_found_simple">Твоя процедура найдена</string>
-  <string name="creatable.appt.procedure_not_found">Not found procedure</string>
-  <string name="creatable.appt.select_procedure">Выбери свою процедуру</string>
-  <string name="creatable.appt.select_time">Выбери время для визита</string>
-  <string name="creatable.appt.sign_in_description">**Войди**, чтобы завершить запись</string>
-  <string name="creatable.appt.time">Время</string>
-  <string name="creatable.appt.time_slots_absent">Свободных окошек нет, увы</string>
-  <string name="creatable.appt.title">Запись</string>
-  <string name="creatable.auth.add_salon">Добавить салон</string>
-  <string name="creatable.auth.enter_name">Кто ты?</string>
-  <string name="creatable.auth.later_logo">Если у тебе нет подходящего фото сейчас. Ты всегда сможете добавить его позже в настройках профиля.</string>
-  <string name="creatable.auth.placeholder">Имя</string>
-  <string name="creatable.auth.privacy">Нажимая “Продолжить”, ты соглашаешься с [Политикой конфиденциальности](%s) и [Пользовательским соглашением](%s)</string>
-  <string name="creatable.auth.select_photo">Выбрать фото</string>
-  <string name="creatable.auth.sign_up_with_google">Войди с помощью Google</string>
-  <string name="creatable.auth.title">Авторизация</string>
-  <string name="creatable.auth.upload_logo">Давай загрузим твою аватарку</string>
-  <string name="creatable.auth.welcome_message">Войди или зарегистрируйся чтобы использовать сервис на любом устройстве.</string>
-  <string name="creatable.auth.who_are_you">Желаешь зарегистрироваться как мастер или как клиент?</string>
-  <string name="creatable.category_enum.brows">Brows</string>
-  <string name="creatable.category_enum.cosmetology">Cosmetology</string>
-  <string name="creatable.category_enum.depilation">Депиляция</string>
-  <string name="creatable.category_enum.epilation">Epilation</string>
-  <string name="creatable.category_enum.hairdressing">Hairdressing</string>
-  <string name="creatable.category_enum.lashes">Lashes</string>
-  <string name="creatable.category_enum.makeup">Makeup</string>
-  <string name="creatable.category_enum.massage">Massage</string>
-  <string name="creatable.category_enum.nails">Nails</string>
-  <string name="creatable.category_enum.other">Другое</string>
-  <string name="creatable.category_enum.piercing">Piercing</string>
-  <string name="creatable.category_enum.spa">Spa</string>
-  <string name="creatable.category_enum.tattoo">Тату</string>
-  <string name="creatable.client.add_contact">Добавить контакт</string>
-  <string name="creatable.client.enter_client_name">Введи имя клиента</string>
-  <string name="creatable.client.placeholder">Имя</string>
-  <string name="creatable.client.title">Создание клиента</string>
-  <string name="creatable.contact.contact_type">Выбери предпочтительный способ связи</string>
-  <string name="creatable.contact.email">Пожалуйста, введи адрес электронной почты</string>
-  <string name="creatable.contact.email_later">Ты сможешь добавить адрес электронной почты позже в настройках</string>
-  <string name="creatable.contact.instagram">Пожалуйста, поделись аккаунтом Instagram</string>
-  <string name="creatable.contact.instagram_later">Ты сможешь добавить аккаунт Instagram позже в настройках</string>
-  <string name="creatable.contact.phone_number">Пожалуйста, укажи номер телефона</string>
-  <string name="creatable.contact.phone_number_later">Ты сможешь добавить номер телефона позже в настройках</string>
-  <string name="creatable.contact.telegram_number">Пожалуйста, укажи аккаунт Telegram</string>
-  <string name="creatable.contact.telegram_number_later">Ты сможешь добавить аккаунт Telegram позже в настройках</string>
-  <string name="creatable.contact.title">Контакт</string>
-  <string name="creatable.contact.whatsapp_number">Пожалуйста, укажи номер WhatsApp</string>
-  <string name="creatable.contact.whatsapp_number_later">Ты сможете добавить номер WhatsApp позже в настройках</string>
-  <string name="creatable.creation_contact.select_one_required">Выберите контакт</string>
-  <string name="creatable.currency_text_field.placeholder">Введите сумму</string>
-  <string name="creatable.customer.registration_completed">Если у тебя есть ссылка-приглашение, ты сможешь перейти по ней после завершения регистрации</string>
-  <string name="creatable.edit_menu.copy_button">Скопировать</string>
-  <string name="creatable.input_view_for_step.customer">Клиент</string>
-  <string name="creatable.input_view_for_step.email">Email</string>
-  <string name="creatable.input_view_for_step.instagram">Instagram</string>
-  <string name="creatable.input_view_for_step.master">Мастер</string>
-  <string name="creatable.input_view_for_step.message">Сообщение</string>
-  <string name="creatable.input_view_for_step.phone">Телефон</string>
-  <string name="creatable.input_view_for_step.select_date_and_time">Выбрать дату и время</string>
-  <string name="creatable.input_view_for_step.skip">Пропустить</string>
-  <string name="creatable.input_view_for_step.telegram">Телеграм</string>
-  <string name="creatable.input_view_for_step.whatsapp">Whatsapp</string>
-  <string name="creatable.master.add_contact">Добавить контакт</string>
-  <string name="creatable.master.choose_position">Выбери должность</string>
-  <string name="creatable.master.create_button">Создать</string>
-  <string name="creatable.master.description_placeholder">Описание</string>
-  <string name="creatable.master.enter_master_description">Дай свою характеристику мастеру</string>
-  <string name="creatable.master.invitation_link">Отправить ссылку-приглашение</string>
-  <string name="creatable.master.more_contact">Хочешь добавить еще один способ связи?</string>
-  <string name="creatable.master.setup_schedule">Ты можешь настроить график работы приглашенного мастера</string>
-  <string name="creatable.master.successfully_created">Отлично! Ты успешно смог сделать приглашение для нового мастера.</string>
-  <string name="creatable.master.title">Мастер</string>
-  <string name="creatable.phone_field.placeholder">Введи номер</string>
-  <string name="creatable.position.add_permissions">Установить разрешения для этой позиции</string>
-  <string name="creatable.position.click_create">Что бы сохранить, нажми создать</string>
-  <string name="creatable.position.create_button">Создать</string>
-  <string name="creatable.position.enter_position_name">Введи название должности</string>
-  <string name="creatable.position.placeholder">Введи должность</string>
-  <string name="creatable.position.setting_salary">Установи размер заработной платы для этой должности</string>
-  <string name="creatable.position.title">Должность</string>
-  <string name="creatable.positions.create_position">Создать новую должность</string>
-  <string name="creatable.positions.not_found">Не найдено</string>
-  <string name="creatable.profile_update.enter_name">Введи новый никнейм</string>
-  <string name="creatable.profile_update.placeholder">Имя</string>
-  <string name="creatable.profile_update.save">Сохранить</string>
-  <string name="creatable.profile_update.title">Обновление профиля</string>
-  <string name="creatable.profile_update.upload_avatar">Загрузи новый аватар</string>
-  <string name="creatable.professional.create_another_salon">Ты также можешь добавить еще один салон</string>
-  <string name="creatable.professional.create_first_salon">Ты можешь создать свой первый салон</string>
-  <string name="creatable.professional.create_salon_button">Создать салон</string>
-  <string name="creatable.professional.invitation_link">Если у тебя есть ссылка-приглашение, пожалуйста, введи её ниже</string>
-  <string name="creatable.professional.link_is_not_valid">К сожалению, введённая ссылка недействительна. Пожалуйста, проверь и введи её снова</string>
-  <string name="creatable.professional.title">Регистрация мастера</string>
-  <string name="creatable.routes_picker.select_app">Выбери приложение</string>
-  <string name="creatable.salon.add_address">Отлично! Теперь добавь адрес твоего салона, чтобы клиенты могли легко найти вас</string>
-  <string name="creatable.salon.allow_button">Разрешить</string>
-  <string name="creatable.salon.chain_type">Сеть салонов красоты</string>
-  <string name="creatable.salon.click_create">Что бы сохранить, нажми Создать</string>
-  <string name="creatable.salon.congratulations">Круто! Твой салон успешно создан</string>
-  <string name="creatable.salon.create_button">Создать</string>
-  <string name="creatable.salon.create_schedule">Шаг за шагом! Настрой расписание работы твоего салона, чтобы клиенты знали, когда они могут вас посетить</string>
-  <string name="creatable.salon.description_placeholder">Описание</string>
-  <string name="creatable.salon.enter_name">Пожалуйста, введи название твоего салона</string>
-  <string name="creatable.salon.enter_salon_description">Опиши, пожалуйста, салон</string>
-  <string name="creatable.salon.individual_type">Салон красоты</string>
-  <string name="creatable.salon.later_logo">Ты сможешь позже добавить логотип в настройках салона</string>
-  <string name="creatable.salon.master_type">Индивидуальный мастер</string>
-  <string name="creatable.salon.notice_request">Для того что бы получать сообщения от клиентов, необходимо разрешить уведомления</string>
-  <string name="creatable.salon.placeholder">Название</string>
-  <string name="creatable.salon.salon_type">Выбери тип создаваемого салона</string>
-  <string name="creatable.salon.title">Создание салона</string>
-  <string name="creatable.salon.turn_on_notifications">Ты отключил push уведомления в [настройках](%s), пожалуйста, включи их там же</string>
-  <string name="creatable.salon.upload_logo">Прекрасно! А теперь загрузи логотип твоего салона, чтобы мы могли сделать его узнаваемым</string>
-  <string name="creatable.salon_update.enter_name">Введи новое название для твоего салона</string>
-  <string name="creatable.salon_update.placeholder">Название</string>
-  <string name="creatable.salon_update.salon_type">Выбери тип салона</string>
-  <string name="creatable.salon_update.save">Сохранить</string>
-  <string name="creatable.salon_update.title">Обновление салона</string>
-  <string name="creatable.salon_update.upload_logo">Загрузи новый логотип</string>
-  <string name="creatable.service.description_placeholder">Описание</string>
-  <string name="creatable.service.enter_service_description">Пожалуйста, дай краткое описание услуги</string>
-  <string name="creatable.service.enter_service_name">Введи название услуги</string>
-  <string name="creatable.service.placeholder">Описание</string>
-  <string name="creatable.service.title">Создание услуги</string>
-  <string name="creatable.text_input_field.email">input@mail.com</string>
-  <string name="creatable.text_input_field.identifier_placeholder">твой_идентификатор</string>
-  <string name="creatable.text_input_field.link">https://maestri.app/</string>
-  <string name="creatable.text_message.skip_text">Пропустить</string>
-  <string name="error.default.register_as_client">Для обработки ссылки необходимо зарегистрироваться как клиент</string>
-  <string name="error.default.register_as_master">Для обработки ссылки необходимо зарегистрироваться как мастер</string>
-  <string name="error.default.unknown_error">Неизвестная ошибка</string>
-  <string name="error.http.bad_gateway">502 Плохой шлюз: Сервер, действующий как шлюз или прокси, получил недопустимый ответ от вышестоящего сервера.</string>
-  <string name="error.http.bad_request">400 Неправильный запрос: Сервер не понимает запрос из-за неверного синтаксиса.</string>
-  <string name="error.http.conflict">409 Конфликт: Запрос не может быть обработан из-за конфликта в запросе, например, конфликта редактирования между несколькими одновременными обновлениями.</string>
-  <string name="error.http.error">Ошибка</string>
-  <string name="error.http.forbidden">403 Запрещено: У сервера есть понимание запроса, но он отказывается его выполнить. Обычно это связано с отсутствием прав доступа.</string>
-  <string name="error.http.gateway_timeout">504 Шлюз не отвечает: Сервер, действующий как шлюз или прокси, не получил своевременный ответ от вышестоящего сервера.</string>
-  <string name="error.http.internal_server_error">500 Внутренняя ошибка сервера: Общая ошибка сервера. Обычно означает, что что-то пошло не так на стороне сервера.</string>
-  <string name="error.http.method_not_allowed">405 Метод не разрешен: Метод, указанный в запросе, запрещен для данного ресурса.</string>
-  <string name="error.http.not_found">404 Не найдено: Сервер не может найти запрашиваемый ресурс. Это самая распространенная ошибка, указывающая на несуществующую страницу.</string>
-  <string name="error.http.service_unavailable">503 Сервис недоступен: Сервер не может обработать запрос из-за временной перегрузки или обслуживания.</string>
-  <string name="error.http.unauthorized">401 Неавторизован: Требуется аутентификация. Пользователь должен залогиниться для доступа.</string>
-  <string name="reusable.add">Добавить</string>
-  <string name="reusable.add_break">Добавить перерыв</string>
-  <string name="reusable.all">Все</string>
-  <string name="reusable.apply">Применить</string>
-  <string name="reusable.break_time">Перерыв</string>
-  <string name="reusable.cancel">Отмена</string>
-  <string name="reusable.close_time">Время закрытия</string>
-  <string name="reusable.cur_lan">ru</string>
-  <string name="reusable.day_off">Выходной</string>
-  <string name="reusable.delete">Удалить</string>
-  <string name="reusable.delete_break">Удалить</string>
-  <string name="reusable.edit">Редактировать</string>
-  <string name="reusable.edit_break">Редактировать</string>
-  <string name="reusable.enter_address">Введи адрес</string>
-  <string name="reusable.enter_the_value">Введите значение</string>
-  <string name="reusable.friday">Пятница</string>
-  <string name="reusable.friday_short">Пт</string>
-  <string name="reusable.hours">ч</string>
-  <string name="reusable.monday">Понедельник</string>
-  <string name="reusable.monday_short">Пн</string>
-  <string name="reusable.open_time">Время открытия</string>
-  <string name="reusable.saturday">Суббота</string>
-  <string name="reusable.saturday_short">Сб</string>
-  <string name="reusable.select">Выбрать</string>
-  <string name="reusable.sunday">Воскресенье</string>
-  <string name="reusable.sunday_short">Вс</string>
-  <string name="reusable.thursday">Четверг</string>
-  <string name="reusable.thursday_short">Чт</string>
-  <string name="reusable.today">Сегодня</string>
-  <string name="reusable.tuesday">Вторник</string>
-  <string name="reusable.tuesday_short">Вт</string>
-  <string name="reusable.wednesday">Среда</string>
-  <string name="reusable.wednesday_short">Ср</string>
-  <string name="reusable.continue">Продолжить</string>
-  <string name="screen.address_edit.unable_address">Не могу поймать твой адрес, давай еще разок?</string>
-  <string name="screen.appt.accept">Подтвердить запись</string>
-  <string name="screen.appt.expired_title">Упс, ты не успел подтвердить запись:(</string>
-  <string name="screen.appt.left_to_accept">Осталось подтвердить запись</string>
-  <string name="screen.appt.title">Запись</string>
-  <string name="screen.auth.title">Аутентификация</string>
-  <string name="screen.clients.title">Все клиенты</string>
-  <string name="screen.creation.close">Закрыть</string>
-  <string name="screen.creation.repeat">Повторить</string>
-  <string name="screen.main_customer.footer_subtitle">Открыть</string>
-  <string name="screen.main_customer.footer_title">История</string>
-  <string name="screen.main_customer.map_button">Карта</string>
-  <string name="screen.main_customer.my_notes">Мои записи</string>
-  <string name="screen.main_customer.no_appointments">Пока у тебя нет записей</string>
-  <string name="screen.main_customer.no_favorites">В избранных пока ничего нет</string>
-  <string name="screen.main_customer.no_salons">Нет салонов поблизости</string>
-  <string name="screen.main_customer.salons">Салоны</string>
-  <string name="screen.map.search_button">Искать в этом регионе</string>
-  <string name="screen.map.search_button_warning">Нужно увеличить масштаб для поиска</string>
-  <string name="screen.master.all_title">Все мастера</string>
-  <string name="screen.notice.error_placeholder">Ты еще не получил ни одного уведомления</string>
-  <string name="screen.notice.read_all">Прочитать все</string>
-  <string name="screen.notice.title">Уведомления</string>
-  <string name="screen.notice.title_alt">Уведомления</string>
-  <string name="screen.professional.add_new_salon_button">Добавить новый салон</string>
-  <string name="screen.professional.common_error_text">Произошла ошибка. Попробуй повторить запрос позднее</string>
-  <string name="screen.professional.day_off_cell_text">Вых</string>
-  <string name="screen.professional.vacation_cell_text">Отпуск</string>
-  <string name="screen.public.login">Войти</string>
-  <string name="screen.public.map_button">Карта</string>
-  <string name="screen.salon.action">Записаться</string>
-  <string name="screen.salon_qr.send_qr_button">Отправить QR-код</string>
-  <string name="screen.salon_qr.share_with_link_button">Поделиться ссылкой</string>
-  <string name="screen.schedule.daily_schedule">Ежедневный график</string>
-  <string name="screen.schedule.delete_vacation">Удалить отпуск</string>
-  <string name="screen.schedule.empty_description">На этот день пока никто не записался</string>
-  <string name="screen.schedule.hide_master">Скрыть мастера</string>
-  <string name="screen.schedule.professional.attention">Внимание!</string>
-  <string name="screen.schedule.professional.end">Окончание</string>
-  <string name="screen.schedule.professional.make_it_day_off">Сделать выходным</string>
-  <string name="screen.schedule.professional.opening_hours">Время работы</string>
-  <string name="screen.schedule.professional.start">Начало</string>
-  <string name="screen.schedule.setup_schedule">Настроить график</string>
-  <string name="screen.schedule.setup_vacation">Настроить отпуск</string>
-  <string name="screen.schedule.shift_work">Сменный график</string>
-  <string name="screen.schedule.template_for_the_week">Шаблон на неделю</string>
-  <string name="screen.schedule.vacation_settings">Настройки отпуска</string>
-  <string name="screen.schedule.weekend_in_salon">В этот день у твоего салона выходной</string>
-  <string name="screen.search.not_found">Ничего не найдено</string>
-  <string name="screen.search.placeholder">Найти</string>
-  <string name="screen.search_bar_field.placeholder">Поиск</string>
-  <string name="screen.select_of_service.add_new_service">Добавить новую услугу</string>
-  <string name="screen.select_of_service.procedures_header">Услуги</string>
-  <string name="screen.service.from">от</string>
-  <string name="screen.service.hour">ч</string>
-  <string name="screen.service.minutes">мин</string>
-  <string name="screen.service.title">Все услуги</string>
-  <string name="screen.timeline_appointments.masters_quantity">Количество мастеров</string>
-  <string name="screen.timeline_appointments.schedule_multiplicity">Кратность журнала</string>
-  <string name="screen.timeline_appointments.switch_button">Список</string>
-  <string name="widget.address.direction">Построить маршрут</string>
-  <string name="widget.address.link">Изменить</string>
-  <string name="widget.address.title">Адрес</string>
-  <string name="widget.app_icon.title">Выбери иконку приложения</string>
-  <string name="widget.appt.footer_button.subtitle">Открыть</string>
-  <string name="widget.appt.footer_button.title">История</string>
-  <string name="widget.clients.action">Добавить клиента</string>
-  <string name="widget.clients.title">Мои клиенты</string>
-  <string name="widget.contacts.title">Контакты</string>
-  <string name="widget.customers.create_client">Добавить нового клиента</string>
-  <string name="widget.danger_zone.delete_hint">Действие нельзя будет отменить</string>
-  <string name="widget.danger_zone.delete_title">Удалить пользователя</string>
-  <string name="widget.danger_zone.logout">Выйти</string>
-  <string name="widget.danger_zone.logout_hint">Выйти из учетной записи</string>
-  <string name="widget.danger_zone.logout_message_alert">Ты действительно хочешь выйти?</string>
-  <string name="widget.danger_zone.nickname">Никнейм</string>
-  <string name="widget.danger_zone.subscription">Подписка</string>
-  <string name="widget.danger_zone.title">Опасная зона</string>
-  <string name="widget.danger_zone.user_delete_message_alert">Для подтверждения введи свой никнейм в поле ниже</string>
-  <string name="widget.danger_zone.user_delete_title_alert">Действие невозможно отменить. Ты точно хочешь его удалить?</string>
-  <string name="widget.danger_zone.warning">Внимание</string>
-  <string name="widget.description.hide">Скрыть</string>
-  <string name="widget.description.show_more">Показать еще</string>
-  <string name="widget.description.title">Описание</string>
-  <string name="widget.full_procedure.title">Мастера</string>
-  <string name="widget.iam.customer">Клиент</string>
-  <string name="widget.iam.customer_register">Зарегистрируйся как клиент</string>
-  <string name="widget.iam.professional">Мастер</string>
-  <string name="widget.iam.professional_register">Зарегистрируйся как мастер</string>
-  <string name="widget.iam.title">Выберите режим</string>
-  <string name="widget.master.action">Пригласить мастера</string>
-  <string name="widget.master.all_action">Пригласить мастера</string>
-  <string name="widget.master.all_title">Все мастера</string>
-  <string name="widget.master.title">Мастера</string>
-  <string name="widget.master.type_master">Мастер</string>
-  <string name="widget.master_danger_zone.fire">Уволить</string>
-  <string name="widget.master_danger_zone.fire_an_employee">Уволить сотрудника</string>
-  <string name="widget.positions.link">Показать все</string>
-  <string name="widget.procedure.cell_info">Информация</string>
-  <string name="widget.procedure.title">Все процедуры</string>
-  <string name="widget.salon_danger_zone.activate">Активировать</string>
-  <string name="widget.salon_danger_zone.activate_hint">Восстановить работу салона</string>
-  <string name="widget.salon_danger_zone.activate_title">Активировать салон</string>
-  <string name="widget.salon_danger_zone.deactivate">Отключить</string>
-  <string name="widget.salon_danger_zone.deactivate_hint">Остановить салон, убрать из поиска</string>
-  <string name="widget.salon_danger_zone.deactivate_title">Деактивировать салон</string>
-  <string name="widget.salon_danger_zone.delete_title">Удалить салон</string>
-  <string name="widget.schedule.title">Записи</string>
-  <string name="widget.support.action">Чат с поддержкой</string>
-  <string name="widget.support.message">Мы здесь, чтобы помочь тебе! Если у тебя возникли вопросы или проблемы, наша команда технической поддержки всегда готова прийти на помощь</string>
-  <string name="widget.support.title">Возникли вопросы? Мы рядом!</string>
-  <string name="widget.support.unknown">Неизвестно</string>
-  <string name="widget.support.user_message">Здравствуйте, мне нужна помощь! Мой id: </string>
-  <string name="widget.timetable.break">Перерыв: </string>
-  <string name="widget.timetable.edit_action">Применить</string>
-  <string name="widget.timetable.title">Время работы</string>
-  <string name="screen.position_view.appointments">Доступ к записям</string>
-  <string name="screen.position_view.contact">Доступ к контактам</string>
-  <string name="screen.position_view.employee">Доступ к сотрудникам</string>
-  <string name="screen.position_view.finance">Доступ к финансам</string>
-  <string name="screen.position_view.notifications">Доступ к уведомлениям</string>
-  <string name="screen.position_view.owner">Владелец</string>
-  <string name="screen.position_view.position">Доступ к должностям</string>
-  <string name="screen.position_view.procedure">Доступ к процедурам</string>
-  <string name="screen.position_view.salary">Доступ к зарплатам</string>
-  <string name="screen.position_view.salon">Доступ к салонам</string>
-  <string name="screen.position_view.statistic">Доступ к статистике</string>
-  <string name="screen.position_view.timetable">Доступ к расписанию</string>
-  <string name="widget.permission.access_rules">Права доступа</string>
-  <string name="widget.permission.editing">Редактирование</string>
-  <string name="widget.permission.terms_of_remu">Условия оплаты труда</string>
-  <string name="widget.salary.terms_not_add">Условия не добавлены</string>
-  <string name="widget.salary.profit_percentage">Процент прибыли</string>
-  <string name="widget.fix_price.fixed_payment">Фиксированный платеж</string>
-  <string name="widget.fix_price.choose_type">Выберите тип</string>
-  <string name="widget.fix_price.hourly_rate">Почасовая оплата</string>
-  <string name="widget.fix_price.daily_salary">Ежедневная зарплата</string>
-  <string name="widget.fix_price.monthly_salary">Ежемесячная зарплата</string>
-  <string name="widget.payments_part.part_of_work">Выплата части работы</string>
-  <string name="widget.payments_part.add_condition">Добавить условие</string>
-  <string name="widget.percent.percent">Процент</string>
-  <string name="widget.percent.percent_of_salary">Процент от прибыли</string>
-  <string name="sheet.permission.access">Доступ</string>
-  <string name="sheet.permission.choose_all">Выбрать все</string>
-  <string name="sheet.salary_content.payroll_custm">Настройка заработной платы</string>
-  <string name="screen.professional.settings">Настройки</string>
-  <string name="screen.professional.workspace">Записи</string>
-  <string name="screen.professional.schedule">График</string>
-  <string name="screen.professional.dashboard">Салон</string>
-  <string name="screen.professional.start_work">\"Начни работу с maetry Создай свой первый салон\"</string>
-  <string name="widget.support.telegram_not_inst">Приложение Telegram не найдено</string>
-  <string name="screen.map.enbl_geo">Включи геолокацию в настройках</string>
-  <string name="widget.master.add_master">Добавить мастера</string>
-  <string name="screen.schedule.professional.day_off">Настройка отпуска</string>
-  <string name="screen.appointment.customer_approved">Подтверждено</string>
-  <string name="screen.public.client_button">Продолжить как клиент</string>
-  <string name="screen.public.welcome">Добро пожаловать
-в Maetry!</string>
-  <string name="screen.public.pro_button">Продолжить как мастер</string>
-  <string name="widget.position_danger_zone.delete_title">Удалить должность</string>
-  <string name="widget.danger_zone.salon_diactivate_title_alert">Подтвердите отключение салона</string>
+  <string name="screen.public.welcome" comment="screen -&gt; public -&gt; welcome">Welcome to Maetry</string>
+  <string name="screen.public.client_button" comment="screen -&gt; public -&gt; client_button">Continue as Client</string>
+  <string name="screen.public.pro_button" comment="screen -&gt; public -&gt; pro_button">Continue as Specialist</string>
+  <string name="screen.public.continuation_action" comment="screen -&gt; public -&gt; continuation_action">Press the button to continue</string>
+  <string name="screen.profile.title" comment="screen -&gt; profile -&gt; title">Profile</string>
+  <string name="screen.profile.support.title" comment="screen -&gt; profile -&gt; support -&gt; title">Have Questions? We\'re Here!</string>
+  <string name="screen.profile.support.message" comment="screen -&gt; profile -&gt; support -&gt; message">We\'re here to help! If you have any questions or issues, our support team is always ready to assist you</string>
+  <string name="screen.profile.support.action" comment="screen -&gt; profile -&gt; support -&gt; action">Live chat support</string>
+  <string name="screen.profile.support.user_message" comment="screen -&gt; profile -&gt; support -&gt; user_message">Hello, I need help! My ID: </string>
+  <string name="screen.profile.support.unknown_id" comment="screen -&gt; profile -&gt; support -&gt; unknown_id">Unknown</string>
+  <string name="screen.profile.support.not_install" comment="screen -&gt; profile -&gt; support -&gt; not_install">Telegram app is not installed</string>
+  <string name="screen.profile.iam.title" comment="screen -&gt; profile -&gt; iam -&gt; title">Select Mode</string>
+  <string name="screen.profile.iam.customer" comment="screen -&gt; profile -&gt; iam -&gt; customer">Customer</string>
+  <string name="screen.profile.iam.customer_register" comment="screen -&gt; profile -&gt; iam -&gt; customer_register">Register like customer</string>
+  <string name="screen.profile.iam.pro" comment="screen -&gt; profile -&gt; iam -&gt; pro">Professional</string>
+  <string name="screen.profile.iam.pro_add_workplace" comment="screen -&gt; profile -&gt; iam -&gt; pro_add_workplace">Register like professional</string>
+  <string name="screen.profile.app_icon.title" comment="screen -&gt; profile -&gt; app_icon -&gt; title">App Icon</string>
+  <string name="screen.profile.danger_zone.title" comment="screen -&gt; profile -&gt; danger_zone -&gt; title">Danger zone</string>
+  <string name="screen.profile.danger_zone.delete_title" comment="screen -&gt; profile -&gt; danger_zone -&gt; delete_title">Delete user</string>
+  <string name="screen.profile.danger_zone.delete_hint" comment="screen -&gt; profile -&gt; danger_zone -&gt; delete_hint">This action cannot be undone</string>
+  <string name="screen.profile.danger_zone.delete_title_alert" comment="screen -&gt; profile -&gt; danger_zone -&gt; delete_title_alert">The action cannot be undone. Are you sure you want to delete?</string>
+  <string name="screen.profile.danger_zone.delete_message_alert" comment="screen -&gt; profile -&gt; danger_zone -&gt; delete_message_alert">To confirm, enter your nickname in the field below</string>
+  <string name="screen.profile.danger_zone.delete_placeholder" comment="screen -&gt; profile -&gt; danger_zone -&gt; delete_placeholder">Nickname</string>
+  <string name="screen.profile.danger_zone.logout" comment="screen -&gt; profile -&gt; danger_zone -&gt; logout">Logout</string>
+  <string name="screen.profile.danger_zone.logout_hint" comment="screen -&gt; profile -&gt; danger_zone -&gt; logout_hint">Log out of your account</string>
+  <string name="screen.profile.danger_zone.logout_message_alert" comment="screen -&gt; profile -&gt; danger_zone -&gt; logout_message_alert">Please confirm that you want to log out</string>
+  <string name="screen.profile.danger_zone.logout_title_alert" comment="screen -&gt; profile -&gt; danger_zone -&gt; logout_title_alert">Attention</string>
+  <string name="screen.notice.title" comment="screen -&gt; notice -&gt; title">Notifications</string>
+  <string name="screen.notice.placeholder" comment="screen -&gt; notice -&gt; placeholder">You haven\'t received any notifications yet</string>
+  <string name="screen.notice.read_all" comment="screen -&gt; notice -&gt; read_all">Read all</string>
+  <string name="screen.sharing.qr_button" comment="screen -&gt; sharing -&gt; qr_button">Send QR code</string>
+  <string name="screen.sharing.link_button" comment="screen -&gt; sharing -&gt; link_button">Share link</string>
+  <string name="screen.assignment.title" comment="screen -&gt; assignment -&gt; title">Appointment</string>
+  <string name="screen.assignment.executor" comment="screen -&gt; assignment -&gt; executor">Professional</string>
+  <string name="screen.assignment.invite_executor" comment="screen -&gt; assignment -&gt; invite_executor">Invite specialist</string>
+  <string name="screen.assignment.client" comment="screen -&gt; assignment -&gt; client">Customer</string>
+  <string name="screen.assignment.invite_client" comment="screen -&gt; assignment -&gt; invite_client">Invite client</string>
+  <string name="screen.workplace.placeholder_create" comment="screen -&gt; workplace -&gt; placeholder_create">Start working with Maetry
+ Create your first salon</string>
+  <string name="screen.workplace.placeholder_select" comment="screen -&gt; workplace -&gt; placeholder_select">Select a salon to work with</string>
+  <string name="screen.workplace.settings" comment="screen -&gt; workplace -&gt; settings">Settings</string>
+  <string name="screen.workplace.workspace" comment="screen -&gt; workplace -&gt; workspace">Appointments</string>
+  <string name="screen.workplace.schedule" comment="screen -&gt; workplace -&gt; schedule">Schedule</string>
+  <string name="screen.workplace.dashboard" comment="screen -&gt; workplace -&gt; dashboard">Salon</string>
+  <string name="screen.workplace.action.title" comment="screen -&gt; workplace -&gt; action -&gt; title">Quick actions</string>
+  <string name="screen.workplace.action.sharing" comment="screen -&gt; workplace -&gt; action -&gt; sharing">Share</string>
+  <string name="screen.workplace.action.invite_employee" comment="screen -&gt; workplace -&gt; action -&gt; invite_employee">Add employee</string>
+  <string name="screen.workplace.action.read_all" comment="screen -&gt; workplace -&gt; action -&gt; read_all">Mark as read</string>
+  <string name="screen.workplace.action.client_mode.title" comment="screen -&gt; workplace -&gt; action -&gt; client_mode -&gt; title">Switch to</string>
+  <string name="screen.workplace.action.client_mode.subtitle" comment="screen -&gt; workplace -&gt; action -&gt; client_mode -&gt; subtitle">client mode</string>
+  <string name="screen.workspace.confirmation" comment="screen -&gt; workspace -&gt; confirmation">Attention!</string>
+  <string name="screen.workspace.collision_message" comment="screen -&gt; workspace -&gt; collision_message">There is already an appointment scheduled for this time</string>
+  <string name="screen.workspace.reschedule_button" comment="screen -&gt; workspace -&gt; reschedule_button">Reschedule appointment</string>
+  <string name="screen.workspace.select_masters" comment="screen -&gt; workspace -&gt; select_masters">Select specialists</string>
+  <string name="screen.workspace.masters_quantity" comment="screen -&gt; workspace -&gt; masters_quantity">Number of specialists</string>
+  <string name="screen.workspace.slot_duration" comment="screen -&gt; workspace -&gt; slot_duration">Journal frequency</string>
+  <string name="screen.workspace.diary_type" comment="screen -&gt; workspace -&gt; diary_type">Diary</string>
+  <string name="screen.workspace.list_type" comment="screen -&gt; workspace -&gt; list_type">List</string>
+  <string name="screen.workspace.list_empty_placeholder" comment="screen -&gt; workspace -&gt; list_empty_placeholder">No appointments scheduled for this day yet</string>
+  <string name="screen.schedule.workspace_schedule" comment="screen -&gt; schedule -&gt; workspace_schedule">Salon schedule</string>
+  <string name="screen.schedule.select_masters" comment="screen -&gt; schedule -&gt; select_masters">Select specialists</string>
+  <string name="screen.schedule.hide_master" comment="screen -&gt; schedule -&gt; hide_master">Hide specialist</string>
+  <string name="screen.schedule.open_hours" comment="screen -&gt; schedule -&gt; open_hours">Working hours</string>
+  <string name="screen.schedule.break_hours" comment="screen -&gt; schedule -&gt; break_hours">Break</string>
+  <string name="screen.schedule.start" comment="screen -&gt; schedule -&gt; start">Start</string>
+  <string name="screen.schedule.end" comment="screen -&gt; schedule -&gt; end">End</string>
+  <string name="screen.schedule.dayoff" comment="screen -&gt; schedule -&gt; dayoff">Day off</string>
+  <string name="screen.schedule.dayoff_short" comment="screen -&gt; schedule -&gt; dayoff_short">Off</string>
+  <string name="screen.schedule.make_it_dayoff" comment="screen -&gt; schedule -&gt; make_it_dayoff">Make it a day off</string>
+  <string name="screen.schedule.alert_title_dayoff" comment="screen -&gt; schedule -&gt; alert_title_dayoff">Attention!</string>
+  <string name="screen.schedule.message_title_dayoff" comment="screen -&gt; schedule -&gt; message_title_dayoff">Your salon is closed on this day</string>
+  <string name="screen.schedule.vacation" comment="screen -&gt; schedule -&gt; vacation">Vacation</string>
+  <string name="screen.schedule.setup_vacation" comment="screen -&gt; schedule -&gt; setup_vacation">Set up vacation</string>
+  <string name="screen.schedule.delete_vacation" comment="screen -&gt; schedule -&gt; delete_vacation">Delete vacation</string>
+  <string name="screen.schedule.add_break" comment="screen -&gt; schedule -&gt; add_break">Add break</string>
+  <string name="screen.schedule.settings_vacation" comment="screen -&gt; schedule -&gt; settings_vacation">Vacation settings</string>
+  <string name="screen.schedule.setup_schedule" comment="screen -&gt; schedule -&gt; setup_schedule">Set up schedule</string>
+  <string name="screen.schedule.daily_schedule" comment="screen -&gt; schedule -&gt; daily_schedule">Daily schedule</string>
+  <string name="screen.schedule.shift_schedule" comment="screen -&gt; schedule -&gt; shift_schedule">Shift schedule</string>
+  <string name="screen.schedule.weekly_schedule" comment="screen -&gt; schedule -&gt; weekly_schedule">Weekly template</string>
+  <string name="screen.schedule.select_several" comment="screen -&gt; schedule -&gt; select_several">Select multiple</string>
+  <string name="screen.schedule.edit_days.one" comment="screen -&gt; schedule -&gt; edit_days -&gt; one">Edit %{days} day</string>
+  <string name="screen.schedule.edit_days.other" comment="screen -&gt; schedule -&gt; edit_days -&gt; other">Edit %{days} days</string>
+  <string name="screen.catalog_management.title" comment="screen -&gt; catalog_management -&gt; title">Services</string>
+  <string name="screen.catalog_management.all_title" comment="screen -&gt; catalog_management -&gt; all_title">All services</string>
+  <string name="screen.catalog_management.add_service" comment="screen -&gt; catalog_management -&gt; add_service">Add new service</string>
+  <string name="screen.catalog_management.complexs" comment="screen -&gt; catalog_management -&gt; complexs">Complexes</string>
+  <string name="screen.catalog_management.complex_placeholder" comment="screen -&gt; catalog_management -&gt; complex_placeholder">To create a complex, combine several procedures</string>
+  <string name="screen.catalog_management.procedures" comment="screen -&gt; catalog_management -&gt; procedures">Procedures</string>
+  <string name="screen.catalog_management.procedure_placeholder" comment="screen -&gt; catalog_management -&gt; procedure_placeholder">To start working with the salon, create a procedure</string>
+  <string name="screen.catalog_management.procedure_info" comment="screen -&gt; catalog_management -&gt; procedure_info">Information</string>
+  <string name="screen.catalog_management.procedure_add_executor" comment="screen -&gt; catalog_management -&gt; procedure_add_executor">Add specialist</string>
+  <string name="screen.catalog_management.procedure_union_complex" comment="screen -&gt; catalog_management -&gt; procedure_union_complex">Combine into complex</string>
+  <string name="screen.catalog_management.executor_edit" comment="screen -&gt; catalog_management -&gt; executor_edit">Edit</string>
+  <string name="screen.catalog_management.executor_booking" comment="screen -&gt; catalog_management -&gt; executor_booking">Book</string>
+  <string name="screen.catalog_management.search" comment="screen -&gt; catalog_management -&gt; search">Search</string>
+  <string name="screen.employees.title" comment="screen -&gt; employees -&gt; title">Employees</string>
+  <string name="screen.employees.all_title" comment="screen -&gt; employees -&gt; all_title">All employees</string>
+  <string name="screen.employees.filter.active" comment="screen -&gt; employees -&gt; filter -&gt; active">Active</string>
+  <string name="screen.employees.filter.invite" comment="screen -&gt; employees -&gt; filter -&gt; invite">Invitations</string>
+  <string name="screen.employees.filter.with_service" comment="screen -&gt; employees -&gt; filter -&gt; with_service">Providing services</string>
+  <string name="screen.employees.filter.without_service" comment="screen -&gt; employees -&gt; filter -&gt; without_service">Not providing services</string>
+  <string name="screen.employees.filter.create_employee" comment="screen -&gt; employees -&gt; filter -&gt; create_employee">Add employee</string>
+  <string name="screen.employees.filter.remove_position" comment="screen -&gt; employees -&gt; filter -&gt; remove_position">Delete position</string>
+  <string name="screen.employees.filter.reorder" comment="screen -&gt; employees -&gt; filter -&gt; reorder">Change order</string>
+  <string name="screen.employees.invite" comment="screen -&gt; employees -&gt; invite">Invite</string>
+  <string name="screen.employees.add_employee" comment="screen -&gt; employees -&gt; add_employee">Add employee</string>
+  <string name="screen.employees.assignment" comment="screen -&gt; employees -&gt; assignment">Appointments</string>
+  <string name="screen.employees.add_assignment" comment="screen -&gt; employees -&gt; add_assignment">Book client</string>
+  <string name="screen.employees.service" comment="screen -&gt; employees -&gt; service">Services</string>
+  <string name="screen.employees.danger_zone.title" comment="screen -&gt; employees -&gt; danger_zone -&gt; title">Administration</string>
+  <string name="screen.employees.danger_zone.fire" comment="screen -&gt; employees -&gt; danger_zone -&gt; fire">Fire</string>
+  <string name="screen.employees.danger_zone.fire_an_employee" comment="screen -&gt; employees -&gt; danger_zone -&gt; fire_an_employee">Fire employee</string>
+  <string name="screen.employees.danger_zone.fire_hint" comment="screen -&gt; employees -&gt; danger_zone -&gt; fire_hint">Employee should not have active appointments</string>
+  <string name="screen.employees.danger_zone.fire_alert_title" comment="screen -&gt; employees -&gt; danger_zone -&gt; fire_alert_title">Fire employee</string>
+  <string name="screen.employees.danger_zone.fire_alert_message" comment="screen -&gt; employees -&gt; danger_zone -&gt; fire_alert_message">Please enter the employee\'s name to confirm</string>
+  <string name="screen.employees.danger_zone.fire_alert_placeholder" comment="screen -&gt; employees -&gt; danger_zone -&gt; fire_alert_placeholder">Employee name</string>
+  <string name="screen.employees.danger_zone.cancel_title" comment="screen -&gt; employees -&gt; danger_zone -&gt; cancel_title">Cancel invitation</string>
+  <string name="screen.employees.danger_zone.cancel_hint" comment="screen -&gt; employees -&gt; danger_zone -&gt; cancel_hint">Specialist won\'t be able to connect via link</string>
+  <string name="screen.employees.danger_zone.cancel_alert_title" comment="screen -&gt; employees -&gt; danger_zone -&gt; cancel_alert_title">Cancel invitation</string>
+  <string name="screen.employees.danger_zone.cancel_alert_message" comment="screen -&gt; employees -&gt; danger_zone -&gt; cancel_alert_message">Employee won\'t be able to join using the sent link</string>
+  <string name="screen.position.title" comment="screen -&gt; position -&gt; title">Positions</string>
+  <string name="screen.position.action" comment="screen -&gt; position -&gt; action">Create position</string>
+  <string name="screen.position.appointments" comment="screen -&gt; position -&gt; appointments">Access to appointments</string>
+  <string name="screen.position.contact" comment="screen -&gt; position -&gt; contact">Access to contacts</string>
+  <string name="screen.position.employee" comment="screen -&gt; position -&gt; employee">Access to employees</string>
+  <string name="screen.position.finance" comment="screen -&gt; position -&gt; finance">Access to finances</string>
+  <string name="screen.position.notifications" comment="screen -&gt; position -&gt; notifications">Access to notifications</string>
+  <string name="screen.position.owner" comment="screen -&gt; position -&gt; owner">Owner</string>
+  <string name="screen.position.position" comment="screen -&gt; position -&gt; position">Access to positions</string>
+  <string name="screen.position.procedure" comment="screen -&gt; position -&gt; procedure">Access to procedures</string>
+  <string name="screen.position.salary.terms_not_add" comment="screen -&gt; position -&gt; salary -&gt; terms_not_add">Terms not added</string>
+  <string name="screen.position.salary.profit_percentage" comment="screen -&gt; position -&gt; salary -&gt; profit_percentage">Profit percentage</string>
+  <string name="screen.position.salon" comment="screen -&gt; position -&gt; salon">Access to salons</string>
+  <string name="screen.position.statistic" comment="screen -&gt; position -&gt; statistic">Access to statistics</string>
+  <string name="screen.position.timetable" comment="screen -&gt; position -&gt; timetable">Access to schedule</string>
+  <string name="screen.position.permission.access_rules" comment="screen -&gt; position -&gt; permission -&gt; access_rules">Access rights</string>
+  <string name="screen.position.permission.terms_of_remu" comment="screen -&gt; position -&gt; permission -&gt; terms_of_remu">Payment terms</string>
+  <string name="screen.position.fix_price.fixed_payment" comment="screen -&gt; position -&gt; fix_price -&gt; fixed_payment">Fixed payment</string>
+  <string name="screen.position.fix_price.choose_type" comment="screen -&gt; position -&gt; fix_price -&gt; choose_type">Choose type</string>
+  <string name="screen.position.fix_price.hourly_rate" comment="screen -&gt; position -&gt; fix_price -&gt; hourly_rate">Hourly rate</string>
+  <string name="screen.position.fix_price.daily_salary" comment="screen -&gt; position -&gt; fix_price -&gt; daily_salary">Daily salary</string>
+  <string name="screen.position.fix_price.monthly_salary" comment="screen -&gt; position -&gt; fix_price -&gt; monthly_salary">Monthly salary</string>
+  <string name="screen.position.payments_part.part_of_work" comment="screen -&gt; position -&gt; payments_part -&gt; part_of_work">Payment for part of work</string>
+  <string name="screen.position.payments_part.add_condition" comment="screen -&gt; position -&gt; payments_part -&gt; add_condition">Add condition</string>
+  <string name="screen.position.percent.percent" comment="screen -&gt; position -&gt; percent -&gt; percent">Percent</string>
+  <string name="screen.position.percent.percent_of_salary" comment="screen -&gt; position -&gt; percent -&gt; percent_of_salary">Percent of profit</string>
+  <string name="screen.position.danger_zone.delete_title" comment="screen -&gt; position -&gt; danger_zone -&gt; delete_title">Delete position</string>
+  <string name="screen.position.sheet.permission.access" comment="screen -&gt; position -&gt; sheet -&gt; permission -&gt; access">Access</string>
+  <string name="screen.position.sheet.permission.choose_all" comment="screen -&gt; position -&gt; sheet -&gt; permission -&gt; choose_all">Choose all</string>
+  <string name="screen.position.sheet.salary_content.payroll_custm" comment="screen -&gt; position -&gt; sheet -&gt; salary_content -&gt; payroll_custm">Salary setup</string>
+  <string name="screen.permissions.title" comment="screen -&gt; permissions -&gt; title">Access</string>
+  <string name="screen.permissions.client_cred_title" comment="screen -&gt; permissions -&gt; client_cred_title">Access to client database</string>
+  <string name="screen.permissions.client_cred_edit" comment="screen -&gt; permissions -&gt; client_cred_edit">Can edit</string>
+  <string name="screen.permissions.client_cred_visible_base_info" comment="screen -&gt; permissions -&gt; client_cred_visible_base_info">Basic information visible</string>
+  <string name="screen.permissions.client_cred_visible_contacts" comment="screen -&gt; permissions -&gt; client_cred_visible_contacts">Contacts visible</string>
+  <string name="screen.permissions.employee_cred_title" comment="screen -&gt; permissions -&gt; employee_cred_title">Access to employees</string>
+  <string name="screen.permissions.employee_cred_edit" comment="screen -&gt; permissions -&gt; employee_cred_edit">Can edit</string>
+  <string name="screen.permissions.employee_cred_visible" comment="screen -&gt; permissions -&gt; employee_cred_visible">Employees visible</string>
+  <string name="screen.permissions.procedure_cred_title" comment="screen -&gt; permissions -&gt; procedure_cred_title">Access to services</string>
+  <string name="screen.permissions.cred_own_edit" comment="screen -&gt; permissions -&gt; cred_own_edit">Can edit own</string>
+  <string name="screen.permissions.cred_other_edit" comment="screen -&gt; permissions -&gt; cred_other_edit">Can edit all</string>
+  <string name="screen.permissions.worktime_cred_title" comment="screen -&gt; permissions -&gt; worktime_cred_title">Access to schedule</string>
+  <string name="screen.permissions.position_cred_title" comment="screen -&gt; permissions -&gt; position_cred_title">Access to positions</string>
+  <string name="screen.permissions.salon_cred_title" comment="screen -&gt; permissions -&gt; salon_cred_title">Access to salon information</string>
+  <string name="screen.permissions.appointment_cred_title" comment="screen -&gt; permissions -&gt; appointment_cred_title">Access to appointments</string>
+  <string name="screen.permissions.statistic_cred_title" comment="screen -&gt; permissions -&gt; statistic_cred_title">Access to statistics</string>
+  <string name="screen.permissions.notify_cred_title" comment="screen -&gt; permissions -&gt; notify_cred_title">Access to notifications</string>
+  <string name="screen.permissions.finance_cred_title" comment="screen -&gt; permissions -&gt; finance_cred_title">Access to finances</string>
+  <string name="screen.permissions.salary_cred_title" comment="screen -&gt; permissions -&gt; salary_cred_title">Access to salary</string>
+  <string name="screen.permissions.owner_toggle_title" comment="screen -&gt; permissions -&gt; owner_toggle_title">Co-owner</string>
+  <string name="screen.permissions.owner_toggle_description" comment="screen -&gt; permissions -&gt; owner_toggle_description">Granting this access gives the person full control over the workspace</string>
+  <string name="screen.salary.title" comment="screen -&gt; salary -&gt; title">Salary</string>
+  <string name="screen.salary.wage_title" comment="screen -&gt; salary -&gt; wage_title">Fixed payment</string>
+  <string name="screen.salary.percent_title" comment="screen -&gt; salary -&gt; percent_title">Percent</string>
+  <string name="screen.salary.select_type" comment="screen -&gt; salary -&gt; select_type">Choose type</string>
+  <string name="screen.salary.percentage_of_profit" comment="screen -&gt; salary -&gt; percentage_of_profit">Percent of profit</string>
+  <string name="screen.salary.piecework_title" comment="screen -&gt; salary -&gt; piecework_title">Piecework payment</string>
+  <string name="screen.salary.alert_title" comment="screen -&gt; salary -&gt; alert_title">Enter value</string>
+  <string name="screen.clients.title" comment="screen -&gt; clients -&gt; title">All clients</string>
+  <string name="screen.clients.search" comment="screen -&gt; clients -&gt; search">Search</string>
+  <string name="screen.clients.action" comment="screen -&gt; clients -&gt; action">Add client</string>
+  <string name="screen.clients.create_client" comment="screen -&gt; clients -&gt; create_client">Add new client</string>
+  <string name="screen.clients.history_client" comment="screen -&gt; clients -&gt; history_client">Client history</string>
+  <string name="screen.clients.add_history_client" comment="screen -&gt; clients -&gt; add_history_client">Add appointment</string>
+  <string name="screen.settings.salon_type.individual" comment="screen -&gt; settings -&gt; salon_type -&gt; individual">Individual</string>
+  <string name="screen.settings.salon_type.salon" comment="screen -&gt; settings -&gt; salon_type -&gt; salon">Salon</string>
+  <string name="screen.settings.salon_type.chain" comment="screen -&gt; settings -&gt; salon_type -&gt; chain">Chain</string>
+  <string name="screen.settings.salon_type.franchise" comment="screen -&gt; settings -&gt; salon_type -&gt; franchise">Franchise</string>
+  <string name="screen.settings.description.title" comment="screen -&gt; settings -&gt; description -&gt; title">Description</string>
+  <string name="screen.settings.description.hide" comment="screen -&gt; settings -&gt; description -&gt; hide">Hide</string>
+  <string name="screen.settings.description.show_more" comment="screen -&gt; settings -&gt; description -&gt; show_more">Show more</string>
+  <string name="screen.settings.geo.select_app" comment="screen -&gt; settings -&gt; geo -&gt; select_app">Choose application</string>
+  <string name="screen.settings.geo.message" comment="screen -&gt; settings -&gt; geo -&gt; message">Want to call a taxi or build a route? Choose the service you want to use</string>
+  <string name="screen.settings.danger_zone.title" comment="screen -&gt; settings -&gt; danger_zone -&gt; title">Danger zone</string>
+  <string name="screen.settings.danger_zone.activate" comment="screen -&gt; settings -&gt; danger_zone -&gt; activate">Activate</string>
+  <string name="screen.settings.danger_zone.activate_hint" comment="screen -&gt; settings -&gt; danger_zone -&gt; activate_hint">Restore salon operation</string>
+  <string name="screen.settings.danger_zone.activate_title" comment="screen -&gt; settings -&gt; danger_zone -&gt; activate_title">Activate salon</string>
+  <string name="screen.settings.danger_zone.deactivate" comment="screen -&gt; settings -&gt; danger_zone -&gt; deactivate">Deactivate</string>
+  <string name="screen.settings.danger_zone.deactivate_hint" comment="screen -&gt; settings -&gt; danger_zone -&gt; deactivate_hint">Stop salon, remove from search</string>
+  <string name="screen.settings.danger_zone.deactivate_title" comment="screen -&gt; settings -&gt; danger_zone -&gt; deactivate_title">Deactivate salon</string>
+  <string name="screen.settings.danger_zone.delete_title" comment="screen -&gt; settings -&gt; danger_zone -&gt; delete_title">Delete user</string>
+  <string name="screen.settings.danger_zone.delete_hint" comment="screen -&gt; settings -&gt; danger_zone -&gt; delete_hint">This action cannot be undone</string>
+  <string name="screen.settings.danger_zone.delete_title_alert" comment="screen -&gt; settings -&gt; danger_zone -&gt; delete_title_alert">The action cannot be undone. Are you sure you want to delete?</string>
+  <string name="screen.settings.danger_zone.delete_message_alert" comment="screen -&gt; settings -&gt; danger_zone -&gt; delete_message_alert">To confirm, enter the salon name in the field below</string>
+  <string name="screen.settings.danger_zone.delete_placeholder" comment="screen -&gt; settings -&gt; danger_zone -&gt; delete_placeholder">Salon name</string>
+  <string name="screen.appointment.executor" comment="screen -&gt; appointment -&gt; executor">Professional</string>
+  <string name="screen.appointment.state_customera_time_out" comment="screen -&gt; appointment -&gt; state_customera_time_out">Time expired</string>
+  <string name="screen.appointment.state_customer_waiting" comment="screen -&gt; appointment -&gt; state_customer_waiting">Waiting</string>
+  <string name="screen.appointment.state_customer_approved" comment="screen -&gt; appointment -&gt; state_customer_approved">Approved</string>
+  <string name="screen.appointment.state_customer_reject" comment="screen -&gt; appointment -&gt; state_customer_reject">Rejected</string>
+  <string name="screen.appointment.state_customer_canсeled" comment="screen -&gt; appointment -&gt; state_customer_canсeled">Canceled</string>
+  <string name="screen.appointment.state_accept" comment="screen -&gt; appointment -&gt; state_accept">Confirm appointment</string>
+  <string name="screen.appointment.no_appointments" comment="screen -&gt; appointment -&gt; no_appointments">You don\'t have any appointments yet</string>
+  <string name="screen.catalog.placeholder" comment="screen -&gt; catalog -&gt; placeholder">No services available</string>
+  <string name="screen.catalog.complex_header" comment="screen -&gt; catalog -&gt; complex_header">Complexes</string>
+  <string name="screen.catalog.procedure_header" comment="screen -&gt; catalog -&gt; procedure_header">Procedures</string>
+  <string name="screen.history.title" comment="screen -&gt; history -&gt; title">History</string>
+  <string name="screen.history.placeholder" comment="screen -&gt; history -&gt; placeholder">You don\'t have any appointments yet</string>
+  <string name="screen.main.history_title" comment="screen -&gt; main -&gt; history_title">My appointments</string>
+  <string name="screen.main.history_action" comment="screen -&gt; main -&gt; history_action">Open</string>
+  <string name="screen.main.map_button" comment="screen -&gt; main -&gt; map_button">Map</string>
+  <string name="screen.main.no_favorites" comment="screen -&gt; main -&gt; no_favorites">No favorites yet</string>
+  <string name="screen.search.not_found" comment="screen -&gt; search -&gt; not_found">Nothing found</string>
+  <string name="screen.search.placeholder" comment="screen -&gt; search -&gt; placeholder">Find %{tag}</string>
+  <string name="screen.search.search_bar_field" comment="screen -&gt; search -&gt; search_bar_field">Search</string>
+  <string name="screen.search.no_salons" comment="screen -&gt; search -&gt; no_salons">No salons nearby</string>
+  <string name="screen.map.search_button" comment="screen -&gt; map -&gt; search_button">Search in this region</string>
+  <string name="screen.map.search_button_warning" comment="screen -&gt; map -&gt; search_button_warning">Need to zoom in to search</string>
+  <string name="screen.map.enable_geo" comment="screen -&gt; map -&gt; enable_geo">Enable geolocation in settings</string>
+  <string name="screen.salon.action" comment="screen -&gt; salon -&gt; action">Book</string>
+  <string name="screen.salon.description.title" comment="screen -&gt; salon -&gt; description -&gt; title">Description</string>
+  <string name="screen.salon.description.hide" comment="screen -&gt; salon -&gt; description -&gt; hide">Hide</string>
+  <string name="screen.salon.description.show_more" comment="screen -&gt; salon -&gt; description -&gt; show_more">Show more</string>
+  <string name="screen.salon.master.title" comment="screen -&gt; salon -&gt; master -&gt; title">Specialists</string>
+  <string name="screen.salon.master.action" comment="screen -&gt; salon -&gt; master -&gt; action">All</string>
+  <string name="screen.salon.catalog.title" comment="screen -&gt; salon -&gt; catalog -&gt; title">Service catalog</string>
+  <string name="screen.salon.catalog.action" comment="screen -&gt; salon -&gt; catalog -&gt; action">Open</string>
+  <string name="widget.address.title" comment="widget -&gt; address -&gt; title">Address</string>
+  <string name="widget.address.navigation" comment="widget -&gt; address -&gt; navigation">Build route</string>
+  <string name="widget.contacts.title" comment="widget -&gt; contacts -&gt; title">Contacts</string>
+  <string name="widget.contacts.no_contacts" comment="widget -&gt; contacts -&gt; no_contacts">No contacts</string>
+  <string name="widget.contacts.action" comment="widget -&gt; contacts -&gt; action">Add contact</string>
+  <string name="widget.contacts.placeholder" comment="widget -&gt; contacts -&gt; placeholder">No contact methods specified</string>
+  <string name="widget.contacts.delete_confirmation" comment="widget -&gt; contacts -&gt; delete_confirmation">Confirm deletion</string>
+  <string name="widget.contacts.connect" comment="widget -&gt; contacts -&gt; connect">Contact</string>
+  <string name="widget.timetable.title" comment="widget -&gt; timetable -&gt; title">Working hours</string>
+  <string name="widget.timetable.break" comment="widget -&gt; timetable -&gt; break">Break</string>
+  <string name="widget.catalog.title" comment="widget -&gt; catalog -&gt; title">Service catalog</string>
+  <string name="widget.danger_zone.title" comment="widget -&gt; danger_zone -&gt; title">Danger zone</string>
+  <string name="reusable.ok" comment="reusable -&gt; ok">Ok</string>
+  <string name="reusable.info" comment="reusable -&gt; info">Information</string>
+  <string name="reusable.cancel" comment="reusable -&gt; cancel">Cancel</string>
+  <string name="reusable.delete" comment="reusable -&gt; delete">Delete</string>
+  <string name="reusable.add" comment="reusable -&gt; add">Add</string>
+  <string name="reusable.all" comment="reusable -&gt; all">All</string>
+  <string name="reusable.warning" comment="reusable -&gt; warning">Attention</string>
+  <string name="reusable.edit" comment="reusable -&gt; edit">Edit</string>
+  <string name="reusable.apply" comment="reusable -&gt; apply">Apply</string>
+  <string name="reusable.break" comment="reusable -&gt; break">Break</string>
+  <string name="reusable.select" comment="reusable -&gt; select">Select</string>
+  <string name="reusable.save" comment="reusable -&gt; save">Save</string>
+  <string name="reusable.continue" comment="reusable -&gt; continue">Continue</string>
+  <string name="reusable.make_appointment" comment="reusable -&gt; make_appointment">Book</string>
+  <string name="reusable.close" comment="reusable -&gt; close">Close</string>
+  <string name="reusable.repeat" comment="reusable -&gt; repeat">Repeat</string>
+  <string name="reusable.search" comment="reusable -&gt; search">Search</string>
+  <string name="reusable.from" comment="reusable -&gt; from">from</string>
+  <string name="reusable.hour" comment="reusable -&gt; hour">h</string>
+  <string name="reusable.minutes" comment="reusable -&gt; minutes">min</string>
+  <string name="reusable.today" comment="reusable -&gt; today">Today</string>
+  <string name="reusable.tomorrow" comment="reusable -&gt; tomorrow">Tomorrow</string>
+  <string name="reusable.submit_button" comment="reusable -&gt; submit_button">Done</string>
+  <string name="reusable.allow_button" comment="reusable -&gt; allow_button">Allow</string>
+  <string name="reusable.submit_text" comment="reusable -&gt; submit_text">Please check the entered information. When everything is ready — click \'Done\' to save</string>
+  <string name="reusable.skip" comment="reusable -&gt; skip">Skip</string>
+  <string name="reusable.copy_button" comment="reusable -&gt; copy_button">Copy</string>
+  <string name="reusable.invitation_link" comment="reusable -&gt; invitation_link">Send invitation link</string>
+  <string name="reusable.not_found" comment="reusable -&gt; not_found">Nothing found</string>
+  <string name="reusable.days_of_the_week.sunday" comment="reusable -&gt; days_of_the_week -&gt; sunday">Sunday</string>
+  <string name="reusable.days_of_the_week.monday" comment="reusable -&gt; days_of_the_week -&gt; monday">Monday</string>
+  <string name="reusable.days_of_the_week.tuesday" comment="reusable -&gt; days_of_the_week -&gt; tuesday">Tuesday</string>
+  <string name="reusable.days_of_the_week.wednesday" comment="reusable -&gt; days_of_the_week -&gt; wednesday">Wednesday</string>
+  <string name="reusable.days_of_the_week.thursday" comment="reusable -&gt; days_of_the_week -&gt; thursday">Thursday</string>
+  <string name="reusable.days_of_the_week.friday" comment="reusable -&gt; days_of_the_week -&gt; friday">Friday</string>
+  <string name="reusable.days_of_the_week.saturday" comment="reusable -&gt; days_of_the_week -&gt; saturday">Saturday</string>
+  <string name="reusable.days_of_the_week.sunday_short" comment="reusable -&gt; days_of_the_week -&gt; sunday_short">Sun</string>
+  <string name="reusable.days_of_the_week.monday_short" comment="reusable -&gt; days_of_the_week -&gt; monday_short">Mon</string>
+  <string name="reusable.days_of_the_week.tuesday_short" comment="reusable -&gt; days_of_the_week -&gt; tuesday_short">Tue</string>
+  <string name="reusable.days_of_the_week.wednesday_short" comment="reusable -&gt; days_of_the_week -&gt; wednesday_short">Wed</string>
+  <string name="reusable.days_of_the_week.thursday_short" comment="reusable -&gt; days_of_the_week -&gt; thursday_short">Thu</string>
+  <string name="reusable.days_of_the_week.friday_short" comment="reusable -&gt; days_of_the_week -&gt; friday_short">Fri</string>
+  <string name="reusable.days_of_the_week.saturday_short" comment="reusable -&gt; days_of_the_week -&gt; saturday_short">Sat</string>
+  <string name="reusable.category_enum.brows" comment="reusable -&gt; category_enum -&gt; brows">Brows</string>
+  <string name="reusable.category_enum.cosmetology" comment="reusable -&gt; category_enum -&gt; cosmetology">Cosmetology</string>
+  <string name="reusable.category_enum.depilation" comment="reusable -&gt; category_enum -&gt; depilation">Depilation</string>
+  <string name="reusable.category_enum.epilation" comment="reusable -&gt; category_enum -&gt; epilation">Epilation</string>
+  <string name="reusable.category_enum.hairdressing" comment="reusable -&gt; category_enum -&gt; hairdressing">Hairdressing</string>
+  <string name="reusable.category_enum.lashes" comment="reusable -&gt; category_enum -&gt; lashes">Lashes</string>
+  <string name="reusable.category_enum.makeup" comment="reusable -&gt; category_enum -&gt; makeup">Makeup</string>
+  <string name="reusable.category_enum.massage" comment="reusable -&gt; category_enum -&gt; massage">Massage</string>
+  <string name="reusable.category_enum.nails" comment="reusable -&gt; category_enum -&gt; nails">Nails</string>
+  <string name="reusable.category_enum.other" comment="reusable -&gt; category_enum -&gt; other">Other</string>
+  <string name="reusable.category_enum.piercing" comment="reusable -&gt; category_enum -&gt; piercing">Piercing</string>
+  <string name="reusable.category_enum.spa" comment="reusable -&gt; category_enum -&gt; spa">Spa</string>
+  <string name="reusable.category_enum.tattoo" comment="reusable -&gt; category_enum -&gt; tattoo">Tattoo</string>
+  <string name="reusable.alert.client_confirmation" comment="reusable -&gt; alert -&gt; client_confirmation">Following the link will sync your order history. The salon associated with this link will be added to your favorites. Do you confirm this action?</string>
+  <string name="reusable.alert.confirmation" comment="reusable -&gt; alert -&gt; confirmation">Confirmation</string>
+  <string name="reusable.alert.congratulations" comment="reusable -&gt; alert -&gt; congratulations">Congratulations</string>
+  <string name="reusable.alert.error" comment="reusable -&gt; alert -&gt; error">Error</string>
+  <string name="reusable.alert.incomplete_address" comment="reusable -&gt; alert -&gt; incomplete_address">Incomplete address</string>
+  <string name="reusable.alert.incomplete_address_message" comment="reusable -&gt; alert -&gt; incomplete_address_message">Please enter your full address to continue</string>
+  <string name="reusable.alert.master_confirmation" comment="reusable -&gt; alert -&gt; master_confirmation">You\'ve followed a link that will connect you as an employee to the salon associated with this link. After confirmation, you\'ll be able to provide services at this salon. Do you confirm this action?</string>
+  <string name="reusable.alert.ok" comment="reusable -&gt; alert -&gt; ok">Ok</string>
+  <string name="onboarding.alert.learn_workplace.title" comment="onboarding -&gt; alert -&gt; learn_workplace -&gt; title">Training</string>
+  <string name="onboarding.alert.learn_workplace.subtitle" comment="onboarding -&gt; alert -&gt; learn_workplace -&gt; subtitle">How to create a salon</string>
+  <string name="onboarding.alert.setup_workplace.title" comment="onboarding -&gt; alert -&gt; setup_workplace -&gt; title">Complete salon setup</string>
+  <string name="onboarding.alert.setup_workplace.subtitle" comment="onboarding -&gt; alert -&gt; setup_workplace -&gt; subtitle">{completedSteps, plural, one{{completedSteps} of {totalSteps} step completed} few{{completedSteps} of {totalSteps} steps completed} many{{completedSteps} of {totalSteps} steps completed} other{{completedSteps} of {totalSteps} steps completed} }</string>
+  <string name="onboarding.create_workplace.title" comment="onboarding -&gt; create_workplace -&gt; title">Create your first salon</string>
+  <string name="onboarding.create_workplace.subtitle" comment="onboarding -&gt; create_workplace -&gt; subtitle">On the main screen, swipe right to open the auxiliary panel, then tap +.</string>
+  <string name="onboarding.setup_schedule.title" comment="onboarding -&gt; setup_schedule -&gt; title">Set up working schedule</string>
+  <string name="onboarding.setup_schedule.subtitle" comment="onboarding -&gt; setup_schedule -&gt; subtitle">Go to the work schedule tab. Click on your establishment\'s icon. After setup, you can also set it up for each employee. Remember that the employee\'s schedule must match the establishment\'s schedule</string>
+  <string name="onboarding.invite_employee.title" comment="onboarding -&gt; invite_employee -&gt; title">Invite employee</string>
+  <string name="onboarding.invite_employee.subtitle" comment="onboarding -&gt; invite_employee -&gt; subtitle">On the dashboard screen, go to the employees section, then tap +</string>
+  <string name="onboarding.select_services.title" comment="onboarding -&gt; select_services -&gt; title">Select the services you provide</string>
+  <string name="onboarding.select_services.subtitle" comment="onboarding -&gt; select_services -&gt; subtitle">Go to the management tab. In the services section, tap +</string>
+  <string name="onboarding.activate.title" comment="onboarding -&gt; activate -&gt; title">Activate salon</string>
+  <string name="onboarding.activate.subtitle" comment="onboarding -&gt; activate -&gt; subtitle"></string>
+  <string name="creatable.salon.title" comment="creatable -&gt; salon -&gt; title">Create salon</string>
+  <string name="creatable.salon.salon_type" comment="creatable -&gt; salon -&gt; salon_type">Let\'s start — I\'ll help you set everything up for your needs. First, choose what kind of space you\'re creating</string>
+  <string name="creatable.salon.master_type" comment="creatable -&gt; salon -&gt; master_type">Individual specialist</string>
+  <string name="creatable.salon.individual_type" comment="creatable -&gt; salon -&gt; individual_type">Beauty salon</string>
+  <string name="creatable.salon.chain_type" comment="creatable -&gt; salon -&gt; chain_type">Beauty salon chain</string>
+  <string name="creatable.salon.name_enter" comment="creatable -&gt; salon -&gt; name_enter">Great! Now enter your salon\'s name — as clients will see it</string>
+  <string name="creatable.salon.name_placeholder" comment="creatable -&gt; salon -&gt; name_placeholder">Enter name...</string>
+  <string name="creatable.salon.add_contact" comment="creatable -&gt; salon -&gt; add_contact">Add a contact method — so clients can easily reach you</string>
+  <string name="creatable.salon.upload_logo" comment="creatable -&gt; salon -&gt; upload_logo">Upload a logo — it will be displayed in your profile and search results</string>
+  <string name="creatable.salon.description_enter" comment="creatable -&gt; salon -&gt; description_enter">Tell us a bit about yourself and your services — this information will be displayed on your page</string>
+  <string name="creatable.salon.description_placeholder" comment="creatable -&gt; salon -&gt; description_placeholder">Enter description...</string>
+  <string name="creatable.salon.add_address" comment="creatable -&gt; salon -&gt; add_address">Great! Now add your space\'s address so clients can find you easily</string>
+  <string name="creatable.salon.address_placeholder" comment="creatable -&gt; salon -&gt; address_placeholder">Enter address...</string>
+  <string name="creatable.salon.current_address" comment="creatable -&gt; salon -&gt; current_address">Current address</string>
+  <string name="creatable.salon.invalid_address" comment="creatable -&gt; salon -&gt; invalid_address">Invalid address</string>
+  <string name="creatable.salon.invalid_address_message" comment="creatable -&gt; salon -&gt; invalid_address_message">Please choose a different address</string>
+  <string name="creatable.salon.unable_address" comment="creatable -&gt; salon -&gt; unable_address">Unavailable address</string>
+  <string name="creatable.salon.notice_request" comment="creatable -&gt; salon -&gt; notice_request">To not miss messages from clients, allow notifications</string>
+  <string name="creatable.salon.turn_on_notifications" comment="creatable -&gt; salon -&gt; turn_on_notifications">You\'ve disabled push notifications in [settings](%s), enable them there</string>
+  <string name="creatable.procedure.title" comment="creatable -&gt; procedure -&gt; title">Create procedure</string>
+  <string name="creatable.procedure.name_enter" comment="creatable -&gt; procedure -&gt; name_enter">Let\'s start with the name — enter it manually or choose from the list</string>
+  <string name="creatable.procedure.name_hint" comment="creatable -&gt; procedure -&gt; name_hint">Choosing an existing name will help clients find you faster</string>
+  <string name="creatable.procedure.name_placeholder" comment="creatable -&gt; procedure -&gt; name_placeholder">Enter service name...</string>
+  <string name="creatable.procedure.category_title" comment="creatable -&gt; procedure -&gt; category_title">Choose a suitable category — it will help clients navigate better</string>
+  <string name="creatable.procedure.duration_title" comment="creatable -&gt; procedure -&gt; duration_title">How long does the procedure take?</string>
+  <string name="creatable.procedure.description_enter" comment="creatable -&gt; procedure -&gt; description_enter">Tell us what\'s important to know before the procedure</string>
+  <string name="creatable.procedure.description_example" comment="creatable -&gt; procedure -&gt; description_example">Например: «Принести полотенце, прибыть за 10–15 минут, снять украшения, сообщить о противопоказаниях»</string>
+  <string name="creatable.procedure.description_placeholder" comment="creatable -&gt; procedure -&gt; description_placeholder">Enter description...</string>
+  <string name="creatable.procedure.price_title" comment="creatable -&gt; procedure -&gt; price_title">Specify the cost — this information will be displayed on the procedure page</string>
+  <string name="creatable.procedure.price_placeholder" comment="creatable -&gt; procedure -&gt; price_placeholder">Enter amount...</string>
+  <string name="creatable.procedure.masters_title" comment="creatable -&gt; procedure -&gt; masters_title">Which specialists will perform this service?</string>
+  <string name="creatable.client.title" comment="creatable -&gt; client -&gt; title">New client</string>
+  <string name="creatable.client.name_enter" comment="creatable -&gt; client -&gt; name_enter">Enter client\'s name</string>
+  <string name="creatable.client.name_placeholder" comment="creatable -&gt; client -&gt; name_placeholder">Enter name...</string>
+  <string name="creatable.client.add_contact" comment="creatable -&gt; client -&gt; add_contact">Add a contact method — so you can always easily reach the client</string>
+  <string name="creatable.employee.title" comment="creatable -&gt; employee -&gt; title">New employee</string>
+  <string name="creatable.employee.name_enter" comment="creatable -&gt; employee -&gt; name_enter">Enter employee\'s name</string>
+  <string name="creatable.employee.name_placeholder" comment="creatable -&gt; employee -&gt; name_placeholder">Enter name...</string>
+  <string name="creatable.employee.add_contact" comment="creatable -&gt; employee -&gt; add_contact">Add a contact method</string>
+  <string name="creatable.employee.choose_position" comment="creatable -&gt; employee -&gt; choose_position">Choose a position — it determines the access rights and salary calculation method for the new specialist</string>
+  <string name="creatable.employee.description_placeholder" comment="creatable -&gt; employee -&gt; description_placeholder">Enter description...</string>
+  <string name="creatable.employee.enter_master_description" comment="creatable -&gt; employee -&gt; enter_master_description">Tell us a bit about the specialist — clients will see this</string>
+  <string name="creatable.employee.setup_schedule" comment="creatable -&gt; employee -&gt; setup_schedule">You can immediately set up a schedule for the invited specialist</string>
+  <string name="creatable.employee.successfully_created" comment="creatable -&gt; employee -&gt; successfully_created">Great! The invitation for the new specialist has been sent successfully</string>
+  <string name="creatable.position.title" comment="creatable -&gt; position -&gt; title">New position</string>
+  <string name="creatable.position.name_enter" comment="creatable -&gt; position -&gt; name_enter">Specify the name of the new position</string>
+  <string name="creatable.position.placeholder" comment="creatable -&gt; position -&gt; placeholder">Enter name...</string>
+  <string name="creatable.position.setting_salary" comment="creatable -&gt; position -&gt; setting_salary">Set the salary amount for this position</string>
+  <string name="creatable.position.salary_empty" comment="creatable -&gt; position -&gt; salary_empty">Zero income specified</string>
+  <string name="creatable.position.add_permissions" comment="creatable -&gt; position -&gt; add_permissions">Assign access rights for this position</string>
+  <string name="creatable.schedule.title" comment="creatable -&gt; schedule -&gt; title">Create schedule</string>
+  <string name="creatable.schedule.weekly_info" comment="creatable -&gt; schedule -&gt; weekly_info">Create a weekly template — each day can be set up individually</string>
+  <string name="creatable.schedule.daily_info" comment="creatable -&gt; schedule -&gt; daily_info">Daily schedule — the set schedule will apply to all days of the week</string>
+  <string name="creatable.schedule.cycled_info" comment="creatable -&gt; schedule -&gt; cycled_info">Specify the number of working and off days. Format — working days first, then off days.</string>
+  <string name="creatable.schedule.cycled_example" comment="creatable -&gt; schedule -&gt; cycled_example">For example, \'2 on 2 off\' or any other combination: 5/2, 3/1, etc.</string>
+  <string name="creatable.schedule.set_time" comment="creatable -&gt; schedule -&gt; set_time">Choose working hours — so clients know when they can book</string>
+  <string name="creatable.schedule.first_day" comment="creatable -&gt; schedule -&gt; first_day">Choose the first working day</string>
+  <string name="creatable.schedule.work_days" comment="creatable -&gt; schedule -&gt; work_days">Working days:</string>
+  <string name="creatable.schedule.weekend" comment="creatable -&gt; schedule -&gt; weekend">Days off:</string>
+  <string name="creatable.schedule.work_time" comment="creatable -&gt; schedule -&gt; work_time">Working time:</string>
+  <string name="creatable.schedule.off_time" comment="creatable -&gt; schedule -&gt; off_time">Breaks:</string>
+  <string name="creatable.contact.title" comment="creatable -&gt; contact -&gt; title">Create contact</string>
+  <string name="creatable.contact.contact_type" comment="creatable -&gt; contact -&gt; contact_type">Choose preferred contact method</string>
+  <string name="creatable.contact.instagram" comment="creatable -&gt; contact -&gt; instagram">Instagram</string>
+  <string name="creatable.contact.phone" comment="creatable -&gt; contact -&gt; phone">Phone</string>
+  <string name="creatable.contact.telegram" comment="creatable -&gt; contact -&gt; telegram">Telegram</string>
+  <string name="creatable.contact.email" comment="creatable -&gt; contact -&gt; email">Email</string>
+  <string name="creatable.contact.enter_email" comment="creatable -&gt; contact -&gt; enter_email">Enter your email address</string>
+  <string name="creatable.contact.enter_instagram" comment="creatable -&gt; contact -&gt; enter_instagram">Share your Instagram account</string>
+  <string name="creatable.contact.enter_phone_number" comment="creatable -&gt; contact -&gt; enter_phone_number">Specify your phone number</string>
+  <string name="creatable.contact.enter_telegram_number" comment="creatable -&gt; contact -&gt; enter_telegram_number">Add Telegram account</string>
+  <string name="creatable.appointment.title" comment="creatable -&gt; appointment -&gt; title">New appointment</string>
+  <string name="creatable.appointment.choose_customer" comment="creatable -&gt; appointment -&gt; choose_customer">Please select the client for whom the appointment is being created</string>
+  <string name="creatable.appointment.select_procedure" comment="creatable -&gt; appointment -&gt; select_procedure">Choose service</string>
+  <string name="creatable.appointment.select_time" comment="creatable -&gt; appointment -&gt; select_time">Specify convenient time for visit</string>
+  <string name="creatable.appointment.day_unavailable" comment="creatable -&gt; appointment -&gt; day_unavailable">Unfortunately, booking is not available on this day — please choose another date</string>
+  <string name="creatable.appointment.sign_in_description" comment="creatable -&gt; appointment -&gt; sign_in_description">To complete the appointment booking, please **sign in** to the system</string>
+  <string name="creatable.appointment.choose_master" comment="creatable -&gt; appointment -&gt; choose_master">Specify the specialist who will perform the service</string>
+  <string name="creatable.appointment.time" comment="creatable -&gt; appointment -&gt; time">Time</string>
+  <string name="creatable.appointment.night" comment="creatable -&gt; appointment -&gt; night">Night</string>
+  <string name="creatable.appointment.morning" comment="creatable -&gt; appointment -&gt; morning">Morning</string>
+  <string name="creatable.appointment.afternoon" comment="creatable -&gt; appointment -&gt; afternoon">Afternoon</string>
+  <string name="creatable.appointment.evening" comment="creatable -&gt; appointment -&gt; evening">Evening</string>
+  <string name="creatable.auth.add_salon" comment="creatable -&gt; auth -&gt; add_salon">Add salon</string>
+  <string name="creatable.auth.enter_name" comment="creatable -&gt; auth -&gt; enter_name">Who are you?</string>
+  <string name="creatable.auth.later_logo" comment="creatable -&gt; auth -&gt; later_logo">If you don\'t have a suitable photo now. You can always add it later in profile settings.</string>
+  <string name="creatable.auth.placeholder" comment="creatable -&gt; auth -&gt; placeholder">Name</string>
+  <string name="creatable.auth.privacy" comment="creatable -&gt; auth -&gt; privacy">By clicking \'Continue\', you agree to the [Privacy Policy](%s) and [Terms of Service](%s)</string>
+  <string name="creatable.auth.select_photo" comment="creatable -&gt; auth -&gt; select_photo">Choose photo</string>
+  <string name="creatable.auth.sign_up_with_google" comment="creatable -&gt; auth -&gt; sign_up_with_google">Sign in with Google</string>
+  <string name="creatable.auth.title" comment="creatable -&gt; auth -&gt; title">Authorization</string>
+  <string name="creatable.auth.upload_logo" comment="creatable -&gt; auth -&gt; upload_logo">Let\'s upload your avatar</string>
+  <string name="creatable.auth.welcome_message" comment="creatable -&gt; auth -&gt; welcome_message">Sign in or register to use the service on any device.</string>
+  <string name="creatable.auth.who_are_you" comment="creatable -&gt; auth -&gt; who_are_you">Do you want to register as a specialist or as a client?</string>
+  <string name="creatable.professional.create_another_salon" comment="creatable -&gt; professional -&gt; create_another_salon">You can also add another salon</string>
+  <string name="creatable.professional.create_first_salon" comment="creatable -&gt; professional -&gt; create_first_salon">You can create your first salon</string>
+  <string name="creatable.professional.create_salon_button" comment="creatable -&gt; professional -&gt; create_salon_button">Create salon</string>
+  <string name="creatable.professional.invitation_link" comment="creatable -&gt; professional -&gt; invitation_link">If you have an invitation link, please enter it below</string>
+  <string name="creatable.professional.link_is_not_valid" comment="creatable -&gt; professional -&gt; link_is_not_valid">Unfortunately, the entered link is invalid. Please check and enter it again</string>
+  <string name="creatable.professional.title" comment="creatable -&gt; professional -&gt; title">Specialist registration</string>
+  <string name="updatable.profile_update.enter_name" comment="updatable -&gt; profile_update -&gt; enter_name">Enter new nickname</string>
+  <string name="updatable.profile_update.placeholder" comment="updatable -&gt; profile_update -&gt; placeholder">Name</string>
+  <string name="updatable.profile_update.save" comment="updatable -&gt; profile_update -&gt; save">Save</string>
+  <string name="updatable.profile_update.title" comment="updatable -&gt; profile_update -&gt; title">Update profile</string>
+  <string name="updatable.profile_update.upload_avatar" comment="updatable -&gt; profile_update -&gt; upload_avatar">Upload new avatar</string>
+  <string name="updatable.salon_update.enter_name" comment="updatable -&gt; salon_update -&gt; enter_name">Enter new name for your salon</string>
+  <string name="updatable.salon_update.placeholder" comment="updatable -&gt; salon_update -&gt; placeholder">Name</string>
+  <string name="updatable.salon_update.salon_type" comment="updatable -&gt; salon_update -&gt; salon_type">Choose salon type</string>
+  <string name="updatable.salon_update.save" comment="updatable -&gt; salon_update -&gt; save">Save</string>
+  <string name="updatable.salon_update.title" comment="updatable -&gt; salon_update -&gt; title">Update salon</string>
+  <string name="updatable.salon_update.upload_logo" comment="updatable -&gt; salon_update -&gt; upload_logo">Upload new logo</string>
+  <string name="error.error" comment="error -&gt; error">Error</string>
+  <string name="error.default.register_as_client" comment="error -&gt; default -&gt; register_as_client">To process the link, you need to register as a client</string>
+  <string name="error.default.register_as_master" comment="error -&gt; default -&gt; register_as_master">To process the link, you need to register as a specialist</string>
+  <string name="error.default.unknown_error" comment="error -&gt; default -&gt; unknown_error">Unknown error</string>
+  <string name="error.default.failedToLoadImage" comment="error -&gt; default -&gt; failedToLoadImage">Failed to load image. Check your network connection and try again.</string>
+  <string name="error.http.bad_gateway" comment="error -&gt; http -&gt; bad_gateway">502 Bad Gateway: The server, acting as a gateway or proxy, received an invalid response from the upstream server.</string>
+  <string name="error.http.bad_request" comment="error -&gt; http -&gt; bad_request">400 Bad Request: The server cannot understand the request due to invalid syntax.</string>
+  <string name="error.http.conflict" comment="error -&gt; http -&gt; conflict">409 Conflict: The request cannot be processed due to a conflict in the request, such as an edit conflict between multiple concurrent updates.</string>
+  <string name="error.http.forbidden" comment="error -&gt; http -&gt; forbidden">403 Forbidden: The server understands the request but refuses to execute it. Usually related to lack of access rights.</string>
+  <string name="error.http.gateway_timeout" comment="error -&gt; http -&gt; gateway_timeout">504 Gateway Timeout: The server, acting as a gateway or proxy, did not receive a timely response from the upstream server.</string>
+  <string name="error.http.internal_server_error" comment="error -&gt; http -&gt; internal_server_error">500 Internal Server Error: A general server error. Usually means something went wrong on the server side.</string>
+  <string name="error.http.method_not_allowed" comment="error -&gt; http -&gt; method_not_allowed">405 Method Not Allowed: The method specified in the request is prohibited for this resource.</string>
+  <string name="error.http.not_found" comment="error -&gt; http -&gt; not_found">404 Not Found: The server cannot find the requested resource. This is the most common error, indicating a non-existent page.</string>
+  <string name="error.http.service_unavailable" comment="error -&gt; http -&gt; service_unavailable">503 Service Unavailable: The server cannot process the request due to temporary overload or maintenance.</string>
+  <string name="error.http.unauthorized" comment="error -&gt; http -&gt; unauthorized">401 Unauthorized: Authentication required. User must log in to access.</string>
 </resources>
