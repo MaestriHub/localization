@@ -841,6 +841,8 @@
 "creatable.auth.welcome_message" = "Sign in or register to use the service on any device.";
 /* creatable -> auth -> who_are_you */
 "creatable.auth.who_are_you" = "Do you want to register as a specialist or as a client?";
+/* creatable -> auth -> uncompletedRegistrationFound */
+"creatable.auth.uncompletedRegistrationFound" = "Мы нашли у вас не законченную регистрацию!";
 /* creatable -> professional -> create_another_salon */
 "creatable.professional.create_another_salon" = "You can also add another salon";
 /* creatable -> professional -> create_first_salon */
