@@ -422,6 +422,7 @@
   <string name="creatable.auth.upload_logo" comment="creatable -&gt; auth -&gt; upload_logo">Давай загрузим твою аватарку</string>
   <string name="creatable.auth.welcome_message" comment="creatable -&gt; auth -&gt; welcome_message">Войди или зарегистрируйся чтобы использовать сервис на любом устройстве.</string>
   <string name="creatable.auth.who_are_you" comment="creatable -&gt; auth -&gt; who_are_you">Желаешь зарегистрироваться как мастер или как клиент?</string>
+  <string name="creatable.auth.uncompletedRegistrationFound" comment="creatable -&gt; auth -&gt; uncompletedRegistrationFound">We found an unfinished registration!</string>
   <string name="creatable.professional.create_another_salon" comment="creatable -&gt; professional -&gt; create_another_salon">Ты также можешь добавить еще один салон</string>
   <string name="creatable.professional.create_first_salon" comment="creatable -&gt; professional -&gt; create_first_salon">Ты можешь создать свой первый салон</string>
   <string name="creatable.professional.create_salon_button" comment="creatable -&gt; professional -&gt; create_salon_button">Создать салон</string>
