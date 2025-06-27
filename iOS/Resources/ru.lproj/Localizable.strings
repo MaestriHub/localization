@@ -613,6 +613,10 @@
 "widget.position.danger_zone.delete_title" = "Delete position";
 /* widget -> position -> danger_zone -> delete_subtitle */
 "widget.position.danger_zone.delete_subtitle" = "Before deleting, make sure that all employees are no longer using this position.";
+/* widget -> position -> danger_zone -> position_removal */
+"widget.position.danger_zone.position_removal" = "Position removal";
+/* widget -> position -> danger_zone -> confirm_removal */
+"widget.position.danger_zone.confirm_removal" = "Confirm removal";
 /* widget -> dashboard -> danger_zone -> error */
 "widget.dashboard.danger_zone.error" = "Dashboard danger zone error";
 /* reusable -> ok */
@@ -747,6 +751,8 @@
 "reusable.unknown" = "Unknown";
 /* reusable -> english */
 "reusable.english" = "English";
+/* reusable -> russian */
+"reusable.russian" = "Russian";
 /* onboarding -> alert -> learn_workplace -> title */
 "onboarding.alert.learn_workplace.title" = "Обучение";
 /* onboarding -> alert -> learn_workplace -> subtitle */
@@ -1003,6 +1009,8 @@
 "creatable.schedule.work_time" = "Рабочее время:";
 /* creatable -> schedule -> off_time */
 "creatable.schedule.off_time" = "Перерывы:";
+/* creatable -> schedule -> missing_timetable */
+"creatable.schedule.missing_timetable" = "Missing timetable";
 /* creatable -> contact -> title */
 "creatable.contact.title" = "Создание контакта";
 /* creatable -> contact -> contact_type */
@@ -1134,10 +1142,20 @@
 "creatable.complex.sequential_description" = "The time for the complex will be calculated based on the sum of the time of all procedures.";
 /* creatable -> complex -> sequential */
 "creatable.complex.sequential" = "Sequential";
+/* creatable -> complex -> title */
+"creatable.complex.title" = "Complex creation";
+/* complex.creatable.enter_value */
+"creatable.complex.enter_value" = "Enter value";
+/* creatable -> complex -> parallel */
+"creatable.complex.parallel" = "Parallel";
+/* creatable -> complex -> parallel_description */
+"creatable.complex.parallel_description" = "The time for the complex will be calculated based on the longest procedure.";
 /* creatable -> procedure_update -> missing_title */
 "creatable.procedure_update.missing_title" = "Missing title";
 /* creatable -> service -> missing_category */
 "creatable.service.missing_category" = "Missing category";
+/* creatable -> assignment -> unfinished_creatable */
+"creatable.assignment.unfinished_creatable" = "We found an unfinished post creation on your site!";
 /* updatable -> profile_update -> enter_name */
 "updatable.profile_update.enter_name" = "Введи новый никнейм";
 /* updatable -> profile_update -> placeholder */
@@ -1188,6 +1206,16 @@
 "error.default.missing_type" = "Missing type";
 /* error -> default -> missing_description */
 "error.default.missing_description" = "Missing description";
+/* error -> default -> missing_client */
+"error.default.missing_client" = "Missing client";
+/* error -> default -> missing_client_name */
+"error.default.missing_client_name" = "Missing client name";
+/* error -> default -> missing_client_contacts */
+"error.default.missing_client_contacts" = "Missing client contacts";
+/* error -> default -> missing_permissions */
+"error.default.missing_permissions" = "Missing permissions";
+/* error -> default -> missing_salary */
+"error.default.missing_salary" = "Missing salary";
 /* error -> http -> bad_gateway */
 "error.http.bad_gateway" = "502 Плохой шлюз: Сервер, действующий как шлюз или прокси, получил недопустимый ответ от вышестоящего сервера.";
 /* error -> http -> bad_request */
@@ -1219,7 +1247,6 @@
 /* error -> complex -> missing_complex_type */
 "error.complex.missing_complex_type" = "Problem with complex type";
 "step.complex_chunks.selected_procedures" = "Selected procedures";
-"complex.creatable.enter_value" = "Enter value";
 "service.shortcut.something_wrong" = "Something wrong?";
 "service.shortcut.give_feedback" = "Please leave us feedback before app deletion. It will...";
 /* service -> shortcut -> mail_body */
