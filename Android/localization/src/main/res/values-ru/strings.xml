@@ -409,6 +409,7 @@
   <string name="onboarding.employee.step1.title" comment="onboarding -&gt; employee -&gt; step1 -&gt; title">Invitation of the master</string>
   <string name="onboarding.employee.step1.subtitle" comment="onboarding -&gt; employee -&gt; step1 -&gt; subtitle">In the navigation panel, go to the \nSalon tab and click Add a master 􀉯</string>
   <string name="onboarding.employee.step2.title" comment="onboarding -&gt; employee -&gt; step2 -&gt; title">Choosing a position</string>
+  <string name="onboarding.employee.step2.subtitle" comment="onboarding -&gt; employee -&gt; step2 -&gt; subtitle">At the stage of selecting a position for the master, you can select a position created earlier or add a new one.</string>
   <string name="onboarding.employee.step3.title" comment="onboarding -&gt; employee -&gt; step3 -&gt; title">Waiting for the master</string>
   <string name="onboarding.employee.step3.subtitle" comment="onboarding -&gt; employee -&gt; step3 -&gt; subtitle">Once you add a stylist, their cell will appear in the tab of the selected position. From there, you can send them an invitation to join your salon.</string>
   <string name="onboarding.procedure.step1.title" comment="onboarding -&gt; procedure -&gt; step1 -&gt; title">Workspace</string>
@@ -420,6 +421,7 @@
   <string name="onboarding.procedure.step4.title" comment="onboarding -&gt; procedure -&gt; step4 -&gt; title">Masters\' Choice</string>
   <string name="onboarding.procedure.step4.subtitle" comment="onboarding -&gt; procedure -&gt; step4 -&gt; subtitle">In the last step, select the masters who will provide this service. After that, clients will be able to easily make an appointment with them.</string>
   <string name="onboarding.workplace.step1.subtitle" comment="onboarding -&gt; workplace -&gt; step1 -&gt; subtitle">To open the workspace, tap the Posts widget.</string>
+  <string name="onboarding.workplace.step1.title" comment="onboarding -&gt; workplace -&gt; step1 -&gt; title">Workplace</string>
   <string name="onboarding.workplace.step2.title" comment="onboarding -&gt; workplace -&gt; step2 -&gt; title">Appointment creation</string>
   <string name="onboarding.workplace.step2.subtitle" comment="onboarding -&gt; workplace -&gt; step2 -&gt; subtitle">In the workspace, tap 􀑎, then assign the client and technician, set the time and procedure, and save the appointment by tapping the “create” button.</string>
   <string name="onboarding.workplace.step3.title" comment="onboarding -&gt; workplace -&gt; step3 -&gt; title">Transferring an entry</string>
