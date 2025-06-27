@@ -409,6 +409,7 @@
   <string name="onboarding.employee.step1.title" comment="onboarding -&gt; employee -&gt; step1 -&gt; title">Приглашение мастера</string>
   <string name="onboarding.employee.step1.subtitle" comment="onboarding -&gt; employee -&gt; step1 -&gt; subtitle">В панели навигации перейдите во вкладку\nСалон и нажмите Добавить мастера 􀉯</string>
   <string name="onboarding.employee.step2.title" comment="onboarding -&gt; employee -&gt; step2 -&gt; title">Выбор должности</string>
+  <string name="onboarding.employee.step2.subtitle" comment="onboarding -&gt; employee -&gt; step2 -&gt; subtitle">На этапе выбора позиции для мастера вы можете выбрать должность, созданную ранее, или добавить новую.</string>
   <string name="onboarding.employee.step3.title" comment="onboarding -&gt; employee -&gt; step3 -&gt; title">Ожидание мастера</string>
   <string name="onboarding.employee.step3.subtitle" comment="onboarding -&gt; employee -&gt; step3 -&gt; subtitle">После добавления мастера его ячейка появится во вкладке выбранной должности. Оттуда вы сможете отправить ему приглашение присоединиться к вашему салону.</string>
   <string name="onboarding.procedure.step1.title" comment="onboarding -&gt; procedure -&gt; step1 -&gt; title">Рабочее пространство</string>
@@ -420,6 +421,7 @@
   <string name="onboarding.procedure.step4.title" comment="onboarding -&gt; procedure -&gt; step4 -&gt; title">Выбор мастеров</string>
   <string name="onboarding.procedure.step4.subtitle" comment="onboarding -&gt; procedure -&gt; step4 -&gt; subtitle">На последнем шаге выберите мастеров, которые будут оказывать эту услугу. После этого клиенты смогут легко к ним записаться.</string>
   <string name="onboarding.workplace.step1.subtitle" comment="onboarding -&gt; workplace -&gt; step1 -&gt; subtitle">Чтобы открыть рабочее пространство, коснитесь виджета “Записи”.</string>
+  <string name="onboarding.workplace.step1.title" comment="onboarding -&gt; workplace -&gt; step1 -&gt; title">Рабочее пространство</string>
   <string name="onboarding.workplace.step2.title" comment="onboarding -&gt; workplace -&gt; step2 -&gt; title">Создание записи</string>
   <string name="onboarding.workplace.step2.subtitle" comment="onboarding -&gt; workplace -&gt; step2 -&gt; subtitle">В рабочем пространстве коснитесь 􀑎, затем назначьте клиента и мастера, настройте время и процедуру, и сохраните запись, нажав кнопку “создать”.</string>
   <string name="onboarding.workplace.step3.title" comment="onboarding -&gt; workplace -&gt; step3 -&gt; title">Перенос записи</string>
