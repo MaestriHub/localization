@@ -815,6 +815,8 @@
 "onboarding.employee.step1.subtitle" = "В панели навигации перейдите во вкладку\nСалон и нажмите Добавить мастера 􀉯";
 /* onboarding -> employee -> step2 -> title */
 "onboarding.employee.step2.title" = "Выбор должности";
+/* onboarding -> employee -> step2 -> subtitle */
+"onboarding.employee.step2.subtitle" = "На этапе выбора позиции для мастера вы можете выбрать должность, созданную ранее, или добавить новую.";
 /* onboarding -> employee -> step3 -> title */
 "onboarding.employee.step3.title" = "Ожидание мастера";
 /* onboarding -> employee -> step3 -> subtitle */
@@ -837,6 +839,8 @@
 "onboarding.procedure.step4.subtitle" = "На последнем шаге выберите мастеров, которые будут оказывать эту услугу. После этого клиенты смогут легко к ним записаться.";
 /* onboarding -> workplace -> step1 -> subtitle */
 "onboarding.workplace.step1.subtitle" = "Чтобы открыть рабочее пространство, коснитесь виджета “Записи”.";
+/* onboarding -> workplace -> step1 -> title */
+"onboarding.workplace.step1.title" = "Рабочее пространство";
 /* onboarding -> workplace -> step2 -> title */
 "onboarding.workplace.step2.title" = "Создание записи";
 /* onboarding -> workplace -> step2 -> subtitle */

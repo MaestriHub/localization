@@ -487,6 +487,8 @@ public enum Loc {
         public static let title = Loc.tr("Localizable", "onboarding.employee.step1.title", fallback: "Приглашение мастера")
       }
       public enum Step2 {
+        /// onboarding -> employee -> step2 -> subtitle
+        public static let subtitle = Loc.tr("Localizable", "onboarding.employee.step2.subtitle", fallback: "На этапе выбора позиции для мастера вы можете выбрать должность, созданную ранее, или добавить новую.")
         /// onboarding -> employee -> step2 -> title
         public static let title = Loc.tr("Localizable", "onboarding.employee.step2.title", fallback: "Выбор должности")
       }
@@ -577,6 +579,8 @@ public enum Loc {
       public enum Step1 {
         /// onboarding -> workplace -> step1 -> subtitle
         public static let subtitle = Loc.tr("Localizable", "onboarding.workplace.step1.subtitle", fallback: "Чтобы открыть рабочее пространство, коснитесь виджета “Записи”.")
+        /// onboarding -> workplace -> step1 -> title
+        public static let title = Loc.tr("Localizable", "onboarding.workplace.step1.title", fallback: "Рабочее пространство")
       }
       public enum Step2 {
         /// onboarding -> workplace -> step2 -> subtitle
