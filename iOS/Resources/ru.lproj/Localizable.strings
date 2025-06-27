@@ -815,6 +815,8 @@
 "onboarding.employee.step1.subtitle" = "In the navigation panel, go to the \nSalon tab and click Add a master 􀉯";
 /* onboarding -> employee -> step2 -> title */
 "onboarding.employee.step2.title" = "Choosing a position";
+/* onboarding -> employee -> step2 -> subtitle */
+"onboarding.employee.step2.subtitle" = "At the stage of selecting a position for the master, you can select a position created earlier or add a new one.";
 /* onboarding -> employee -> step3 -> title */
 "onboarding.employee.step3.title" = "Waiting for the master";
 /* onboarding -> employee -> step3 -> subtitle */
@@ -837,6 +839,8 @@
 "onboarding.procedure.step4.subtitle" = "In the last step, select the masters who will provide this service. After that, clients will be able to easily make an appointment with them.";
 /* onboarding -> workplace -> step1 -> subtitle */
 "onboarding.workplace.step1.subtitle" = "To open the workspace, tap the Posts widget.";
+/* onboarding -> workplace -> step1 -> title */
+"onboarding.workplace.step1.title" = "Workplace";
 /* onboarding -> workplace -> step2 -> title */
 "onboarding.workplace.step2.title" = "Appointment creation";
 /* onboarding -> workplace -> step2 -> subtitle */
