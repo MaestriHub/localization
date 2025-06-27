@@ -1,5 +1,5 @@
 /* screen -> public -> welcome */
-"screen.public.welcome" = "Welcome to Maetry";
+"screen.public.welcome" = "Welcome to Maetryparallel";
 /* screen -> public -> client_button */
 "screen.public.client_button" = "Continue as Client";
 /* screen -> public -> pro_button */
@@ -613,6 +613,10 @@
 "widget.position.danger_zone.delete_title" = "Удалить должность";
 /* widget -> position -> danger_zone -> delete_subtitle */
 "widget.position.danger_zone.delete_subtitle" = "Перед удалением убедитесь что все сотрудники уже не используют эту позицию";
+/* widget -> position -> danger_zone -> position_removal */
+"widget.position.danger_zone.position_removal" = "Удаление позиции";
+/* widget -> position -> danger_zone -> confirm_removal */
+"widget.position.danger_zone.confirm_removal" = "Подтвердить удаление";
 /* widget -> dashboard -> danger_zone -> error */
 "widget.dashboard.danger_zone.error" = "Ошибка Dashboard danger zone";
 /* reusable -> ok */
@@ -747,6 +751,8 @@
 "reusable.unknown" = "Неизвестный";
 /* reusable -> english */
 "reusable.english" = "Английский";
+/* reusable -> russian */
+"reusable.russian" = "Русский";
 /* onboarding -> alert -> learn_workplace -> title */
 "onboarding.alert.learn_workplace.title" = "Training";
 /* onboarding -> alert -> learn_workplace -> subtitle */
@@ -1003,6 +1009,8 @@
 "creatable.schedule.work_time" = "Working time:";
 /* creatable -> schedule -> off_time */
 "creatable.schedule.off_time" = "Breaks:";
+/* creatable -> schedule -> missing_timetable */
+"creatable.schedule.missing_timetable" = "Отсутствует расписание";
 /* creatable -> contact -> title */
 "creatable.contact.title" = "Create contact";
 /* creatable -> contact -> contact_type */
@@ -1134,10 +1142,20 @@
 "creatable.complex.sequential_description" = "Время на комплекс будет рассчитано, исходя из самой продолжительной процедуры";
 /* creatable -> complex -> sequential */
 "creatable.complex.sequential" = "Последовательный";
+/* creatable -> complex -> title */
+"creatable.complex.title" = "Создание комплекса";
+/* complex.creatable.enter_value */
+"creatable.complex.enter_value" = "Введите значение";
+/* creatable -> complex -> parallel */
+"creatable.complex.parallel" = "Параллельный";
+/* creatable -> complex -> parallel_description */
+"creatable.complex.parallel_description" = "Время на комплекс будет рассчитано, исходя из самой продолжительной процедуры";
 /* creatable -> procedure_update -> missing_title */
 "creatable.procedure_update.missing_title" = "Отсутствует название";
 /* creatable -> service -> missing_category */
 "creatable.service.missing_category" = "Отсутствует категория";
+/* creatable -> assignment -> unfinished_creatable */
+"creatable.assignment.unfinished_creatable" = "Мы нашли у вас незавершенное создание записи!";
 /* updatable -> profile_update -> enter_name */
 "updatable.profile_update.enter_name" = "Enter new nickname";
 /* updatable -> profile_update -> placeholder */
@@ -1188,6 +1206,16 @@
 "error.default.missing_type" = "Отсутствует тип";
 /* error -> default -> missing_description */
 "error.default.missing_description" = "Отсутствует описание";
+/* error -> default -> missing_client */
+"error.default.missing_client" = "Отсутствует клиент";
+/* error -> default -> missing_client_name */
+"error.default.missing_client_name" = "Отсутствует имя клиента";
+/* error -> default -> missing_client_contacts */
+"error.default.missing_client_contacts" = "Отсутствуют контакты клиента";
+/* error -> default -> missing_permissions */
+"error.default.missing_permissions" = "Отсутствуют разрешения";
+/* error -> default -> missing_salary */
+"error.default.missing_salary" = "Отсутствует зарплата";
 /* error -> http -> bad_gateway */
 "error.http.bad_gateway" = "502 Bad Gateway: The server, acting as a gateway or proxy, received an invalid response from the upstream server.";
 /* error -> http -> bad_request */
@@ -1219,7 +1247,6 @@
 /* error -> complex -> missing_complex_type */
 "error.complex.missing_complex_type" = "Проблема с типом комплекса";
 "step.complex_chunks.selected_procedures" = "Выбранные процедуры";
-"complex.creatable.enter_value" = "Введите значение";
 "service.shortcut.something_wrong" = "Что-то не так?";
 "service.shortcut.give_feedback" = "Пожалуйста, оставьте нам отзыв перед удалением приложения. Это будет...";
 /* service -> shortcut -> mail_body */

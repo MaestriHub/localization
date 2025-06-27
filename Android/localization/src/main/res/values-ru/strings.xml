@@ -308,6 +308,8 @@
   <string name="widget.danger_zone.title" comment="widget -&gt; danger_zone -&gt; title">Опасная зона</string>
   <string name="widget.position.danger_zone.delete_title" comment="widget -&gt; position -&gt; danger_zone -&gt; delete_title">Delete position</string>
   <string name="widget.position.danger_zone.delete_subtitle" comment="widget -&gt; position -&gt; danger_zone -&gt; delete_subtitle">Before deleting, make sure that all employees are no longer using this position.</string>
+  <string name="widget.position.danger_zone.position_removal" comment="widget -&gt; position -&gt; danger_zone -&gt; position_removal">Position removal</string>
+  <string name="widget.position.danger_zone.confirm_removal" comment="widget -&gt; position -&gt; danger_zone -&gt; confirm_removal">Confirm removal</string>
   <string name="widget.dashboard.danger_zone.error" comment="widget -&gt; dashboard -&gt; danger_zone -&gt; error">Dashboard danger zone error</string>
   <string name="reusable.ok" comment="reusable -&gt; ok">Ок</string>
   <string name="reusable.info" comment="reusable -&gt; info">Информация</string>
@@ -375,6 +377,7 @@
   <string name="reusable.alert.ok" comment="reusable -&gt; alert -&gt; ok">Ок</string>
   <string name="reusable.unknown" comment="reusable -&gt; unknown">Unknown</string>
   <string name="reusable.english" comment="reusable -&gt; english">English</string>
+  <string name="reusable.russian" comment="reusable -&gt; russian">Russian</string>
   <string name="onboarding.alert.learn_workplace.title" comment="onboarding -&gt; alert -&gt; learn_workplace -&gt; title">Обучение</string>
   <string name="onboarding.alert.learn_workplace.subtitle" comment="onboarding -&gt; alert -&gt; learn_workplace -&gt; subtitle">Как создать салон</string>
   <string name="onboarding.alert.setup_workplace.title" comment="onboarding -&gt; alert -&gt; setup_workplace -&gt; title">Завершите настройку салона</string>
@@ -503,6 +506,7 @@
   <string name="creatable.schedule.weekend" comment="creatable -&gt; schedule -&gt; weekend">Выходные:</string>
   <string name="creatable.schedule.work_time" comment="creatable -&gt; schedule -&gt; work_time">Рабочее время:</string>
   <string name="creatable.schedule.off_time" comment="creatable -&gt; schedule -&gt; off_time">Перерывы:</string>
+  <string name="creatable.schedule.missing_timetable" comment="creatable -&gt; schedule -&gt; missing_timetable">Missing timetable</string>
   <string name="creatable.contact.title" comment="creatable -&gt; contact -&gt; title">Создание контакта</string>
   <string name="creatable.contact.contact_type" comment="creatable -&gt; contact -&gt; contact_type">Выберите предпочтительный способ связи</string>
   <string name="creatable.contact.instagram" comment="creatable -&gt; contact -&gt; instagram">Instagram</string>
@@ -569,8 +573,13 @@
   <string name="creatable.complex.consistent" comment="creatable -&gt; complex -&gt; consistent">Consistent</string>
   <string name="creatable.complex.sequential_description" comment="creatable -&gt; complex -&gt; sequential_description">The time for the complex will be calculated based on the sum of the time of all procedures.</string>
   <string name="creatable.complex.sequential" comment="creatable -&gt; complex -&gt; sequential">Sequential</string>
+  <string name="creatable.complex.title" comment="creatable -&gt; complex -&gt; title">Complex creation</string>
+  <string name="creatable.complex.enter_value" comment="complex.creatable.enter_value">Enter value</string>
+  <string name="creatable.complex.parallel" comment="creatable -&gt; complex -&gt; parallel">Parallel</string>
+  <string name="creatable.complex.parallel_description" comment="creatable -&gt; complex -&gt; parallel_description">The time for the complex will be calculated based on the longest procedure.</string>
   <string name="creatable.procedure_update.missing_title" comment="creatable -&gt; procedure_update -&gt; missing_title">Missing title</string>
   <string name="creatable.service.missing_category" comment="creatable -&gt; service -&gt; missing_category">Missing category</string>
+  <string name="creatable.assignment.unfinished_creatable" comment="creatable -&gt; assignment -&gt; unfinished_creatable">We found an unfinished post creation on your site!</string>
   <string name="updatable.profile_update.enter_name" comment="updatable -&gt; profile_update -&gt; enter_name">Введи новый никнейм</string>
   <string name="updatable.profile_update.placeholder" comment="updatable -&gt; profile_update -&gt; placeholder">Имя</string>
   <string name="updatable.profile_update.save" comment="updatable -&gt; profile_update -&gt; save">Сохранить</string>
@@ -596,6 +605,11 @@
   <string name="error.default.offtime_is_out_of_worktime" comment="error -&gt; default -&gt; offtime_is_out_of_worktime">Offtime is out of worktime</string>
   <string name="error.default.missing_type" comment="error -&gt; default -&gt; missing_type">Missing type</string>
   <string name="error.default.missing_description" comment="error -&gt; default -&gt; missing_description">Missing description</string>
+  <string name="error.default.missing_client" comment="error -&gt; default -&gt; missing_client">Missing client</string>
+  <string name="error.default.missing_client_name" comment="error -&gt; default -&gt; missing_client_name">Missing client name</string>
+  <string name="error.default.missing_client_contacts" comment="error -&gt; default -&gt; missing_client_contacts">Missing client contacts</string>
+  <string name="error.default.missing_permissions" comment="error -&gt; default -&gt; missing_permissions">Missing permissions</string>
+  <string name="error.default.missing_salary" comment="error -&gt; default -&gt; missing_salary">Missing salary</string>
   <string name="error.http.bad_gateway" comment="error -&gt; http -&gt; bad_gateway">502 Плохой шлюз: Сервер, действующий как шлюз или прокси, получил недопустимый ответ от вышестоящего сервера.</string>
   <string name="error.http.bad_request" comment="error -&gt; http -&gt; bad_request">400 Неправильный запрос: Сервер не понимает запрос из-за неверного синтаксиса.</string>
   <string name="error.http.conflict" comment="error -&gt; http -&gt; conflict">409 Конфликт: Запрос не может быть обработан из-за конфликта в запросе, например, конфликта редактирования между несколькими одновременными обновлениями.</string>
@@ -612,7 +626,6 @@
   <string name="error.complex.missing_price_shift" comment="error -&gt; complex -&gt; missing_price_shift">Problem with price type and value</string>
   <string name="error.complex.missing_complex_type" comment="error -&gt; complex -&gt; missing_complex_type">Problem with complex type</string>
   <string name="step.complex_chunks.selected_procedures">Selected procedures</string>
-  <string name="complex.creatable.enter_value">Enter value</string>
   <string name="service.shortcut.something_wrong">Something wrong?</string>
   <string name="service.shortcut.give_feedback">Please leave us feedback before app deletion. It will...</string>
   <string name="service.shortcut.mail_body" comment="service -&gt; shortcut -&gt; mail_body">Hello!
