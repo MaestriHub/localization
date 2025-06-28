@@ -27,8 +27,8 @@
   <string name="screen.profile.danger_zone.logout_hint" comment="screen -&gt; profile -&gt; danger_zone -&gt; logout_hint">Выйти из учетной записи</string>
   <string name="screen.profile.danger_zone.logout_message_alert" comment="screen -&gt; profile -&gt; danger_zone -&gt; logout_message_alert">Подтвердите что хотите выйти</string>
   <string name="screen.profile.danger_zone.logout_title_alert" comment="screen -&gt; profile -&gt; danger_zone -&gt; logout_title_alert">Внимание</string>
-  <string name="screen.profile.danger_zone.subscription" comment="screen -&gt; profile -&gt; danger_zone -&gt; subscription">Subscription</string>
-  <string name="screen.profile.danger_zone.without_subscription" comment="screen -&gt; profile -&gt; danger_zone -&gt; without_subscription">Without a subscription nothing will work</string>
+  <string name="screen.profile.danger_zone.subscription" comment="screen -&gt; profile -&gt; danger_zone -&gt; subscription">Подписка</string>
+  <string name="screen.profile.danger_zone.without_subscription" comment="screen -&gt; profile -&gt; danger_zone -&gt; without_subscription">Без подписки ничего не будет работать</string>
   <string name="screen.notice.title" comment="screen -&gt; notice -&gt; title">Уведомления</string>
   <string name="screen.notice.placeholder" comment="screen -&gt; notice -&gt; placeholder">Ты еще не получил ни одного уведомления</string>
   <string name="screen.notice.read_all" comment="screen -&gt; notice -&gt; read_all">Прочитать все</string>
@@ -51,7 +51,7 @@
   <string name="screen.workplace.action.invite_employee" comment="screen -&gt; workplace -&gt; action -&gt; invite_employee">Добавить сотрудника</string>
   <string name="screen.workplace.action.read_all" comment="screen -&gt; workplace -&gt; action -&gt; read_all">Пометить прочитанными</string>
   <string name="screen.workplace.action.client_mode.title" comment="screen -&gt; workplace -&gt; action -&gt; client_mode -&gt; title">Переключится</string>
-  <string name="screen.workplace.action.client_mode.subtitle" comment="screen -&gt; workplace -&gt; action -&gt; client_mode -&gt; subtitle">режим клиента</string>
+  <string name="screen.workplace.action.client_mode.subtitle" comment="screen -&gt; workplace -&gt; action -&gt; client_mode -&gt; subtitle">Режим клиента</string>
   <string name="screen.workspace.confirmation" comment="screen -&gt; workspace -&gt; confirmation">Внимание!</string>
   <string name="screen.workspace.collision_message" comment="screen -&gt; workspace -&gt; collision_message">В это время уже есть назначенная запись</string>
   <string name="screen.workspace.reschedule_button" comment="screen -&gt; workspace -&gt; reschedule_button">Перенести запись</string>
@@ -85,9 +85,9 @@
   <string name="screen.schedule.select_several" comment="screen -&gt; schedule -&gt; select_several">Выбрать несколько</string>
   <string name="screen.schedule.edit_days.one" comment="screen -&gt; schedule -&gt; edit_days -&gt; one">Редактировать %{days} день</string>
   <string name="screen.schedule.edit_days.other" comment="screen -&gt; schedule -&gt; edit_days -&gt; other">Редактировать %{days} дней</string>
-  <string name="screen.schedule.view_mode" comment="screen -&gt; schedule -&gt; view_mode">View mode</string>
-  <string name="screen.schedule.rounded" comment="screen -&gt; schedule -&gt; rounded">Rounded</string>
-  <string name="screen.schedule.rectangular" comment="screen -&gt; schedule -&gt; rectangular">Rectangular</string>
+  <string name="screen.schedule.view_mode" comment="screen -&gt; schedule -&gt; view_mode">Режим отображения</string>
+  <string name="screen.schedule.rounded" comment="screen -&gt; schedule -&gt; rounded">Скругленный</string>
+  <string name="screen.schedule.rectangular" comment="screen -&gt; schedule -&gt; rectangular">Прямоугольный</string>
   <string name="screen.catalog_management.title" comment="screen -&gt; catalog_management -&gt; title">Услуги</string>
   <string name="screen.catalog_management.all_title" comment="screen -&gt; catalog_management -&gt; all_title">Все услуги</string>
   <string name="screen.catalog_management.add_service" comment="screen -&gt; catalog_management -&gt; add_service">Добавить новую услугу</string>
@@ -127,8 +127,8 @@
   <string name="screen.employees.danger_zone.cancel_hint" comment="screen -&gt; employees -&gt; danger_zone -&gt; cancel_hint">Мастер не сможет подключиться по ссылке</string>
   <string name="screen.employees.danger_zone.cancel_alert_title" comment="screen -&gt; employees -&gt; danger_zone -&gt; cancel_alert_title">Отмена приглашения</string>
   <string name="screen.employees.danger_zone.cancel_alert_message" comment="screen -&gt; employees -&gt; danger_zone -&gt; cancel_alert_message">Сотрудник не сможет присоединиться по отправленной ссылке</string>
-  <string name="screen.employees.no_employees" comment="screen -&gt; employees -&gt; no_employees">No employees</string>
-  <string name="screen.employees.master_search" comment="screen -&gt; employees -&gt; master_search">Search for master</string>
+  <string name="screen.employees.no_employees" comment="screen -&gt; employees -&gt; no_employees">Нет сотрудников</string>
+  <string name="screen.employees.master_search" comment="screen -&gt; employees -&gt; master_search">Найти мастера</string>
   <string name="screen.position.title" comment="screen -&gt; position -&gt; title">Должности</string>
   <string name="screen.position.action" comment="screen -&gt; position -&gt; action">Создать должность</string>
   <string name="screen.position.appointments" comment="screen -&gt; position -&gt; appointments">Доступ к записям</string>
@@ -236,9 +236,9 @@
   <string name="screen.search.placeholder" comment="screen -&gt; search -&gt; placeholder">Найти %{tag}</string>
   <string name="screen.search.search_bar_field" comment="screen -&gt; search -&gt; search_bar_field">Поиск</string>
   <string name="screen.search.no_salons" comment="screen -&gt; search -&gt; no_salons">Нет салонов поблизости</string>
-  <string name="screen.search.list" comment="screen -&gt; search -&gt; list">List</string>
-  <string name="screen.search.map" comment="screen -&gt; search -&gt; map">Map</string>
-  <string name="screen.search.client_search" comment="screen -&gt; search -&gt; client_search">Search for client</string>
+  <string name="screen.search.list" comment="screen -&gt; search -&gt; list">Список</string>
+  <string name="screen.search.map" comment="screen -&gt; search -&gt; map">Карта</string>
+  <string name="screen.search.client_search" comment="screen -&gt; search -&gt; client_search">Найти клиента</string>
   <string name="screen.map.search_button" comment="screen -&gt; map -&gt; search_button">Искать в этом регионе</string>
   <string name="screen.map.search_button_warning" comment="screen -&gt; map -&gt; search_button_warning">Нужно увеличить масштаб для поиска</string>
   <string name="screen.map.enable_geo" comment="screen -&gt; map -&gt; enable_geo">Включи геолокацию в настройках</string>
@@ -251,47 +251,47 @@
   <string name="screen.salon.catalog.title" comment="screen -&gt; salon -&gt; catalog -&gt; title">Каталог услуг</string>
   <string name="screen.salon.catalog.action" comment="screen -&gt; salon -&gt; catalog -&gt; action">Открыть</string>
   <string name="screen.profile_editing.name" comment="screen -&gt; profile_editing -&gt; name">Имя</string>
-  <string name="screen.profile_editing.your_name" comment="screen -&gt; profile_editing -&gt; your_name">Your name</string>
-  <string name="screen.profile_editing.profile_photo" comment="screen -&gt; profile_editing -&gt; profile_photo">Profile photo</string>
-  <string name="screen.profile_editing.choose_from_gallery" comment="screen -&gt; profile_editing -&gt; choose_from_gallery">Choose from gallery</string>
-  <string name="screen.profile_editing.edit_image" comment="screen -&gt; profile_editing -&gt; edit_image">Edit</string>
+  <string name="screen.profile_editing.your_name" comment="screen -&gt; profile_editing -&gt; your_name">Ваше имя</string>
+  <string name="screen.profile_editing.profile_photo" comment="screen -&gt; profile_editing -&gt; profile_photo">Фото профиля</string>
+  <string name="screen.profile_editing.choose_from_gallery" comment="screen -&gt; profile_editing -&gt; choose_from_gallery">Выбрать из галереи</string>
+  <string name="screen.profile_editing.edit_image" comment="screen -&gt; profile_editing -&gt; edit_image">Редактировать</string>
   <string name="screen.main_customer_search.customer_search" comment="screen -&gt; main_customer_search -&gt; customer_search">Search for customer</string>
-  <string name="screen.main_customer_list_search.map" comment="screen -&gt; main_customer_list_search -&gt; map">Map</string>
-  <string name="screen.main_customer_map_search.list" comment="screen -&gt; main_customer_map_search -&gt; list">List</string>
-  <string name="screen.main_customer.appointments" comment="screen -&gt; main_customer -&gt; appointments">Appointments</string>
-  <string name="screen.masters.masters_count" comment="screen -&gt; masters -&gt; masters_count">Masters count</string>
-  <string name="screen.client_editable.name" comment="screen -&gt; client_editable -&gt; name">Name</string>
-  <string name="screen.client_editable.your_name" comment="screen -&gt; client_editable -&gt; your_name">Your name</string>
-  <string name="screen.employee_editable.name" comment="screen -&gt; employee_editable -&gt; name">Name</string>
-  <string name="screen.employee_editable.your_name" comment="screen -&gt; employee_editable -&gt; your_name">Your name</string>
-  <string name="screen.workplace_editing.name" comment="screen -&gt; workplace_editing -&gt; name">Name</string>
-  <string name="screen.workplace_editing.your_name" comment="screen -&gt; workplace_editing -&gt; your_name">Your name</string>
-  <string name="screen.workplace_editing.profile_photo" comment="screen -&gt; workplace_editing -&gt; profile_photo">Profile photo</string>
-  <string name="screen.workplace_editing.choose_from_gallery" comment="screen -&gt; workplace_editing -&gt; choose_from_gallery">Choose from gallery</string>
-  <string name="screen.workplace_editing.salon_type" comment="screen -&gt; workplace_editing -&gt; salon_type">Salon type</string>
-  <string name="screen.workplace_editing.salon" comment="screen -&gt; workplace_editing -&gt; salon">Salon</string>
-  <string name="screen.workplace_editing.salon_chain" comment="screen -&gt; workplace_editing -&gt; salon_chain">Salon chain</string>
-  <string name="screen.workplace_editing.individual" comment="screen -&gt; workplace_editing -&gt; individual">Individual</string>
-  <string name="screen.workplace_editing.salon_description" comment="screen -&gt; workplace_editing -&gt; salon_description">Salon description</string>
-  <string name="screen.workplace_editing.your_description" comment="screen -&gt; workplace_editing -&gt; your_description">Your description</string>
-  <string name="screen.position_editable.name" comment="screen -&gt; position_editable -&gt; name">Name</string>
-  <string name="screen.position_editable.your_name" comment="screen -&gt; position_editable -&gt; your_name">Your name</string>
-  <string name="screen.day_schedule_update.worktime" comment="screen -&gt; day_schedule_update -&gt; worktime">Work time</string>
-  <string name="screen.day_schedule_update.day_off" comment="screen -&gt; day_schedule_update -&gt; day_off">Day off</string>
-  <string name="screen.day_schedule_update.duration" comment="screen -&gt; day_schedule_update -&gt; duration">Duration</string>
-  <string name="screen.day_schedule_update.start_time" comment="screen -&gt; day_schedule_update -&gt; start_time">Start time</string>
-  <string name="screen.day_schedule_update.end_time" comment="screen -&gt; day_schedule_update -&gt; end_time">End time</string>
-  <string name="screen.complex_chunks.selected_procedures" comment="screen -&gt; complex_chunks -&gt; selected_procedures">Selected procedures</string>
-  <string name="screen.complex_chunks.procedures_not_found" comment="screen -&gt; complex_chunks -&gt; procedures_not_found">Procedures not found</string>
-  <string name="screen.complex_chunks.change_executors" comment="screen -&gt; complex_chunks -&gt; change_executors">Change executors</string>
-  <string name="screen.procedure_editing.service_update" comment="screen -&gt; procedure_editing -&gt; service_update">Service update</string>
-  <string name="screen.procedure_editing.service_name" comment="screen -&gt; procedure_editing -&gt; service_name">Service name</string>
-  <string name="screen.procedure_editing.your_name" comment="screen -&gt; procedure_editing -&gt; your_name">Your name</string>
-  <string name="screen.procedure_editing.service_description" comment="screen -&gt; procedure_editing -&gt; service_description">Service description</string>
-  <string name="screen.procedure_editing.your_description" comment="screen -&gt; procedure_editing -&gt; your_description">Your description</string>
-  <string name="screen.procedure_editing.service_duration" comment="screen -&gt; procedure_editing -&gt; service_duration">Service duration</string>
-  <string name="screen.procedure_editing.service_price" comment="screen -&gt; procedure_editing -&gt; service_price">Service price</string>
-  <string name="screen.services.search" comment="screen -&gt; services -&gt; search">Search for service</string>
+  <string name="screen.main_customer_list_search.map" comment="screen -&gt; main_customer_list_search -&gt; map">Карта</string>
+  <string name="screen.main_customer_map_search.list" comment="screen -&gt; main_customer_map_search -&gt; list">Список</string>
+  <string name="screen.main_customer.appointments" comment="screen -&gt; main_customer -&gt; appointments">Записи</string>
+  <string name="screen.masters.masters_count" comment="screen -&gt; masters -&gt; masters_count">Количество мастеров</string>
+  <string name="screen.client_editable.name" comment="screen -&gt; client_editable -&gt; name">Название</string>
+  <string name="screen.client_editable.your_name" comment="screen -&gt; client_editable -&gt; your_name">Ваше имя</string>
+  <string name="screen.employee_editable.name" comment="screen -&gt; employee_editable -&gt; name">Название</string>
+  <string name="screen.employee_editable.your_name" comment="screen -&gt; employee_editable -&gt; your_name">Ваше имя</string>
+  <string name="screen.workplace_editing.name" comment="screen -&gt; workplace_editing -&gt; name">Название</string>
+  <string name="screen.workplace_editing.your_name" comment="screen -&gt; workplace_editing -&gt; your_name">Ваше имя</string>
+  <string name="screen.workplace_editing.profile_photo" comment="screen -&gt; workplace_editing -&gt; profile_photo">Фото профиля</string>
+  <string name="screen.workplace_editing.choose_from_gallery" comment="screen -&gt; workplace_editing -&gt; choose_from_gallery">Выбрать из галереи</string>
+  <string name="screen.workplace_editing.salon_type" comment="screen -&gt; workplace_editing -&gt; salon_type">Тип салона</string>
+  <string name="screen.workplace_editing.salon" comment="screen -&gt; workplace_editing -&gt; salon">Салон</string>
+  <string name="screen.workplace_editing.salon_chain" comment="screen -&gt; workplace_editing -&gt; salon_chain">Сеть салонов</string>
+  <string name="screen.workplace_editing.individual" comment="screen -&gt; workplace_editing -&gt; individual">Индивидуальный мастер</string>
+  <string name="screen.workplace_editing.salon_description" comment="screen -&gt; workplace_editing -&gt; salon_description">Описание салона</string>
+  <string name="screen.workplace_editing.your_description" comment="screen -&gt; workplace_editing -&gt; your_description">Ваше описание</string>
+  <string name="screen.position_editable.name" comment="screen -&gt; position_editable -&gt; name">Название</string>
+  <string name="screen.position_editable.your_name" comment="screen -&gt; position_editable -&gt; your_name">Ваше имя</string>
+  <string name="screen.day_schedule_update.worktime" comment="screen -&gt; day_schedule_update -&gt; worktime">Время работы</string>
+  <string name="screen.day_schedule_update.day_off" comment="screen -&gt; day_schedule_update -&gt; day_off">Выходной</string>
+  <string name="screen.day_schedule_update.duration" comment="screen -&gt; day_schedule_update -&gt; duration">Продолжительность</string>
+  <string name="screen.day_schedule_update.start_time" comment="screen -&gt; day_schedule_update -&gt; start_time">Время начала</string>
+  <string name="screen.day_schedule_update.end_time" comment="screen -&gt; day_schedule_update -&gt; end_time">Время окончания</string>
+  <string name="screen.complex_chunks.selected_procedures" comment="screen -&gt; complex_chunks -&gt; selected_procedures">Выбранные процедуры</string>
+  <string name="screen.complex_chunks.procedures_not_found" comment="screen -&gt; complex_chunks -&gt; procedures_not_found">Процедуры не найдены</string>
+  <string name="screen.complex_chunks.change_executors" comment="screen -&gt; complex_chunks -&gt; change_executors">Поменять исполнителей</string>
+  <string name="screen.procedure_editing.service_update" comment="screen -&gt; procedure_editing -&gt; service_update">Обновление услуги</string>
+  <string name="screen.procedure_editing.service_name" comment="screen -&gt; procedure_editing -&gt; service_name">Название услуги</string>
+  <string name="screen.procedure_editing.your_name" comment="screen -&gt; procedure_editing -&gt; your_name">Ваше имя</string>
+  <string name="screen.procedure_editing.service_description" comment="screen -&gt; procedure_editing -&gt; service_description">Описание услуги</string>
+  <string name="screen.procedure_editing.your_description" comment="screen -&gt; procedure_editing -&gt; your_description">Ваше описание</string>
+  <string name="screen.procedure_editing.service_duration" comment="screen -&gt; procedure_editing -&gt; service_duration">Длительность услуги</string>
+  <string name="screen.procedure_editing.service_price" comment="screen -&gt; procedure_editing -&gt; service_price">Цена услуги</string>
+  <string name="screen.services.search" comment="screen -&gt; services -&gt; search">Найти услугу</string>
   <string name="widget.address.title" comment="widget -&gt; address -&gt; title">Адрес</string>
   <string name="widget.address.navigation" comment="widget -&gt; address -&gt; navigation">Построить маршрут</string>
   <string name="widget.contacts.title" comment="widget -&gt; contacts -&gt; title">Контакты</string>
@@ -302,15 +302,15 @@
   <string name="widget.contacts.connect" comment="widget -&gt; contacts -&gt; connect">Связаться</string>
   <string name="widget.timetable.title" comment="widget -&gt; timetable -&gt; title">Рабочие часы</string>
   <string name="widget.timetable.break" comment="widget -&gt; timetable -&gt; break">Перерыв</string>
-  <string name="widget.timetable.offtimes" comment="widget -&gt; timetable -&gt; offtimes">Offtimes</string>
+  <string name="widget.timetable.offtimes" comment="widget -&gt; timetable -&gt; offtimes">Перерывы</string>
   <string name="widget.catalog.title" comment="widget -&gt; catalog -&gt; title">Каталог услуг</string>
-  <string name="widget.catalog.cosmetology_tag" comment="widget -&gt; catalog -&gt; cosmetology_tag">Cosmetology</string>
+  <string name="widget.catalog.cosmetology_tag" comment="widget -&gt; catalog -&gt; cosmetology_tag">Косметология</string>
   <string name="widget.danger_zone.title" comment="widget -&gt; danger_zone -&gt; title">Опасная зона</string>
-  <string name="widget.position.danger_zone.delete_title" comment="widget -&gt; position -&gt; danger_zone -&gt; delete_title">Delete position</string>
-  <string name="widget.position.danger_zone.delete_subtitle" comment="widget -&gt; position -&gt; danger_zone -&gt; delete_subtitle">Before deleting, make sure that all employees are no longer using this position.</string>
-  <string name="widget.position.danger_zone.position_removal" comment="widget -&gt; position -&gt; danger_zone -&gt; position_removal">Position removal</string>
-  <string name="widget.position.danger_zone.confirm_removal" comment="widget -&gt; position -&gt; danger_zone -&gt; confirm_removal">Confirm removal</string>
-  <string name="widget.dashboard.danger_zone.error" comment="widget -&gt; dashboard -&gt; danger_zone -&gt; error">Dashboard danger zone error</string>
+  <string name="widget.position.danger_zone.delete_title" comment="widget -&gt; position -&gt; danger_zone -&gt; delete_title">Удалить должность</string>
+  <string name="widget.position.danger_zone.delete_subtitle" comment="widget -&gt; position -&gt; danger_zone -&gt; delete_subtitle">Перед удалением убедитесь что все сотрудники уже не используют эту позицию</string>
+  <string name="widget.position.danger_zone.position_removal" comment="widget -&gt; position -&gt; danger_zone -&gt; position_removal">Удаление позиции</string>
+  <string name="widget.position.danger_zone.confirm_removal" comment="widget -&gt; position -&gt; danger_zone -&gt; confirm_removal">Подтвердить удаление</string>
+  <string name="widget.dashboard.danger_zone.error" comment="widget -&gt; dashboard -&gt; danger_zone -&gt; error">Ошибка Dashboard danger zone</string>
   <string name="reusable.ok" comment="reusable -&gt; ok">Ок</string>
   <string name="reusable.info" comment="reusable -&gt; info">Информация</string>
   <string name="reusable.cancel" comment="reusable -&gt; cancel">Отмена</string>
@@ -375,15 +375,15 @@
   <string name="reusable.alert.incomplete_address_message" comment="reusable -&gt; alert -&gt; incomplete_address_message">Напиши свой полный адрес, чтобы двигаться дальше</string>
   <string name="reusable.alert.master_confirmation" comment="reusable -&gt; alert -&gt; master_confirmation">Ты перешел по ссылке, которая привязывает тебя как работника к салону, связанному с этой ссылкой. После подтверждения ты сможешь предоставлять услуги в этом салоне. Подтверждаешь это действие?</string>
   <string name="reusable.alert.ok" comment="reusable -&gt; alert -&gt; ok">Ок</string>
-  <string name="reusable.unknown" comment="reusable -&gt; unknown">Unknown</string>
-  <string name="reusable.english" comment="reusable -&gt; english">English</string>
-  <string name="reusable.russian" comment="reusable -&gt; russian">Russian</string>
+  <string name="reusable.unknown" comment="reusable -&gt; unknown">Неизвестный</string>
+  <string name="reusable.english" comment="reusable -&gt; english">Английский</string>
+  <string name="reusable.russian" comment="reusable -&gt; russian">Русский</string>
   <string name="onboarding.alert.learn_workplace.title" comment="onboarding -&gt; alert -&gt; learn_workplace -&gt; title">Обучение</string>
   <string name="onboarding.alert.learn_workplace.subtitle" comment="onboarding -&gt; alert -&gt; learn_workplace -&gt; subtitle">Как создать салон</string>
   <string name="onboarding.alert.setup_workplace.title" comment="onboarding -&gt; alert -&gt; setup_workplace -&gt; title">Завершите настройку салона</string>
   <string name="onboarding.alert.setup_workplace.subtitle" comment="onboarding -&gt; alert -&gt; setup_workplace -&gt; subtitle">{completedSteps, plural, one{{completedSteps} из {totalSteps} шаг завершён} few{{completedSteps} из {totalSteps} шага завершено} many{{completedSteps} из {totalSteps} шагов завершено} other{{completedSteps} из {totalSteps} шагов завершено} }</string>
-  <string name="onboarding.alert.steps_completed" comment="onboarding -&gt; alert -&gt; steps_completed">%d of %d steps completed</string>
-  <string name="onboarding.alert.complete_salon_setup" comment="onboarding -&gt; alert -&gt; complete_salon_setup">Complete the salon setup</string>
+  <string name="onboarding.alert.steps_completed" comment="onboarding -&gt; alert -&gt; steps_completed">%d из %d шагов завершено</string>
+  <string name="onboarding.alert.complete_salon_setup" comment="onboarding -&gt; alert -&gt; complete_salon_setup">Завершите настройку салона</string>
   <string name="onboarding.create_workplace.title" comment="onboarding -&gt; create_workplace -&gt; title">Создать свой первый салон</string>
   <string name="onboarding.create_workplace.subtitle" comment="onboarding -&gt; create_workplace -&gt; subtitle">На главном экране потяните вправо, чтобы открыть вспомогательную панель, затем коснитесь +.</string>
   <string name="onboarding.setup_schedule.title" comment="onboarding -&gt; setup_schedule -&gt; title">Настройте график работы</string>
@@ -394,50 +394,50 @@
   <string name="onboarding.select_services.subtitle" comment="onboarding -&gt; select_services -&gt; subtitle">Перейдите на вкладку управления. В раздел услуги коснитесь +</string>
   <string name="onboarding.activate.title" comment="onboarding -&gt; activate -&gt; title">Активируйте салон</string>
   <string name="onboarding.activate.subtitle" comment="onboarding -&gt; activate -&gt; subtitle">В раздел настройки, пролистайте вниз до Опасной зоны и нажмите активировать</string>
-  <string name="onboarding.appointment.step1.title" comment="onboarding -&gt; appointment -&gt; step1 -&gt; title">Workspace</string>
-  <string name="onboarding.appointment.step1.subtitle" comment="onboarding -&gt; appointment -&gt; step1 -&gt; subtitle">To open the workspace, tap the Posts widget</string>
-  <string name="onboarding.appointment.step2.title" comment="onboarding -&gt; appointment -&gt; step2 -&gt; title">Appointment creation</string>
-  <string name="onboarding.appointment.step2.subtitle" comment="onboarding -&gt; appointment -&gt; step2 -&gt; subtitle">On the Workspace screen, tap 􀑎, select the client and technician, enter the time and procedure, and then save the appointment by tapping the Create button</string>
-  <string name="onboarding.appointment.step3.title" comment="onboarding -&gt; appointment -&gt; step3 -&gt; title">Transferring an entry</string>
-  <string name="onboarding.appointment.step3.subtitle" comment="onboarding -&gt; appointment -&gt; step3 -&gt; subtitle">Hold the entry and drag it to the side to the time and master you want. Then save the selection by tapping Move Entry.</string>
-  <string name="onboarding.appointment.step4.title" comment="onboarding -&gt; appointment -&gt; step4 -&gt; title">Status management</string>
-  <string name="onboarding.appointment.step4.subtitle" comment="onboarding -&gt; appointment -&gt; step4 -&gt; subtitle">Touch and hold the entry, in the menu that opens, select the desired status.</string>
-  <string name="onboarding.client.step1.title" comment="onboarding -&gt; client -&gt; step1 -&gt; title">Client invitation</string>
-  <string name="onboarding.client.step1.subtitle" comment="onboarding -&gt; client -&gt; step1 -&gt; subtitle">In the navigation panel, go to the \nSalon tab and click Add client 􀉯</string>
-  <string name="onboarding.client.step2.title" comment="onboarding -&gt; client -&gt; step2 -&gt; title">Invitation link</string>
-  <string name="onboarding.client.step2.subtitle" comment="onboarding -&gt; client -&gt; step2 -&gt; subtitle">After entering all the data, go to the My Clients section and send the client a link to invite them to the salon.</string>
-  <string name="onboarding.employee.step1.title" comment="onboarding -&gt; employee -&gt; step1 -&gt; title">Invitation of the master</string>
-  <string name="onboarding.employee.step1.subtitle" comment="onboarding -&gt; employee -&gt; step1 -&gt; subtitle">In the navigation panel, go to the \nSalon tab and click Add a master 􀉯</string>
-  <string name="onboarding.employee.step2.title" comment="onboarding -&gt; employee -&gt; step2 -&gt; title">Choosing a position</string>
-  <string name="onboarding.employee.step2.subtitle" comment="onboarding -&gt; employee -&gt; step2 -&gt; subtitle">At the stage of selecting a position for the master, you can select a position created earlier or add a new one.</string>
-  <string name="onboarding.employee.step3.title" comment="onboarding -&gt; employee -&gt; step3 -&gt; title">Waiting for the master</string>
-  <string name="onboarding.employee.step3.subtitle" comment="onboarding -&gt; employee -&gt; step3 -&gt; subtitle">Once you add a stylist, their cell will appear in the tab of the selected position. From there, you can send them an invitation to join your salon.</string>
-  <string name="onboarding.procedure.step1.title" comment="onboarding -&gt; procedure -&gt; step1 -&gt; title">Workspace</string>
-  <string name="onboarding.procedure.step1.subtitle" comment="onboarding -&gt; procedure -&gt; step1 -&gt; subtitle">In the navigation panel, go to the \nSalon tab and click Add new service 􁥉</string>
-  <string name="onboarding.procedure.step2.title" comment="onboarding -&gt; procedure -&gt; step2 -&gt; title">Procedure name</string>
-  <string name="onboarding.procedure.step2.subtitle" comment="onboarding -&gt; procedure -&gt; step2 -&gt; subtitle">At the first stage of creation, specify the name of your service, or select a name from the suggested list by tapping 􀇷</string>
-  <string name="onboarding.procedure.step3.title" comment="onboarding -&gt; procedure -&gt; step3 -&gt; title">Existing procedures</string>
-  <string name="onboarding.procedure.step3.subtitle" comment="onboarding -&gt; procedure -&gt; step3 -&gt; subtitle">By tapping 􀇷, select a service from the list that has passed the service moderation check. Such services can be flexibly configured, and customers will be able to find you more easily</string>
-  <string name="onboarding.procedure.step4.title" comment="onboarding -&gt; procedure -&gt; step4 -&gt; title">Masters\' Choice</string>
-  <string name="onboarding.procedure.step4.subtitle" comment="onboarding -&gt; procedure -&gt; step4 -&gt; subtitle">In the last step, select the masters who will provide this service. After that, clients will be able to easily make an appointment with them.</string>
-  <string name="onboarding.workplace.step1.subtitle" comment="onboarding -&gt; workplace -&gt; step1 -&gt; subtitle">To open the workspace, tap the Posts widget.</string>
-  <string name="onboarding.workplace.step1.title" comment="onboarding -&gt; workplace -&gt; step1 -&gt; title">Workplace</string>
-  <string name="onboarding.workplace.step2.title" comment="onboarding -&gt; workplace -&gt; step2 -&gt; title">Appointment creation</string>
-  <string name="onboarding.workplace.step2.subtitle" comment="onboarding -&gt; workplace -&gt; step2 -&gt; subtitle">In the workspace, tap 􀑎, then assign the client and technician, set the time and procedure, and save the appointment by tapping the “create” button.</string>
-  <string name="onboarding.workplace.step3.title" comment="onboarding -&gt; workplace -&gt; step3 -&gt; title">Transferring an entry</string>
-  <string name="onboarding.workplace.step3.subtitle" comment="onboarding -&gt; workplace -&gt; step3 -&gt; subtitle">Hold the recording and drag it to the side to the time and master you want. Then save the selection by tapping “move recording”.</string>
-  <string name="onboarding.workplace.step4.title" comment="onboarding -&gt; workplace -&gt; step4 -&gt; title">Status management</string>
-  <string name="onboarding.workplace.step4.subtitle" comment="onboarding -&gt; workplace -&gt; step4 -&gt; subtitle">Touch and hold the entry, in the menu that opens, select the desired status.</string>
-  <string name="onboarding.salon_creation.step1.title" comment="onboarding -&gt; salon_creation -&gt; step1 -&gt; title">Salon creation</string>
+  <string name="onboarding.appointment.step1.title" comment="onboarding -&gt; appointment -&gt; step1 -&gt; title">Рабочее пространство</string>
+  <string name="onboarding.appointment.step1.subtitle" comment="onboarding -&gt; appointment -&gt; step1 -&gt; subtitle">Чтобы открыть рабочее пространство, коснитесь виджета “Записи”</string>
+  <string name="onboarding.appointment.step2.title" comment="onboarding -&gt; appointment -&gt; step2 -&gt; title">Создание записи</string>
+  <string name="onboarding.appointment.step2.subtitle" comment="onboarding -&gt; appointment -&gt; step2 -&gt; subtitle">На экране рабочего пространства коснитесь 􀑎, выберите клиента и мастера, укажите время и процедуру, а затем сохраните запись, нажав кнопку создать</string>
+  <string name="onboarding.appointment.step3.title" comment="onboarding -&gt; appointment -&gt; step3 -&gt; title">Перенос записи</string>
+  <string name="onboarding.appointment.step3.subtitle" comment="onboarding -&gt; appointment -&gt; step3 -&gt; subtitle">Удерживайте запись, и потяните в сторону, на нужное вам время и мастера. Затем сохраните выбор, коснувшись перенести запись.</string>
+  <string name="onboarding.appointment.step4.title" comment="onboarding -&gt; appointment -&gt; step4 -&gt; title">Управление статусами</string>
+  <string name="onboarding.appointment.step4.subtitle" comment="onboarding -&gt; appointment -&gt; step4 -&gt; subtitle">Коснитесь записи и удерживайте ее, в открывшемся меню, выберите нужный статус.</string>
+  <string name="onboarding.client.step1.title" comment="onboarding -&gt; client -&gt; step1 -&gt; title">Приглашение клиента</string>
+  <string name="onboarding.client.step1.subtitle" comment="onboarding -&gt; client -&gt; step1 -&gt; subtitle">В панеле навигации перейдите во вкладку\nСалон и нажмите Добавить клиента 􀉯</string>
+  <string name="onboarding.client.step2.title" comment="onboarding -&gt; client -&gt; step2 -&gt; title">Ссылка-приглашение</string>
+  <string name="onboarding.client.step2.subtitle" comment="onboarding -&gt; client -&gt; step2 -&gt; subtitle">После внесения всех данных, перейдите в раздел Мои клиенты и отправьте клиенту ссылку для приглашения в салон.</string>
+  <string name="onboarding.employee.step1.title" comment="onboarding -&gt; employee -&gt; step1 -&gt; title">Приглашение мастера</string>
+  <string name="onboarding.employee.step1.subtitle" comment="onboarding -&gt; employee -&gt; step1 -&gt; subtitle">В панели навигации перейдите во вкладку\nСалон и нажмите Добавить мастера 􀉯</string>
+  <string name="onboarding.employee.step2.title" comment="onboarding -&gt; employee -&gt; step2 -&gt; title">Выбор должности</string>
+  <string name="onboarding.employee.step2.subtitle" comment="onboarding -&gt; employee -&gt; step2 -&gt; subtitle">На этапе выбора позиции для мастера вы можете выбрать должность, созданную ранее, или добавить новую.</string>
+  <string name="onboarding.employee.step3.title" comment="onboarding -&gt; employee -&gt; step3 -&gt; title">Ожидание мастера</string>
+  <string name="onboarding.employee.step3.subtitle" comment="onboarding -&gt; employee -&gt; step3 -&gt; subtitle">После добавления мастера его ячейка появится во вкладке выбранной должности. Оттуда вы сможете отправить ему приглашение присоединиться к вашему салону.</string>
+  <string name="onboarding.procedure.step1.title" comment="onboarding -&gt; procedure -&gt; step1 -&gt; title">Рабочее пространство</string>
+  <string name="onboarding.procedure.step1.subtitle" comment="onboarding -&gt; procedure -&gt; step1 -&gt; subtitle">В панеле навигации перейдите во вкладку\nСалон и нажмите Добавить новую услугу 􁥉</string>
+  <string name="onboarding.procedure.step2.title" comment="onboarding -&gt; procedure -&gt; step2 -&gt; title">Название процедуры</string>
+  <string name="onboarding.procedure.step2.subtitle" comment="onboarding -&gt; procedure -&gt; step2 -&gt; subtitle">На первом этапе создания укажите название своей услуги, либо выберите название из предложенного списка, коснувшись 􀇷</string>
+  <string name="onboarding.procedure.step3.title" comment="onboarding -&gt; procedure -&gt; step3 -&gt; title">Существующие процедуры</string>
+  <string name="onboarding.procedure.step3.subtitle" comment="onboarding -&gt; procedure -&gt; step3 -&gt; subtitle">Коснувшись 􀇷, из предложенного списка выберите услугу, которая прошла проверку модерацией сервиса. Такие услуги можно гибко настроить, и клиенты смогут проще вас находить</string>
+  <string name="onboarding.procedure.step4.title" comment="onboarding -&gt; procedure -&gt; step4 -&gt; title">Выбор мастеров</string>
+  <string name="onboarding.procedure.step4.subtitle" comment="onboarding -&gt; procedure -&gt; step4 -&gt; subtitle">На последнем шаге выберите мастеров, которые будут оказывать эту услугу. После этого клиенты смогут легко к ним записаться.</string>
+  <string name="onboarding.workplace.step1.subtitle" comment="onboarding -&gt; workplace -&gt; step1 -&gt; subtitle">Чтобы открыть рабочее пространство, коснитесь виджета “Записи”.</string>
+  <string name="onboarding.workplace.step1.title" comment="onboarding -&gt; workplace -&gt; step1 -&gt; title">Рабочее пространство</string>
+  <string name="onboarding.workplace.step2.title" comment="onboarding -&gt; workplace -&gt; step2 -&gt; title">Создание записи</string>
+  <string name="onboarding.workplace.step2.subtitle" comment="onboarding -&gt; workplace -&gt; step2 -&gt; subtitle">В рабочем пространстве коснитесь 􀑎, затем назначьте клиента и мастера, настройте время и процедуру, и сохраните запись, нажав кнопку “создать”.</string>
+  <string name="onboarding.workplace.step3.title" comment="onboarding -&gt; workplace -&gt; step3 -&gt; title">Перенос записи</string>
+  <string name="onboarding.workplace.step3.subtitle" comment="onboarding -&gt; workplace -&gt; step3 -&gt; subtitle">Удерживайте запись, и потяните в сторону, на нужное вам время и мастера. Затем сохраните выбор, коснувшись “перенести запись”.</string>
+  <string name="onboarding.workplace.step4.title" comment="onboarding -&gt; workplace -&gt; step4 -&gt; title">Управление статусами</string>
+  <string name="onboarding.workplace.step4.subtitle" comment="onboarding -&gt; workplace -&gt; step4 -&gt; subtitle">Коснитесь записи и удерживайте ее, в открывшемся меню, выберите нужный статус.</string>
+  <string name="onboarding.salon_creation.step1.title" comment="onboarding -&gt; salon_creation -&gt; step1 -&gt; title">Создание салона</string>
   <string name="onboarding.salon_creation.step1.subtitle" comment="onboarding -&gt; salon_creation -&gt; step1 -&gt; subtitle">На главном экране потяните вправо, чтобы открыть вспомогательную панель, затем коснитесь 􀑎.</string>
-  <string name="onboarding.salon_creation.step2.title" comment="onboarding -&gt; salon_creation -&gt; step2 -&gt; title">Salon schedule setup</string>
-  <string name="onboarding.salon_creation.step2.subtitle" comment="onboarding -&gt; salon_creation -&gt; step2 -&gt; subtitle">At the creation stage, you will be offered 3 options for the salon schedule: weekly, shift and daily.</string>
-  <string name="onboarding.salon_creation.step3.title" comment="onboarding -&gt; salon_creation -&gt; step3 -&gt; title">Week template</string>
-  <string name="onboarding.salon_creation.step3.subtitle" comment="onboarding -&gt; salon_creation -&gt; step3 -&gt; subtitle">The schedule implies separate settings for each week.</string>
-  <string name="onboarding.salon_creation.step4.title" comment="onboarding -&gt; salon_creation -&gt; step4 -&gt; title">Shift schedule</string>
-  <string name="onboarding.salon_creation.step4.subtitle" comment="onboarding -&gt; salon_creation -&gt; step4 -&gt; subtitle">Select the number of working and non-working days that will follow each other cyclically. And then set up the hours and breaks on working days.</string>
-  <string name="onboarding.salon_creation.step5.title" comment="onboarding -&gt; salon_creation -&gt; step5 -&gt; title">Daily schedule</string>
-  <string name="onboarding.salon_creation.step5.subtitle" comment="onboarding -&gt; salon_creation -&gt; step5 -&gt; subtitle">With a daily schedule, you set up one template that the salon will operate according to every day.</string>
+  <string name="onboarding.salon_creation.step2.title" comment="onboarding -&gt; salon_creation -&gt; step2 -&gt; title">Настройка графика салона</string>
+  <string name="onboarding.salon_creation.step2.subtitle" comment="onboarding -&gt; salon_creation -&gt; step2 -&gt; subtitle">На этапе создания вам будет предложено 3 варианта графика салона: недельный, сменный и ежедневный.</string>
+  <string name="onboarding.salon_creation.step3.title" comment="onboarding -&gt; salon_creation -&gt; step3 -&gt; title">Шаблон на неделю</string>
+  <string name="onboarding.salon_creation.step3.subtitle" comment="onboarding -&gt; salon_creation -&gt; step3 -&gt; subtitle">График подразумевает отдельную настройку каждого для недели.</string>
+  <string name="onboarding.salon_creation.step4.title" comment="onboarding -&gt; salon_creation -&gt; step4 -&gt; title">Сменный график</string>
+  <string name="onboarding.salon_creation.step4.subtitle" comment="onboarding -&gt; salon_creation -&gt; step4 -&gt; subtitle">Выберите количество рабочих и выходных дней, которые будут циклично идти друг за другом. И после этого настройте часы и перерывы в рабочие дни.</string>
+  <string name="onboarding.salon_creation.step5.title" comment="onboarding -&gt; salon_creation -&gt; step5 -&gt; title">Ежедневный график</string>
+  <string name="onboarding.salon_creation.step5.subtitle" comment="onboarding -&gt; salon_creation -&gt; step5 -&gt; subtitle">В случае ежедневного графика вы настраиваете один шаблон, по которому салон будет работать каждый день.</string>
   <string name="creatable.salon.title" comment="creatable -&gt; salon -&gt; title">Создание салона</string>
   <string name="creatable.salon.salon_type" comment="creatable -&gt; salon -&gt; salon_type">Давайте начнём — помогу вам настроить всё под ваши задачи. Для начала выберите, какое пространство вы создаёте</string>
   <string name="creatable.salon.master_type" comment="creatable -&gt; salon -&gt; master_type">Индивидуальный мастер</string>
@@ -457,7 +457,7 @@
   <string name="creatable.salon.unable_address" comment="creatable -&gt; salon -&gt; unable_address">Недоступный адрес</string>
   <string name="creatable.salon.notice_request" comment="creatable -&gt; salon -&gt; notice_request">Чтобы не пропустить сообщения от клиентов, разрешите уведомления</string>
   <string name="creatable.salon.turn_on_notifications" comment="creatable -&gt; salon -&gt; turn_on_notifications">Вы отключили push уведомления в [настройках](%s), включите их там же</string>
-  <string name="creatable.salon.unfinished_creatable" comment="creatable -&gt; salon -&gt; unfinished_creatable">We found an unfinished salon creation on your site!</string>
+  <string name="creatable.salon.unfinished_creatable" comment="creatable -&gt; salon -&gt; unfinished_creatable">Мы нашли у вас не завершенное создание салона!</string>
   <string name="creatable.procedure.title" comment="creatable -&gt; procedure -&gt; title">Создание процедуры</string>
   <string name="creatable.procedure.name_enter" comment="creatable -&gt; procedure -&gt; name_enter">Давайте начнём с названия — введите его вручную или выберите из списка</string>
   <string name="creatable.procedure.name_hint" comment="creatable -&gt; procedure -&gt; name_hint">Выбор уже существующего названия поможет клиентам быстрее вас найти</string>
@@ -470,16 +470,16 @@
   <string name="creatable.procedure.price_title" comment="creatable -&gt; procedure -&gt; price_title">Укажите стоимость — эта информация отобразится на странице процедуры</string>
   <string name="creatable.procedure.price_placeholder" comment="creatable -&gt; procedure -&gt; price_placeholder">Введите сумму...</string>
   <string name="creatable.procedure.masters_title" comment="creatable -&gt; procedure -&gt; masters_title">Кто из мастеров будет выполнять эту услугу?</string>
-  <string name="creatable.procedure.missing_duration" comment="creatable -&gt; procedure -&gt; missing_duration">Missing duration</string>
-  <string name="creatable.procedure.missing_price" comment="creatable -&gt; procedure -&gt; missing_price">Missing price</string>
-  <string name="creatable.procedure.missing_service_id" comment="creatable -&gt; procedure -&gt; missing_service_id">Missing service ID</string>
-  <string name="creatable.procedure.missing_master" comment="creatable -&gt; procedure -&gt; missing_master">Missing master</string>
-  <string name="creatable.procedure.unfinished_creatable" comment="creatable -&gt; procedure -&gt; unfinished_creatable">We found an unfinished procedure creation</string>
+  <string name="creatable.procedure.missing_duration" comment="creatable -&gt; procedure -&gt; missing_duration">Отсутствует продолжительность</string>
+  <string name="creatable.procedure.missing_price" comment="creatable -&gt; procedure -&gt; missing_price">Отсутствует цена</string>
+  <string name="creatable.procedure.missing_service_id" comment="creatable -&gt; procedure -&gt; missing_service_id">Отсутствует ID сервиса</string>
+  <string name="creatable.procedure.missing_master" comment="creatable -&gt; procedure -&gt; missing_master">Отсутствует мастер</string>
+  <string name="creatable.procedure.unfinished_creatable" comment="creatable -&gt; procedure -&gt; unfinished_creatable">Мы обнаружили незавершенную процедуру создания</string>
   <string name="creatable.client.title" comment="creatable -&gt; client -&gt; title">Новый клиент</string>
   <string name="creatable.client.name_enter" comment="creatable -&gt; client -&gt; name_enter">Введите имя клиента</string>
   <string name="creatable.client.name_placeholder" comment="creatable -&gt; client -&gt; name_placeholder">Введите имя...</string>
   <string name="creatable.client.add_contact" comment="creatable -&gt; client -&gt; add_contact">Добавьте способ связи — так вы всегда сможете легко связаться с клиентом</string>
-  <string name="creatable.client.unfinished_creatable" comment="creatable -&gt; client -&gt; unfinished_creatable">We found an unfinished client creation on your site!</string>
+  <string name="creatable.client.unfinished_creatable" comment="creatable -&gt; client -&gt; unfinished_creatable">Мы нашли у вас не завершенное создание клиента!</string>
   <string name="creatable.employee.title" comment="creatable -&gt; employee -&gt; title">Новый сотрудник</string>
   <string name="creatable.employee.name_enter" comment="creatable -&gt; employee -&gt; name_enter">Введите имя сотрудника</string>
   <string name="creatable.employee.name_placeholder" comment="creatable -&gt; employee -&gt; name_placeholder">Введите имя...</string>
@@ -508,7 +508,7 @@
   <string name="creatable.schedule.weekend" comment="creatable -&gt; schedule -&gt; weekend">Выходные:</string>
   <string name="creatable.schedule.work_time" comment="creatable -&gt; schedule -&gt; work_time">Рабочее время:</string>
   <string name="creatable.schedule.off_time" comment="creatable -&gt; schedule -&gt; off_time">Перерывы:</string>
-  <string name="creatable.schedule.missing_timetable" comment="creatable -&gt; schedule -&gt; missing_timetable">Missing timetable</string>
+  <string name="creatable.schedule.missing_timetable" comment="creatable -&gt; schedule -&gt; missing_timetable">Отсутствует расписание</string>
   <string name="creatable.contact.title" comment="creatable -&gt; contact -&gt; title">Создание контакта</string>
   <string name="creatable.contact.contact_type" comment="creatable -&gt; contact -&gt; contact_type">Выберите предпочтительный способ связи</string>
   <string name="creatable.contact.instagram" comment="creatable -&gt; contact -&gt; instagram">Instagram</string>
@@ -531,7 +531,7 @@
   <string name="creatable.appointment.morning" comment="creatable -&gt; appointment -&gt; morning">Утро</string>
   <string name="creatable.appointment.afternoon" comment="creatable -&gt; appointment -&gt; afternoon">После обеда</string>
   <string name="creatable.appointment.evening" comment="creatable -&gt; appointment -&gt; evening">Вечер</string>
-  <string name="creatable.appointment.unfinished_creatable_found" comment="creatable -&gt; appointment -&gt; unfinished_creatable_found">We found an unfinished post creation on your site!</string>
+  <string name="creatable.appointment.unfinished_creatable_found" comment="creatable -&gt; appointment -&gt; unfinished_creatable_found">Мы нашли у вас незавершенное создание записи!</string>
   <string name="creatable.auth.add_salon" comment="creatable -&gt; auth -&gt; add_salon">Добавить салон</string>
   <string name="creatable.auth.enter_name" comment="creatable -&gt; auth -&gt; enter_name">Кто ты?</string>
   <string name="creatable.auth.later_logo" comment="creatable -&gt; auth -&gt; later_logo">Если у тебе нет подходящего фото сейчас. Ты всегда сможете добавить его позже в настройках профиля.</string>
@@ -543,47 +543,47 @@
   <string name="creatable.auth.upload_logo" comment="creatable -&gt; auth -&gt; upload_logo">Давай загрузим твою аватарку</string>
   <string name="creatable.auth.welcome_message" comment="creatable -&gt; auth -&gt; welcome_message">Войди или зарегистрируйся чтобы использовать сервис на любом устройстве.</string>
   <string name="creatable.auth.who_are_you" comment="creatable -&gt; auth -&gt; who_are_you">Желаешь зарегистрироваться как мастер или как клиент?</string>
-  <string name="creatable.auth.transparency_tracking_request" comment="creatable -&gt; auth -&gt; transparency_tracking_request">We will also ask for access to your preference data to improve recommendations and optimize your user experience.</string>
-  <string name="creatable.auth.uncompleted_registration_found" comment="creatable -&gt; auth -&gt; uncompleted_registration_found">We found an unfinished registration!</string>
-  <string name="creatable.auth.add_recovery_title" comment="creatable -&gt; auth -&gt; add_recovery_title">Add recovery method</string>
-  <string name="creatable.auth.select_contact_method" comment="creatable -&gt; auth -&gt; select_contact_method">Specify a method for the masters to contact you, it will be displayed in the profile</string>
-  <string name="creatable.auth.add_recovery_description" comment="creatable -&gt; auth -&gt; add_recovery_description">Please provide your phone number or email.\nThis is necessary so that you can always restore access to your account.</string>
-  <string name="creatable.auth.add_workplace" comment="creatable -&gt; auth -&gt; add_workplace">Add a workstation to continue registration</string>
+  <string name="creatable.auth.transparency_tracking_request" comment="creatable -&gt; auth -&gt; transparency_tracking_request">Мы также попросим доступ к данным о твоих предпочтениях, чтобы улучшить рекомендации и оптимизировать твой пользовательский опыт.</string>
+  <string name="creatable.auth.uncompleted_registration_found" comment="creatable -&gt; auth -&gt; uncompleted_registration_found">Мы нашли у вас не законченную регистрацию!</string>
+  <string name="creatable.auth.add_recovery_title" comment="creatable -&gt; auth -&gt; add_recovery_title">Добавьте способ восстановления</string>
+  <string name="creatable.auth.select_contact_method" comment="creatable -&gt; auth -&gt; select_contact_method">Укажи способ связи с тобой для мастеров, он будет отображаться в профиле</string>
+  <string name="creatable.auth.add_recovery_description" comment="creatable -&gt; auth -&gt; add_recovery_description">Укажи номер телефона или email.\nЭто нужно, чтобы ты всегда мог восстановить доступ к аккаунту.</string>
+  <string name="creatable.auth.add_workplace" comment="creatable -&gt; auth -&gt; add_workplace">Добавьте рабочее место для продолжения регистрации</string>
   <string name="creatable.professional.create_another_salon" comment="creatable -&gt; professional -&gt; create_another_salon">Ты также можешь добавить еще один салон</string>
   <string name="creatable.professional.create_first_salon" comment="creatable -&gt; professional -&gt; create_first_salon">Ты можешь создать свой первый салон</string>
   <string name="creatable.professional.create_salon_button" comment="creatable -&gt; professional -&gt; create_salon_button">Создать салон</string>
   <string name="creatable.professional.invitation_link" comment="creatable -&gt; professional -&gt; invitation_link">Если у тебя есть ссылка-приглашение, пожалуйста, введи её ниже</string>
   <string name="creatable.professional.link_is_not_valid" comment="creatable -&gt; professional -&gt; link_is_not_valid">К сожалению, введённая ссылка недействительна. Пожалуйста, проверь и введи её снова</string>
   <string name="creatable.professional.title" comment="creatable -&gt; professional -&gt; title">Регистрация мастера</string>
-  <string name="creatable.complex.choose_price_shift_type" comment="creatable -&gt; complex -&gt; choose_price_shift_type">Choose price shift type</string>
-  <string name="creatable.complex.name_question" comment="creatable -&gt; complex -&gt; name_question">What shall we call the complex?</string>
-  <string name="creatable.complex.enter_name" comment="creatable -&gt; complex -&gt; enter_name">Enter complex name</string>
-  <string name="creatable.complex.choose_complex_type" comment="creatable -&gt; complex -&gt; choose_complex_type">Choose complex type</string>
-  <string name="creatable.complex.execution_mode_description" comment="creatable -&gt; complex -&gt; execution_mode_description">**Parallel** – the time for the complex will be calculated based on the longest procedure.\r
-**Sequential** – the time for the complex will be calculated based on the sum of the times of all procedures.</string>
-  <string name="creatable.complex.enter_description" comment="creatable -&gt; complex -&gt; enter_description">Enter complex description</string>
-  <string name="creatable.complex.add_description" comment="creatable -&gt; complex -&gt; add_description">Add complex description</string>
-  <string name="creatable.complex.choose_procedures" comment="creatable -&gt; complex -&gt; choose_procedures">Choose procedures for complex</string>
-  <string name="creatable.complex.enter_discount_percentage" comment="creatable -&gt; complex -&gt; enter_discount_percentage">Enter discount percentage</string>
-  <string name="creatable.complex.enter_discount_amount" comment="creatable -&gt; complex -&gt; enter_discount_amount">Enter discount amount</string>
-  <string name="creatable.complex.create_complex" comment="creatable -&gt; complex -&gt; create_complex">Create complex</string>
-  <string name="creatable.complex.tap_to_create_complex" comment="creatable -&gt; complex -&gt; tap_to_create_complex">Tap to create complex</string>
-  <string name="creatable.complex.creation_congratulation" comment="creatable -&gt; complex -&gt; creation_congratulation">Congratulations, you have successfully created a complex</string>
-  <string name="creatable.complex.unfinished_creatable" comment="creatable -&gt; complex -&gt; unfinished_creatable">We found an unfinished complex creation on your site</string>
-  <string name="creatable.complex.percent" comment="creatable -&gt; complex -&gt; percent">Percent</string>
-  <string name="creatable.complex.fixed_amount" comment="creatable -&gt; complex -&gt; fixed_amount">Fixed amount</string>
-  <string name="creatable.complex.consistent" comment="creatable -&gt; complex -&gt; consistent">Consistent</string>
-  <string name="creatable.complex.sequential_description" comment="creatable -&gt; complex -&gt; sequential_description">The time for the complex will be calculated based on the sum of the time of all procedures.</string>
-  <string name="creatable.complex.sequential" comment="creatable -&gt; complex -&gt; sequential">Sequential</string>
-  <string name="creatable.complex.title" comment="creatable -&gt; complex -&gt; title">Complex creation</string>
-  <string name="creatable.complex.enter_value" comment="complex.creatable.enter_value">Enter value</string>
-  <string name="creatable.complex.parallel" comment="creatable -&gt; complex -&gt; parallel">Parallel</string>
-  <string name="creatable.complex.parallel_description" comment="creatable -&gt; complex -&gt; parallel_description">The time for the complex will be calculated based on the longest procedure.</string>
-  <string name="creatable.procedure_update.missing_title" comment="creatable -&gt; procedure_update -&gt; missing_title">Missing title</string>
-  <string name="creatable.service.missing_category" comment="creatable -&gt; service -&gt; missing_category">Missing category</string>
-  <string name="creatable.assignment.unfinished_creatable" comment="creatable -&gt; assignment -&gt; unfinished_creatable">We found an unfinished post creation on your site!</string>
-  <string name="updatable.profile_update.enter_name" comment="updatable -&gt; profile_update -&gt; enter_name">Введи новый никнейм</string>
-  <string name="updatable.profile_update.placeholder" comment="updatable -&gt; profile_update -&gt; placeholder">Имя</string>
+  <string name="creatable.complex.choose_price_shift_type" comment="creatable -&gt; complex -&gt; choose_price_shift_type">Выберите тип изменения цены</string>
+  <string name="creatable.complex.name_question" comment="creatable -&gt; complex -&gt; name_question">Как назовём комплекс?</string>
+  <string name="creatable.complex.enter_name" comment="creatable -&gt; complex -&gt; enter_name">Введите название комплекса</string>
+  <string name="creatable.complex.choose_complex_type" comment="creatable -&gt; complex -&gt; choose_complex_type">Выберите тип комплекса</string>
+  <string name="creatable.complex.execution_mode_description" comment="creatable -&gt; complex -&gt; execution_mode_description">**Параллельный** – время на комплекс будет рассчитано исходя из самой продолжительной процедуры.  
+                       **Последовательный** – время на комплекс будет рассчитано исходя из суммы времени всех процедур.</string>
+  <string name="creatable.complex.enter_description" comment="creatable -&gt; complex -&gt; enter_description">Введите описание комплекса</string>
+  <string name="creatable.complex.add_description" comment="creatable -&gt; complex -&gt; add_description">Добавьте описание комплекса</string>
+  <string name="creatable.complex.choose_procedures" comment="creatable -&gt; complex -&gt; choose_procedures">Выберите процедуры для комплекса</string>
+  <string name="creatable.complex.enter_discount_percentage" comment="creatable -&gt; complex -&gt; enter_discount_percentage">Введите процент скидки</string>
+  <string name="creatable.complex.enter_discount_amount" comment="creatable -&gt; complex -&gt; enter_discount_amount">Введите размер скидки</string>
+  <string name="creatable.complex.create_complex" comment="creatable -&gt; complex -&gt; create_complex">Создать комплекс</string>
+  <string name="creatable.complex.tap_to_create_complex" comment="creatable -&gt; complex -&gt; tap_to_create_complex">Нажмите, чтобы создать комплекс</string>
+  <string name="creatable.complex.creation_congratulation" comment="creatable -&gt; complex -&gt; creation_congratulation">Поздравляем, вы успешно создали комплекс</string>
+  <string name="creatable.complex.unfinished_creatable" comment="creatable -&gt; complex -&gt; unfinished_creatable">Мы нашли у вас незаконченное создание комплекса</string>
+  <string name="creatable.complex.percent" comment="creatable -&gt; complex -&gt; percent">Процент</string>
+  <string name="creatable.complex.fixed_amount" comment="creatable -&gt; complex -&gt; fixed_amount">Фиксированный размер</string>
+  <string name="creatable.complex.consistent" comment="creatable -&gt; complex -&gt; consistent">Последовательный</string>
+  <string name="creatable.complex.sequential_description" comment="creatable -&gt; complex -&gt; sequential_description">Время на комплекс будет рассчитано, исходя из самой продолжительной процедуры</string>
+  <string name="creatable.complex.sequential" comment="creatable -&gt; complex -&gt; sequential">Последовательный</string>
+  <string name="creatable.complex.title" comment="creatable -&gt; complex -&gt; title">Создание комплекса</string>
+  <string name="creatable.complex.enter_value" comment="complex.creatable.enter_value">Введите значение</string>
+  <string name="creatable.complex.parallel" comment="creatable -&gt; complex -&gt; parallel">Параллельный</string>
+  <string name="creatable.complex.parallel_description" comment="creatable -&gt; complex -&gt; parallel_description">Время на комплекс будет рассчитано, исходя из самой продолжительной процедуры</string>
+  <string name="creatable.procedure_update.missing_title" comment="creatable -&gt; procedure_update -&gt; missing_title">Отсутствует название</string>
+  <string name="creatable.service.missing_category" comment="creatable -&gt; service -&gt; missing_category">Отсутствует категория</string>
+  <string name="creatable.assignment.unfinished_creatable" comment="creatable -&gt; assignment -&gt; unfinished_creatable">Мы нашли у вас незавершенное создание записи!</string>
+  <string name="updatable.profile_update.enter_name" comment="updatable -&gt; profile_update -&gt; enter_name">Enter new nickname</string>
+  <string name="updatable.profile_update.placeholder" comment="updatable -&gt; profile_update -&gt; placeholder">Name</string>
   <string name="updatable.profile_update.save" comment="updatable -&gt; profile_update -&gt; save">Сохранить</string>
   <string name="updatable.profile_update.title" comment="updatable -&gt; profile_update -&gt; title">Обновление профиля</string>
   <string name="updatable.profile_update.upload_avatar" comment="updatable -&gt; profile_update -&gt; upload_avatar">Загрузи новый аватар</string>
@@ -598,20 +598,20 @@
   <string name="error.default.register_as_master" comment="error -&gt; default -&gt; register_as_master">Для обработки ссылки необходимо зарегистрироваться как мастер</string>
   <string name="error.default.unknown_error" comment="error -&gt; default -&gt; unknown_error">Неизвестная ошибка</string>
   <string name="error.default.failedToLoadImage" comment="error -&gt; default -&gt; failedToLoadImage">Не удалось загрузить изображение. Проверьте подключение к сети и попробуйте снова.</string>
-  <string name="error.default.missing_master" comment="error -&gt; default -&gt; missing_master">Missing master</string>
-  <string name="error.default.missing_procedures" comment="error -&gt; default -&gt; missing_procedures">Missing procedures</string>
-  <string name="error.default.missing_date_interval" comment="error -&gt; default -&gt; missing_date_interval">Missing date interval</string>
-  <string name="error.default.another_timezone_worktime" comment="error -&gt; default -&gt; another_timezone_worktime">Opening hours are shown in a different time zone</string>
-  <string name="error.default.missing_title" comment="error -&gt; default -&gt; missing_title">Missing title</string>
-  <string name="error.default.image_load_failed" comment="error -&gt; default -&gt; image_load_failed">Image load failed</string>
-  <string name="error.default.offtime_is_out_of_worktime" comment="error -&gt; default -&gt; offtime_is_out_of_worktime">Offtime is out of worktime</string>
-  <string name="error.default.missing_type" comment="error -&gt; default -&gt; missing_type">Missing type</string>
-  <string name="error.default.missing_description" comment="error -&gt; default -&gt; missing_description">Missing description</string>
-  <string name="error.default.missing_client" comment="error -&gt; default -&gt; missing_client">Missing client</string>
-  <string name="error.default.missing_client_name" comment="error -&gt; default -&gt; missing_client_name">Missing client name</string>
-  <string name="error.default.missing_client_contacts" comment="error -&gt; default -&gt; missing_client_contacts">Missing client contacts</string>
-  <string name="error.default.missing_permissions" comment="error -&gt; default -&gt; missing_permissions">Missing permissions</string>
-  <string name="error.default.missing_salary" comment="error -&gt; default -&gt; missing_salary">Missing salary</string>
+  <string name="error.default.missing_master" comment="error -&gt; default -&gt; missing_master">Отсутствует мастер</string>
+  <string name="error.default.missing_procedures" comment="error -&gt; default -&gt; missing_procedures">Отсутствуют процедуры</string>
+  <string name="error.default.missing_date_interval" comment="error -&gt; default -&gt; missing_date_interval">Отсутствует интервал дат</string>
+  <string name="error.default.another_timezone_worktime" comment="error -&gt; default -&gt; another_timezone_worktime">Время работы указано в другой часовой зоне</string>
+  <string name="error.default.missing_title" comment="error -&gt; default -&gt; missing_title">Отсутствует название</string>
+  <string name="error.default.image_load_failed" comment="error -&gt; default -&gt; image_load_failed">Произошла ошибка при загрузке изображений</string>
+  <string name="error.default.offtime_is_out_of_worktime" comment="error -&gt; default -&gt; offtime_is_out_of_worktime">Нерабочее время выходит за рамки рабочего времени.</string>
+  <string name="error.default.missing_type" comment="error -&gt; default -&gt; missing_type">Отсутствует тип</string>
+  <string name="error.default.missing_description" comment="error -&gt; default -&gt; missing_description">Отсутствует описание</string>
+  <string name="error.default.missing_client" comment="error -&gt; default -&gt; missing_client">Отсутствует клиент</string>
+  <string name="error.default.missing_client_name" comment="error -&gt; default -&gt; missing_client_name">Отсутствует имя клиента</string>
+  <string name="error.default.missing_client_contacts" comment="error -&gt; default -&gt; missing_client_contacts">Отсутствуют контакты клиента</string>
+  <string name="error.default.missing_permissions" comment="error -&gt; default -&gt; missing_permissions">Отсутствуют разрешения</string>
+  <string name="error.default.missing_salary" comment="error -&gt; default -&gt; missing_salary">Отсутствует зарплата</string>
   <string name="error.http.bad_gateway" comment="error -&gt; http -&gt; bad_gateway">502 Плохой шлюз: Сервер, действующий как шлюз или прокси, получил недопустимый ответ от вышестоящего сервера.</string>
   <string name="error.http.bad_request" comment="error -&gt; http -&gt; bad_request">400 Неправильный запрос: Сервер не понимает запрос из-за неверного синтаксиса.</string>
   <string name="error.http.conflict" comment="error -&gt; http -&gt; conflict">409 Конфликт: Запрос не может быть обработан из-за конфликта в запросе, например, конфликта редактирования между несколькими одновременными обновлениями.</string>
@@ -622,15 +622,15 @@
   <string name="error.http.not_found" comment="error -&gt; http -&gt; not_found">404 Не найдено: Сервер не может найти запрашиваемый ресурс. Это самая распространенная ошибка, указывающая на несуществующую страницу.</string>
   <string name="error.http.service_unavailable" comment="error -&gt; http -&gt; service_unavailable">503 Сервис недоступен: Сервер не может обработать запрос из-за временной перегрузки или обслуживания.</string>
   <string name="error.http.unauthorized" comment="error -&gt; http -&gt; unauthorized">401 Неавторизован: Требуется аутентификация. Пользователь должен залогиниться для доступа.</string>
-  <string name="error.complex.missing_title" comment="error -&gt; complex -&gt; missing_title">Missing title</string>
-  <string name="error.complex.missing_procedures" comment="error -&gt; complex -&gt; missing_procedures">Missing procedures</string>
-  <string name="error.complex.empty_procedures" comment="error -&gt; complex -&gt; empty_procedures">The complex must contain at least one procedure</string>
-  <string name="error.complex.missing_price_shift" comment="error -&gt; complex -&gt; missing_price_shift">Problem with price type and value</string>
-  <string name="error.complex.missing_complex_type" comment="error -&gt; complex -&gt; missing_complex_type">Problem with complex type</string>
-  <string name="step.complex_chunks.selected_procedures">Selected procedures</string>
-  <string name="service.shortcut.something_wrong">Something wrong?</string>
-  <string name="service.shortcut.give_feedback">Please leave us feedback before app deletion. It will...</string>
-  <string name="service.shortcut.mail_body" comment="service -&gt; shortcut -&gt; mail_body">Hello!
-I am writing to share my review of the Maetry application. Below is my review:</string>
-  <string name="shortcut.service.mail_subject">Feedback on Maetry Application</string>
+  <string name="error.complex.missing_title" comment="error -&gt; complex -&gt; missing_title">Отсутствует название</string>
+  <string name="error.complex.missing_procedures" comment="error -&gt; complex -&gt; missing_procedures">Отсутствуют процедуры</string>
+  <string name="error.complex.empty_procedures" comment="error -&gt; complex -&gt; empty_procedures">Комплекс должен содержать хотя бы одну процедуру</string>
+  <string name="error.complex.missing_price_shift" comment="error -&gt; complex -&gt; missing_price_shift">Проблема с типом и значением цены</string>
+  <string name="error.complex.missing_complex_type" comment="error -&gt; complex -&gt; missing_complex_type">Проблема с типом комплекса</string>
+  <string name="step.complex_chunks.selected_procedures">Выбранные процедуры</string>
+  <string name="service.shortcut.something_wrong">Что-то не так?</string>
+  <string name="service.shortcut.give_feedback">Пожалуйста, оставьте нам отзыв перед удалением приложения. Это будет...</string>
+  <string name="service.shortcut.mail_body" comment="service -&gt; shortcut -&gt; mail_body">Здравствуйте!
+Пишу, чтобы поделиться своим отзывом о приложении Maetry. Ниже мой отзыв:</string>
+  <string name="shortcut.service.mail_subject">Обратная связь о приложении Maetry</string>
 </resources>
