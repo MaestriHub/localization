@@ -88,7 +88,7 @@
 /* screen -> workplace -> schedule */
 "screen.workplace.schedule" = "График";
 /* screen -> workplace -> dashboard */
-"screen.workplace.dashboard" = "Салон";
+"screen.workplace.dashboard" = "Управления";
 /* screen -> workplace -> action -> title */
 "screen.workplace.action.title" = "Быстрые действия";
 /* screen -> workplace -> action -> sharing */
