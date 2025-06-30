@@ -45,7 +45,7 @@
   <string name="screen.workplace.settings" comment="screen -&gt; workplace -&gt; settings">Настройки</string>
   <string name="screen.workplace.workspace" comment="screen -&gt; workplace -&gt; workspace">Записи</string>
   <string name="screen.workplace.schedule" comment="screen -&gt; workplace -&gt; schedule">График</string>
-  <string name="screen.workplace.dashboard" comment="screen -&gt; workplace -&gt; dashboard">Салон</string>
+  <string name="screen.workplace.dashboard" comment="screen -&gt; workplace -&gt; dashboard">Управления</string>
   <string name="screen.workplace.action.title" comment="screen -&gt; workplace -&gt; action -&gt; title">Быстрые действия</string>
   <string name="screen.workplace.action.sharing" comment="screen -&gt; workplace -&gt; action -&gt; sharing">Поделится</string>
   <string name="screen.workplace.action.invite_employee" comment="screen -&gt; workplace -&gt; action -&gt; invite_employee">Добавить сотрудника</string>
