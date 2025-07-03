@@ -1362,7 +1362,7 @@ public enum Loc {
         /// screen -> settings -> danger_zone -> delete_placeholder
         public static let deletePlaceholder = Loc.tr("Localizable", "screen.settings.danger_zone.delete_placeholder", fallback: "Salon name")
         /// screen -> settings -> danger_zone -> delete_title
-        public static let deleteTitle = Loc.tr("Localizable", "screen.settings.danger_zone.delete_title", fallback: "Delete user")
+        public static let deleteTitle = Loc.tr("Localizable", "screen.settings.danger_zone.delete_title", fallback: "Delete salon")
         /// screen -> settings -> danger_zone -> delete_title_alert
         public static let deleteTitleAlert = Loc.tr("Localizable", "screen.settings.danger_zone.delete_title_alert", fallback: "The action cannot be undone. Are you sure you want to delete?")
         /// screen -> settings -> danger_zone -> title
@@ -1401,7 +1401,7 @@ public enum Loc {
     }
     public enum Workplace {
       /// screen -> workplace -> dashboard
-      public static let dashboard = Loc.tr("Localizable", "screen.workplace.dashboard", fallback: "Salon")
+      public static let dashboard = Loc.tr("Localizable", "screen.workplace.dashboard", fallback: "Dashboard")
       /// screen -> workplace -> placeholder_create
       public static let placeholderCreate = Loc.tr("Localizable", "screen.workplace.placeholder_create", fallback: "Start working with Maetry\n Create your first salon")
       /// screen -> workplace -> placeholder_select

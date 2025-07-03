@@ -88,7 +88,7 @@
 /* screen -> workplace -> schedule */
 "screen.workplace.schedule" = "Schedule";
 /* screen -> workplace -> dashboard */
-"screen.workplace.dashboard" = "Salon";
+"screen.workplace.dashboard" = "Dashboard";
 /* screen -> workplace -> action -> title */
 "screen.workplace.action.title" = "Quick actions";
 /* screen -> workplace -> action -> sharing */
@@ -416,7 +416,7 @@
 /* screen -> settings -> danger_zone -> deactivate_title */
 "screen.settings.danger_zone.deactivate_title" = "Deactivate salon";
 /* screen -> settings -> danger_zone -> delete_title */
-"screen.settings.danger_zone.delete_title" = "Delete user";
+"screen.settings.danger_zone.delete_title" = "Delete salon";
 /* screen -> settings -> danger_zone -> delete_hint */
 "screen.settings.danger_zone.delete_hint" = "This action cannot be undone";
 /* screen -> settings -> danger_zone -> delete_title_alert */
