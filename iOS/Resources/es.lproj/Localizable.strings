@@ -5,7 +5,7 @@
 /* screen -> public -> continuation_action */
 "screen.public.continuation_action" = "Presiona el botón para continuar";
 /* screen -> public -> welcome */
-"screen.public.welcome" = "Добро пожаловать в Maetry!";
+"screen.public.welcome" = "¡Bienvenido a Maetry!";
 /* screen -> profile -> title */
 "screen.profile.title" = "Perfil";
 /* screen -> profile -> support -> title */
@@ -582,17 +582,17 @@
 /* screen -> services -> search */
 "screen.services.search" = "Buscar servicio";
 /* screen -> knowledge_base -> title */
-"screen.knowledge_base.title" = "База знаний";
+"screen.knowledge_base.title" = "Base de conocimientos";
 /* screen -> knowledge_base -> salon_creation */
 "screen.knowledge_base.salon_creation" = "Creación de salón";
 /* screen -> knowledge_base -> workplace_setup */
-"screen.knowledge_base.workplace_setup" = "Настройка рабочего пространства";
+"screen.knowledge_base.workplace_setup" = "Configurar su espacio de trabajo";
 /* screen -> knowledge_base -> schedule_setup */
-"screen.knowledge_base.schedule_setup" = "Настройка расписания";
+"screen.knowledge_base.schedule_setup" = "Establecer un horario";
 /* screen -> knowledge_base -> employees */
 "screen.knowledge_base.employees" = "Empleados";
 /* screen -> knowledge_base -> clients */
-"screen.knowledge_base.clients" = "Клиенты";
+"screen.knowledge_base.clients" = "Clientela";
 /* screen -> knowledge_base -> appointments */
 "screen.knowledge_base.appointments" = "Citas";
 /* widget -> address -> title */
@@ -634,7 +634,7 @@
 /* widget -> dashboard -> danger_zone -> error */
 "widget.dashboard.danger_zone.error" = "Error en la zona de peligro del panel";
 /* widget -> knowledge_base -> title */
-"widget.knowledge_base.title" = "База знаний";
+"widget.knowledge_base.title" = "Base de conocimientos";
 /* reusable -> ok */
 "reusable.ok" = "Ok";
 /* reusable -> info */
@@ -852,7 +852,7 @@
 /* onboarding -> procedure -> step4 -> title */
 "onboarding.procedure.step4.title" = "Seleccionar especialistas";
 /* onboarding -> procedure -> step4 -> subtitle */
-"onboarding.procedure.step4.subtitle" = "На последнем шаге выберите мастеров, которые будут оказывать эту услугу. После этого клиенты смогут легко к ним записаться";
+"onboarding.procedure.step4.subtitle" = "En el último paso, selecciona los profesionales que te prestarán este servicio. Posteriormente los clientes podrán concertar una cita con ellos fácilmente.";
 /* onboarding -> workplace -> step1 -> subtitle */
 "onboarding.workplace.step1.subtitle" = "Para abrir el área de trabajo, toca el widget de Citas";
 /* onboarding -> workplace -> step1 -> title */
@@ -1269,7 +1269,7 @@ Esto es necesario para recuperar acceso a tu cuenta";
 "error.complex.missing_complex_type" = "Problema con el tipo de complejo";
 "step.complex_chunks.selected_procedures" = "Procedimientos seleccionados";
 /* step -> time_slot -> time_zone_difference */
-"step.time_slot.time_zone_difference" = "Разница в часовом поясе";
+"step.time_slot.time_zone_difference" = "Diferencia horaria";
 /* step -> procedures -> procedure_description */
 "step.procedures.procedure_description" = "Descripción";
 "service.shortcut.something_wrong" = "¿Algo salió mal?";
@@ -1278,4 +1278,4 @@ Esto es necesario para recuperar acceso a tu cuenta";
 "service.shortcut.mail_body" = "¡Hola!
 Quiero compartir mi opinión sobre la aplicación Maetry. Aquí está mi reseña:";
 "shortcut.service.mail_subject" = "Opinión sobre la aplicación Maetry";
-"cell.contact.select_phone_number" = "Выбрать номер";
+"cell.contact.select_phone_number" = "Seleccionar número";
