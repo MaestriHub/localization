@@ -45,7 +45,7 @@
   <string name="screen.workplace.settings" comment="screen -&gt; workplace -&gt; settings">Settings</string>
   <string name="screen.workplace.workspace" comment="screen -&gt; workplace -&gt; workspace">Appointments</string>
   <string name="screen.workplace.schedule" comment="screen -&gt; workplace -&gt; schedule">Schedule</string>
-  <string name="screen.workplace.dashboard" comment="screen -&gt; workplace -&gt; dashboard">Salon</string>
+  <string name="screen.workplace.dashboard" comment="screen -&gt; workplace -&gt; dashboard">Dashboard</string>
   <string name="screen.workplace.action.title" comment="screen -&gt; workplace -&gt; action -&gt; title">Quick actions</string>
   <string name="screen.workplace.action.sharing" comment="screen -&gt; workplace -&gt; action -&gt; sharing">Share</string>
   <string name="screen.workplace.action.invite_employee" comment="screen -&gt; workplace -&gt; action -&gt; invite_employee">Add employee</string>
@@ -209,7 +209,7 @@
   <string name="screen.settings.danger_zone.deactivate" comment="screen -&gt; settings -&gt; danger_zone -&gt; deactivate">Deactivate</string>
   <string name="screen.settings.danger_zone.deactivate_hint" comment="screen -&gt; settings -&gt; danger_zone -&gt; deactivate_hint">Stop salon, remove from search</string>
   <string name="screen.settings.danger_zone.deactivate_title" comment="screen -&gt; settings -&gt; danger_zone -&gt; deactivate_title">Deactivate salon</string>
-  <string name="screen.settings.danger_zone.delete_title" comment="screen -&gt; settings -&gt; danger_zone -&gt; delete_title">Delete user</string>
+  <string name="screen.settings.danger_zone.delete_title" comment="screen -&gt; settings -&gt; danger_zone -&gt; delete_title">Delete salon</string>
   <string name="screen.settings.danger_zone.delete_hint" comment="screen -&gt; settings -&gt; danger_zone -&gt; delete_hint">This action cannot be undone</string>
   <string name="screen.settings.danger_zone.delete_title_alert" comment="screen -&gt; settings -&gt; danger_zone -&gt; delete_title_alert">The action cannot be undone. Are you sure you want to delete?</string>
   <string name="screen.settings.danger_zone.delete_message_alert" comment="screen -&gt; settings -&gt; danger_zone -&gt; delete_message_alert">To confirm, enter the salon name in the field below</string>
