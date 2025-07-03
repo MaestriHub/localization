@@ -1,11 +1,11 @@
-/* screen -> public -> welcome */
-"screen.public.welcome" = "Welcome to Maetryparallel";
 /* screen -> public -> client_button */
 "screen.public.client_button" = "Continue as Client";
 /* screen -> public -> pro_button */
 "screen.public.pro_button" = "Continue as Specialist";
 /* screen -> public -> continuation_action */
 "screen.public.continuation_action" = "Press the button to continue";
+/* screen -> public -> welcome */
+"screen.public.welcome" = "Welcome to Maetry!";
 /* screen -> profile -> title */
 "screen.profile.title" = "Profile";
 /* screen -> profile -> support -> title */
@@ -581,6 +581,20 @@
 "screen.procedure_editing.service_price" = "Service price";
 /* screen -> services -> search */
 "screen.services.search" = "Search for service";
+/* screen -> knowledge_base -> title */
+"screen.knowledge_base.title" = "Knowledge base";
+/* screen -> knowledge_base -> salon_creation */
+"screen.knowledge_base.salon_creation" = "Salon creation";
+/* screen -> knowledge_base -> workplace_setup */
+"screen.knowledge_base.workplace_setup" = "Workplace setup";
+/* screen -> knowledge_base -> schedule_setup */
+"screen.knowledge_base.schedule_setup" = "Schedule setup";
+/* screen -> knowledge_base -> employees */
+"screen.knowledge_base.employees" = "Employees";
+/* screen -> knowledge_base -> clients */
+"screen.knowledge_base.clients" = "Clients";
+/* screen -> knowledge_base -> appointments */
+"screen.knowledge_base.appointments" = "Appointments";
 /* widget -> address -> title */
 "widget.address.title" = "Address";
 /* widget -> address -> navigation */
@@ -619,6 +633,8 @@
 "widget.position.danger_zone.confirm_removal" = "Confirm removal";
 /* widget -> dashboard -> danger_zone -> error */
 "widget.dashboard.danger_zone.error" = "Dashboard danger zone error";
+/* widget -> knowledge_base -> title */
+"widget.knowledge_base.title" = "Knowledge base";
 /* reusable -> ok */
 "reusable.ok" = "Ok";
 /* reusable -> info */
@@ -822,7 +838,7 @@
 /* onboarding -> employee -> step3 -> subtitle */
 "onboarding.employee.step3.subtitle" = "Once you add a stylist, their cell will appear in the tab of the selected position. From there, you can send them an invitation to join your salon.";
 /* onboarding -> procedure -> step1 -> title */
-"onboarding.procedure.step1.title" = "Workspace";
+"onboarding.procedure.step1.title" = "Create procedure";
 /* onboarding -> procedure -> step1 -> subtitle */
 "onboarding.procedure.step1.subtitle" = "In the navigation panel, go to the \nSalon tab and click Add new service 􁥉";
 /* onboarding -> procedure -> step2 -> title */
@@ -1251,9 +1267,14 @@
 /* error -> complex -> missing_complex_type */
 "error.complex.missing_complex_type" = "Problem with complex type";
 "step.complex_chunks.selected_procedures" = "Selected procedures";
+/* step -> time_slot -> time_zone_difference */
+"step.time_slot.time_zone_difference" = "Time zone difference";
+/* step -> procedures -> procedure_description */
+"step.procedures.procedure_description" = "Description";
 "service.shortcut.something_wrong" = "Something wrong?";
 "service.shortcut.give_feedback" = "Please leave us feedback before app deletion. It will...";
 /* service -> shortcut -> mail_body */
 "service.shortcut.mail_body" = "Hello!
 I am writing to share my review of the Maetry application. Below is my review:";
 "shortcut.service.mail_subject" = "Feedback on Maetry Application";
+"cell.contact.select_phone_number" = "Select number";

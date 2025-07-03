@@ -10,6 +10,12 @@ import Foundation
 // swiftlint:disable explicit_type_interface function_parameter_count identifier_name line_length
 // swiftlint:disable nesting type_body_length type_name vertical_whitespace_opening_braces
 public enum Loc {
+  public enum Cell {
+    public enum Contact {
+      /// Select number
+      public static let selectPhoneNumber = Loc.tr("Localizable", "cell.contact.select_phone_number", fallback: "Select number")
+    }
+  }
   public enum Creatable {
     public enum Appointment {
       /// creatable -> appointment -> afternoon
@@ -510,7 +516,7 @@ public enum Loc {
         /// onboarding -> procedure -> step1 -> subtitle
         public static let subtitle = Loc.tr("Localizable", "onboarding.procedure.step1.subtitle", fallback: "In the navigation panel, go to the \nSalon tab and click Add new service 􁥉")
         /// onboarding -> procedure -> step1 -> title
-        public static let title = Loc.tr("Localizable", "onboarding.procedure.step1.title", fallback: "Workspace")
+        public static let title = Loc.tr("Localizable", "onboarding.procedure.step1.title", fallback: "Create procedure")
       }
       public enum Step2 {
         /// onboarding -> procedure -> step2 -> subtitle
@@ -927,6 +933,22 @@ public enum Loc {
       /// screen -> history -> title
       public static let title = Loc.tr("Localizable", "screen.history.title", fallback: "History")
     }
+    public enum KnowledgeBase {
+      /// screen -> knowledge_base -> appointments
+      public static let appointments = Loc.tr("Localizable", "screen.knowledge_base.appointments", fallback: "Appointments")
+      /// screen -> knowledge_base -> clients
+      public static let clients = Loc.tr("Localizable", "screen.knowledge_base.clients", fallback: "Clients")
+      /// screen -> knowledge_base -> employees
+      public static let employees = Loc.tr("Localizable", "screen.knowledge_base.employees", fallback: "Employees")
+      /// screen -> knowledge_base -> salon_creation
+      public static let salonCreation = Loc.tr("Localizable", "screen.knowledge_base.salon_creation", fallback: "Salon creation")
+      /// screen -> knowledge_base -> schedule_setup
+      public static let scheduleSetup = Loc.tr("Localizable", "screen.knowledge_base.schedule_setup", fallback: "Schedule setup")
+      /// screen -> knowledge_base -> title
+      public static let title = Loc.tr("Localizable", "screen.knowledge_base.title", fallback: "Knowledge base")
+      /// screen -> knowledge_base -> workplace_setup
+      public static let workplaceSetup = Loc.tr("Localizable", "screen.knowledge_base.workplace_setup", fallback: "Workplace setup")
+    }
     public enum Main {
       /// screen -> main -> history_action
       public static let historyAction = Loc.tr("Localizable", "screen.main.history_action", fallback: "Open")
@@ -1199,7 +1221,7 @@ public enum Loc {
       /// screen -> public -> pro_button
       public static let proButton = Loc.tr("Localizable", "screen.public.pro_button", fallback: "Continue as Specialist")
       /// screen -> public -> welcome
-      public static let welcome = Loc.tr("Localizable", "screen.public.welcome", fallback: "Welcome to Maetryparallel")
+      public static let welcome = Loc.tr("Localizable", "screen.public.welcome", fallback: "Welcome to Maetry!")
     }
     public enum Salary {
       /// screen -> salary -> alert_title
@@ -1471,6 +1493,14 @@ public enum Loc {
       /// Selected procedures
       public static let selectedProcedures = Loc.tr("Localizable", "step.complex_chunks.selected_procedures", fallback: "Selected procedures")
     }
+    public enum Procedures {
+      /// step -> procedures -> procedure_description
+      public static let procedureDescription = Loc.tr("Localizable", "step.procedures.procedure_description", fallback: "Description")
+    }
+    public enum TimeSlot {
+      /// step -> time_slot -> time_zone_difference
+      public static let timeZoneDifference = Loc.tr("Localizable", "step.time_slot.time_zone_difference", fallback: "Time zone difference")
+    }
   }
   public enum Updatable {
     public enum ProfileUpdate {
@@ -1536,6 +1566,10 @@ public enum Loc {
         /// widget -> dashboard -> danger_zone -> error
         public static let error = Loc.tr("Localizable", "widget.dashboard.danger_zone.error", fallback: "Dashboard danger zone error")
       }
+    }
+    public enum KnowledgeBase {
+      /// widget -> knowledge_base -> title
+      public static let title = Loc.tr("Localizable", "widget.knowledge_base.title", fallback: "Knowledge base")
     }
     public enum Position {
       public enum DangerZone {
