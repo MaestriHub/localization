@@ -3,7 +3,7 @@
   <string name="screen.public.client_button" comment="screen -&gt; public -&gt; client_button">Continuar como Cliente</string>
   <string name="screen.public.pro_button" comment="screen -&gt; public -&gt; pro_button">Continuar como Especialista</string>
   <string name="screen.public.continuation_action" comment="screen -&gt; public -&gt; continuation_action">Presiona el botón para continuar</string>
-  <string name="screen.public.welcome" comment="screen -&gt; public -&gt; welcome">Добро пожаловать в Maetry!</string>
+  <string name="screen.public.welcome" comment="screen -&gt; public -&gt; welcome">¡Bienvenido a Maetry!</string>
   <string name="screen.profile.title" comment="screen -&gt; profile -&gt; title">Perfil</string>
   <string name="screen.profile.support.title" comment="screen -&gt; profile -&gt; support -&gt; title">¿Tienes preguntas? ¡Estamos aquí!</string>
   <string name="screen.profile.support.message" comment="screen -&gt; profile -&gt; support -&gt; message">¡Estamos aquí para ayudarte! Si tienes alguna pregunta o problema, nuestro equipo de soporte está siempre listo para asistirte</string>
@@ -292,12 +292,12 @@
   <string name="screen.procedure_editing.service_duration" comment="screen -&gt; procedure_editing -&gt; service_duration">Duración del servicio</string>
   <string name="screen.procedure_editing.service_price" comment="screen -&gt; procedure_editing -&gt; service_price">Precio del servicio</string>
   <string name="screen.services.search" comment="screen -&gt; services -&gt; search">Buscar servicio</string>
-  <string name="screen.knowledge_base.title" comment="screen -&gt; knowledge_base -&gt; title">База знаний</string>
+  <string name="screen.knowledge_base.title" comment="screen -&gt; knowledge_base -&gt; title">Base de conocimientos</string>
   <string name="screen.knowledge_base.salon_creation" comment="screen -&gt; knowledge_base -&gt; salon_creation">Creación de salón</string>
-  <string name="screen.knowledge_base.workplace_setup" comment="screen -&gt; knowledge_base -&gt; workplace_setup">Настройка рабочего пространства</string>
-  <string name="screen.knowledge_base.schedule_setup" comment="screen -&gt; knowledge_base -&gt; schedule_setup">Настройка расписания</string>
+  <string name="screen.knowledge_base.workplace_setup" comment="screen -&gt; knowledge_base -&gt; workplace_setup">Configurar su espacio de trabajo</string>
+  <string name="screen.knowledge_base.schedule_setup" comment="screen -&gt; knowledge_base -&gt; schedule_setup">Establecer un horario</string>
   <string name="screen.knowledge_base.employees" comment="screen -&gt; knowledge_base -&gt; employees">Empleados</string>
-  <string name="screen.knowledge_base.clients" comment="screen -&gt; knowledge_base -&gt; clients">Клиенты</string>
+  <string name="screen.knowledge_base.clients" comment="screen -&gt; knowledge_base -&gt; clients">Clientela</string>
   <string name="screen.knowledge_base.appointments" comment="screen -&gt; knowledge_base -&gt; appointments">Citas</string>
   <string name="widget.address.title" comment="widget -&gt; address -&gt; title">Dirección</string>
   <string name="widget.address.navigation" comment="widget -&gt; address -&gt; navigation">Trazar ruta</string>
@@ -318,7 +318,7 @@
   <string name="widget.position.danger_zone.position_removal" comment="widget -&gt; position -&gt; danger_zone -&gt; position_removal">Eliminación del puesto</string>
   <string name="widget.position.danger_zone.confirm_removal" comment="widget -&gt; position -&gt; danger_zone -&gt; confirm_removal">Confirmar eliminación</string>
   <string name="widget.dashboard.danger_zone.error" comment="widget -&gt; dashboard -&gt; danger_zone -&gt; error">Error en la zona de peligro del panel</string>
-  <string name="widget.knowledge_base.title" comment="widget -&gt; knowledge_base -&gt; title">База знаний</string>
+  <string name="widget.knowledge_base.title" comment="widget -&gt; knowledge_base -&gt; title">Base de conocimientos</string>
   <string name="reusable.ok" comment="reusable -&gt; ok">Ok</string>
   <string name="reusable.info" comment="reusable -&gt; info">Información</string>
   <string name="reusable.cancel" comment="reusable -&gt; cancel">Cancelar</string>
@@ -427,7 +427,7 @@
   <string name="onboarding.procedure.step3.title" comment="onboarding -&gt; procedure -&gt; step3 -&gt; title">Procedimientos existentes</string>
   <string name="onboarding.procedure.step3.subtitle" comment="onboarding -&gt; procedure -&gt; step3 -&gt; subtitle">Al tocar 􀇷, selecciona un servicio ya moderado. Se puede configurar y será más fácil que te encuentren</string>
   <string name="onboarding.procedure.step4.title" comment="onboarding -&gt; procedure -&gt; step4 -&gt; title">Seleccionar especialistas</string>
-  <string name="onboarding.procedure.step4.subtitle" comment="onboarding -&gt; procedure -&gt; step4 -&gt; subtitle">На последнем шаге выберите мастеров, которые будут оказывать эту услугу. После этого клиенты смогут легко к ним записаться</string>
+  <string name="onboarding.procedure.step4.subtitle" comment="onboarding -&gt; procedure -&gt; step4 -&gt; subtitle">En el último paso, selecciona los profesionales que te prestarán este servicio. Posteriormente los clientes podrán concertar una cita con ellos fácilmente.</string>
   <string name="onboarding.workplace.step1.subtitle" comment="onboarding -&gt; workplace -&gt; step1 -&gt; subtitle">Para abrir el área de trabajo, toca el widget de Citas</string>
   <string name="onboarding.workplace.step1.title" comment="onboarding -&gt; workplace -&gt; step1 -&gt; title">Área de trabajo</string>
   <string name="onboarding.workplace.step2.title" comment="onboarding -&gt; workplace -&gt; step2 -&gt; title">Crear cita</string>
@@ -637,12 +637,12 @@ Esto es necesario para recuperar acceso a tu cuenta</string>
   <string name="error.complex.missing_price_shift" comment="error -&gt; complex -&gt; missing_price_shift">Problema con el tipo de precio o su valor</string>
   <string name="error.complex.missing_complex_type" comment="error -&gt; complex -&gt; missing_complex_type">Problema con el tipo de complejo</string>
   <string name="step.complex_chunks.selected_procedures">Procedimientos seleccionados</string>
-  <string name="step.time_slot.time_zone_difference" comment="step -&gt; time_slot -&gt; time_zone_difference">Разница в часовом поясе</string>
+  <string name="step.time_slot.time_zone_difference" comment="step -&gt; time_slot -&gt; time_zone_difference">Diferencia horaria</string>
   <string name="step.procedures.procedure_description" comment="step -&gt; procedures -&gt; procedure_description">Descripción</string>
   <string name="service.shortcut.something_wrong">¿Algo salió mal?</string>
   <string name="service.shortcut.give_feedback">Por favor, déjanos tu opinión antes de eliminar la app. Nos ayudará a mejorar.</string>
   <string name="service.shortcut.mail_body" comment="service -&gt; shortcut -&gt; mail_body">¡Hola!
 Quiero compartir mi opinión sobre la aplicación Maetry. Aquí está mi reseña:</string>
   <string name="shortcut.service.mail_subject">Opinión sobre la aplicación Maetry</string>
-  <string name="cell.contact.select_phone_number">Выбрать номер</string>
+  <string name="cell.contact.select_phone_number">Seleccionar número</string>
 </resources>
