@@ -1,11 +1,11 @@
-/* screen -> public -> welcome */
-"screen.public.welcome" = "Добро пожаловать в Maetry!";
 /* screen -> public -> client_button */
 "screen.public.client_button" = "Продолжить как клиент";
 /* screen -> public -> pro_button */
 "screen.public.pro_button" = "Продолжить как мастер";
 /* screen -> public -> continuation_action */
 "screen.public.continuation_action" = "Для продолжения нажми кнопку";
+/* screen -> public -> welcome */
+"screen.public.welcome" = "Добро пожаловать в Maetry!";
 /* screen -> profile -> title */
 "screen.profile.title" = "Профиль";
 /* screen -> profile -> support -> title */
@@ -88,7 +88,7 @@
 /* screen -> workplace -> schedule */
 "screen.workplace.schedule" = "График";
 /* screen -> workplace -> dashboard */
-"screen.workplace.dashboard" = "Салон";
+"screen.workplace.dashboard" = "Управления";
 /* screen -> workplace -> action -> title */
 "screen.workplace.action.title" = "Быстрые действия";
 /* screen -> workplace -> action -> sharing */
@@ -581,6 +581,20 @@
 "screen.procedure_editing.service_price" = "Цена услуги";
 /* screen -> services -> search */
 "screen.services.search" = "Найти услугу";
+/* screen -> knowledge_base -> title */
+"screen.knowledge_base.title" = "База знаний";
+/* screen -> knowledge_base -> salon_creation */
+"screen.knowledge_base.salon_creation" = "Создание салона";
+/* screen -> knowledge_base -> workplace_setup */
+"screen.knowledge_base.workplace_setup" = "Настройка рабочего пространства";
+/* screen -> knowledge_base -> schedule_setup */
+"screen.knowledge_base.schedule_setup" = "Настройка расписания";
+/* screen -> knowledge_base -> employees */
+"screen.knowledge_base.employees" = "Сотрудники";
+/* screen -> knowledge_base -> clients */
+"screen.knowledge_base.clients" = "Клиенты";
+/* screen -> knowledge_base -> appointments */
+"screen.knowledge_base.appointments" = "Записи";
 /* widget -> address -> title */
 "widget.address.title" = "Адрес";
 /* widget -> address -> navigation */
@@ -619,6 +633,8 @@
 "widget.position.danger_zone.confirm_removal" = "Подтвердить удаление";
 /* widget -> dashboard -> danger_zone -> error */
 "widget.dashboard.danger_zone.error" = "Ошибка Dashboard danger zone";
+/* widget -> knowledge_base -> title */
+"widget.knowledge_base.title" = "База знаний";
 /* reusable -> ok */
 "reusable.ok" = "Ок";
 /* reusable -> info */
@@ -822,7 +838,7 @@
 /* onboarding -> employee -> step3 -> subtitle */
 "onboarding.employee.step3.subtitle" = "После добавления мастера его ячейка появится во вкладке выбранной должности. Оттуда вы сможете отправить ему приглашение присоединиться к вашему салону.";
 /* onboarding -> procedure -> step1 -> title */
-"onboarding.procedure.step1.title" = "Рабочее пространство";
+"onboarding.procedure.step1.title" = "Создание процедуры";
 /* onboarding -> procedure -> step1 -> subtitle */
 "onboarding.procedure.step1.subtitle" = "В панеле навигации перейдите во вкладку\nСалон и нажмите Добавить новую услугу 􁥉";
 /* onboarding -> procedure -> step2 -> title */
@@ -836,7 +852,7 @@
 /* onboarding -> procedure -> step4 -> title */
 "onboarding.procedure.step4.title" = "Выбор мастеров";
 /* onboarding -> procedure -> step4 -> subtitle */
-"onboarding.procedure.step4.subtitle" = "На последнем шаге выберите мастеров, которые будут оказывать эту услугу. После этого клиенты смогут легко к ним записаться.";
+"onboarding.procedure.step4.subtitle" = "На последнем шаге выберите мастеров, которые будут оказывать эту услугу. После этого клиенты смогут легко к ним записаться";
 /* onboarding -> workplace -> step1 -> subtitle */
 "onboarding.workplace.step1.subtitle" = "Чтобы открыть рабочее пространство, коснитесь виджета “Записи”.";
 /* onboarding -> workplace -> step1 -> title */
@@ -1251,9 +1267,14 @@
 /* error -> complex -> missing_complex_type */
 "error.complex.missing_complex_type" = "Проблема с типом комплекса";
 "step.complex_chunks.selected_procedures" = "Выбранные процедуры";
+/* step -> time_slot -> time_zone_difference */
+"step.time_slot.time_zone_difference" = "Разница в часовом поясе";
+/* step -> procedures -> procedure_description */
+"step.procedures.procedure_description" = "Описание";
 "service.shortcut.something_wrong" = "Что-то не так?";
 "service.shortcut.give_feedback" = "Пожалуйста, оставьте нам отзыв перед удалением приложения. Это будет...";
 /* service -> shortcut -> mail_body */
 "service.shortcut.mail_body" = "Здравствуйте!
 Пишу, чтобы поделиться своим отзывом о приложении Maetry. Ниже мой отзыв:";
 "shortcut.service.mail_subject" = "Обратная связь о приложении Maetry";
+"cell.contact.select_phone_number" = "Выбрать номер";

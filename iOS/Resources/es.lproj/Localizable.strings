@@ -1,11 +1,11 @@
-/* screen -> public -> welcome */
-"screen.public.welcome" = "¡Bienvenido a Maetry!";
 /* screen -> public -> client_button */
 "screen.public.client_button" = "Continuar como Cliente";
 /* screen -> public -> pro_button */
 "screen.public.pro_button" = "Continuar como Especialista";
 /* screen -> public -> continuation_action */
 "screen.public.continuation_action" = "Presiona el botón para continuar";
+/* screen -> public -> welcome */
+"screen.public.welcome" = "Добро пожаловать в Maetry!";
 /* screen -> profile -> title */
 "screen.profile.title" = "Perfil";
 /* screen -> profile -> support -> title */
@@ -581,6 +581,20 @@
 "screen.procedure_editing.service_price" = "Precio del servicio";
 /* screen -> services -> search */
 "screen.services.search" = "Buscar servicio";
+/* screen -> knowledge_base -> title */
+"screen.knowledge_base.title" = "База знаний";
+/* screen -> knowledge_base -> salon_creation */
+"screen.knowledge_base.salon_creation" = "Creación de salón";
+/* screen -> knowledge_base -> workplace_setup */
+"screen.knowledge_base.workplace_setup" = "Настройка рабочего пространства";
+/* screen -> knowledge_base -> schedule_setup */
+"screen.knowledge_base.schedule_setup" = "Настройка расписания";
+/* screen -> knowledge_base -> employees */
+"screen.knowledge_base.employees" = "Empleados";
+/* screen -> knowledge_base -> clients */
+"screen.knowledge_base.clients" = "Клиенты";
+/* screen -> knowledge_base -> appointments */
+"screen.knowledge_base.appointments" = "Citas";
 /* widget -> address -> title */
 "widget.address.title" = "Dirección";
 /* widget -> address -> navigation */
@@ -619,6 +633,8 @@
 "widget.position.danger_zone.confirm_removal" = "Confirmar eliminación";
 /* widget -> dashboard -> danger_zone -> error */
 "widget.dashboard.danger_zone.error" = "Error en la zona de peligro del panel";
+/* widget -> knowledge_base -> title */
+"widget.knowledge_base.title" = "База знаний";
 /* reusable -> ok */
 "reusable.ok" = "Ok";
 /* reusable -> info */
@@ -822,7 +838,7 @@
 /* onboarding -> employee -> step3 -> subtitle */
 "onboarding.employee.step3.subtitle" = "Una vez agregado, su celda aparecerá en la pestaña del puesto. Desde allí puedes enviarle la invitación";
 /* onboarding -> procedure -> step1 -> title */
-"onboarding.procedure.step1.title" = "Área de trabajo";
+"onboarding.procedure.step1.title" = "Crear procedimiento";
 /* onboarding -> procedure -> step1 -> subtitle */
 "onboarding.procedure.step1.subtitle" = "En el panel de navegación, ve a la pestaña Salón y pulsa Agregar nuevo servicio 􁥉";
 /* onboarding -> procedure -> step2 -> title */
@@ -836,7 +852,7 @@
 /* onboarding -> procedure -> step4 -> title */
 "onboarding.procedure.step4.title" = "Seleccionar especialistas";
 /* onboarding -> procedure -> step4 -> subtitle */
-"onboarding.procedure.step4.subtitle" = "Al final, selecciona los especialistas que lo realizarán. Así los clientes podrán reservarlos fácilmente";
+"onboarding.procedure.step4.subtitle" = "На последнем шаге выберите мастеров, которые будут оказывать эту услугу. После этого клиенты смогут легко к ним записаться";
 /* onboarding -> workplace -> step1 -> subtitle */
 "onboarding.workplace.step1.subtitle" = "Para abrir el área de trabajo, toca el widget de Citas";
 /* onboarding -> workplace -> step1 -> title */
@@ -1252,9 +1268,14 @@ Esto es necesario para recuperar acceso a tu cuenta";
 /* error -> complex -> missing_complex_type */
 "error.complex.missing_complex_type" = "Problema con el tipo de complejo";
 "step.complex_chunks.selected_procedures" = "Procedimientos seleccionados";
+/* step -> time_slot -> time_zone_difference */
+"step.time_slot.time_zone_difference" = "Разница в часовом поясе";
+/* step -> procedures -> procedure_description */
+"step.procedures.procedure_description" = "Descripción";
 "service.shortcut.something_wrong" = "¿Algo salió mal?";
 "service.shortcut.give_feedback" = "Por favor, déjanos tu opinión antes de eliminar la app. Nos ayudará a mejorar.";
 /* service -> shortcut -> mail_body */
 "service.shortcut.mail_body" = "¡Hola!
 Quiero compartir mi opinión sobre la aplicación Maetry. Aquí está mi reseña:";
 "shortcut.service.mail_subject" = "Opinión sobre la aplicación Maetry";
+"cell.contact.select_phone_number" = "Выбрать номер";
