@@ -319,6 +319,7 @@
   <string name="widget.position.danger_zone.confirm_removal" comment="widget -&gt; position -&gt; danger_zone -&gt; confirm_removal">Confirm removal</string>
   <string name="widget.dashboard.danger_zone.error" comment="widget -&gt; dashboard -&gt; danger_zone -&gt; error">Dashboard danger zone error</string>
   <string name="widget.knowledge_base.title" comment="widget -&gt; knowledge_base -&gt; title">Knowledge base</string>
+  <string name="widget.knowledge_base.description" comment="widget -&gt; knowledge_base -&gt; description">Here is all the information on how to use the application</string>
   <string name="reusable.ok" comment="reusable -&gt; ok">Ok</string>
   <string name="reusable.info" comment="reusable -&gt; info">Information</string>
   <string name="reusable.cancel" comment="reusable -&gt; cancel">Cancel</string>
@@ -473,7 +474,7 @@
   <string name="creatable.procedure.category_title" comment="creatable -&gt; procedure -&gt; category_title">Choose a suitable category — it will help clients navigate better</string>
   <string name="creatable.procedure.duration_title" comment="creatable -&gt; procedure -&gt; duration_title">How long does the procedure take?</string>
   <string name="creatable.procedure.description_enter" comment="creatable -&gt; procedure -&gt; description_enter">Tell us what\'s important to know before the procedure</string>
-  <string name="creatable.procedure.description_example" comment="creatable -&gt; procedure -&gt; description_example">Например: «Принести полотенце, прибыть за 10–15 минут, снять украшения, сообщить о противопоказаниях»</string>
+  <string name="creatable.procedure.description_example" comment="creatable -&gt; procedure -&gt; description_example">For example: “Bring a towel, arrive 10-15 minutes early, remove jewelry, inform about contraindications”</string>
   <string name="creatable.procedure.description_placeholder" comment="creatable -&gt; procedure -&gt; description_placeholder">Enter description...</string>
   <string name="creatable.procedure.price_title" comment="creatable -&gt; procedure -&gt; price_title">Specify the cost — this information will be displayed on the procedure page</string>
   <string name="creatable.procedure.price_placeholder" comment="creatable -&gt; procedure -&gt; price_placeholder">Enter amount...</string>

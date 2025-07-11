@@ -635,6 +635,8 @@
 "widget.dashboard.danger_zone.error" = "Dashboard danger zone error";
 /* widget -> knowledge_base -> title */
 "widget.knowledge_base.title" = "Knowledge base";
+/* widget -> knowledge_base -> description */
+"widget.knowledge_base.description" = "Here is all the information on how to use the application";
 /* reusable -> ok */
 "reusable.ok" = "Ok";
 /* reusable -> info */
@@ -944,7 +946,7 @@
 /* creatable -> procedure -> description_enter */
 "creatable.procedure.description_enter" = "Tell us what\'s important to know before the procedure";
 /* creatable -> procedure -> description_example */
-"creatable.procedure.description_example" = "Например: «Принести полотенце, прибыть за 10–15 минут, снять украшения, сообщить о противопоказаниях»";
+"creatable.procedure.description_example" = "For example: “Bring a towel, arrive 10-15 minutes early, remove jewelry, inform about contraindications”";
 /* creatable -> procedure -> description_placeholder */
 "creatable.procedure.description_placeholder" = "Enter description...";
 /* creatable -> procedure -> price_title */

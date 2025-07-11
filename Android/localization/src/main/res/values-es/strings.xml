@@ -319,6 +319,7 @@
   <string name="widget.position.danger_zone.confirm_removal" comment="widget -&gt; position -&gt; danger_zone -&gt; confirm_removal">Confirmar eliminación</string>
   <string name="widget.dashboard.danger_zone.error" comment="widget -&gt; dashboard -&gt; danger_zone -&gt; error">Error en la zona de peligro del panel</string>
   <string name="widget.knowledge_base.title" comment="widget -&gt; knowledge_base -&gt; title">Base de conocimientos</string>
+  <string name="widget.knowledge_base.description" comment="widget -&gt; knowledge_base -&gt; description">Здесь находится вся информация о том, как пользоваться приложением</string>
   <string name="reusable.ok" comment="reusable -&gt; ok">Ok</string>
   <string name="reusable.info" comment="reusable -&gt; info">Información</string>
   <string name="reusable.cancel" comment="reusable -&gt; cancel">Cancelar</string>
