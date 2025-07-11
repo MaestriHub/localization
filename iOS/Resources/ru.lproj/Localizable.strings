@@ -635,6 +635,8 @@
 "widget.dashboard.danger_zone.error" = "Ошибка Dashboard danger zone";
 /* widget -> knowledge_base -> title */
 "widget.knowledge_base.title" = "База знаний";
+/* widget -> knowledge_base -> description */
+"widget.knowledge_base.description" = "Здесь находится вся информация о том, как пользоваться приложением";
 /* reusable -> ok */
 "reusable.ok" = "Ок";
 /* reusable -> info */
