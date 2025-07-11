@@ -213,7 +213,7 @@ public enum Loc {
       /// creatable -> procedure -> description_enter
       public static let descriptionEnter = Loc.tr("Localizable", "creatable.procedure.description_enter", fallback: "Tell us what's important to know before the procedure")
       /// creatable -> procedure -> description_example
-      public static let descriptionExample = Loc.tr("Localizable", "creatable.procedure.description_example", fallback: "Например: «Принести полотенце, прибыть за 10–15 минут, снять украшения, сообщить о противопоказаниях»")
+      public static let descriptionExample = Loc.tr("Localizable", "creatable.procedure.description_example", fallback: "For example: “Bring a towel, arrive 10-15 minutes early, remove jewelry, inform about contraindications”")
       /// creatable -> procedure -> description_placeholder
       public static let descriptionPlaceholder = Loc.tr("Localizable", "creatable.procedure.description_placeholder", fallback: "Enter description...")
       /// creatable -> procedure -> duration_title
@@ -1568,6 +1568,8 @@ public enum Loc {
       }
     }
     public enum KnowledgeBase {
+      /// widget -> knowledge_base -> description
+      public static let description = Loc.tr("Localizable", "widget.knowledge_base.description", fallback: "Here is all the information on how to use the application")
       /// widget -> knowledge_base -> title
       public static let title = Loc.tr("Localizable", "widget.knowledge_base.title", fallback: "Knowledge base")
     }
