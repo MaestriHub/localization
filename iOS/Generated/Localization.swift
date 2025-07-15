@@ -468,7 +468,7 @@ public enum Loc {
     public enum Client {
       public enum Step1 {
         /// onboarding -> client -> step1 -> subtitle
-        public static let subtitle = Loc.tr("Localizable", "onboarding.client.step1.subtitle", fallback: "In the navigation panel, go to the \nSalon tab and click Add client 􀉯")
+        public static let subtitle = Loc.tr("Localizable", "onboarding.client.step1.subtitle", fallback: "In the navigation panel, go to the \nSalon tab and click Add client 􁥉")
         /// onboarding -> client -> step1 -> title
         public static let title = Loc.tr("Localizable", "onboarding.client.step1.title", fallback: "Client invitation")
       }
@@ -488,7 +488,7 @@ public enum Loc {
     public enum Employee {
       public enum Step1 {
         /// onboarding -> employee -> step1 -> subtitle
-        public static let subtitle = Loc.tr("Localizable", "onboarding.employee.step1.subtitle", fallback: "In the navigation panel, go to the \nSalon tab and click Add a master 􀉯")
+        public static let subtitle = Loc.tr("Localizable", "onboarding.employee.step1.subtitle", fallback: "In the navigation panel, go to the \nSalon tab and click Add a master 􁥉")
         /// onboarding -> employee -> step1 -> title
         public static let title = Loc.tr("Localizable", "onboarding.employee.step1.title", fallback: "Invitation of the master")
       }
