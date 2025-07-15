@@ -4,6 +4,15 @@
   <string name="screen.public.pro_button" comment="screen -&gt; public -&gt; pro_button">Continue as Specialist</string>
   <string name="screen.public.continuation_action" comment="screen -&gt; public -&gt; continuation_action">Press the button to continue</string>
   <string name="screen.public.welcome" comment="screen -&gt; public -&gt; welcome">Welcome to Maetry!</string>
+  <string name="screen.public.card1.name" comment="screen -&gt; public -&gt; card1 -&gt; name">Salon Rose</string>
+  <string name="screen.public.card1.address" comment="screen -&gt; public -&gt; card1 -&gt; address">Tolkacheva street, 2B</string>
+  <string name="screen.public.card1.schedule" comment="screen -&gt; public -&gt; card1 -&gt; schedule">mon-sun 9:00 AM - 9:00 PM</string>
+  <string name="screen.public.card2.name" comment="screen -&gt; public -&gt; card2 -&gt; name">ASTEZIS</string>
+  <string name="screen.public.card2.address" comment="screen -&gt; public -&gt; card2 -&gt; address">Tolkacheva street, 2B</string>
+  <string name="screen.public.card2.schedule" comment="screen -&gt; public -&gt; card3 -&gt; schedule">mon-sun 9:00 AM - 9:00 PM</string>
+  <string name="screen.public.card3.name" comment="screen -&gt; public -&gt; card3 -&gt; name">Beauty Tutti</string>
+  <string name="screen.public.card3.address" comment="screen -&gt; public -&gt; card3 -&gt; address">Tolkacheva street, 2B</string>
+  <string name="screen.public.card3.schedule" comment="screen -&gt; public -&gt; card3 -&gt; schedule">mon-sun 9:00 AM - 9:00 PM</string>
   <string name="screen.profile.title" comment="screen -&gt; profile -&gt; title">Profile</string>
   <string name="screen.profile.support.title" comment="screen -&gt; profile -&gt; support -&gt; title">Have Questions? We\'re Here!</string>
   <string name="screen.profile.support.message" comment="screen -&gt; profile -&gt; support -&gt; message">We\'re here to help! If you have any questions or issues, our support team is always ready to assist you</string>
