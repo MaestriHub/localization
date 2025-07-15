@@ -421,11 +421,11 @@
   <string name="onboarding.appointment.step4.title" comment="onboarding -&gt; appointment -&gt; step4 -&gt; title">Status management</string>
   <string name="onboarding.appointment.step4.subtitle" comment="onboarding -&gt; appointment -&gt; step4 -&gt; subtitle">Touch and hold the entry, in the menu that opens, select the desired status.</string>
   <string name="onboarding.client.step1.title" comment="onboarding -&gt; client -&gt; step1 -&gt; title">Client invitation</string>
-  <string name="onboarding.client.step1.subtitle" comment="onboarding -&gt; client -&gt; step1 -&gt; subtitle">In the navigation panel, go to the \nSalon tab and click Add client 􀉯</string>
+  <string name="onboarding.client.step1.subtitle" comment="onboarding -&gt; client -&gt; step1 -&gt; subtitle">In the navigation panel, go to the \nSalon tab and click Add client 􁥉</string>
   <string name="onboarding.client.step2.title" comment="onboarding -&gt; client -&gt; step2 -&gt; title">Invitation link</string>
   <string name="onboarding.client.step2.subtitle" comment="onboarding -&gt; client -&gt; step2 -&gt; subtitle">After entering all the data, go to My Clients section and send the client a link to invite them to the salon.</string>
   <string name="onboarding.employee.step1.title" comment="onboarding -&gt; employee -&gt; step1 -&gt; title">Invitation of the master</string>
-  <string name="onboarding.employee.step1.subtitle" comment="onboarding -&gt; employee -&gt; step1 -&gt; subtitle">In the navigation panel, go to the \nSalon tab and click Add a master 􀉯</string>
+  <string name="onboarding.employee.step1.subtitle" comment="onboarding -&gt; employee -&gt; step1 -&gt; subtitle">In the navigation panel, go to the \nSalon tab and click Add a master 􁥉</string>
   <string name="onboarding.employee.step2.title" comment="onboarding -&gt; employee -&gt; step2 -&gt; title">Choosing a position</string>
   <string name="onboarding.employee.step2.subtitle" comment="onboarding -&gt; employee -&gt; step2 -&gt; subtitle">At the stage of selecting a position for the master, you can select a position created earlier or add a new one.</string>
   <string name="onboarding.employee.step3.title" comment="onboarding -&gt; employee -&gt; step3 -&gt; title">Waiting for master</string>
