@@ -6,6 +6,24 @@
 "screen.public.continuation_action" = "Для продолжения нажми кнопку";
 /* screen -> public -> welcome */
 "screen.public.welcome" = "Добро пожаловать в Maetry!";
+/* screen -> public -> card1 -> name */
+"screen.public.card1.name" = "Salon Rose";
+/* screen -> public -> card1 -> address */
+"screen.public.card1.address" = "Ул. Толкачева, 2Б";
+/* screen -> public -> card1 -> schedule */
+"screen.public.card1.schedule" = "пн-вс 9:00-21:00";
+/* screen -> public -> card2 -> name */
+"screen.public.card2.name" = "ASTEZIS";
+/* screen -> public -> card2 -> address */
+"screen.public.card2.address" = "Ул. Толкачева, 2Б";
+/* screen -> public -> card3 -> schedule */
+"screen.public.card2.schedule" = "пн-вс 9:00-21:00";
+/* screen -> public -> card3 -> name */
+"screen.public.card3.name" = "Beauty Tutti";
+/* screen -> public -> card3 -> address */
+"screen.public.card3.address" = "Ул. Толкачева, 2Б";
+/* screen -> public -> card3 -> schedule */
+"screen.public.card3.schedule" = "пн-вс 9:00-21:00";
 /* screen -> profile -> title */
 "screen.profile.title" = "Профиль";
 /* screen -> profile -> support -> title */
