@@ -840,7 +840,7 @@
 /* onboarding -> client -> step1 -> title */
 "onboarding.client.step1.title" = "Client invitation";
 /* onboarding -> client -> step1 -> subtitle */
-"onboarding.client.step1.subtitle" = "In the navigation panel, go to the \nSalon tab and click Add client 􀉯";
+"onboarding.client.step1.subtitle" = "In the navigation panel, go to the \nSalon tab and click Add client 􁥉";
 /* onboarding -> client -> step2 -> title */
 "onboarding.client.step2.title" = "Invitation link";
 /* onboarding -> client -> step2 -> subtitle */
@@ -848,7 +848,7 @@
 /* onboarding -> employee -> step1 -> title */
 "onboarding.employee.step1.title" = "Invitation of the master";
 /* onboarding -> employee -> step1 -> subtitle */
-"onboarding.employee.step1.subtitle" = "In the navigation panel, go to the \nSalon tab and click Add a master 􀉯";
+"onboarding.employee.step1.subtitle" = "In the navigation panel, go to the \nSalon tab and click Add a master 􁥉";
 /* onboarding -> employee -> step2 -> title */
 "onboarding.employee.step2.title" = "Choosing a position";
 /* onboarding -> employee -> step2 -> subtitle */
