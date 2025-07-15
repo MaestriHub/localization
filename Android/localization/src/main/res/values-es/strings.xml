@@ -4,6 +4,15 @@
   <string name="screen.public.pro_button" comment="screen -&gt; public -&gt; pro_button">Continuar como Especialista</string>
   <string name="screen.public.continuation_action" comment="screen -&gt; public -&gt; continuation_action">Presiona el botón para continuar</string>
   <string name="screen.public.welcome" comment="screen -&gt; public -&gt; welcome">¡Bienvenido a Maetry!</string>
+  <string name="screen.public.card1.name" comment="screen -&gt; public -&gt; card1 -&gt; name">Salon Rose</string>
+  <string name="screen.public.card1.address" comment="screen -&gt; public -&gt; card1 -&gt; address">Ул. Толкачева, 2Б</string>
+  <string name="screen.public.card1.schedule" comment="screen -&gt; public -&gt; card1 -&gt; schedule">пн-вс 9:00-21:00</string>
+  <string name="screen.public.card2.name" comment="screen -&gt; public -&gt; card2 -&gt; name">ASTEZIS</string>
+  <string name="screen.public.card2.address" comment="screen -&gt; public -&gt; card2 -&gt; address">Ул. Толкачева, 2Б</string>
+  <string name="screen.public.card2.schedule" comment="screen -&gt; public -&gt; card3 -&gt; schedule">пн-вс 9:00-21:00</string>
+  <string name="screen.public.card3.name" comment="screen -&gt; public -&gt; card3 -&gt; name">Beauty Tutti</string>
+  <string name="screen.public.card3.address" comment="screen -&gt; public -&gt; card3 -&gt; address">Ул. Толкачева, 2Б</string>
+  <string name="screen.public.card3.schedule" comment="screen -&gt; public -&gt; card3 -&gt; schedule">пн-вс 9:00-21:00</string>
   <string name="screen.profile.title" comment="screen -&gt; profile -&gt; title">Perfil</string>
   <string name="screen.profile.support.title" comment="screen -&gt; profile -&gt; support -&gt; title">¿Tienes preguntas? ¡Estamos aquí!</string>
   <string name="screen.profile.support.message" comment="screen -&gt; profile -&gt; support -&gt; message">¡Estamos aquí para ayudarte! Si tienes alguna pregunta o problema, nuestro equipo de soporte está siempre listo para asistirte</string>
