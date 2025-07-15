@@ -1222,6 +1222,30 @@ public enum Loc {
       public static let proButton = Loc.tr("Localizable", "screen.public.pro_button", fallback: "Continue as Specialist")
       /// screen -> public -> welcome
       public static let welcome = Loc.tr("Localizable", "screen.public.welcome", fallback: "Welcome to Maetry!")
+      public enum Card1 {
+        /// screen -> public -> card1 -> address
+        public static let address = Loc.tr("Localizable", "screen.public.card1.address", fallback: "Tolkacheva street, 2B")
+        /// screen -> public -> card1 -> name
+        public static let name = Loc.tr("Localizable", "screen.public.card1.name", fallback: "Salon Rose")
+        /// screen -> public -> card1 -> schedule
+        public static let schedule = Loc.tr("Localizable", "screen.public.card1.schedule", fallback: "mon-sun 9:00 AM - 9:00 PM")
+      }
+      public enum Card2 {
+        /// screen -> public -> card2 -> address
+        public static let address = Loc.tr("Localizable", "screen.public.card2.address", fallback: "Tolkacheva street, 2B")
+        /// screen -> public -> card2 -> name
+        public static let name = Loc.tr("Localizable", "screen.public.card2.name", fallback: "ASTEZIS")
+        /// screen -> public -> card3 -> schedule
+        public static let schedule = Loc.tr("Localizable", "screen.public.card2.schedule", fallback: "mon-sun 9:00 AM - 9:00 PM")
+      }
+      public enum Card3 {
+        /// screen -> public -> card3 -> address
+        public static let address = Loc.tr("Localizable", "screen.public.card3.address", fallback: "Tolkacheva street, 2B")
+        /// screen -> public -> card3 -> name
+        public static let name = Loc.tr("Localizable", "screen.public.card3.name", fallback: "Beauty Tutti")
+        /// screen -> public -> card3 -> schedule
+        public static let schedule = Loc.tr("Localizable", "screen.public.card3.schedule", fallback: "mon-sun 9:00 AM - 9:00 PM")
+      }
     }
     public enum Salary {
       /// screen -> salary -> alert_title
