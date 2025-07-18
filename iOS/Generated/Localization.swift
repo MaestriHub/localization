@@ -940,10 +940,8 @@ public enum Loc {
       public static let clients = Loc.tr("Localizable", "screen.knowledge_base.clients", fallback: "Clients")
       /// screen -> knowledge_base -> employees
       public static let employees = Loc.tr("Localizable", "screen.knowledge_base.employees", fallback: "Employees")
-      /// screen -> knowledge_base -> salon_creation
-      public static let salonCreation = Loc.tr("Localizable", "screen.knowledge_base.salon_creation", fallback: "Salon creation")
       /// screen -> knowledge_base -> schedule_setup
-      public static let scheduleSetup = Loc.tr("Localizable", "screen.knowledge_base.schedule_setup", fallback: "Schedule setup")
+      public static let scheduleSetup = Loc.tr("Localizable", "screen.knowledge_base.schedule_setup", fallback: "Service creation")
       /// screen -> knowledge_base -> title
       public static let title = Loc.tr("Localizable", "screen.knowledge_base.title", fallback: "Knowledge base")
       /// screen -> knowledge_base -> workplace_setup
