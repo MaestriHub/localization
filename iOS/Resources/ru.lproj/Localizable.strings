@@ -601,12 +601,10 @@
 "screen.services.search" = "Найти услугу";
 /* screen -> knowledge_base -> title */
 "screen.knowledge_base.title" = "База знаний";
-/* screen -> knowledge_base -> salon_creation */
-"screen.knowledge_base.salon_creation" = "Создание салона";
 /* screen -> knowledge_base -> workplace_setup */
 "screen.knowledge_base.workplace_setup" = "Настройка рабочего пространства";
 /* screen -> knowledge_base -> schedule_setup */
-"screen.knowledge_base.schedule_setup" = "Настройка расписания";
+"screen.knowledge_base.schedule_setup" = "Создание услуги";
 /* screen -> knowledge_base -> employees */
 "screen.knowledge_base.employees" = "Сотрудники";
 /* screen -> knowledge_base -> clients */
