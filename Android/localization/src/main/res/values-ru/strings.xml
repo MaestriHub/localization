@@ -302,9 +302,8 @@
   <string name="screen.procedure_editing.service_price" comment="screen -&gt; procedure_editing -&gt; service_price">Цена услуги</string>
   <string name="screen.services.search" comment="screen -&gt; services -&gt; search">Найти услугу</string>
   <string name="screen.knowledge_base.title" comment="screen -&gt; knowledge_base -&gt; title">База знаний</string>
-  <string name="screen.knowledge_base.salon_creation" comment="screen -&gt; knowledge_base -&gt; salon_creation">Создание салона</string>
   <string name="screen.knowledge_base.workplace_setup" comment="screen -&gt; knowledge_base -&gt; workplace_setup">Настройка рабочего пространства</string>
-  <string name="screen.knowledge_base.schedule_setup" comment="screen -&gt; knowledge_base -&gt; schedule_setup">Настройка расписания</string>
+  <string name="screen.knowledge_base.schedule_setup" comment="screen -&gt; knowledge_base -&gt; schedule_setup">Создание услуги</string>
   <string name="screen.knowledge_base.employees" comment="screen -&gt; knowledge_base -&gt; employees">Сотрудники</string>
   <string name="screen.knowledge_base.clients" comment="screen -&gt; knowledge_base -&gt; clients">Клиенты</string>
   <string name="screen.knowledge_base.appointments" comment="screen -&gt; knowledge_base -&gt; appointments">Записи</string>
