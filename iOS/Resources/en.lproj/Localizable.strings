@@ -601,12 +601,10 @@
 "screen.services.search" = "Search for service";
 /* screen -> knowledge_base -> title */
 "screen.knowledge_base.title" = "Knowledge base";
-/* screen -> knowledge_base -> salon_creation */
-"screen.knowledge_base.salon_creation" = "Salon creation";
 /* screen -> knowledge_base -> workplace_setup */
 "screen.knowledge_base.workplace_setup" = "Workplace setup";
 /* screen -> knowledge_base -> schedule_setup */
-"screen.knowledge_base.schedule_setup" = "Schedule setup";
+"screen.knowledge_base.schedule_setup" = "Service creation";
 /* screen -> knowledge_base -> employees */
 "screen.knowledge_base.employees" = "Employees";
 /* screen -> knowledge_base -> clients */

@@ -302,7 +302,6 @@
   <string name="screen.procedure_editing.service_price" comment="screen -&gt; procedure_editing -&gt; service_price">Precio del servicio</string>
   <string name="screen.services.search" comment="screen -&gt; services -&gt; search">Buscar servicio</string>
   <string name="screen.knowledge_base.title" comment="screen -&gt; knowledge_base -&gt; title">Base de conocimientos</string>
-  <string name="screen.knowledge_base.salon_creation" comment="screen -&gt; knowledge_base -&gt; salon_creation">Creación de salón</string>
   <string name="screen.knowledge_base.workplace_setup" comment="screen -&gt; knowledge_base -&gt; workplace_setup">Configurar su espacio de trabajo</string>
   <string name="screen.knowledge_base.schedule_setup" comment="screen -&gt; knowledge_base -&gt; schedule_setup">Establecer un horario</string>
   <string name="screen.knowledge_base.employees" comment="screen -&gt; knowledge_base -&gt; employees">Empleados</string>

@@ -302,9 +302,8 @@
   <string name="screen.procedure_editing.service_price" comment="screen -&gt; procedure_editing -&gt; service_price">Service price</string>
   <string name="screen.services.search" comment="screen -&gt; services -&gt; search">Search for service</string>
   <string name="screen.knowledge_base.title" comment="screen -&gt; knowledge_base -&gt; title">Knowledge base</string>
-  <string name="screen.knowledge_base.salon_creation" comment="screen -&gt; knowledge_base -&gt; salon_creation">Salon creation</string>
   <string name="screen.knowledge_base.workplace_setup" comment="screen -&gt; knowledge_base -&gt; workplace_setup">Workplace setup</string>
-  <string name="screen.knowledge_base.schedule_setup" comment="screen -&gt; knowledge_base -&gt; schedule_setup">Schedule setup</string>
+  <string name="screen.knowledge_base.schedule_setup" comment="screen -&gt; knowledge_base -&gt; schedule_setup">Service creation</string>
   <string name="screen.knowledge_base.employees" comment="screen -&gt; knowledge_base -&gt; employees">Employees</string>
   <string name="screen.knowledge_base.clients" comment="screen -&gt; knowledge_base -&gt; clients">Clients</string>
   <string name="screen.knowledge_base.appointments" comment="screen -&gt; knowledge_base -&gt; appointments">Appointments</string>

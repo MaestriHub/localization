@@ -601,8 +601,6 @@
 "screen.services.search" = "Buscar servicio";
 /* screen -> knowledge_base -> title */
 "screen.knowledge_base.title" = "Base de conocimientos";
-/* screen -> knowledge_base -> salon_creation */
-"screen.knowledge_base.salon_creation" = "Creación de salón";
 /* screen -> knowledge_base -> workplace_setup */
 "screen.knowledge_base.workplace_setup" = "Configurar su espacio de trabajo";
 /* screen -> knowledge_base -> schedule_setup */
