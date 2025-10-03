@@ -1,3 +1,13 @@
+/* appclip -> welcome_to */
+"appclip.welcome_to" = "Bienvenido a";
+/* appclip -> tagline */
+"appclip.tagline" = "Herramienta simple para gestión empresarial";
+/* screen -> invite -> client_title */
+"screen.invite.client_title" = "Has sido invitado como cliente";
+/* screen -> invite -> client_enter_missing */
+"screen.invite.client_enter_missing" = "Para aceptar, introduce los caracteres faltantes: ";
+/* screen -> invite -> employee_title */
+"screen.invite.employee_title" = "Has sido invitado como empleado";
 /* screen -> public -> client_button */
 "screen.public.client_button" = "Continuar como Cliente";
 /* screen -> public -> pro_button */
@@ -9,23 +19,45 @@
 /* screen -> public -> card1 -> name */
 "screen.public.card1.name" = "Salon Rose";
 /* screen -> public -> card1 -> address */
-"screen.public.card1.address" = "Ул. Толкачева, 2Б";
+"screen.public.card1.address" = "C/ Tolkatcheva, 2B";
 /* screen -> public -> card1 -> schedule */
-"screen.public.card1.schedule" = "пн-вс 9:00-21:00";
+"screen.public.card1.schedule" = "lun-dom 9:00-21:00";
 /* screen -> public -> card2 -> name */
 "screen.public.card2.name" = "ASTEZIS";
 /* screen -> public -> card2 -> address */
-"screen.public.card2.address" = "Ул. Толкачева, 2Б";
-/* screen -> public -> card3 -> schedule */
-"screen.public.card2.schedule" = "пн-вс 9:00-21:00";
+"screen.public.card2.address" = "C/ Tolkatcheva, 2B";
+/* screen -> public -> card2 -> schedule */
+"screen.public.card2.schedule" = "lun-dom 9:00-21:00";
 /* screen -> public -> card3 -> name */
 "screen.public.card3.name" = "Beauty Tutti";
 /* screen -> public -> card3 -> address */
-"screen.public.card3.address" = "Ул. Толкачева, 2Б";
+"screen.public.card3.address" = "C/ Tolkatcheva, 2B";
 /* screen -> public -> card3 -> schedule */
-"screen.public.card3.schedule" = "пн-вс 9:00-21:00";
+"screen.public.card3.schedule" = "lun-dom 9:00-21:00";
 /* screen -> profile -> title */
 "screen.profile.title" = "Perfil";
+/* screen -> profile -> mode */
+"screen.profile.mode" = "Modo";
+/* screen -> profile -> switch_action */
+"screen.profile.switch_action" = "Cambiar";
+/* screen -> profile -> create_action */
+"screen.profile.create_action" = "Crear";
+/* screen -> profile -> switch_to_professional_title */
+"screen.profile.switch_to_professional_title" = "Cambiar a Profesional";
+/* screen -> profile -> switch_to_professional_message */
+"screen.profile.switch_to_professional_message" = "La aplicación permite gestionar todos los espacios de trabajo junto con los empleados.";
+/* screen -> profile -> switch_to_customer_title */
+"screen.profile.switch_to_customer_title" = "Cambiar a Cliente";
+/* screen -> profile -> switch_to_customer_message */
+"screen.profile.switch_to_customer_message" = "La aplicación permite encontrar los mejores especialistas y reservar servicios";
+/* screen -> profile -> create_workspace_title */
+"screen.profile.create_workspace_title" = "Crear espacio de trabajo";
+/* screen -> profile -> create_workspace_message */
+"screen.profile.create_workspace_message" = "También puedes crear varios espacios de trabajo para diferentes salones.";
+/* screen -> profile -> create_customer_title */
+"screen.profile.create_customer_title" = "Crear cliente";
+/* screen -> profile -> create_customer_message */
+"screen.profile.create_customer_message" = "Podrás encontrar salones y reservar servicios";
 /* screen -> profile -> support -> title */
 "screen.profile.support.title" = "¿Tienes preguntas? ¡Estamos aquí!";
 /* screen -> profile -> support -> message */
@@ -94,6 +126,16 @@
 "screen.assignment.client" = "Cliente";
 /* screen -> assignment -> invite_client */
 "screen.assignment.invite_client" = "Invitar cliente";
+/* screen -> assignment -> danger_zone -> title */
+"screen.assignment.danger_zone.title" = "Administración";
+/* screen -> assignment -> danger_zone -> delete_title */
+"screen.assignment.danger_zone.delete_title" = "Eliminar cita";
+/* screen -> assignment -> danger_zone -> delete_description */
+"screen.assignment.danger_zone.delete_description" = "El cliente será notificado sobre la eliminación de la cita";
+/* screen -> assignment -> danger_zone -> delete_button */
+"screen.assignment.danger_zone.delete_button" = "Eliminar";
+/* screen -> assignment -> danger_zone -> confirm_delete_message */
+"screen.assignment.danger_zone.confirm_delete_message" = "¿Eliminar esta cita sin posibilidad de recuperación?";
 /* screen -> workplace -> placeholder_create */
 "screen.workplace.placeholder_create" = "Comienza a trabajar con Maetry
  Crea tu primer salón";
@@ -137,6 +179,16 @@
 "screen.workspace.list_type" = "Lista";
 /* screen -> workspace -> list_empty_placeholder */
 "screen.workspace.list_empty_placeholder" = "Aún no hay citas programadas para este día";
+/* screen -> workspace -> contact_client */
+"screen.workspace.contact_client" = "Contactar";
+/* screen -> workspace -> employees_count */
+"screen.workspace.employees_count" = "empleado(s)";
+/* screen -> workspace -> minutes_short */
+"screen.workspace.minutes_short" = "mins";
+/* screen -> workspace -> day_off_message */
+"screen.workspace.day_off_message" = "En este día tu salón está cerrado";
+/* screen -> workspace -> go_to_schedule_settings */
+"screen.workspace.go_to_schedule_settings" = "Ir a la configuración del horario";
 /* screen -> schedule -> workspace_schedule */
 "screen.schedule.workspace_schedule" = "Horario del salón";
 /* screen -> schedule -> select_masters */
@@ -191,6 +243,16 @@
 "screen.schedule.rounded" = "Redondeado";
 /* screen -> schedule -> rectangular */
 "screen.schedule.rectangular" = "Rectangular";
+/* screen -> schedule -> work_time */
+"screen.schedule.work_time" = "Tiempo de trabajo";
+/* screen -> schedule -> schedule_text -> day_off */
+"screen.schedule.schedule_text.day_off" = " - Día libre";
+/* screen -> schedule -> schedule_text -> everyday */
+"screen.schedule.schedule_text.everyday" = "Todos los días: ";
+/* screen -> schedule -> schedule_text -> day_index */
+"screen.schedule.schedule_text.day_index" = "Día %{index}: ";
+/* screen -> schedule -> schedule_text -> breaks */
+"screen.schedule.schedule_text.breaks" = "Pausas: ";
 /* screen -> catalog_management -> title */
 "screen.catalog_management.title" = "Servicios";
 /* screen -> catalog_management -> all_title */
@@ -393,6 +455,8 @@
 "screen.clients.title" = "Todos los clientes";
 /* screen -> clients -> search */
 "screen.clients.search" = "Buscar";
+/* screen -> clients -> find_client */
+"screen.clients.find_client" = "Buscar cliente";
 /* screen -> clients -> action */
 "screen.clients.action" = "Agregar cliente";
 /* screen -> clients -> create_client */
@@ -401,6 +465,8 @@
 "screen.clients.history_client" = "Historial del cliente";
 /* screen -> clients -> add_history_client */
 "screen.clients.add_history_client" = "Agregar cita";
+/* screen -> settings -> current_plan */
+"screen.settings.current_plan" = "Plan actual";
 /* screen -> settings -> salon_type -> individual */
 "screen.settings.salon_type.individual" = "Individual";
 /* screen -> settings -> salon_type -> salon */
@@ -459,6 +525,14 @@
 "screen.appointment.state_accept" = "Confirmar cita";
 /* screen -> appointment -> no_appointments */
 "screen.appointment.no_appointments" = "Aún no tienes citas";
+/* screen -> appointment -> add_to_calendar */
+"screen.appointment.add_to_calendar" = "Agregar al calendario";
+/* screen -> appointment -> alert -> success */
+"screen.appointment.alert.success" = "Éxito";
+/* screen -> appointment -> alert -> added_to_calendar */
+"screen.appointment.alert.added_to_calendar" = "Cita agregada al calendario";
+/* screen -> appointment -> alert -> add_error */
+"screen.appointment.alert.add_error" = "No se pudo agregar la cita al calendario";
 /* screen -> catalog -> placeholder */
 "screen.catalog.placeholder" = "No hay servicios disponibles";
 /* screen -> catalog -> complex_header */
@@ -520,7 +594,7 @@
 /* screen -> profile_editing -> your_name */
 "screen.profile_editing.your_name" = "Tu nombre";
 /* screen -> profile_editing -> profile_photo */
-"screen.profile_editing.profile_photo" = "Nombre de perfil";
+"screen.profile_editing.profile_photo" = "Foto de perfil";
 /* screen -> profile_editing -> choose_from_gallery */
 "screen.profile_editing.choose_from_gallery" = "Elegir de la galería";
 /* screen -> profile_editing -> edit_image */
@@ -548,7 +622,7 @@
 /* screen -> workplace_editing -> your_name */
 "screen.workplace_editing.your_name" = "Tu nombre";
 /* screen -> workplace_editing -> profile_photo */
-"screen.workplace_editing.profile_photo" = "Nombre de perfil";
+"screen.workplace_editing.profile_photo" = "Foto de perfil";
 /* screen -> workplace_editing -> choose_from_gallery */
 "screen.workplace_editing.choose_from_gallery" = "Elegir de la galería";
 /* screen -> workplace_editing -> salon_type */
@@ -601,6 +675,8 @@
 "screen.services.search" = "Buscar servicio";
 /* screen -> knowledge_base -> title */
 "screen.knowledge_base.title" = "Base de conocimientos";
+/* screen -> knowledge_base -> position_setup */
+"screen.knowledge_base.position_setup" = "Configuración de posición";
 /* screen -> knowledge_base -> workplace_setup */
 "screen.knowledge_base.workplace_setup" = "Configurar su espacio de trabajo";
 /* screen -> knowledge_base -> schedule_setup */
@@ -611,6 +687,38 @@
 "screen.knowledge_base.clients" = "Clientela";
 /* screen -> knowledge_base -> appointments */
 "screen.knowledge_base.appointments" = "Citas";
+/* screen -> paywall -> title */
+"screen.paywall.title" = "Elimina las limitaciones";
+/* screen -> paywall -> terms_and_conditions */
+"screen.paywall.terms_and_conditions" = "Términos y condiciones";
+/* screen -> paywall -> gift */
+"screen.paywall.gift" = "+2 meses";
+/* screen -> paywall -> button_text */
+"screen.paywall.button_text" = "Conectar";
+/* screen -> paywall -> month */
+"screen.paywall.month" = "Mes";
+/* screen -> paywall -> year */
+"screen.paywall.year" = "Año";
+/* screen -> paywall -> tariff -> start */
+"screen.paywall.tariff.start" = "Inicial";
+/* screen -> paywall -> tariff -> base */
+"screen.paywall.tariff.base" = "Básico";
+/* screen -> paywall -> tariff -> advanced */
+"screen.paywall.tariff.advanced" = "Avanzado";
+/* screen -> paywall -> tariff -> custom_price */
+"screen.paywall.tariff.custom_price" = "Precio acordado";
+/* screen -> paywall -> action -> connect */
+"screen.paywall.action.connect" = "Conectar";
+/* screen -> paywall -> action -> contact */
+"screen.paywall.action.contact" = "Contactar";
+/* screen -> schedule_setup -> controls -> change */
+"screen.schedule_setup.controls.change" = "Cambiar";
+/* screen -> schedule_setup -> controls -> day_off */
+"screen.schedule_setup.controls.day_off" = "Día libre";
+/* screen -> schedule_setup -> controls -> start */
+"screen.schedule_setup.controls.start" = "Comenzar";
+/* screen -> schedule_setup -> controls -> from_today */
+"screen.schedule_setup.controls.from_today" = "Desde hoy";
 /* widget -> address -> title */
 "widget.address.title" = "Dirección";
 /* widget -> address -> navigation */
@@ -627,6 +735,12 @@
 "widget.contacts.delete_confirmation" = "Confirmar eliminación";
 /* widget -> contacts -> connect */
 "widget.contacts.connect" = "Contactar";
+/* widget -> contacts -> saving */
+"widget.contacts.saving" = "Guardando";
+/* widget -> contacts -> select_contact_type */
+"widget.contacts.select_contact_type" = "Selecciona el tipo de contacto";
+/* widget -> contacts -> no_search_results */
+"widget.contacts.no_search_results" = "No se encontraron resultados de búsqueda";
 /* widget -> timetable -> title */
 "widget.timetable.title" = "Horario de trabajo";
 /* widget -> timetable -> break */
@@ -652,7 +766,7 @@
 /* widget -> knowledge_base -> title */
 "widget.knowledge_base.title" = "Base de conocimientos";
 /* widget -> knowledge_base -> description */
-"widget.knowledge_base.description" = "Здесь находится вся информация о том, как пользоваться приложением";
+"widget.knowledge_base.description" = "Aquí se encuentra toda la información sobre cómo usar la aplicación";
 /* reusable -> ok */
 "reusable.ok" = "Ok";
 /* reusable -> info */
@@ -803,10 +917,14 @@
 "onboarding.create_workplace.title" = "Crea tu primer salón";
 /* onboarding -> create_workplace -> subtitle */
 "onboarding.create_workplace.subtitle" = "En la pantalla principal, desliza hacia la derecha para abrir el panel auxiliar, luego toca +.";
-/* onboarding -> setup_schedule -> title */
-"onboarding.setup_schedule.title" = "Configura el horario de trabajo";
-/* onboarding -> setup_schedule -> subtitle */
-"onboarding.setup_schedule.subtitle" = "Ve a la pestaña de horario. Haz clic en el ícono de tu establecimiento. Después, puedes configurarlo también para cada empleado. Recuerda que el horario del empleado debe coincidir con el del establecimiento";
+/* onboarding -> setup_schedule -> step1 -> title */
+"onboarding.setup_schedule.step1.title" = "Selecciona los días para editar";
+/* onboarding -> setup_schedule -> step1 -> description */
+"onboarding.setup_schedule.step1.description" = "Toca la celda del día para agregarlos a la selección para editar el día";
+/* onboarding -> setup_schedule -> step2 -> title */
+"onboarding.setup_schedule.step2.title" = "Ver información del día";
+/* onboarding -> setup_schedule -> step2 -> description */
+"onboarding.setup_schedule.step2.description" = "Mantén presionado el día para ver información breve sobre él";
 /* onboarding -> invite_employee -> title */
 "onboarding.invite_employee.title" = "Invitar empleado";
 /* onboarding -> invite_employee -> subtitle */
@@ -907,8 +1025,38 @@
 "onboarding.salon_creation.step5.title" = "Horario diario";
 /* onboarding -> salon_creation -> step5 -> subtitle */
 "onboarding.salon_creation.step5.subtitle" = "Este horario se repetirá cada día con la misma plantilla";
+/* onboarding -> position -> step1 -> title */
+"onboarding.position.step1.title" = "Configuración de posición";
+/* onboarding -> position -> step1 -> description */
+"onboarding.position.step1.description" = "Abre la pantalla de especialistas, presiona el botón + en la sección de posiciones para crear una nueva posición. Configura todos los campos y confirma la creación de la posición.";
 /* creatable -> salon -> title */
 "creatable.salon.title" = "Creación de salón";
+/* creatable -> salon -> workplace -> salon_name */
+"creatable.salon.workplace.salon_name" = "Nombre del salón";
+/* creatable -> salon -> workplace -> salon_name_placeholder */
+"creatable.salon.workplace.salon_name_placeholder" = "Introduce el nombre...";
+/* creatable -> salon -> workplace -> add_logo */
+"creatable.salon.workplace.add_logo" = "Agregar logotipo";
+/* creatable -> salon -> workplace -> salon_logo */
+"creatable.salon.workplace.salon_logo" = "Logotipo del salón";
+/* creatable -> salon -> workplace -> logo_description */
+"creatable.salon.workplace.logo_description" = "Agrega un logotipo para destacar entre los salones";
+/* creatable -> salon -> workplace -> change_type */
+"creatable.salon.workplace.change_type" = "Cambiar tipo";
+/* creatable -> salon -> workplace -> salon_type */
+"creatable.salon.workplace.salon_type" = "Tipo de salón";
+/* creatable -> salon -> workplace -> salon_description */
+"creatable.salon.workplace.salon_description" = "Descripción del salón";
+/* creatable -> salon -> workplace -> description_placeholder */
+"creatable.salon.workplace.description_placeholder" = "Introduce una descripción...";
+/* creatable -> salon -> workplace -> add_contact */
+"creatable.salon.workplace.add_contact" = "Agregar contacto";
+/* creatable -> salon -> workplace -> contacts */
+"creatable.salon.workplace.contacts" = "Contactos";
+/* creatable -> salon -> workplace -> change_address */
+"creatable.salon.workplace.change_address" = "Cambiar dirección";
+/* creatable -> salon -> workplace -> address */
+"creatable.salon.workplace.address" = "Dirección";
 /* creatable -> salon -> salon_type */
 "creatable.salon.salon_type" = "Comencemos — te ayudaré a configurarlo según tus necesidades. Primero, elige qué tipo de espacio estás creando";
 /* creatable -> salon -> master_type */
@@ -949,6 +1097,30 @@
 "creatable.salon.unfinished_creatable" = "¡Hemos encontrado una creación de salón sin finalizar en tu cuenta!";
 /* creatable -> procedure -> title */
 "creatable.procedure.title" = "Crear procedimiento";
+/* creatable -> procedure -> unfinished_title */
+"creatable.procedure.unfinished_title" = "Hemos encontrado una creación de procedimiento sin finalizar";
+/* creatable -> procedure -> field -> select_masters */
+"creatable.procedure.field.select_masters" = "Seleccionar especialistas";
+/* creatable -> procedure -> field -> executors */
+"creatable.procedure.field.executors" = "Ejecutores";
+/* creatable -> procedure -> field -> create_service */
+"creatable.procedure.field.create_service" = "O crear nuevo servicio";
+/* creatable -> procedure -> field -> select_template */
+"creatable.procedure.field.select_template" = "Elegir de plantillas";
+/* creatable -> procedure -> field -> name_title */
+"creatable.procedure.field.name_title" = "Servicio";
+/* creatable -> procedure -> field -> name_placeholder */
+"creatable.procedure.field.name_placeholder" = "Introduce el nombre...";
+/* creatable -> procedure -> field -> set_duration */
+"creatable.procedure.field.set_duration" = "Establecer";
+/* creatable -> procedure -> field -> duration_title */
+"creatable.procedure.field.duration_title" = "Duración del procedimiento";
+/* creatable -> procedure -> field -> description_title */
+"creatable.procedure.field.description_title" = "Descripción del procedimiento";
+/* creatable -> procedure -> field -> description_placeholder */
+"creatable.procedure.field.description_placeholder" = "Introduce una descripción...";
+/* creatable -> procedure -> field -> price_title */
+"creatable.procedure.field.price_title" = "Costo del procedimiento";
 /* creatable -> procedure -> name_enter */
 "creatable.procedure.name_enter" = "Comencemos por el nombre — introdúcelo manualmente o elige de la lista";
 /* creatable -> procedure -> name_hint */
@@ -983,6 +1155,10 @@
 "creatable.procedure.unfinished_creatable" = "Hemos encontrado una creación de procedimiento sin finalizar";
 /* creatable -> client -> title */
 "creatable.client.title" = "Nuevo cliente";
+/* creatable -> client -> field -> name_title */
+"creatable.client.field.name_title" = "Nombre";
+/* creatable -> client -> field -> contacts_title */
+"creatable.client.field.contacts_title" = "Contactos";
 /* creatable -> client -> name_enter */
 "creatable.client.name_enter" = "Introduce el nombre del cliente";
 /* creatable -> client -> name_placeholder */
@@ -993,6 +1169,18 @@
 "creatable.client.unfinished_creatable" = "¡Hemos encontrado una creación de cliente sin finalizar en tu cuenta!";
 /* creatable -> employee -> title */
 "creatable.employee.title" = "Nuevo empleado";
+/* creatable -> employee -> unfinished_title */
+"creatable.employee.unfinished_title" = "Hemos encontrado una creación de empleado sin finalizar";
+/* creatable -> employee -> field -> name_title */
+"creatable.employee.field.name_title" = "Nombre del especialista";
+/* creatable -> employee -> field -> select_position */
+"creatable.employee.field.select_position" = "Elegir puesto";
+/* creatable -> employee -> field -> position_title */
+"creatable.employee.field.position_title" = "Puesto";
+/* creatable -> employee -> field -> setup */
+"creatable.employee.field.setup" = "Configurar";
+/* creatable -> employee -> field -> schedule_title */
+"creatable.employee.field.schedule_title" = "Horario del especialista";
 /* creatable -> employee -> name_enter */
 "creatable.employee.name_enter" = "Introduce el nombre del empleado";
 /* creatable -> employee -> name_placeholder */
@@ -1013,6 +1201,12 @@
 "creatable.employee.unfinished_creatable" = "¡Hemos encontrado una creación de empleado sin finalizar en tu cuenta!";
 /* creatable -> position -> title */
 "creatable.position.title" = "Nuevo puesto";
+/* creatable -> position -> field -> name_title */
+"creatable.position.field.name_title" = "Nombre";
+/* creatable -> position -> field -> salary_button */
+"creatable.position.field.salary_button" = "Salario";
+/* creatable -> position -> field -> salary_title */
+"creatable.position.field.salary_title" = "Introduce el salario";
 /* creatable -> position -> name_enter */
 "creatable.position.name_enter" = "Especifica el nombre del nuevo puesto";
 /* creatable -> position -> placeholder */
@@ -1027,6 +1221,20 @@
 "creatable.position.unfinished_creatable" = "¡Hemos encontrado una creación de puesto sin finalizar en tu cuenta!";
 /* creatable -> schedule -> title */
 "creatable.schedule.title" = "Crear horario";
+/* creatable -> schedule -> shift_schedule_title */
+"creatable.schedule.shift_schedule_title" = "Horario por turnos";
+/* creatable -> schedule -> week_schedule_title */
+"creatable.schedule.week_schedule_title" = "Plantilla semanal";
+/* creatable -> schedule -> day_schedule_title */
+"creatable.schedule.day_schedule_title" = "Horario diario";
+/* creatable -> schedule -> worktime_uncorrect_error */
+"creatable.schedule.worktime_uncorrect_error" = "La hora de finalización debe ser después de la hora de inicio";
+/* creatable -> schedule -> no_worktime_set_error */
+"creatable.schedule.no_worktime_set_error" = "No se ha establecido el horario de trabajo";
+/* creatable -> schedule -> offtime_duplicates_error */
+"creatable.schedule.offtime_duplicates_error" = "Hay pausas duplicadas";
+/* creatable -> schedule -> offtime_overlapping_error */
+"creatable.schedule.offtime_overlapping_error" = "Hay pausas superpuestas";
 /* creatable -> schedule -> weekly_info */
 "creatable.schedule.weekly_info" = "Crea una plantilla semanal — cada día puede configurarse individualmente";
 /* creatable -> schedule -> daily_info */
@@ -1051,6 +1259,18 @@
 "creatable.schedule.missing_timetable" = "Horario faltante";
 /* creatable -> contact -> title */
 "creatable.contact.title" = "Crear contacto";
+/* creatable -> contact -> field -> add_contact */
+"creatable.contact.field.add_contact" = "Agregar contacto";
+/* creatable -> contact -> field -> phone */
+"creatable.contact.field.phone" = "Teléfono";
+/* creatable -> contact -> field -> telegram */
+"creatable.contact.field.telegram" = "Telegram";
+/* creatable -> contact -> field -> instagram */
+"creatable.contact.field.instagram" = "Instagram";
+/* creatable -> contact -> field -> email */
+"creatable.contact.field.email" = "Correo electrónico";
+/* creatable -> contact -> field -> email_placeholder */
+"creatable.contact.field.email_placeholder" = "example@email.com";
 /* creatable -> contact -> contact_type */
 "creatable.contact.contact_type" = "Elige el método de contacto preferido";
 /* creatable -> contact -> instagram */
@@ -1060,7 +1280,7 @@
 /* creatable -> contact -> telegram */
 "creatable.contact.telegram" = "Telegram";
 /* creatable -> contact -> email */
-"creatable.contact.email" = "Email";
+"creatable.contact.email" = "Correo electrónico";
 /* creatable -> contact -> enter_email */
 "creatable.contact.enter_email" = "Introduce tu correo electrónico";
 /* creatable -> contact -> enter_instagram */
@@ -1071,6 +1291,14 @@
 "creatable.contact.enter_telegram_number" = "Agrega cuenta de Telegram";
 /* creatable -> appointment -> title */
 "creatable.appointment.title" = "Nueva cita";
+/* creatable -> appointment -> client */
+"creatable.appointment.client" = "Cliente";
+/* creatable -> appointment -> procedure */
+"creatable.appointment.procedure" = "Procedimiento";
+/* creatable -> appointment -> date */
+"creatable.appointment.date" = "Fecha";
+/* creatable -> appointment -> select_procedure_first_message */
+"creatable.appointment.select_procedure_first_message" = "Para seleccionar la fecha primero necesitas elegir el procedimiento";
 /* creatable -> appointment -> choose_customer */
 "creatable.appointment.choose_customer" = "Selecciona el cliente para quien se crea la cita";
 /* creatable -> appointment -> select_procedure */
@@ -1191,12 +1419,20 @@ Esto es necesario para recuperar acceso a tu cuenta";
 "creatable.complex.parallel_description" = "El tiempo se calculará como la suma de todos los procedimientos";
 /* creatable -> procedure_update -> missing_title */
 "creatable.procedure_update.missing_title" = "Falta título";
+/* creatable -> service -> missing_tag */
+"creatable.service.missing_tag" = "Falta etiqueta";
 /* creatable -> service -> missing_category */
 "creatable.service.missing_category" = "Falta categoría";
 /* creatable -> assignment -> unfinished_creatable */
 "creatable.assignment.unfinished_creatable" = "Hemos encontrado una creación de cita sin finalizar en tu cuenta";
+/* updatable -> employee -> select_position */
+"updatable.employee.select_position" = "Elegir puesto";
+/* updatable -> position -> title */
+"updatable.position.title" = "Nombre";
+/* updatable -> position -> title_placeholder */
+"updatable.position.title_placeholder" = "Tu nombre";
 /* updatable -> profile_update -> enter_name */
-"updatable.profile_update.enter_name" = "Introduce un nuevo apodo";
+"updatable.profile_update.enter_name" = "Introduce el nuevo apodo";
 /* updatable -> profile_update -> placeholder */
 "updatable.profile_update.placeholder" = "Nombre";
 /* updatable -> profile_update -> save */
@@ -1259,6 +1495,8 @@ Esto es necesario para recuperar acceso a tu cuenta";
 "error.http.bad_gateway" = "502 Puerta de enlace incorrecta: el servidor actuando como proxy recibió una respuesta inválida.";
 /* error -> http -> bad_request */
 "error.http.bad_request" = "400 Solicitud incorrecta: sintaxis inválida en la solicitud.";
+/* error -> http -> payment_required */
+"error.http.payment_required" = "Límite de suscripción alcanzado. Por favor actualiza tu plan para continuar.";
 /* error -> http -> conflict */
 "error.http.conflict" = "409 Conflicto: conflicto al procesar la solicitud, como ediciones simultáneas.";
 /* error -> http -> forbidden */
@@ -1285,15 +1523,51 @@ Esto es necesario para recuperar acceso a tu cuenta";
 "error.complex.missing_price_shift" = "Problema con el tipo de precio o su valor";
 /* error -> complex -> missing_complex_type */
 "error.complex.missing_complex_type" = "Problema con el tipo de complejo";
+/* error -> workplace -> missing_type */
+"error.workplace.missing_type" = "Elige el tipo de salón";
+/* error -> workplace -> missing_name */
+"error.workplace.missing_name" = "Introduce el nombre del salón";
+/* error -> workplace -> missing_address */
+"error.workplace.missing_address" = "Especifica la dirección del salón";
+/* error -> workplace -> missing_time_zone */
+"error.workplace.missing_time_zone" = "No se pudo determinar la zona horaria";
+/* error -> workplace -> missing_locale */
+"error.workplace.missing_locale" = "No se pudo determinar la región";
+/* error -> workplace -> invalid_address */
+"error.workplace.invalid_address" = "Dirección inválida";
+/* error -> workplace -> upload_failed */
+"error.workplace.upload_failed" = "Error al cargar imagen";
+/* error -> position -> missing_salary */
+"error.position.missing_salary" = "Falta salario";
+/* error -> input -> error_invalid_number */
+"error.input.error_invalid_number" = "Por favor, introduce un valor numérico correcto";
+/* error -> input -> error_min_value */
+"error.input.error_min_value" = "El valor no puede ser menor que {min}";
+/* error -> input -> error_max_value */
+"error.input.error_max_value" = "El valor no puede ser mayor que {max}";
+/* error -> decoding -> customer_appointment */
+"error.decoding.customer_appointment" = "No se pudo decodificar como Procedure o Complex";
+/* error -> decoding -> employee_appointment */
+"error.decoding.employee_appointment" = "No se pudo decodificar como ProcedureSlots o ComplexSlots";
 "step.complex_chunks.selected_procedures" = "Procedimientos seleccionados";
 /* step -> time_slot -> time_zone_difference */
 "step.time_slot.time_zone_difference" = "Diferencia horaria";
 /* step -> procedures -> procedure_description */
 "step.procedures.procedure_description" = "Descripción";
+/* service -> service_info */
+"service.service_info" = "%{duration} | %{price}";
 "service.shortcut.something_wrong" = "¿Algo salió mal?";
 "service.shortcut.give_feedback" = "Por favor, déjanos tu opinión antes de eliminar la app. Nos ayudará a mejorar.";
 /* service -> shortcut -> mail_body */
 "service.shortcut.mail_body" = "¡Hola!
 Quiero compartir mi opinión sobre la aplicación Maetry. Aquí está mi reseña:";
-"shortcut.service.mail_subject" = "Opinión sobre la aplicación Maetry";
+/* shortcut -> feedback -> title */
+"shortcut.feedback.title" = "¿Algo salió mal?";
+/* shortcut -> feedback -> subtitle */
+"shortcut.feedback.subtitle" = "Por favor déjanos tu opinión antes de eliminar la app. Nos ayudará...";
+/* shortcut -> mail -> subject */
+"shortcut.mail.subject" = "Opinión sobre la aplicación Maetry";
+/* shortcut -> mail -> body */
+"shortcut.mail.body" = "¡Hola!
+Estoy escribiendo para compartir mi reseña de la aplicación Maetry. A continuación está mi reseña:";
 "cell.contact.select_phone_number" = "Seleccionar número";
