@@ -607,8 +607,6 @@
 "screen.main_customer_map_search.list" = "Список";
 /* screen -> main_customer -> appointments */
 "screen.main_customer.appointments" = "Записи";
-/* screen -> masters -> masters_count */
-"screen.masters.masters_count" = "Количество мастеров";
 /* screen -> client_editable -> name */
 "screen.client_editable.name" = "Название";
 /* screen -> client_editable -> your_name */
@@ -825,34 +823,6 @@
 "reusable.invitation_link" = "Отправьте ссылку-приглашение";
 /* reusable -> not_found */
 "reusable.not_found" = "Ничего не найдено";
-/* reusable -> days_of_the_week -> sunday */
-"reusable.days_of_the_week.sunday" = "Воскресенье";
-/* reusable -> days_of_the_week -> monday */
-"reusable.days_of_the_week.monday" = "Понедельник";
-/* reusable -> days_of_the_week -> tuesday */
-"reusable.days_of_the_week.tuesday" = "Вторник";
-/* reusable -> days_of_the_week -> wednesday */
-"reusable.days_of_the_week.wednesday" = "Среда";
-/* reusable -> days_of_the_week -> thursday */
-"reusable.days_of_the_week.thursday" = "Четверг";
-/* reusable -> days_of_the_week -> friday */
-"reusable.days_of_the_week.friday" = "Пятница";
-/* reusable -> days_of_the_week -> saturday */
-"reusable.days_of_the_week.saturday" = "Суббота";
-/* reusable -> days_of_the_week -> sunday_short */
-"reusable.days_of_the_week.sunday_short" = "Вс";
-/* reusable -> days_of_the_week -> monday_short */
-"reusable.days_of_the_week.monday_short" = "Пн";
-/* reusable -> days_of_the_week -> tuesday_short */
-"reusable.days_of_the_week.tuesday_short" = "Вт";
-/* reusable -> days_of_the_week -> wednesday_short */
-"reusable.days_of_the_week.wednesday_short" = "Ср";
-/* reusable -> days_of_the_week -> thursday_short */
-"reusable.days_of_the_week.thursday_short" = "Чт";
-/* reusable -> days_of_the_week -> friday_short */
-"reusable.days_of_the_week.friday_short" = "Пт";
-/* reusable -> days_of_the_week -> saturday_short */
-"reusable.days_of_the_week.saturday_short" = "Сб";
 /* reusable -> category_enum -> brows */
 "reusable.category_enum.brows" = "Брови";
 /* reusable -> category_enum -> cosmetology */
@@ -1157,14 +1127,8 @@
 "creatable.client.title" = "Новый клиент";
 /* creatable -> client -> field -> name_title */
 "creatable.client.field.name_title" = "Имя";
-/* creatable -> client -> field -> contacts_title */
-"creatable.client.field.contacts_title" = "Контакты";
-/* creatable -> client -> name_enter */
-"creatable.client.name_enter" = "Введите имя клиента";
 /* creatable -> client -> name_placeholder */
 "creatable.client.name_placeholder" = "Введите имя...";
-/* creatable -> client -> add_contact */
-"creatable.client.add_contact" = "Добавьте способ связи — так вы всегда сможете легко связаться с клиентом";
 /* creatable -> client -> unfinished_creatable */
 "creatable.client.unfinished_creatable" = "Мы нашли у вас не завершенное создание клиента!";
 /* creatable -> employee -> title */
@@ -1307,12 +1271,6 @@
 "creatable.appointment.select_time" = "Укажите удобное время для визита";
 /* creatable -> appointment -> day_unavailable */
 "creatable.appointment.day_unavailable" = "В этот день, к сожалению, запись недоступна — выберите другую дату";
-/* creatable -> appointment -> sign_in_description */
-"creatable.appointment.sign_in_description" = "Чтобы завершить оформление записи, пожалуйста, **войдите** в систему";
-/* creatable -> appointment -> choose_master */
-"creatable.appointment.choose_master" = "Укажите мастера, который будет выполнять услугу";
-/* creatable -> appointment -> time */
-"creatable.appointment.time" = "Время";
 /* creatable -> appointment -> night */
 "creatable.appointment.night" = "Ночь";
 /* creatable -> appointment -> morning */
@@ -1321,10 +1279,6 @@
 "creatable.appointment.afternoon" = "После обеда";
 /* creatable -> appointment -> evening */
 "creatable.appointment.evening" = "Вечер";
-/* creatable -> appointment -> unfinished_creatable_found */
-"creatable.appointment.unfinished_creatable_found" = "Мы нашли у вас незавершенное создание записи!";
-/* creatable -> auth -> add_salon */
-"creatable.auth.add_salon" = "Добавить салон";
 /* creatable -> auth -> enter_name */
 "creatable.auth.enter_name" = "Кто ты?";
 /* creatable -> auth -> later_logo */
@@ -1333,20 +1287,12 @@
 "creatable.auth.placeholder" = "Имя";
 /* creatable -> auth -> privacy */
 "creatable.auth.privacy" = "Нажимая \"Продолжить\", ты соглашаешься с [Политикой конфиденциальности](%@) и [Пользовательским соглашением](%@)";
-/* creatable -> auth -> select_photo */
-"creatable.auth.select_photo" = "Выбрать фото";
-/* creatable -> auth -> sign_up_with_google */
-"creatable.auth.sign_up_with_google" = "Войди с помощью Google";
 /* creatable -> auth -> title */
 "creatable.auth.title" = "Авторизация";
 /* creatable -> auth -> upload_logo */
 "creatable.auth.upload_logo" = "Давай загрузим твою аватарку";
 /* creatable -> auth -> welcome_message */
 "creatable.auth.welcome_message" = "Войди или зарегистрируйся чтобы использовать сервис на любом устройстве.";
-/* creatable -> auth -> who_are_you */
-"creatable.auth.who_are_you" = "Желаешь зарегистрироваться как мастер или как клиент?";
-/* creatable -> auth -> transparency_tracking_request */
-"creatable.auth.transparency_tracking_request" = "Мы также попросим доступ к данным о твоих предпочтениях, чтобы улучшить рекомендации и оптимизировать твой пользовательский опыт.";
 /* creatable -> auth -> uncompleted_registration_found */
 "creatable.auth.uncompleted_registration_found" = "Мы нашли у вас не законченную регистрацию!";
 /* creatable -> auth -> add_recovery_title */
@@ -1357,73 +1303,10 @@
 "creatable.auth.add_recovery_description" = "Укажи номер телефона или email.\nЭто нужно, чтобы ты всегда мог восстановить доступ к аккаунту.";
 /* creatable -> auth -> add_workplace */
 "creatable.auth.add_workplace" = "Добавьте рабочее место для продолжения регистрации";
-/* creatable -> professional -> create_another_salon */
-"creatable.professional.create_another_salon" = "Ты также можешь добавить еще один салон";
-/* creatable -> professional -> create_first_salon */
-"creatable.professional.create_first_salon" = "Ты можешь создать свой первый салон";
-/* creatable -> professional -> create_salon_button */
-"creatable.professional.create_salon_button" = "Создать салон";
-/* creatable -> professional -> invitation_link */
-"creatable.professional.invitation_link" = "Если у тебя есть ссылка-приглашение, пожалуйста, введи её ниже";
-/* creatable -> professional -> link_is_not_valid */
-"creatable.professional.link_is_not_valid" = "К сожалению, введённая ссылка недействительна. Пожалуйста, проверь и введи её снова";
-/* creatable -> professional -> title */
-"creatable.professional.title" = "Регистрация мастера";
-/* creatable -> complex -> choose_price_shift_type */
-"creatable.complex.choose_price_shift_type" = "Выберите тип изменения цены";
-/* creatable -> complex -> name_question */
-"creatable.complex.name_question" = "Как назовём комплекс?";
-/* creatable -> complex -> enter_name */
-"creatable.complex.enter_name" = "Введите название комплекса";
-/* creatable -> complex -> choose_complex_type */
-"creatable.complex.choose_complex_type" = "Выберите тип комплекса";
-/* creatable -> complex -> execution_mode_description */
-"creatable.complex.execution_mode_description" = "**Параллельный** – время на комплекс будет рассчитано исходя из самой продолжительной процедуры.  
-                       **Последовательный** – время на комплекс будет рассчитано исходя из суммы времени всех процедур.";
-/* creatable -> complex -> enter_description */
-"creatable.complex.enter_description" = "Введите описание комплекса";
-/* creatable -> complex -> add_description */
-"creatable.complex.add_description" = "Добавьте описание комплекса";
-/* creatable -> complex -> choose_procedures */
-"creatable.complex.choose_procedures" = "Выберите процедуры для комплекса";
-/* creatable -> complex -> enter_discount_percentage */
-"creatable.complex.enter_discount_percentage" = "Введите процент скидки";
-/* creatable -> complex -> enter_discount_amount */
-"creatable.complex.enter_discount_amount" = "Введите размер скидки";
-/* creatable -> complex -> create_complex */
-"creatable.complex.create_complex" = "Создать комплекс";
-/* creatable -> complex -> tap_to_create_complex */
-"creatable.complex.tap_to_create_complex" = "Нажмите, чтобы создать комплекс";
-/* creatable -> complex -> creation_congratulation */
-"creatable.complex.creation_congratulation" = "Поздравляем, вы успешно создали комплекс";
-/* creatable -> complex -> unfinished_creatable */
-"creatable.complex.unfinished_creatable" = "Мы нашли у вас незаконченное создание комплекса";
-/* creatable -> complex -> percent */
-"creatable.complex.percent" = "Процент";
-/* creatable -> complex -> fixed_amount */
-"creatable.complex.fixed_amount" = "Фиксированный размер";
-/* creatable -> complex -> consistent */
-"creatable.complex.consistent" = "Последовательный";
-/* creatable -> complex -> sequential_description */
-"creatable.complex.sequential_description" = "Время на комплекс будет рассчитано, исходя из самой продолжительной процедуры";
-/* creatable -> complex -> sequential */
-"creatable.complex.sequential" = "Последовательный";
-/* creatable -> complex -> title */
-"creatable.complex.title" = "Создание комплекса";
-/* complex.creatable.enter_value */
-"creatable.complex.enter_value" = "Введите значение";
-/* creatable -> complex -> parallel */
-"creatable.complex.parallel" = "Параллельный";
-/* creatable -> complex -> parallel_description */
-"creatable.complex.parallel_description" = "Время на комплекс будет рассчитано, исходя из самой продолжительной процедуры";
-/* creatable -> procedure_update -> missing_title */
-"creatable.procedure_update.missing_title" = "Отсутствует название";
 /* creatable -> service -> missing_tag */
 "creatable.service.missing_tag" = "Отсутствует тег";
 /* creatable -> service -> missing_category */
 "creatable.service.missing_category" = "Отсутствует категория";
-/* creatable -> assignment -> unfinished_creatable */
-"creatable.assignment.unfinished_creatable" = "Мы нашли у вас незавершенное создание записи!";
 /* updatable -> employee -> select_position */
 "updatable.employee.select_position" = "Выбрать должность";
 /* updatable -> position -> title */
@@ -1512,16 +1395,6 @@
 "error.http.service_unavailable" = "503 Сервис недоступен: Сервер не может обработать запрос из-за временной перегрузки или обслуживания.";
 /* error -> http -> unauthorized */
 "error.http.unauthorized" = "401 Неавторизован: Требуется аутентификация. Пользователь должен залогиниться для доступа.";
-/* error -> complex -> missing_title */
-"error.complex.missing_title" = "Отсутствует название";
-/* error -> complex -> missing_procedures */
-"error.complex.missing_procedures" = "Отсутствуют процедуры";
-/* error -> complex -> empty_procedures */
-"error.complex.empty_procedures" = "Комплекс должен содержать хотя бы одну процедуру";
-/* error -> complex -> missing_price_shift */
-"error.complex.missing_price_shift" = "Проблема с типом и значением цены";
-/* error -> complex -> missing_complex_type */
-"error.complex.missing_complex_type" = "Проблема с типом комплекса";
 /* error -> workplace -> missing_type */
 "error.workplace.missing_type" = "Выберите тип салона";
 /* error -> workplace -> missing_name */
@@ -1538,12 +1411,6 @@
 "error.workplace.upload_failed" = "Ошибка загрузки изображения";
 /* error -> position -> missing_salary */
 "error.position.missing_salary" = "Отсутствует зарплата";
-/* error -> input -> error_invalid_number */
-"error.input.error_invalid_number" = "Пожалуйста, введите корректное числовое значение";
-/* error -> input -> error_min_value */
-"error.input.error_min_value" = "Значение не может быть меньше {min}";
-/* error -> input -> error_max_value */
-"error.input.error_max_value" = "Значение не может быть больше {max}";
 /* error -> decoding -> customer_appointment */
 "error.decoding.customer_appointment" = "Не удалось декодировать как Procedure или Complex";
 /* error -> decoding -> employee_appointment */

@@ -305,7 +305,6 @@
   <string name="screen.main_customer_list_search.map" comment="screen -&gt; main_customer_list_search -&gt; map">Mapa</string>
   <string name="screen.main_customer_map_search.list" comment="screen -&gt; main_customer_map_search -&gt; list">Lista</string>
   <string name="screen.main_customer.appointments" comment="screen -&gt; main_customer -&gt; appointments">Citas</string>
-  <string name="screen.masters.masters_count" comment="screen -&gt; masters -&gt; masters_count">Cantidad de especialistas</string>
   <string name="screen.client_editable.name" comment="screen -&gt; client_editable -&gt; name">Nombre</string>
   <string name="screen.client_editable.your_name" comment="screen -&gt; client_editable -&gt; your_name">Tu nombre</string>
   <string name="screen.employee_editable.name" comment="screen -&gt; employee_editable -&gt; name">Nombre</string>
@@ -414,20 +413,6 @@
   <string name="reusable.copy_button" comment="reusable -&gt; copy_button">Copiar</string>
   <string name="reusable.invitation_link" comment="reusable -&gt; invitation_link">Enviar enlace de invitación</string>
   <string name="reusable.not_found" comment="reusable -&gt; not_found">Nada encontrado</string>
-  <string name="reusable.days_of_the_week.sunday" comment="reusable -&gt; days_of_the_week -&gt; sunday">Domingo</string>
-  <string name="reusable.days_of_the_week.monday" comment="reusable -&gt; days_of_the_week -&gt; monday">Lunes</string>
-  <string name="reusable.days_of_the_week.tuesday" comment="reusable -&gt; days_of_the_week -&gt; tuesday">Martes</string>
-  <string name="reusable.days_of_the_week.wednesday" comment="reusable -&gt; days_of_the_week -&gt; wednesday">Miércoles</string>
-  <string name="reusable.days_of_the_week.thursday" comment="reusable -&gt; days_of_the_week -&gt; thursday">Jueves</string>
-  <string name="reusable.days_of_the_week.friday" comment="reusable -&gt; days_of_the_week -&gt; friday">Viernes</string>
-  <string name="reusable.days_of_the_week.saturday" comment="reusable -&gt; days_of_the_week -&gt; saturday">Sábado</string>
-  <string name="reusable.days_of_the_week.sunday_short" comment="reusable -&gt; days_of_the_week -&gt; sunday_short">Dom</string>
-  <string name="reusable.days_of_the_week.monday_short" comment="reusable -&gt; days_of_the_week -&gt; monday_short">Lun</string>
-  <string name="reusable.days_of_the_week.tuesday_short" comment="reusable -&gt; days_of_the_week -&gt; tuesday_short">Mar</string>
-  <string name="reusable.days_of_the_week.wednesday_short" comment="reusable -&gt; days_of_the_week -&gt; wednesday_short">Mié</string>
-  <string name="reusable.days_of_the_week.thursday_short" comment="reusable -&gt; days_of_the_week -&gt; thursday_short">Jue</string>
-  <string name="reusable.days_of_the_week.friday_short" comment="reusable -&gt; days_of_the_week -&gt; friday_short">Vie</string>
-  <string name="reusable.days_of_the_week.saturday_short" comment="reusable -&gt; days_of_the_week -&gt; saturday_short">Sáb</string>
   <string name="reusable.category_enum.brows" comment="reusable -&gt; category_enum -&gt; brows">Брови</string>
   <string name="reusable.category_enum.cosmetology" comment="reusable -&gt; category_enum -&gt; cosmetology">Косметология</string>
   <string name="reusable.category_enum.depilation" comment="reusable -&gt; category_enum -&gt; depilation">Depilación</string>
@@ -580,10 +565,7 @@
   <string name="creatable.procedure.unfinished_creatable" comment="creatable -&gt; procedure -&gt; unfinished_creatable">Hemos encontrado una creación de procedimiento sin finalizar</string>
   <string name="creatable.client.title" comment="creatable -&gt; client -&gt; title">Nuevo cliente</string>
   <string name="creatable.client.field.name_title" comment="creatable -&gt; client -&gt; field -&gt; name_title">Nombre</string>
-  <string name="creatable.client.field.contacts_title" comment="creatable -&gt; client -&gt; field -&gt; contacts_title">Contactos</string>
-  <string name="creatable.client.name_enter" comment="creatable -&gt; client -&gt; name_enter">Introduce el nombre del cliente</string>
   <string name="creatable.client.name_placeholder" comment="creatable -&gt; client -&gt; name_placeholder">Introduce el nombre...</string>
-  <string name="creatable.client.add_contact" comment="creatable -&gt; client -&gt; add_contact">Agrega un método de contacto — para poder comunicarte fácilmente con el cliente</string>
   <string name="creatable.client.unfinished_creatable" comment="creatable -&gt; client -&gt; unfinished_creatable">¡Hemos encontrado una creación de cliente sin finalizar en tu cuenta!</string>
   <string name="creatable.employee.title" comment="creatable -&gt; employee -&gt; title">Nuevo empleado</string>
   <string name="creatable.employee.unfinished_title" comment="creatable -&gt; employee -&gt; unfinished_title">Hemos encontrado una creación de empleado sin finalizar</string>
@@ -655,66 +637,25 @@
   <string name="creatable.appointment.select_procedure" comment="creatable -&gt; appointment -&gt; select_procedure">Elegir servicio</string>
   <string name="creatable.appointment.select_time" comment="creatable -&gt; appointment -&gt; select_time">Especificar horario conveniente</string>
   <string name="creatable.appointment.day_unavailable" comment="creatable -&gt; appointment -&gt; day_unavailable">Este día no está disponible para reservar — por favor elige otra fecha</string>
-  <string name="creatable.appointment.sign_in_description" comment="creatable -&gt; appointment -&gt; sign_in_description">Para completar la reserva, debes **iniciar sesión**</string>
-  <string name="creatable.appointment.choose_master" comment="creatable -&gt; appointment -&gt; choose_master">Selecciona el especialista que brindará el servicio</string>
-  <string name="creatable.appointment.time" comment="creatable -&gt; appointment -&gt; time">Hora</string>
   <string name="creatable.appointment.night" comment="creatable -&gt; appointment -&gt; night">Noche</string>
   <string name="creatable.appointment.morning" comment="creatable -&gt; appointment -&gt; morning">Mañana</string>
   <string name="creatable.appointment.afternoon" comment="creatable -&gt; appointment -&gt; afternoon">Tarde</string>
   <string name="creatable.appointment.evening" comment="creatable -&gt; appointment -&gt; evening">Noche</string>
-  <string name="creatable.appointment.unfinished_creatable_found" comment="creatable -&gt; appointment -&gt; unfinished_creatable_found">Hemos encontrado una creación de cita sin finalizar en tu cuenta</string>
-  <string name="creatable.auth.add_salon" comment="creatable -&gt; auth -&gt; add_salon">Agregar salón</string>
   <string name="creatable.auth.enter_name" comment="creatable -&gt; auth -&gt; enter_name">¿Quién eres?</string>
   <string name="creatable.auth.later_logo" comment="creatable -&gt; auth -&gt; later_logo">Si no tienes una foto ahora, puedes agregarla luego en ajustes del perfil.</string>
   <string name="creatable.auth.placeholder" comment="creatable -&gt; auth -&gt; placeholder">Nombre</string>
   <string name="creatable.auth.privacy" comment="creatable -&gt; auth -&gt; privacy">Al hacer clic en \'Continuar\', aceptas la [Política de Privacidad](%s) y los [Términos de Servicio](%s)</string>
-  <string name="creatable.auth.select_photo" comment="creatable -&gt; auth -&gt; select_photo">Elegir foto</string>
-  <string name="creatable.auth.sign_up_with_google" comment="creatable -&gt; auth -&gt; sign_up_with_google">Iniciar sesión con Google</string>
   <string name="creatable.auth.title" comment="creatable -&gt; auth -&gt; title">Autorización</string>
   <string name="creatable.auth.upload_logo" comment="creatable -&gt; auth -&gt; upload_logo">Subamos tu avatar</string>
   <string name="creatable.auth.welcome_message" comment="creatable -&gt; auth -&gt; welcome_message">Inicia sesión o regístrate para usar el servicio en cualquier dispositivo.</string>
-  <string name="creatable.auth.who_are_you" comment="creatable -&gt; auth -&gt; who_are_you">¿Quieres registrarte como especialista o como cliente?</string>
-  <string name="creatable.auth.transparency_tracking_request" comment="creatable -&gt; auth -&gt; transparency_tracking_request">También pediremos acceso a tus datos de preferencias para mejorar recomendaciones y experiencia</string>
   <string name="creatable.auth.uncompleted_registration_found" comment="creatable -&gt; auth -&gt; uncompleted_registration_found">¡Hemos encontrado un registro sin finalizar!</string>
   <string name="creatable.auth.add_recovery_title" comment="creatable -&gt; auth -&gt; add_recovery_title">Agregar método de recuperación</string>
   <string name="creatable.auth.select_contact_method" comment="creatable -&gt; auth -&gt; select_contact_method">Elige cómo podrán contactarte los especialistas; se mostrará en tu perfil</string>
   <string name="creatable.auth.add_recovery_description" comment="creatable -&gt; auth -&gt; add_recovery_description">Proporciona tu teléfono o email.
 Esto es necesario para recuperar acceso a tu cuenta</string>
   <string name="creatable.auth.add_workplace" comment="creatable -&gt; auth -&gt; add_workplace">Agrega un espacio de trabajo para continuar con el registro</string>
-  <string name="creatable.professional.create_another_salon" comment="creatable -&gt; professional -&gt; create_another_salon">También puedes agregar otro salón</string>
-  <string name="creatable.professional.create_first_salon" comment="creatable -&gt; professional -&gt; create_first_salon">Puedes crear tu primer salón</string>
-  <string name="creatable.professional.create_salon_button" comment="creatable -&gt; professional -&gt; create_salon_button">Crear salón</string>
-  <string name="creatable.professional.invitation_link" comment="creatable -&gt; professional -&gt; invitation_link">Si tienes un enlace de invitación, introdúcelo a continuación</string>
-  <string name="creatable.professional.link_is_not_valid" comment="creatable -&gt; professional -&gt; link_is_not_valid">El enlace ingresado no es válido. Verifica e inténtalo nuevamente</string>
-  <string name="creatable.professional.title" comment="creatable -&gt; professional -&gt; title">Registro como especialista</string>
-  <string name="creatable.complex.choose_price_shift_type" comment="creatable -&gt; complex -&gt; choose_price_shift_type">Elegir tipo de modificación de precio</string>
-  <string name="creatable.complex.name_question" comment="creatable -&gt; complex -&gt; name_question">¿Cómo llamaremos al complejo?</string>
-  <string name="creatable.complex.enter_name" comment="creatable -&gt; complex -&gt; enter_name">Introduce el nombre del complejo</string>
-  <string name="creatable.complex.choose_complex_type" comment="creatable -&gt; complex -&gt; choose_complex_type">Elige el tipo de complejo</string>
-  <string name="creatable.complex.execution_mode_description" comment="creatable -&gt; complex -&gt; execution_mode_description">**Paralelo** – el tiempo se calcula con el procedimiento más largo.
-**Secuencial** – el tiempo es la suma de todos los procedimientos.</string>
-  <string name="creatable.complex.enter_description" comment="creatable -&gt; complex -&gt; enter_description">Introduce una descripción del complejo</string>
-  <string name="creatable.complex.add_description" comment="creatable -&gt; complex -&gt; add_description">Agregar descripción del complejo</string>
-  <string name="creatable.complex.choose_procedures" comment="creatable -&gt; complex -&gt; choose_procedures">Elegir procedimientos para el complejo</string>
-  <string name="creatable.complex.enter_discount_percentage" comment="creatable -&gt; complex -&gt; enter_discount_percentage">Introduce porcentaje de descuento</string>
-  <string name="creatable.complex.enter_discount_amount" comment="creatable -&gt; complex -&gt; enter_discount_amount">Introduce valor del descuento</string>
-  <string name="creatable.complex.create_complex" comment="creatable -&gt; complex -&gt; create_complex">Crear complejo</string>
-  <string name="creatable.complex.tap_to_create_complex" comment="creatable -&gt; complex -&gt; tap_to_create_complex">Toca para crear complejo</string>
-  <string name="creatable.complex.creation_congratulation" comment="creatable -&gt; complex -&gt; creation_congratulation">¡Felicidades! Has creado exitosamente un complejo</string>
-  <string name="creatable.complex.unfinished_creatable" comment="creatable -&gt; complex -&gt; unfinished_creatable">Hemos encontrado una creación de complejo sin finalizar</string>
-  <string name="creatable.complex.percent" comment="creatable -&gt; complex -&gt; percent">Porcentaje</string>
-  <string name="creatable.complex.fixed_amount" comment="creatable -&gt; complex -&gt; fixed_amount">Cantidad fija</string>
-  <string name="creatable.complex.consistent" comment="creatable -&gt; complex -&gt; consistent">Secuencial</string>
-  <string name="creatable.complex.sequential_description" comment="creatable -&gt; complex -&gt; sequential_description">El tiempo se calculará como la suma de todos los procedimientos</string>
-  <string name="creatable.complex.sequential" comment="creatable -&gt; complex -&gt; sequential">Secuencial</string>
-  <string name="creatable.complex.title" comment="creatable -&gt; complex -&gt; title">Creación de complejo</string>
-  <string name="creatable.complex.enter_value" comment="complex.creatable.enter_value">Introducir valor</string>
-  <string name="creatable.complex.parallel" comment="creatable -&gt; complex -&gt; parallel">Paralelo</string>
-  <string name="creatable.complex.parallel_description" comment="creatable -&gt; complex -&gt; parallel_description">El tiempo se calculará como la suma de todos los procedimientos</string>
-  <string name="creatable.procedure_update.missing_title" comment="creatable -&gt; procedure_update -&gt; missing_title">Falta título</string>
   <string name="creatable.service.missing_tag" comment="creatable -&gt; service -&gt; missing_tag">Falta etiqueta</string>
   <string name="creatable.service.missing_category" comment="creatable -&gt; service -&gt; missing_category">Falta categoría</string>
-  <string name="creatable.assignment.unfinished_creatable" comment="creatable -&gt; assignment -&gt; unfinished_creatable">Hemos encontrado una creación de cita sin finalizar en tu cuenta</string>
   <string name="updatable.employee.select_position" comment="updatable -&gt; employee -&gt; select_position">Elegir puesto</string>
   <string name="updatable.position.title" comment="updatable -&gt; position -&gt; title">Nombre</string>
   <string name="updatable.position.title_placeholder" comment="updatable -&gt; position -&gt; title_placeholder">Tu nombre</string>
@@ -759,11 +700,6 @@ Esto es necesario para recuperar acceso a tu cuenta</string>
   <string name="error.http.not_found" comment="error -&gt; http -&gt; not_found">404 No encontrado: el recurso solicitado no existe.</string>
   <string name="error.http.service_unavailable" comment="error -&gt; http -&gt; service_unavailable">503 Servicio no disponible: sobrecarga o mantenimiento temporal.</string>
   <string name="error.http.unauthorized" comment="error -&gt; http -&gt; unauthorized">401 No autorizado: se requiere autenticación.</string>
-  <string name="error.complex.missing_title" comment="error -&gt; complex -&gt; missing_title">Falta título</string>
-  <string name="error.complex.missing_procedures" comment="error -&gt; complex -&gt; missing_procedures">Faltan procedimientos</string>
-  <string name="error.complex.empty_procedures" comment="error -&gt; complex -&gt; empty_procedures">El complejo debe contener al menos un procedimiento</string>
-  <string name="error.complex.missing_price_shift" comment="error -&gt; complex -&gt; missing_price_shift">Problema con el tipo de precio o su valor</string>
-  <string name="error.complex.missing_complex_type" comment="error -&gt; complex -&gt; missing_complex_type">Problema con el tipo de complejo</string>
   <string name="error.workplace.missing_type" comment="error -&gt; workplace -&gt; missing_type">Elige el tipo de salón</string>
   <string name="error.workplace.missing_name" comment="error -&gt; workplace -&gt; missing_name">Introduce el nombre del salón</string>
   <string name="error.workplace.missing_address" comment="error -&gt; workplace -&gt; missing_address">Especifica la dirección del salón</string>
@@ -772,9 +708,6 @@ Esto es necesario para recuperar acceso a tu cuenta</string>
   <string name="error.workplace.invalid_address" comment="error -&gt; workplace -&gt; invalid_address">Dirección inválida</string>
   <string name="error.workplace.upload_failed" comment="error -&gt; workplace -&gt; upload_failed">Error al cargar imagen</string>
   <string name="error.position.missing_salary" comment="error -&gt; position -&gt; missing_salary">Falta salario</string>
-  <string name="error.input.error_invalid_number" comment="error -&gt; input -&gt; error_invalid_number">Por favor, introduce un valor numérico correcto</string>
-  <string name="error.input.error_min_value" comment="error -&gt; input -&gt; error_min_value">El valor no puede ser menor que {min}</string>
-  <string name="error.input.error_max_value" comment="error -&gt; input -&gt; error_max_value">El valor no puede ser mayor que {max}</string>
   <string name="error.decoding.customer_appointment" comment="error -&gt; decoding -&gt; customer_appointment">No se pudo decodificar como Procedure o Complex</string>
   <string name="error.decoding.employee_appointment" comment="error -&gt; decoding -&gt; employee_appointment">No se pudo decodificar como ProcedureSlots o ComplexSlots</string>
   <string name="step.complex_chunks.selected_procedures">Procedimientos seleccionados</string>

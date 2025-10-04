@@ -305,7 +305,6 @@
   <string name="screen.main_customer_list_search.map" comment="screen -&gt; main_customer_list_search -&gt; map">Карта</string>
   <string name="screen.main_customer_map_search.list" comment="screen -&gt; main_customer_map_search -&gt; list">Список</string>
   <string name="screen.main_customer.appointments" comment="screen -&gt; main_customer -&gt; appointments">Записи</string>
-  <string name="screen.masters.masters_count" comment="screen -&gt; masters -&gt; masters_count">Количество мастеров</string>
   <string name="screen.client_editable.name" comment="screen -&gt; client_editable -&gt; name">Название</string>
   <string name="screen.client_editable.your_name" comment="screen -&gt; client_editable -&gt; your_name">Ваше имя</string>
   <string name="screen.employee_editable.name" comment="screen -&gt; employee_editable -&gt; name">Название</string>
@@ -414,20 +413,6 @@
   <string name="reusable.copy_button" comment="reusable -&gt; copy_button">Скопировать</string>
   <string name="reusable.invitation_link" comment="reusable -&gt; invitation_link">Отправьте ссылку-приглашение</string>
   <string name="reusable.not_found" comment="reusable -&gt; not_found">Ничего не найдено</string>
-  <string name="reusable.days_of_the_week.sunday" comment="reusable -&gt; days_of_the_week -&gt; sunday">Воскресенье</string>
-  <string name="reusable.days_of_the_week.monday" comment="reusable -&gt; days_of_the_week -&gt; monday">Понедельник</string>
-  <string name="reusable.days_of_the_week.tuesday" comment="reusable -&gt; days_of_the_week -&gt; tuesday">Вторник</string>
-  <string name="reusable.days_of_the_week.wednesday" comment="reusable -&gt; days_of_the_week -&gt; wednesday">Среда</string>
-  <string name="reusable.days_of_the_week.thursday" comment="reusable -&gt; days_of_the_week -&gt; thursday">Четверг</string>
-  <string name="reusable.days_of_the_week.friday" comment="reusable -&gt; days_of_the_week -&gt; friday">Пятница</string>
-  <string name="reusable.days_of_the_week.saturday" comment="reusable -&gt; days_of_the_week -&gt; saturday">Суббота</string>
-  <string name="reusable.days_of_the_week.sunday_short" comment="reusable -&gt; days_of_the_week -&gt; sunday_short">Вс</string>
-  <string name="reusable.days_of_the_week.monday_short" comment="reusable -&gt; days_of_the_week -&gt; monday_short">Пн</string>
-  <string name="reusable.days_of_the_week.tuesday_short" comment="reusable -&gt; days_of_the_week -&gt; tuesday_short">Вт</string>
-  <string name="reusable.days_of_the_week.wednesday_short" comment="reusable -&gt; days_of_the_week -&gt; wednesday_short">Ср</string>
-  <string name="reusable.days_of_the_week.thursday_short" comment="reusable -&gt; days_of_the_week -&gt; thursday_short">Чт</string>
-  <string name="reusable.days_of_the_week.friday_short" comment="reusable -&gt; days_of_the_week -&gt; friday_short">Пт</string>
-  <string name="reusable.days_of_the_week.saturday_short" comment="reusable -&gt; days_of_the_week -&gt; saturday_short">Сб</string>
   <string name="reusable.category_enum.brows" comment="reusable -&gt; category_enum -&gt; brows">Брови</string>
   <string name="reusable.category_enum.cosmetology" comment="reusable -&gt; category_enum -&gt; cosmetology">Косметология</string>
   <string name="reusable.category_enum.depilation" comment="reusable -&gt; category_enum -&gt; depilation">Депиляция</string>
@@ -580,10 +565,7 @@
   <string name="creatable.procedure.unfinished_creatable" comment="creatable -&gt; procedure -&gt; unfinished_creatable">Мы обнаружили незавершенную процедуру создания</string>
   <string name="creatable.client.title" comment="creatable -&gt; client -&gt; title">Новый клиент</string>
   <string name="creatable.client.field.name_title" comment="creatable -&gt; client -&gt; field -&gt; name_title">Имя</string>
-  <string name="creatable.client.field.contacts_title" comment="creatable -&gt; client -&gt; field -&gt; contacts_title">Контакты</string>
-  <string name="creatable.client.name_enter" comment="creatable -&gt; client -&gt; name_enter">Введите имя клиента</string>
   <string name="creatable.client.name_placeholder" comment="creatable -&gt; client -&gt; name_placeholder">Введите имя...</string>
-  <string name="creatable.client.add_contact" comment="creatable -&gt; client -&gt; add_contact">Добавьте способ связи — так вы всегда сможете легко связаться с клиентом</string>
   <string name="creatable.client.unfinished_creatable" comment="creatable -&gt; client -&gt; unfinished_creatable">Мы нашли у вас не завершенное создание клиента!</string>
   <string name="creatable.employee.title" comment="creatable -&gt; employee -&gt; title">Новый сотрудник</string>
   <string name="creatable.employee.unfinished_title" comment="creatable -&gt; employee -&gt; unfinished_title">Мы нашли незавершенное создание сотрудника</string>
@@ -655,65 +637,24 @@
   <string name="creatable.appointment.select_procedure" comment="creatable -&gt; appointment -&gt; select_procedure">Выберите услугу</string>
   <string name="creatable.appointment.select_time" comment="creatable -&gt; appointment -&gt; select_time">Укажите удобное время для визита</string>
   <string name="creatable.appointment.day_unavailable" comment="creatable -&gt; appointment -&gt; day_unavailable">В этот день, к сожалению, запись недоступна — выберите другую дату</string>
-  <string name="creatable.appointment.sign_in_description" comment="creatable -&gt; appointment -&gt; sign_in_description">Чтобы завершить оформление записи, пожалуйста, **войдите** в систему</string>
-  <string name="creatable.appointment.choose_master" comment="creatable -&gt; appointment -&gt; choose_master">Укажите мастера, который будет выполнять услугу</string>
-  <string name="creatable.appointment.time" comment="creatable -&gt; appointment -&gt; time">Время</string>
   <string name="creatable.appointment.night" comment="creatable -&gt; appointment -&gt; night">Ночь</string>
   <string name="creatable.appointment.morning" comment="creatable -&gt; appointment -&gt; morning">Утро</string>
   <string name="creatable.appointment.afternoon" comment="creatable -&gt; appointment -&gt; afternoon">После обеда</string>
   <string name="creatable.appointment.evening" comment="creatable -&gt; appointment -&gt; evening">Вечер</string>
-  <string name="creatable.appointment.unfinished_creatable_found" comment="creatable -&gt; appointment -&gt; unfinished_creatable_found">Мы нашли у вас незавершенное создание записи!</string>
-  <string name="creatable.auth.add_salon" comment="creatable -&gt; auth -&gt; add_salon">Добавить салон</string>
   <string name="creatable.auth.enter_name" comment="creatable -&gt; auth -&gt; enter_name">Кто ты?</string>
   <string name="creatable.auth.later_logo" comment="creatable -&gt; auth -&gt; later_logo">Если у тебе нет подходящего фото сейчас. Ты всегда сможете добавить его позже в настройках профиля.</string>
   <string name="creatable.auth.placeholder" comment="creatable -&gt; auth -&gt; placeholder">Имя</string>
   <string name="creatable.auth.privacy" comment="creatable -&gt; auth -&gt; privacy">Нажимая \"Продолжить\", ты соглашаешься с [Политикой конфиденциальности](%s) и [Пользовательским соглашением](%s)</string>
-  <string name="creatable.auth.select_photo" comment="creatable -&gt; auth -&gt; select_photo">Выбрать фото</string>
-  <string name="creatable.auth.sign_up_with_google" comment="creatable -&gt; auth -&gt; sign_up_with_google">Войди с помощью Google</string>
   <string name="creatable.auth.title" comment="creatable -&gt; auth -&gt; title">Авторизация</string>
   <string name="creatable.auth.upload_logo" comment="creatable -&gt; auth -&gt; upload_logo">Давай загрузим твою аватарку</string>
   <string name="creatable.auth.welcome_message" comment="creatable -&gt; auth -&gt; welcome_message">Войди или зарегистрируйся чтобы использовать сервис на любом устройстве.</string>
-  <string name="creatable.auth.who_are_you" comment="creatable -&gt; auth -&gt; who_are_you">Желаешь зарегистрироваться как мастер или как клиент?</string>
-  <string name="creatable.auth.transparency_tracking_request" comment="creatable -&gt; auth -&gt; transparency_tracking_request">Мы также попросим доступ к данным о твоих предпочтениях, чтобы улучшить рекомендации и оптимизировать твой пользовательский опыт.</string>
   <string name="creatable.auth.uncompleted_registration_found" comment="creatable -&gt; auth -&gt; uncompleted_registration_found">Мы нашли у вас не законченную регистрацию!</string>
   <string name="creatable.auth.add_recovery_title" comment="creatable -&gt; auth -&gt; add_recovery_title">Добавьте способ восстановления</string>
   <string name="creatable.auth.select_contact_method" comment="creatable -&gt; auth -&gt; select_contact_method">Укажи способ связи с тобой для мастеров, он будет отображаться в профиле</string>
   <string name="creatable.auth.add_recovery_description" comment="creatable -&gt; auth -&gt; add_recovery_description">Укажи номер телефона или email.\nЭто нужно, чтобы ты всегда мог восстановить доступ к аккаунту.</string>
   <string name="creatable.auth.add_workplace" comment="creatable -&gt; auth -&gt; add_workplace">Добавьте рабочее место для продолжения регистрации</string>
-  <string name="creatable.professional.create_another_salon" comment="creatable -&gt; professional -&gt; create_another_salon">Ты также можешь добавить еще один салон</string>
-  <string name="creatable.professional.create_first_salon" comment="creatable -&gt; professional -&gt; create_first_salon">Ты можешь создать свой первый салон</string>
-  <string name="creatable.professional.create_salon_button" comment="creatable -&gt; professional -&gt; create_salon_button">Создать салон</string>
-  <string name="creatable.professional.invitation_link" comment="creatable -&gt; professional -&gt; invitation_link">Если у тебя есть ссылка-приглашение, пожалуйста, введи её ниже</string>
-  <string name="creatable.professional.link_is_not_valid" comment="creatable -&gt; professional -&gt; link_is_not_valid">К сожалению, введённая ссылка недействительна. Пожалуйста, проверь и введи её снова</string>
-  <string name="creatable.professional.title" comment="creatable -&gt; professional -&gt; title">Регистрация мастера</string>
-  <string name="creatable.complex.choose_price_shift_type" comment="creatable -&gt; complex -&gt; choose_price_shift_type">Выберите тип изменения цены</string>
-  <string name="creatable.complex.name_question" comment="creatable -&gt; complex -&gt; name_question">Как назовём комплекс?</string>
-  <string name="creatable.complex.enter_name" comment="creatable -&gt; complex -&gt; enter_name">Введите название комплекса</string>
-  <string name="creatable.complex.choose_complex_type" comment="creatable -&gt; complex -&gt; choose_complex_type">Выберите тип комплекса</string>
-  <string name="creatable.complex.execution_mode_description" comment="creatable -&gt; complex -&gt; execution_mode_description">**Параллельный** – время на комплекс будет рассчитано исходя из самой продолжительной процедуры.  
-                       **Последовательный** – время на комплекс будет рассчитано исходя из суммы времени всех процедур.</string>
-  <string name="creatable.complex.enter_description" comment="creatable -&gt; complex -&gt; enter_description">Введите описание комплекса</string>
-  <string name="creatable.complex.add_description" comment="creatable -&gt; complex -&gt; add_description">Добавьте описание комплекса</string>
-  <string name="creatable.complex.choose_procedures" comment="creatable -&gt; complex -&gt; choose_procedures">Выберите процедуры для комплекса</string>
-  <string name="creatable.complex.enter_discount_percentage" comment="creatable -&gt; complex -&gt; enter_discount_percentage">Введите процент скидки</string>
-  <string name="creatable.complex.enter_discount_amount" comment="creatable -&gt; complex -&gt; enter_discount_amount">Введите размер скидки</string>
-  <string name="creatable.complex.create_complex" comment="creatable -&gt; complex -&gt; create_complex">Создать комплекс</string>
-  <string name="creatable.complex.tap_to_create_complex" comment="creatable -&gt; complex -&gt; tap_to_create_complex">Нажмите, чтобы создать комплекс</string>
-  <string name="creatable.complex.creation_congratulation" comment="creatable -&gt; complex -&gt; creation_congratulation">Поздравляем, вы успешно создали комплекс</string>
-  <string name="creatable.complex.unfinished_creatable" comment="creatable -&gt; complex -&gt; unfinished_creatable">Мы нашли у вас незаконченное создание комплекса</string>
-  <string name="creatable.complex.percent" comment="creatable -&gt; complex -&gt; percent">Процент</string>
-  <string name="creatable.complex.fixed_amount" comment="creatable -&gt; complex -&gt; fixed_amount">Фиксированный размер</string>
-  <string name="creatable.complex.consistent" comment="creatable -&gt; complex -&gt; consistent">Последовательный</string>
-  <string name="creatable.complex.sequential_description" comment="creatable -&gt; complex -&gt; sequential_description">Время на комплекс будет рассчитано, исходя из самой продолжительной процедуры</string>
-  <string name="creatable.complex.sequential" comment="creatable -&gt; complex -&gt; sequential">Последовательный</string>
-  <string name="creatable.complex.title" comment="creatable -&gt; complex -&gt; title">Создание комплекса</string>
-  <string name="creatable.complex.enter_value" comment="complex.creatable.enter_value">Введите значение</string>
-  <string name="creatable.complex.parallel" comment="creatable -&gt; complex -&gt; parallel">Параллельный</string>
-  <string name="creatable.complex.parallel_description" comment="creatable -&gt; complex -&gt; parallel_description">Время на комплекс будет рассчитано, исходя из самой продолжительной процедуры</string>
-  <string name="creatable.procedure_update.missing_title" comment="creatable -&gt; procedure_update -&gt; missing_title">Отсутствует название</string>
   <string name="creatable.service.missing_tag" comment="creatable -&gt; service -&gt; missing_tag">Отсутствует тег</string>
   <string name="creatable.service.missing_category" comment="creatable -&gt; service -&gt; missing_category">Отсутствует категория</string>
-  <string name="creatable.assignment.unfinished_creatable" comment="creatable -&gt; assignment -&gt; unfinished_creatable">Мы нашли у вас незавершенное создание записи!</string>
   <string name="updatable.employee.select_position" comment="updatable -&gt; employee -&gt; select_position">Выбрать должность</string>
   <string name="updatable.position.title" comment="updatable -&gt; position -&gt; title">Название</string>
   <string name="updatable.position.title_placeholder" comment="updatable -&gt; position -&gt; title_placeholder">Ваше название</string>
@@ -758,11 +699,6 @@
   <string name="error.http.not_found" comment="error -&gt; http -&gt; not_found">404 Не найдено: Сервер не может найти запрашиваемый ресурс. Это самая распространенная ошибка, указывающая на несуществующую страницу.</string>
   <string name="error.http.service_unavailable" comment="error -&gt; http -&gt; service_unavailable">503 Сервис недоступен: Сервер не может обработать запрос из-за временной перегрузки или обслуживания.</string>
   <string name="error.http.unauthorized" comment="error -&gt; http -&gt; unauthorized">401 Неавторизован: Требуется аутентификация. Пользователь должен залогиниться для доступа.</string>
-  <string name="error.complex.missing_title" comment="error -&gt; complex -&gt; missing_title">Отсутствует название</string>
-  <string name="error.complex.missing_procedures" comment="error -&gt; complex -&gt; missing_procedures">Отсутствуют процедуры</string>
-  <string name="error.complex.empty_procedures" comment="error -&gt; complex -&gt; empty_procedures">Комплекс должен содержать хотя бы одну процедуру</string>
-  <string name="error.complex.missing_price_shift" comment="error -&gt; complex -&gt; missing_price_shift">Проблема с типом и значением цены</string>
-  <string name="error.complex.missing_complex_type" comment="error -&gt; complex -&gt; missing_complex_type">Проблема с типом комплекса</string>
   <string name="error.workplace.missing_type" comment="error -&gt; workplace -&gt; missing_type">Выберите тип салона</string>
   <string name="error.workplace.missing_name" comment="error -&gt; workplace -&gt; missing_name">Введите название салона</string>
   <string name="error.workplace.missing_address" comment="error -&gt; workplace -&gt; missing_address">Укажите адрес салона</string>
@@ -771,9 +707,6 @@
   <string name="error.workplace.invalid_address" comment="error -&gt; workplace -&gt; invalid_address">Неверный адрес</string>
   <string name="error.workplace.upload_failed" comment="error -&gt; workplace -&gt; upload_failed">Ошибка загрузки изображения</string>
   <string name="error.position.missing_salary" comment="error -&gt; position -&gt; missing_salary">Отсутствует зарплата</string>
-  <string name="error.input.error_invalid_number" comment="error -&gt; input -&gt; error_invalid_number">Пожалуйста, введите корректное числовое значение</string>
-  <string name="error.input.error_min_value" comment="error -&gt; input -&gt; error_min_value">Значение не может быть меньше {min}</string>
-  <string name="error.input.error_max_value" comment="error -&gt; input -&gt; error_max_value">Значение не может быть больше {max}</string>
   <string name="error.decoding.customer_appointment" comment="error -&gt; decoding -&gt; customer_appointment">Не удалось декодировать как Procedure или Complex</string>
   <string name="error.decoding.employee_appointment" comment="error -&gt; decoding -&gt; employee_appointment">Не удалось декодировать как ProcedureSlots или ComplexSlots</string>
   <string name="step.complex_chunks.selected_procedures">Выбранные процедуры</string>
