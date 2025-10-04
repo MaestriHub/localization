@@ -607,8 +607,6 @@
 "screen.main_customer_map_search.list" = "Lista";
 /* screen -> main_customer -> appointments */
 "screen.main_customer.appointments" = "Citas";
-/* screen -> masters -> masters_count */
-"screen.masters.masters_count" = "Cantidad de especialistas";
 /* screen -> client_editable -> name */
 "screen.client_editable.name" = "Nombre";
 /* screen -> client_editable -> your_name */
@@ -825,34 +823,6 @@
 "reusable.invitation_link" = "Enviar enlace de invitación";
 /* reusable -> not_found */
 "reusable.not_found" = "Nada encontrado";
-/* reusable -> days_of_the_week -> sunday */
-"reusable.days_of_the_week.sunday" = "Domingo";
-/* reusable -> days_of_the_week -> monday */
-"reusable.days_of_the_week.monday" = "Lunes";
-/* reusable -> days_of_the_week -> tuesday */
-"reusable.days_of_the_week.tuesday" = "Martes";
-/* reusable -> days_of_the_week -> wednesday */
-"reusable.days_of_the_week.wednesday" = "Miércoles";
-/* reusable -> days_of_the_week -> thursday */
-"reusable.days_of_the_week.thursday" = "Jueves";
-/* reusable -> days_of_the_week -> friday */
-"reusable.days_of_the_week.friday" = "Viernes";
-/* reusable -> days_of_the_week -> saturday */
-"reusable.days_of_the_week.saturday" = "Sábado";
-/* reusable -> days_of_the_week -> sunday_short */
-"reusable.days_of_the_week.sunday_short" = "Dom";
-/* reusable -> days_of_the_week -> monday_short */
-"reusable.days_of_the_week.monday_short" = "Lun";
-/* reusable -> days_of_the_week -> tuesday_short */
-"reusable.days_of_the_week.tuesday_short" = "Mar";
-/* reusable -> days_of_the_week -> wednesday_short */
-"reusable.days_of_the_week.wednesday_short" = "Mié";
-/* reusable -> days_of_the_week -> thursday_short */
-"reusable.days_of_the_week.thursday_short" = "Jue";
-/* reusable -> days_of_the_week -> friday_short */
-"reusable.days_of_the_week.friday_short" = "Vie";
-/* reusable -> days_of_the_week -> saturday_short */
-"reusable.days_of_the_week.saturday_short" = "Sáb";
 /* reusable -> category_enum -> brows */
 "reusable.category_enum.brows" = "Брови";
 /* reusable -> category_enum -> cosmetology */
@@ -1157,14 +1127,8 @@
 "creatable.client.title" = "Nuevo cliente";
 /* creatable -> client -> field -> name_title */
 "creatable.client.field.name_title" = "Nombre";
-/* creatable -> client -> field -> contacts_title */
-"creatable.client.field.contacts_title" = "Contactos";
-/* creatable -> client -> name_enter */
-"creatable.client.name_enter" = "Introduce el nombre del cliente";
 /* creatable -> client -> name_placeholder */
 "creatable.client.name_placeholder" = "Introduce el nombre...";
-/* creatable -> client -> add_contact */
-"creatable.client.add_contact" = "Agrega un método de contacto — para poder comunicarte fácilmente con el cliente";
 /* creatable -> client -> unfinished_creatable */
 "creatable.client.unfinished_creatable" = "¡Hemos encontrado una creación de cliente sin finalizar en tu cuenta!";
 /* creatable -> employee -> title */
@@ -1307,12 +1271,6 @@
 "creatable.appointment.select_time" = "Especificar horario conveniente";
 /* creatable -> appointment -> day_unavailable */
 "creatable.appointment.day_unavailable" = "Este día no está disponible para reservar — por favor elige otra fecha";
-/* creatable -> appointment -> sign_in_description */
-"creatable.appointment.sign_in_description" = "Para completar la reserva, debes **iniciar sesión**";
-/* creatable -> appointment -> choose_master */
-"creatable.appointment.choose_master" = "Selecciona el especialista que brindará el servicio";
-/* creatable -> appointment -> time */
-"creatable.appointment.time" = "Hora";
 /* creatable -> appointment -> night */
 "creatable.appointment.night" = "Noche";
 /* creatable -> appointment -> morning */
@@ -1321,10 +1279,6 @@
 "creatable.appointment.afternoon" = "Tarde";
 /* creatable -> appointment -> evening */
 "creatable.appointment.evening" = "Noche";
-/* creatable -> appointment -> unfinished_creatable_found */
-"creatable.appointment.unfinished_creatable_found" = "Hemos encontrado una creación de cita sin finalizar en tu cuenta";
-/* creatable -> auth -> add_salon */
-"creatable.auth.add_salon" = "Agregar salón";
 /* creatable -> auth -> enter_name */
 "creatable.auth.enter_name" = "¿Quién eres?";
 /* creatable -> auth -> later_logo */
@@ -1333,20 +1287,12 @@
 "creatable.auth.placeholder" = "Nombre";
 /* creatable -> auth -> privacy */
 "creatable.auth.privacy" = "Al hacer clic en \'Continuar\', aceptas la [Política de Privacidad](%@) y los [Términos de Servicio](%@)";
-/* creatable -> auth -> select_photo */
-"creatable.auth.select_photo" = "Elegir foto";
-/* creatable -> auth -> sign_up_with_google */
-"creatable.auth.sign_up_with_google" = "Iniciar sesión con Google";
 /* creatable -> auth -> title */
 "creatable.auth.title" = "Autorización";
 /* creatable -> auth -> upload_logo */
 "creatable.auth.upload_logo" = "Subamos tu avatar";
 /* creatable -> auth -> welcome_message */
 "creatable.auth.welcome_message" = "Inicia sesión o regístrate para usar el servicio en cualquier dispositivo.";
-/* creatable -> auth -> who_are_you */
-"creatable.auth.who_are_you" = "¿Quieres registrarte como especialista o como cliente?";
-/* creatable -> auth -> transparency_tracking_request */
-"creatable.auth.transparency_tracking_request" = "También pediremos acceso a tus datos de preferencias para mejorar recomendaciones y experiencia";
 /* creatable -> auth -> uncompleted_registration_found */
 "creatable.auth.uncompleted_registration_found" = "¡Hemos encontrado un registro sin finalizar!";
 /* creatable -> auth -> add_recovery_title */
@@ -1358,73 +1304,10 @@
 Esto es necesario para recuperar acceso a tu cuenta";
 /* creatable -> auth -> add_workplace */
 "creatable.auth.add_workplace" = "Agrega un espacio de trabajo para continuar con el registro";
-/* creatable -> professional -> create_another_salon */
-"creatable.professional.create_another_salon" = "También puedes agregar otro salón";
-/* creatable -> professional -> create_first_salon */
-"creatable.professional.create_first_salon" = "Puedes crear tu primer salón";
-/* creatable -> professional -> create_salon_button */
-"creatable.professional.create_salon_button" = "Crear salón";
-/* creatable -> professional -> invitation_link */
-"creatable.professional.invitation_link" = "Si tienes un enlace de invitación, introdúcelo a continuación";
-/* creatable -> professional -> link_is_not_valid */
-"creatable.professional.link_is_not_valid" = "El enlace ingresado no es válido. Verifica e inténtalo nuevamente";
-/* creatable -> professional -> title */
-"creatable.professional.title" = "Registro como especialista";
-/* creatable -> complex -> choose_price_shift_type */
-"creatable.complex.choose_price_shift_type" = "Elegir tipo de modificación de precio";
-/* creatable -> complex -> name_question */
-"creatable.complex.name_question" = "¿Cómo llamaremos al complejo?";
-/* creatable -> complex -> enter_name */
-"creatable.complex.enter_name" = "Introduce el nombre del complejo";
-/* creatable -> complex -> choose_complex_type */
-"creatable.complex.choose_complex_type" = "Elige el tipo de complejo";
-/* creatable -> complex -> execution_mode_description */
-"creatable.complex.execution_mode_description" = "**Paralelo** – el tiempo se calcula con el procedimiento más largo.
-**Secuencial** – el tiempo es la suma de todos los procedimientos.";
-/* creatable -> complex -> enter_description */
-"creatable.complex.enter_description" = "Introduce una descripción del complejo";
-/* creatable -> complex -> add_description */
-"creatable.complex.add_description" = "Agregar descripción del complejo";
-/* creatable -> complex -> choose_procedures */
-"creatable.complex.choose_procedures" = "Elegir procedimientos para el complejo";
-/* creatable -> complex -> enter_discount_percentage */
-"creatable.complex.enter_discount_percentage" = "Introduce porcentaje de descuento";
-/* creatable -> complex -> enter_discount_amount */
-"creatable.complex.enter_discount_amount" = "Introduce valor del descuento";
-/* creatable -> complex -> create_complex */
-"creatable.complex.create_complex" = "Crear complejo";
-/* creatable -> complex -> tap_to_create_complex */
-"creatable.complex.tap_to_create_complex" = "Toca para crear complejo";
-/* creatable -> complex -> creation_congratulation */
-"creatable.complex.creation_congratulation" = "¡Felicidades! Has creado exitosamente un complejo";
-/* creatable -> complex -> unfinished_creatable */
-"creatable.complex.unfinished_creatable" = "Hemos encontrado una creación de complejo sin finalizar";
-/* creatable -> complex -> percent */
-"creatable.complex.percent" = "Porcentaje";
-/* creatable -> complex -> fixed_amount */
-"creatable.complex.fixed_amount" = "Cantidad fija";
-/* creatable -> complex -> consistent */
-"creatable.complex.consistent" = "Secuencial";
-/* creatable -> complex -> sequential_description */
-"creatable.complex.sequential_description" = "El tiempo se calculará como la suma de todos los procedimientos";
-/* creatable -> complex -> sequential */
-"creatable.complex.sequential" = "Secuencial";
-/* creatable -> complex -> title */
-"creatable.complex.title" = "Creación de complejo";
-/* complex.creatable.enter_value */
-"creatable.complex.enter_value" = "Introducir valor";
-/* creatable -> complex -> parallel */
-"creatable.complex.parallel" = "Paralelo";
-/* creatable -> complex -> parallel_description */
-"creatable.complex.parallel_description" = "El tiempo se calculará como la suma de todos los procedimientos";
-/* creatable -> procedure_update -> missing_title */
-"creatable.procedure_update.missing_title" = "Falta título";
 /* creatable -> service -> missing_tag */
 "creatable.service.missing_tag" = "Falta etiqueta";
 /* creatable -> service -> missing_category */
 "creatable.service.missing_category" = "Falta categoría";
-/* creatable -> assignment -> unfinished_creatable */
-"creatable.assignment.unfinished_creatable" = "Hemos encontrado una creación de cita sin finalizar en tu cuenta";
 /* updatable -> employee -> select_position */
 "updatable.employee.select_position" = "Elegir puesto";
 /* updatable -> position -> title */
@@ -1513,16 +1396,6 @@ Esto es necesario para recuperar acceso a tu cuenta";
 "error.http.service_unavailable" = "503 Servicio no disponible: sobrecarga o mantenimiento temporal.";
 /* error -> http -> unauthorized */
 "error.http.unauthorized" = "401 No autorizado: se requiere autenticación.";
-/* error -> complex -> missing_title */
-"error.complex.missing_title" = "Falta título";
-/* error -> complex -> missing_procedures */
-"error.complex.missing_procedures" = "Faltan procedimientos";
-/* error -> complex -> empty_procedures */
-"error.complex.empty_procedures" = "El complejo debe contener al menos un procedimiento";
-/* error -> complex -> missing_price_shift */
-"error.complex.missing_price_shift" = "Problema con el tipo de precio o su valor";
-/* error -> complex -> missing_complex_type */
-"error.complex.missing_complex_type" = "Problema con el tipo de complejo";
 /* error -> workplace -> missing_type */
 "error.workplace.missing_type" = "Elige el tipo de salón";
 /* error -> workplace -> missing_name */
@@ -1539,12 +1412,6 @@ Esto es necesario para recuperar acceso a tu cuenta";
 "error.workplace.upload_failed" = "Error al cargar imagen";
 /* error -> position -> missing_salary */
 "error.position.missing_salary" = "Falta salario";
-/* error -> input -> error_invalid_number */
-"error.input.error_invalid_number" = "Por favor, introduce un valor numérico correcto";
-/* error -> input -> error_min_value */
-"error.input.error_min_value" = "El valor no puede ser menor que {min}";
-/* error -> input -> error_max_value */
-"error.input.error_max_value" = "El valor no puede ser mayor que {max}";
 /* error -> decoding -> customer_appointment */
 "error.decoding.customer_appointment" = "No se pudo decodificar como Procedure o Complex";
 /* error -> decoding -> employee_appointment */
