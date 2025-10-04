@@ -28,8 +28,6 @@ public enum Loc {
       public static let afternoon = Loc.tr("Localizable", "creatable.appointment.afternoon", fallback: "Afternoon")
       /// creatable -> appointment -> choose_customer
       public static let chooseCustomer = Loc.tr("Localizable", "creatable.appointment.choose_customer", fallback: "Please select the client for whom the appointment is being created")
-      /// creatable -> appointment -> choose_master
-      public static let chooseMaster = Loc.tr("Localizable", "creatable.appointment.choose_master", fallback: "Specify the specialist who will perform the service")
       /// creatable -> appointment -> client
       public static let client = Loc.tr("Localizable", "creatable.appointment.client", fallback: "Customer")
       /// creatable -> appointment -> date
@@ -50,26 +48,14 @@ public enum Loc {
       public static let selectProcedureFirstMessage = Loc.tr("Localizable", "creatable.appointment.select_procedure_first_message", fallback: "To select a date, you first need to choose a procedure")
       /// creatable -> appointment -> select_time
       public static let selectTime = Loc.tr("Localizable", "creatable.appointment.select_time", fallback: "Specify convenient time for visit")
-      /// creatable -> appointment -> sign_in_description
-      public static let signInDescription = Loc.tr("Localizable", "creatable.appointment.sign_in_description", fallback: "To complete the appointment booking, please **sign in** to the system")
-      /// creatable -> appointment -> time
-      public static let time = Loc.tr("Localizable", "creatable.appointment.time", fallback: "Time")
       /// creatable -> appointment -> title
       public static let title = Loc.tr("Localizable", "creatable.appointment.title", fallback: "New appointment")
-      /// creatable -> appointment -> unfinished_creatable_found
-      public static let unfinishedCreatableFound = Loc.tr("Localizable", "creatable.appointment.unfinished_creatable_found", fallback: "We found an unfinished post creation on your site!")
-    }
-    public enum Assignment {
-      /// creatable -> assignment -> unfinished_creatable
-      public static let unfinishedCreatable = Loc.tr("Localizable", "creatable.assignment.unfinished_creatable", fallback: "We found an unfinished post creation on your site!")
     }
     public enum Auth {
       /// creatable -> auth -> add_recovery_description
       public static let addRecoveryDescription = Loc.tr("Localizable", "creatable.auth.add_recovery_description", fallback: "Please provide your phone number or email.\nThis is necessary so that you can always restore access to your account.")
       /// creatable -> auth -> add_recovery_title
       public static let addRecoveryTitle = Loc.tr("Localizable", "creatable.auth.add_recovery_title", fallback: "Add recovery method")
-      /// creatable -> auth -> add_salon
-      public static let addSalon = Loc.tr("Localizable", "creatable.auth.add_salon", fallback: "Add salon")
       /// creatable -> auth -> add_workplace
       public static let addWorkplace = Loc.tr("Localizable", "creatable.auth.add_workplace", fallback: "Add a workstation to continue registration")
       /// creatable -> auth -> enter_name
@@ -84,28 +70,16 @@ public enum Loc {
       }
       /// creatable -> auth -> select_contact_method
       public static let selectContactMethod = Loc.tr("Localizable", "creatable.auth.select_contact_method", fallback: "Specify a method for the masters to contact you, it will be displayed in the profile")
-      /// creatable -> auth -> select_photo
-      public static let selectPhoto = Loc.tr("Localizable", "creatable.auth.select_photo", fallback: "Choose photo")
-      /// creatable -> auth -> sign_up_with_google
-      public static let signUpWithGoogle = Loc.tr("Localizable", "creatable.auth.sign_up_with_google", fallback: "Sign in with Google")
       /// creatable -> auth -> title
       public static let title = Loc.tr("Localizable", "creatable.auth.title", fallback: "Authorization")
-      /// creatable -> auth -> transparency_tracking_request
-      public static let transparencyTrackingRequest = Loc.tr("Localizable", "creatable.auth.transparency_tracking_request", fallback: "We will also ask for access to your preference data to improve recommendations and optimize your user experience.")
       /// creatable -> auth -> uncompleted_registration_found
       public static let uncompletedRegistrationFound = Loc.tr("Localizable", "creatable.auth.uncompleted_registration_found", fallback: "We found an unfinished registration!")
       /// creatable -> auth -> upload_logo
       public static let uploadLogo = Loc.tr("Localizable", "creatable.auth.upload_logo", fallback: "Let's upload your avatar")
       /// creatable -> auth -> welcome_message
       public static let welcomeMessage = Loc.tr("Localizable", "creatable.auth.welcome_message", fallback: "Sign in or register to use the service on any device.")
-      /// creatable -> auth -> who_are_you
-      public static let whoAreYou = Loc.tr("Localizable", "creatable.auth.who_are_you", fallback: "Do you want to register as a specialist or as a client?")
     }
     public enum Client {
-      /// creatable -> client -> add_contact
-      public static let addContact = Loc.tr("Localizable", "creatable.client.add_contact", fallback: "Add a contact method — so you can always easily reach the client")
-      /// creatable -> client -> name_enter
-      public static let nameEnter = Loc.tr("Localizable", "creatable.client.name_enter", fallback: "Enter client's name")
       /// creatable -> client -> name_placeholder
       public static let namePlaceholder = Loc.tr("Localizable", "creatable.client.name_placeholder", fallback: "Enter name...")
       /// creatable -> client -> title
@@ -113,59 +87,9 @@ public enum Loc {
       /// creatable -> client -> unfinished_creatable
       public static let unfinishedCreatable = Loc.tr("Localizable", "creatable.client.unfinished_creatable", fallback: "We found an unfinished client creation on your site!")
       public enum Field {
-        /// creatable -> client -> field -> contacts_title
-        public static let contactsTitle = Loc.tr("Localizable", "creatable.client.field.contacts_title", fallback: "Contacts")
         /// creatable -> client -> field -> name_title
         public static let nameTitle = Loc.tr("Localizable", "creatable.client.field.name_title", fallback: "Name")
       }
-    }
-    public enum Complex {
-      /// creatable -> complex -> add_description
-      public static let addDescription = Loc.tr("Localizable", "creatable.complex.add_description", fallback: "Add complex description")
-      /// creatable -> complex -> choose_complex_type
-      public static let chooseComplexType = Loc.tr("Localizable", "creatable.complex.choose_complex_type", fallback: "Choose complex type")
-      /// creatable -> complex -> choose_price_shift_type
-      public static let choosePriceShiftType = Loc.tr("Localizable", "creatable.complex.choose_price_shift_type", fallback: "Choose price shift type")
-      /// creatable -> complex -> choose_procedures
-      public static let chooseProcedures = Loc.tr("Localizable", "creatable.complex.choose_procedures", fallback: "Choose procedures for complex")
-      /// creatable -> complex -> consistent
-      public static let consistent = Loc.tr("Localizable", "creatable.complex.consistent", fallback: "Consistent")
-      /// creatable -> complex -> create_complex
-      public static let createComplex = Loc.tr("Localizable", "creatable.complex.create_complex", fallback: "Create complex")
-      /// creatable -> complex -> creation_congratulation
-      public static let creationCongratulation = Loc.tr("Localizable", "creatable.complex.creation_congratulation", fallback: "Congratulations, you have successfully created a complex")
-      /// creatable -> complex -> enter_description
-      public static let enterDescription = Loc.tr("Localizable", "creatable.complex.enter_description", fallback: "Enter complex description")
-      /// creatable -> complex -> enter_discount_amount
-      public static let enterDiscountAmount = Loc.tr("Localizable", "creatable.complex.enter_discount_amount", fallback: "Enter discount amount")
-      /// creatable -> complex -> enter_discount_percentage
-      public static let enterDiscountPercentage = Loc.tr("Localizable", "creatable.complex.enter_discount_percentage", fallback: "Enter discount percentage")
-      /// creatable -> complex -> enter_name
-      public static let enterName = Loc.tr("Localizable", "creatable.complex.enter_name", fallback: "Enter complex name")
-      /// complex.creatable.enter_value
-      public static let enterValue = Loc.tr("Localizable", "creatable.complex.enter_value", fallback: "Enter value")
-      /// creatable -> complex -> execution_mode_description
-      public static let executionModeDescription = Loc.tr("Localizable", "creatable.complex.execution_mode_description", fallback: "**Parallel** – the time for the complex will be calculated based on the longest procedure.\r\n**Sequential** – the time for the complex will be calculated based on the sum of the times of all procedures.")
-      /// creatable -> complex -> fixed_amount
-      public static let fixedAmount = Loc.tr("Localizable", "creatable.complex.fixed_amount", fallback: "Fixed amount")
-      /// creatable -> complex -> name_question
-      public static let nameQuestion = Loc.tr("Localizable", "creatable.complex.name_question", fallback: "How shall we call the complex?")
-      /// creatable -> complex -> parallel
-      public static let parallel = Loc.tr("Localizable", "creatable.complex.parallel", fallback: "Parallel")
-      /// creatable -> complex -> parallel_description
-      public static let parallelDescription = Loc.tr("Localizable", "creatable.complex.parallel_description", fallback: "The time for the complex will be calculated based on the longest procedure.")
-      /// creatable -> complex -> percent
-      public static let percent = Loc.tr("Localizable", "creatable.complex.percent", fallback: "Percent")
-      /// creatable -> complex -> sequential
-      public static let sequential = Loc.tr("Localizable", "creatable.complex.sequential", fallback: "Sequential")
-      /// creatable -> complex -> sequential_description
-      public static let sequentialDescription = Loc.tr("Localizable", "creatable.complex.sequential_description", fallback: "The time for the complex will be calculated based on the sum of the time of all procedures.")
-      /// creatable -> complex -> tap_to_create_complex
-      public static let tapToCreateComplex = Loc.tr("Localizable", "creatable.complex.tap_to_create_complex", fallback: "Tap to create complex")
-      /// creatable -> complex -> title
-      public static let title = Loc.tr("Localizable", "creatable.complex.title", fallback: "Complex creation")
-      /// creatable -> complex -> unfinished_creatable
-      public static let unfinishedCreatable = Loc.tr("Localizable", "creatable.complex.unfinished_creatable", fallback: "We found an unfinished complex creation on your site")
     }
     public enum Contact {
       /// creatable -> contact -> contact_type
@@ -325,24 +249,6 @@ public enum Loc {
         public static let setDuration = Loc.tr("Localizable", "creatable.procedure.field.set_duration", fallback: "Set")
       }
     }
-    public enum ProcedureUpdate {
-      /// creatable -> procedure_update -> missing_title
-      public static let missingTitle = Loc.tr("Localizable", "creatable.procedure_update.missing_title", fallback: "Missing title")
-    }
-    public enum Professional {
-      /// creatable -> professional -> create_another_salon
-      public static let createAnotherSalon = Loc.tr("Localizable", "creatable.professional.create_another_salon", fallback: "You can also add another salon")
-      /// creatable -> professional -> create_first_salon
-      public static let createFirstSalon = Loc.tr("Localizable", "creatable.professional.create_first_salon", fallback: "You can create your first salon")
-      /// creatable -> professional -> create_salon_button
-      public static let createSalonButton = Loc.tr("Localizable", "creatable.professional.create_salon_button", fallback: "Create salon")
-      /// creatable -> professional -> invitation_link
-      public static let invitationLink = Loc.tr("Localizable", "creatable.professional.invitation_link", fallback: "If you have an invitation link, please enter it below")
-      /// creatable -> professional -> link_is_not_valid
-      public static let linkIsNotValid = Loc.tr("Localizable", "creatable.professional.link_is_not_valid", fallback: "Unfortunately, the entered link is invalid. Please check and enter it again")
-      /// creatable -> professional -> title
-      public static let title = Loc.tr("Localizable", "creatable.professional.title", fallback: "Specialist registration")
-    }
     public enum Salon {
       /// creatable -> salon -> add_address
       public static let addAddress = Loc.tr("Localizable", "creatable.salon.add_address", fallback: "Great! Now add your space's address so clients can find you easily")
@@ -465,18 +371,6 @@ public enum Loc {
   public enum Error {
     /// error -> error
     public static let error = Loc.tr("Localizable", "error.error", fallback: "Error")
-    public enum Complex {
-      /// error -> complex -> empty_procedures
-      public static let emptyProcedures = Loc.tr("Localizable", "error.complex.empty_procedures", fallback: "The complex must contain at least one procedure")
-      /// error -> complex -> missing_complex_type
-      public static let missingComplexType = Loc.tr("Localizable", "error.complex.missing_complex_type", fallback: "Problem with complex type")
-      /// error -> complex -> missing_price_shift
-      public static let missingPriceShift = Loc.tr("Localizable", "error.complex.missing_price_shift", fallback: "Problem with price type and value")
-      /// error -> complex -> missing_procedures
-      public static let missingProcedures = Loc.tr("Localizable", "error.complex.missing_procedures", fallback: "Missing procedures")
-      /// error -> complex -> missing_title
-      public static let missingTitle = Loc.tr("Localizable", "error.complex.missing_title", fallback: "Missing title")
-    }
     public enum Decoding {
       /// error -> decoding -> customer_appointment
       public static let customerAppointment = Loc.tr("Localizable", "error.decoding.customer_appointment", fallback: "Failed to decode as Procedure or Complex")
@@ -544,14 +438,6 @@ public enum Loc {
       public static let serviceUnavailable = Loc.tr("Localizable", "error.http.service_unavailable", fallback: "503 Service Unavailable: The server cannot process the request due to temporary overload or maintenance.")
       /// error -> http -> unauthorized
       public static let unauthorized = Loc.tr("Localizable", "error.http.unauthorized", fallback: "401 Unauthorized: Authentication required. User must log in to access.")
-    }
-    public enum Input {
-      /// error -> input -> error_invalid_number
-      public static let errorInvalidNumber = Loc.tr("Localizable", "error.input.error_invalid_number", fallback: "Please enter a valid number")
-      /// error -> input -> error_max_value
-      public static let errorMaxValue = Loc.tr("Localizable", "error.input.error_max_value", fallback: "Value cannot be greater than {max}")
-      /// error -> input -> error_min_value
-      public static let errorMinValue = Loc.tr("Localizable", "error.input.error_min_value", fallback: "Value cannot be less than {min}")
     }
     public enum Position {
       /// error -> position -> missing_salary
@@ -897,36 +783,6 @@ public enum Loc {
       /// reusable -> category_enum -> tattoo
       public static let tattoo = Loc.tr("Localizable", "reusable.category_enum.tattoo", fallback: "Tattoo")
     }
-    public enum DaysOfTheWeek {
-      /// reusable -> days_of_the_week -> friday
-      public static let friday = Loc.tr("Localizable", "reusable.days_of_the_week.friday", fallback: "Friday")
-      /// reusable -> days_of_the_week -> friday_short
-      public static let fridayShort = Loc.tr("Localizable", "reusable.days_of_the_week.friday_short", fallback: "Fri")
-      /// reusable -> days_of_the_week -> monday
-      public static let monday = Loc.tr("Localizable", "reusable.days_of_the_week.monday", fallback: "Monday")
-      /// reusable -> days_of_the_week -> monday_short
-      public static let mondayShort = Loc.tr("Localizable", "reusable.days_of_the_week.monday_short", fallback: "Mon")
-      /// reusable -> days_of_the_week -> saturday
-      public static let saturday = Loc.tr("Localizable", "reusable.days_of_the_week.saturday", fallback: "Saturday")
-      /// reusable -> days_of_the_week -> saturday_short
-      public static let saturdayShort = Loc.tr("Localizable", "reusable.days_of_the_week.saturday_short", fallback: "Sat")
-      /// reusable -> days_of_the_week -> sunday
-      public static let sunday = Loc.tr("Localizable", "reusable.days_of_the_week.sunday", fallback: "Sunday")
-      /// reusable -> days_of_the_week -> sunday_short
-      public static let sundayShort = Loc.tr("Localizable", "reusable.days_of_the_week.sunday_short", fallback: "Sun")
-      /// reusable -> days_of_the_week -> thursday
-      public static let thursday = Loc.tr("Localizable", "reusable.days_of_the_week.thursday", fallback: "Thursday")
-      /// reusable -> days_of_the_week -> thursday_short
-      public static let thursdayShort = Loc.tr("Localizable", "reusable.days_of_the_week.thursday_short", fallback: "Thu")
-      /// reusable -> days_of_the_week -> tuesday
-      public static let tuesday = Loc.tr("Localizable", "reusable.days_of_the_week.tuesday", fallback: "Tuesday")
-      /// reusable -> days_of_the_week -> tuesday_short
-      public static let tuesdayShort = Loc.tr("Localizable", "reusable.days_of_the_week.tuesday_short", fallback: "Tue")
-      /// reusable -> days_of_the_week -> wednesday
-      public static let wednesday = Loc.tr("Localizable", "reusable.days_of_the_week.wednesday", fallback: "Wednesday")
-      /// reusable -> days_of_the_week -> wednesday_short
-      public static let wednesdayShort = Loc.tr("Localizable", "reusable.days_of_the_week.wednesday_short", fallback: "Wed")
-    }
   }
   public enum Screen {
     public enum Appointment {
@@ -1192,10 +1048,6 @@ public enum Loc {
       public static let searchButton = Loc.tr("Localizable", "screen.map.search_button", fallback: "Search in this region")
       /// screen -> map -> search_button_warning
       public static let searchButtonWarning = Loc.tr("Localizable", "screen.map.search_button_warning", fallback: "Need to zoom in to search")
-    }
-    public enum Masters {
-      /// screen -> masters -> masters_count
-      public static let mastersCount = Loc.tr("Localizable", "screen.masters.masters_count", fallback: "Masters count")
     }
     public enum Notice {
       /// screen -> notice -> placeholder
