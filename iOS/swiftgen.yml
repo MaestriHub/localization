@@ -6,5 +6,6 @@ strings:
     templateName: structured-swift5
     output: Generated/Localization.swift
     params:
+        bundle: Bundle.module   # критично для SPM
         enumName: Loc
         publicAccess: true
