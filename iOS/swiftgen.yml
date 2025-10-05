@@ -9,3 +9,5 @@ strings:
         bundle: Bundle.module   # критично для SPM
         enumName: Loc
         publicAccess: true
+        noComments: true
+        noAllValues: false
