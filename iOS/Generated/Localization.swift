@@ -633,6 +633,7 @@ public enum Loc {
     }
     public enum Paywall {
       public static let buttonText = Loc.tr("Localizable", "screen.paywall.button_text", fallback: "Subscribe")
+      public static let expirationDate = Loc.tr("Localizable", "screen.paywall.expiration_date", fallback: "until %{date}")
       public static let gift = Loc.tr("Localizable", "screen.paywall.gift", fallback: "+2 month")
       public static let month = Loc.tr("Localizable", "screen.paywall.month", fallback: "Month")
       public static let termsAndConditions = Loc.tr("Localizable", "screen.paywall.terms_and_conditions", fallback: "Terms and Conditions")
