@@ -709,6 +709,8 @@
 "screen.paywall.action.connect" = "Подключить";
 /* screen -> paywall -> action -> contact */
 "screen.paywall.action.contact" = "Связаться";
+/* screen -> paywall -> expiration_date */
+"screen.paywall.expiration_date" = "до %{date}";
 /* screen -> schedule_setup -> controls -> change */
 "screen.schedule_setup.controls.change" = "Изменить";
 /* screen -> schedule_setup -> controls -> day_off */
@@ -1034,7 +1036,8 @@
 /* creatable -> salon -> individual_type */
 "creatable.salon.individual_type" = "Салон красоты";
 /* creatable -> salon -> chain_type */
-"creatable.salon.chain_type" = "Сеть салонов красоты";
+"creatable.salon.chain_type" = "
+";
 /* creatable -> salon -> name_enter */
 "creatable.salon.name_enter" = "Отлично! Теперь введите название вашего салона — так, как его будут видеть клиенты";
 /* creatable -> salon -> name_placeholder */

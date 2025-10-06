@@ -356,6 +356,7 @@
   <string name="screen.paywall.tariff.custom_price" comment="screen -&gt; paywall -&gt; tariff -&gt; custom_price">Custom price</string>
   <string name="screen.paywall.action.connect" comment="screen -&gt; paywall -&gt; action -&gt; connect">Subscribe</string>
   <string name="screen.paywall.action.contact" comment="screen -&gt; paywall -&gt; action -&gt; contact">Contact</string>
+  <string name="screen.paywall.expiration_date" comment="screen -&gt; paywall -&gt; expiration_date">until %{date}</string>
   <string name="screen.schedule_setup.controls.change" comment="screen -&gt; schedule_setup -&gt; controls -&gt; change">Edit</string>
   <string name="screen.schedule_setup.controls.day_off" comment="screen -&gt; schedule_setup -&gt; controls -&gt; day_off">Day off</string>
   <string name="screen.schedule_setup.controls.start" comment="screen -&gt; schedule_setup -&gt; controls -&gt; start">Start</string>

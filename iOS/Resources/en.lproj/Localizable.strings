@@ -709,6 +709,8 @@
 "screen.paywall.action.connect" = "Subscribe";
 /* screen -> paywall -> action -> contact */
 "screen.paywall.action.contact" = "Contact";
+/* screen -> paywall -> expiration_date */
+"screen.paywall.expiration_date" = "until %{date}";
 /* screen -> schedule_setup -> controls -> change */
 "screen.schedule_setup.controls.change" = "Edit";
 /* screen -> schedule_setup -> controls -> day_off */

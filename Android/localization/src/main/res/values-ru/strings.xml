@@ -356,6 +356,7 @@
   <string name="screen.paywall.tariff.custom_price" comment="screen -&gt; paywall -&gt; tariff -&gt; custom_price">Договорная</string>
   <string name="screen.paywall.action.connect" comment="screen -&gt; paywall -&gt; action -&gt; connect">Подключить</string>
   <string name="screen.paywall.action.contact" comment="screen -&gt; paywall -&gt; action -&gt; contact">Связаться</string>
+  <string name="screen.paywall.expiration_date" comment="screen -&gt; paywall -&gt; expiration_date">до %{date}</string>
   <string name="screen.schedule_setup.controls.change" comment="screen -&gt; schedule_setup -&gt; controls -&gt; change">Изменить</string>
   <string name="screen.schedule_setup.controls.day_off" comment="screen -&gt; schedule_setup -&gt; controls -&gt; day_off">Выходной</string>
   <string name="screen.schedule_setup.controls.start" comment="screen -&gt; schedule_setup -&gt; controls -&gt; start">Начать</string>
@@ -518,7 +519,8 @@
   <string name="creatable.salon.salon_type" comment="creatable -&gt; salon -&gt; salon_type">Давайте начнём — помогу вам настроить всё под ваши задачи. Для начала выберите, какое пространство вы создаёте</string>
   <string name="creatable.salon.master_type" comment="creatable -&gt; salon -&gt; master_type">Индивидуальный мастер</string>
   <string name="creatable.salon.individual_type" comment="creatable -&gt; salon -&gt; individual_type">Салон красоты</string>
-  <string name="creatable.salon.chain_type" comment="creatable -&gt; salon -&gt; chain_type">Сеть салонов красоты</string>
+  <string name="creatable.salon.chain_type" comment="creatable -&gt; salon -&gt; chain_type">
+</string>
   <string name="creatable.salon.name_enter" comment="creatable -&gt; salon -&gt; name_enter">Отлично! Теперь введите название вашего салона — так, как его будут видеть клиенты</string>
   <string name="creatable.salon.name_placeholder" comment="creatable -&gt; salon -&gt; name_placeholder">Введите название...</string>
   <string name="creatable.salon.add_contact" comment="creatable -&gt; salon -&gt; add_contact">Добавьте способ связи — так клиенты смогут легко с вами связаться</string>
