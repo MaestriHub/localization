@@ -1282,7 +1282,7 @@
 /* creatable -> appointment -> evening */
 "creatable.appointment.evening" = "Noche";
 /* creatable -> auth -> enter_name */
-"creatable.auth.enter_name" = "¿Quién eres?";
+"creatable.auth.enter_name" = "Introduce tu nombre";
 /* creatable -> auth -> later_logo */
 "creatable.auth.later_logo" = "Si no tienes una foto ahora, puedes agregarla luego en ajustes del perfil.";
 /* creatable -> auth -> placeholder */
