@@ -519,8 +519,7 @@
   <string name="creatable.salon.salon_type" comment="creatable -&gt; salon -&gt; salon_type">Давайте начнём — помогу вам настроить всё под ваши задачи. Для начала выберите, какое пространство вы создаёте</string>
   <string name="creatable.salon.master_type" comment="creatable -&gt; salon -&gt; master_type">Индивидуальный мастер</string>
   <string name="creatable.salon.individual_type" comment="creatable -&gt; salon -&gt; individual_type">Салон красоты</string>
-  <string name="creatable.salon.chain_type" comment="creatable -&gt; salon -&gt; chain_type">
-</string>
+  <string name="creatable.salon.chain_type" comment="creatable -&gt; salon -&gt; chain_type">Сеть салонов красоты</string>
   <string name="creatable.salon.name_enter" comment="creatable -&gt; salon -&gt; name_enter">Отлично! Теперь введите название вашего салона — так, как его будут видеть клиенты</string>
   <string name="creatable.salon.name_placeholder" comment="creatable -&gt; salon -&gt; name_placeholder">Введите название...</string>
   <string name="creatable.salon.add_contact" comment="creatable -&gt; salon -&gt; add_contact">Добавьте способ связи — так клиенты смогут легко с вами связаться</string>
@@ -643,7 +642,7 @@
   <string name="creatable.appointment.morning" comment="creatable -&gt; appointment -&gt; morning">Утро</string>
   <string name="creatable.appointment.afternoon" comment="creatable -&gt; appointment -&gt; afternoon">После обеда</string>
   <string name="creatable.appointment.evening" comment="creatable -&gt; appointment -&gt; evening">Вечер</string>
-  <string name="creatable.auth.enter_name" comment="creatable -&gt; auth -&gt; enter_name">Кто ты?</string>
+  <string name="creatable.auth.enter_name" comment="creatable -&gt; auth -&gt; enter_name">Введите ваше имя</string>
   <string name="creatable.auth.later_logo" comment="creatable -&gt; auth -&gt; later_logo">Если у тебе нет подходящего фото сейчас. Ты всегда сможете добавить его позже в настройках профиля.</string>
   <string name="creatable.auth.placeholder" comment="creatable -&gt; auth -&gt; placeholder">Имя</string>
   <string name="creatable.auth.privacy" comment="creatable -&gt; auth -&gt; privacy">Нажимая \"Продолжить\", ты соглашаешься с [Политикой конфиденциальности](%s) и [Пользовательским соглашением](%s)</string>

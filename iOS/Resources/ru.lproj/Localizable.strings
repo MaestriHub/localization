@@ -1036,8 +1036,7 @@
 /* creatable -> salon -> individual_type */
 "creatable.salon.individual_type" = "Салон красоты";
 /* creatable -> salon -> chain_type */
-"creatable.salon.chain_type" = "
-";
+"creatable.salon.chain_type" = "Сеть салонов красоты";
 /* creatable -> salon -> name_enter */
 "creatable.salon.name_enter" = "Отлично! Теперь введите название вашего салона — так, как его будут видеть клиенты";
 /* creatable -> salon -> name_placeholder */
@@ -1283,7 +1282,7 @@
 /* creatable -> appointment -> evening */
 "creatable.appointment.evening" = "Вечер";
 /* creatable -> auth -> enter_name */
-"creatable.auth.enter_name" = "Кто ты?";
+"creatable.auth.enter_name" = "Введите ваше имя";
 /* creatable -> auth -> later_logo */
 "creatable.auth.later_logo" = "Если у тебе нет подходящего фото сейчас. Ты всегда сможете добавить его позже в настройках профиля.";
 /* creatable -> auth -> placeholder */
