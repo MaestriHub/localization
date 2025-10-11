@@ -642,7 +642,7 @@
   <string name="creatable.appointment.morning" comment="creatable -&gt; appointment -&gt; morning">Morning</string>
   <string name="creatable.appointment.afternoon" comment="creatable -&gt; appointment -&gt; afternoon">Afternoon</string>
   <string name="creatable.appointment.evening" comment="creatable -&gt; appointment -&gt; evening">Evening</string>
-  <string name="creatable.auth.enter_name" comment="creatable -&gt; auth -&gt; enter_name">Who are you?</string>
+  <string name="creatable.auth.enter_name" comment="creatable -&gt; auth -&gt; enter_name">Enter your name</string>
   <string name="creatable.auth.later_logo" comment="creatable -&gt; auth -&gt; later_logo">If you don\'t have a suitable photo now. You can always add it later in profile settings.</string>
   <string name="creatable.auth.placeholder" comment="creatable -&gt; auth -&gt; placeholder">Name</string>
   <string name="creatable.auth.privacy" comment="creatable -&gt; auth -&gt; privacy">By clicking \'Continue\', you agree to the [Privacy Policy](%s) and [Terms of Service](%s)</string>
